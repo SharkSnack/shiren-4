@@ -1,6 +1,6 @@
 ---
-title: "Statue Cave"
-metaTitle: "Statue Cave - Shiren the Wanderer 2: Oni Invasion! Wiki"
+title: "Mystery Mall"
+metaTitle: "Mystery Mall - Shiren the Wanderer 2: Oni Invasion! Wiki"
 metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
 ---
 # Items

@@ -1,8 +1,9 @@
 ---
-title: "Statue Cave"
-metaTitle: "Statue Cave - Shiren the Wanderer 2: Oni Invasion! Wiki"
+title: "Bayside Cave"
+metaTitle: "Bayside Monster Cave - Shiren the Wanderer 2: Oni Invasion! Wiki"
 metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
 ---
+
 # Items
 
 - F = Floor, Daytime monster drop
@@ -1548,3 +1549,295 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
   </tr>
 </table>
+
+
+
+
+# Items
+
+### Floor
+
+#### Weapon
+
+Red Blade
+Dim Rod
+Hatchet
+Baffle Axe
+Nap Rattle
+Shockuto
+Katana
+Seal Rod
+Breeze Blade
+Old Mallet
+Sky Splitter
+Bright Blade
+Copper Blade
+Dotanuki
+Beast Fang
+Drain Cutter
+Rusty Mattock
+Shoddy Dirk
+Palm Stick
+Burning Blade
+Bladite
+Crescent Arm
+Myopic Masher
+
+#### Shield
+
+Beast Shield
+Spry Shield
+Blast Shield
+Tribal Shield
+Bowl Shield
+Heavy Shield
+Steady Shield
+Iron Shield
+Palm Shield
+Anti-Gaze Shield
+Copper Shield
+Swap Shield
+Counter Shield
+Gold Shield
+Targite
+Safe Shield
+
+#### Bracelet
+
+Cleansing Bracelet
+Monster Detector
+Regret Bracelet
+Staunch Bracelet
+Calm Bracelet
+Heal Bracelet
+Alleyway Bracelet
+Holy Bracelet
+
+#### Grass
+
+Herb
+Upgrade Seed
+Strength Grass
+Heal Grass
+Berserk Seed
+Antidote Grass
+Perception Grass
+Dragon Grass
+Swift Grass
+Revival Grass
+Life Grass
+Blind Grass
+Otogiriso
+Warp Grass
+Expand Seed
+Dizzy Grass
+Sleep Grass
+Shrink Seed
+Happy Grass
+Power Up Grass
+
+#### Scroll
+
+Identify Scroll
+Mnster House Scrl
+Desert Scroll
+Vacuum Slash Scroll
+Dispel Aura Scroll
+Sanctuary Scroll
+Suction Scroll
+Trap Delete Scroll
+Confusion Scroll
+Purify Scroll
+Swift Foe Scroll
+Earth Scroll
+Blank Scroll
+Tag Scroll
+Slumber Scroll
+Plating Scroll
+Fear Scroll
+Attract Scroll
+Heaven Scroll
+Grounded Scroll
+Fixer Scroll
+Lost Scroll
+
+#### Staff
+
+Seal Staff
+Decoy Staff
+Knockback Staff
+Tunnel Staff
+Mage Staff
+Swap Staff
+Balance Staff
+Paralysis Staff
+Unlucky Staff
+Pinning Staff
+Slow Staff
+Trap Delete Staff
+Lightning Staff
+Happy Staff
+Transient Staff
+Swift Staff
+Empathy Staff
+
+#### Talisman
+
+Rage Talisman
+Sleep Talisman
+Fear Talisman
+Frenzy Talisman
+Slow Talisman
+Dizzy Talisman
+Berserk Talisman
+Miss Talisman
+Seal Talisman
+
+#### Pot
+
+Sticky Pot
+Storage Pot
+Sale Pot
+Heal Pot
+Monster Pot
+Indetify Pot
+Zalokleft Pot
+Hide Pot
+Water Pot
+Purify Pot
+Presto Pot
+Synthesis Pot
+Oil Pot
+Unbreakable Pot
+Curse Pot
+
+#### Food
+
+Green Banana
+Yellow Banana
+Ripe Banana
+
+#### Projectile
+
+### Shop
+
+#### Weapon
+
+Lizard Lopper
+Old Mallet
+
+#### Shield
+
+Red Shield
+Happy Shield
+
+#### Bracelet
+
+Strength Bracelet
+
+#### Grass
+
+#### Scroll
+
+Mnster House Scrl
+
+#### Talisman
+
+#### Pot
+
+#### Food
+
+#### Projectile
+
+Rock
+
+### Pick-A-Choice
+
+#### Weapon
+
+Shoddy Dirk
+
+#### Shield
+
+Lizard Shield
+
+#### Bracelet
+
+#### Grass
+
+#### Scroll
+
+#### Talisman
+
+#### Pot
+
+#### Food
+
+#### Projectile
+
+### Presto
+
+#### Weapon
+
+#### Shield
+
+#### Bracelet
+
+#### Grass
+
+#### Scroll
+
+Fear Scroll
+Dispel Aura Scroll
+
+#### Talisman
+
+Dizzy Talisman
+
+#### Pot
+
+#### Food
+
+#### Projectile
+
+Wood Arrow
+
+### Shiny Object (Yellow)
+
+#### Weapon
+
+#### Shield
+
+#### Bracelet
+
+#### Grass
+
+#### Scroll
+
+#### Talisman
+
+#### Pot
+
+#### Food
+
+#### Projectile
+
+### Shiny Object (Blue)
+
+#### Weapon
+
+#### Shield
+
+#### Bracelet
+
+#### Grass
+
+#### Scroll
+
+#### Talisman
+
+#### Pot
+
+#### Food
+
+#### Projectile

@@ -1,8 +1,9 @@
 ---
-title: "Statue Cave"
-metaTitle: "Statue Cave - Shiren the Wanderer 2: Oni Invasion! Wiki"
+title: "Banana Kingdom"
+metaTitle: "Banana Kingdom - Shiren the Wanderer 2: Oni Invasion! Wiki"
 metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
 ---
+
 # Items
 
 - F = Floor, Daytime monster drop

@@ -258,7 +258,7 @@ export const baseStyles = css`
   }
   .navBarDefault {
     /* background-color: #001934; */
-    background-color: #9982EC;
+    background-color: #8ED7AB;
     border-radius: 0;
     border-top: 0;
     margin-bottom: 0;
@@ -452,7 +452,7 @@ export const baseStyles = css`
   }
 
   .hideFrontLine .active > a {
-    background-color: #AA94FB;
+    background-color: #8ED7AB;
     color: #fff !important;
   }
   .firstLevel ul li .collapser svg path {
@@ -573,6 +573,7 @@ export const baseStyles = css`
   table {
     padding: 0;
     font-size: 14px;
+    border-collapse: collapse;
   }
 
   table tr {
@@ -587,15 +588,15 @@ export const baseStyles = css`
 
   table tr th {
     font-weight: bold;
-    border: 1px solid #bbb;
+    border: 1px solid #919191;
     text-align: left;
     margin: 0;
     padding: 3px 8px;
-    background-color: #e2e2fd;
+    background-color: #e2fdf3;
   }
 
   table tr td {
-    border: 1px solid #bbb;
+    border: 1px solid #919191;
     text-align: left;
     margin: 0;
     padding: 3px 8px;
@@ -656,6 +657,38 @@ export const baseStyles = css`
   }
   .priceTablePots td {
     font-size: 13.5px;
+  }
+  .dungeonOverview {
+    margin-bottom: 8px;
+  }
+  .dungeonOverview th {
+    background-color: #cfe6ff;
+    font-weight: normal;
+    padding: 4px 8px;
+  }
+  .dungeonOverview td {
+    padding: 4px 8px;
+  }
+  .dungeonTable img {
+    width: 32px !important;
+    position: relative !important;
+  }
+  .dungeonTable th {
+    font-weight: normal;
+    padding: 4px 8px;
+  }
+  .dungeonTable td {
+    padding: 4px 8px;
+  }
+  .dungeonItemTable th {
+    font-weight: normal;
+    background-color: #ececec;
+    text-align: center;
+    padding: 4px;
+  }
+  .dungeonItemTable td {
+    text-align: center;
+    padding: 4px;
   }
   .tableDivider {
     font-weight: normal;
@@ -754,7 +787,7 @@ export const baseStyles = css`
     padding: 1.5px;
   }
   .locationTable th {
-    background-color: #f6f4ff;
+    background-color: #f4fff8;
     font-weight: normal;
     text-align: center;
     padding: 1px;
@@ -764,7 +797,7 @@ export const baseStyles = css`
     padding: 1px;
   }
   .itemDetailsTable th {
-    background-color: #f6f4ff;
+    background-color: #f4fff8;
     font-weight: normal;
     text-align: center;
     padding: 3px;
@@ -956,7 +989,7 @@ export const baseStyles = css`
     background-color: #CCFFCC !important;
   }
   .highlightGray {
-    background-color: #f3f3f3 !important;
+    background-color: #f7f7f7 !important;
   }
   .highlightYellow {
     background-color: #ffffe4 !important;
@@ -978,10 +1011,10 @@ export const baseStyles = css`
     background-color: #ffb3b3 !important;
   }
   .highlightOrange {
-    background-color: #fff4e6 !important;
+    background-color: #fff8f0 !important;
   }
   .highlightLightblue {
-    background-color: #eef6ff !important;
+    background-color: #f5faff !important;
   }
   .highlightNight {
     background-color: #ebf8ff !important;
@@ -1046,6 +1079,21 @@ export const baseStyles = css`
   /* Image styling */
   img {
     max-width: 100%;
+  }
+  .dungeonPageImage {
+    width: 240px !important;
+    height: auto;
+  }
+  .dungeonPageImage img {
+    position: relative !important;
+  }
+  .dungeonPageImage2 {
+    display: flex;
+    width: 480px !important;
+    height: auto;
+  }
+  .dungeonPageImage2 img {
+    position: relative !important;
   }
   .equipmentImage span {
     margin-left: 20px !important;
@@ -1177,6 +1225,11 @@ export const baseStyles = css`
     width: 240px;
     height: auto;
   }
+  .overworldMap {
+    width: 340px;
+    height: auto;
+    margin-top: 6px;
+  }
   .flower {
     height: 70px !important;
     width: auto;
@@ -1282,10 +1335,10 @@ export const baseStyles = css`
     line-height: 1.5;
     margin-bottom: 8px;
     margin-top: 16px;
-    border-left: 10px solid #e2e2fd;
-    border-right: 1px solid #e2e2fd;
-    border-bottom: 2px solid #e2e2fd;
-    border-top: 1px solid #e2e2fd;
+    border-left: 10px solid #9DDDB6;
+    border-right: 1px solid #9DDDB6;
+    border-bottom: 2px solid #9DDDB6;
+    border-top: 1px solid #9DDDB6;
     padding-left: 10px;
   }
 

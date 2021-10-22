@@ -1,8 +1,9 @@
 ---
-title: "Statue Cave"
-metaTitle: "Statue Cave - Shiren the Wanderer 2: Oni Invasion! Wiki"
+title: "Endless Night"
+metaTitle: "Cave of Endless Night - Shiren the Wanderer 2: Oni Invasion! Wiki"
 metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
 ---
+
 # Items
 
 - F = Floor, Daytime monster drop

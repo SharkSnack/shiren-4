@@ -1,0 +1,2486 @@
+---
+title: "Emerald Terrace"
+metaTitle: "Emerald Terrace - Shiren the Wanderer 2: Oni Invasion! Wiki"
+metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+---
+
+<div class="pageTopImage screenshot">
+  <img src="../images/dungeons/emerald_terrace.png"/>
+</div>
+
+First real dungeon of the game.<br/>
+The dungeon is split into a number of areas, and there are a few overworld rest spots along the way.<br/>Some areas feature a day and night cycle, while others are daytime-only.
+
+This page assumes you're attempting to clear the main story in 1 adventure from a fresh save file.<br/>
+The difficulty of Shiren 4 is high enough that reading this page isn't enough to ensure victory,<br/>and even roguelike veterans often have to retreat until they get a feel for the game's balance.
+
+If you're new to Shiren, or aren't up for the challenge, it's best to stock up on Escape Scrolls<br/>and slowly upgrade equipment and obtain an assortment of powerful items instead.<br/>※ Escape Scrolls can be found on the ground, or purchased from shops if they're in stock.
+
+※ <span class="greenText">Spoiler Warning: This page includes spoilers for various locations in the game.</span>
+
+<ul class="quickLinksUL">
+  <li><a href="#overview">Overview</a></li>
+  <li><a href="#strategy">Strategy</a></li>
+  <li><a href="#monsters">Monsters</a></li>
+  <li><a href="#monster-table">Monster Table</a></li>
+  <li><a href="#items">Items</a></li>
+  <li><a href="#traps">Traps</a></li>
+  <li><a href="#npcs">NPCs</a></li>
+</ul>
+
+# Overview
+
+<table class="dungeonOverview">
+  <tr>
+    <th>Unlock</th>
+    <td class="highlightYellow">Available as soon as you arrive in Boronga Village.</td>
+  </tr>
+  <tr>
+    <th>Entrance</th>
+    <td class="highlightYellow">Boronga Village (East)</td>
+  </tr>
+</table>
+
+<table class="dungeonTable">
+  <tr>
+    <th>Floors</th>
+    <td>36F</td>
+    <th>Day / Night</th>
+    <td>Day or Both</td>
+  </tr>
+  <tr>
+    <th>Bring Items</th>
+    <td>Yes</td>
+    <th>Allies</th>
+    <td>3</td>
+  </tr>
+  <tr>
+    <th>Shops</th>
+    <td>Regular, Elite</td>
+    <th>Monster Houses</th>
+    <td>Regular, Sudden</td>
+  </tr>
+  <tr>
+    <th>Initial Enemies</th>
+    <td>Varies</td>
+    <th>Spawn Rate</th>
+    <td>Varies</td>
+  </tr>
+  <tr>
+    <th>Day Turns</th>
+    <td>410 (361)</td>
+    <th>Night Turns</th>
+    <td>268 (236)</td>
+  </tr>
+  <tr>
+    <th>Ominous aura</th>
+    <td>500 turns<br/>(Certain floors)</td>
+    <th>Wind of Kron</th>
+    <td>1st: 1700<br/>4th: 2000</td>
+  </tr>
+  <tr>
+    <th>Unidentified</th>
+    <td colspan="3">Weapons, shields, bracelets</td>
+  </tr>
+</table>
+
+※ Numbers in () for day and night turns is when the warning is displayed.
+
+#### Monster Spawn Rates
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Area</th>
+      <th>Initial</th>
+      <th>Day (Turns)</th>
+      <th>Night (Turns)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightGray">Grasslands</td>
+      <td></td>
+      <td>30</td>
+      <td>(20)</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Crocodile Swamp</td>
+      <td></td>
+      <td>30</td>
+      <td>(20)</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Rocky Stretch</td>
+      <td></td>
+      <td>30</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Snake Hole</td>
+      <td></td>
+      <td>30</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Sea of Trees</td>
+      <td></td>
+      <td>30</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Ruins of Laferriere</td>
+      <td></td>
+      <td>25</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Eagle Valley</td>
+      <td></td>
+      <td>30</td>
+      <td>(20)</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Lava Field</td>
+      <td></td>
+      <td>30</td>
+      <td>(20)</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Devil's Navel</td>
+      <td></td>
+      <td>25</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Gold Palace</td>
+      <td></td>
+      <td>25</td>
+      <td>15</td>
+    </tr>
+  </tbody>
+</table>
+
+※ Numbers in () for night is when a Night-Day Scroll is read.
+
+# Strategy
+
+### Equipment / Items
+
+#### Weapon
+
+Main weapon:
+
+Linger on floors and hunt monsters to level equipment early game.<br/>
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Atk</th>
+      <th>Slot</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightGray">Katana</td>
+      <td class="centeredText">6</td>
+      <td class="centeredText">4</td>
+      <td>Slow growth and doesn't gain additional rune slots.<br/>Use it as an interim weapon until you find something better.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Beast Fang</td>
+      <td class="centeredText">8</td>
+      <td class="centeredText">3</td>
+      <td>Rune slots increases to 5 at Lv2, but base attack is a bit low.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Dotanuki</td>
+      <td class="centeredText">10</td>
+      <td class="centeredText">5</td>
+      <td>Fast growth and gains an additional rune slot at Lv2.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Bladite</td>
+      <td class="centeredText">12</td>
+      <td class="centeredText">4</td>
+      <td>Very solid 16 attack and 6 rune slots at Lv2.<br/>However, attack and rune slots won't increase again until Lv5.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Red Blade</td>
+      <td class="centeredText">14</td>
+      <td class="centeredText">3</td>
+      <td>Slow growth and low starting rune count.<br/>However, it gains 1 slot per level, so it's a strong option.</td>
+    </tr>
+  </tbody>
+</table>
+
+Runes:
+
+Aim to synthesize any type-effective or status inflicting weapons you find.
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Item</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightGray">Anti-Aquatic</td>
+      <td>Water Cutter<br/>Evaporate Scroll</td>
+      <td>Effective against Gyaza, Hopodile, Zalokleft, Slime, Explochin, etc.<br/>Synthesize Water Cutter right away if you find a Synthesis Pot before 21F.<br/>Low priority after 23F, since the major aquatic threats are gone.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Anti-Drain</td>
+      <td>Drain Dagger<br/>Antidote Grass</td>
+      <td>Needed to quickly defeat troublesome Absorbiphant monsters,<br/>and also helps against Scorpion monsters.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Paralyzing</td>
+      <td>Paralysis Staff</td>
+      <td>Essentially one-shots a monster when it activates.<br/>Keep 1 Paralysis Staff on hand for synthesis, even if its use count is 0.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Anti-Dragon</td>
+      <td>Lizard Lasher<br/>Dragon Grass</td>
+      <td>Significant help against Hipadiles and Dragons in Devil's Navel.<br/>Lizard Lasher is strong enough to be used as a main weapon too.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Anti-Float</td>
+      <td>Sky Splitter<br/>Warp Grass</td>
+      <td>Effective against Firepuff, Pumphantasm, Blade Bee, Gyadon, Flashbird.<br/>Synthesize Sky Splitter if you find a Synthesis Pot before 19F.<br/>Low priority after 20F, since the only floating enemy left is Pumphantom.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Anti-Cyclops</td>
+      <td>Myopic Masher<br/>Sight Grass</td>
+      <td>Effective against Gazers and Ironheads.<br/>Low priority since it has a narrow range of effectiveness.<br/>Synthesize Agile on a shield instead if you have 2 Sight Grass.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Sealing</td>
+      <td>Seal Staff</td>
+      <td>Seal Staff should be saved for the final boss.<br/>However, if you ended up using up a Seal Staff, it's fine to synthesize it.</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Shield
+
+Main Shield:
+
+Linger on floors and hunt monsters to level equipment early game.
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Def</th>
+      <th>Slot</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightGray">Iron Targe</td>
+      <td class="centeredText">6</td>
+      <td class="centeredText">3</td>
+      <td>Rune slots increases to 5 at Lv2, but base defense is low.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Clan Shield</td>
+      <td class="centeredText">8</td>
+      <td class="centeredText">5</td>
+      <td>Fast growth and gains an additional rune slot at Lv2.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Beast Shield</td>
+      <td class="centeredText">10</td>
+      <td class="centeredText">4</td>
+      <td>Defense increases by 2 per level up, and rune slots increases to 6 at Lv2.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Targite</td>
+      <td class="centeredText">12</td>
+      <td class="centeredText">5</td>
+      <td>Very solid 16 defense and 6 rune slots at Lv2.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Red Shield</td>
+      <td class="centeredText">14</td>
+      <td class="centeredText">4</td>
+      <td>Slow growth and low starting rune count.<br/>However, it gains 1 rune slot per level until Lv3, so it's a strong option.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Spry Shield</td>
+      <td class="centeredText">2</td>
+      <td class="centeredText">2</td>
+      <td>Low defense and rune slots, but lets you evade direct attacks more often.<br/>※ DS version has a bug where evasion doesn't increase with level ups.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Lamp Shield</td>
+      <td class="centeredText">4</td>
+      <td class="centeredText">2</td>
+      <td>Secondary shield for night.<br/>Its resonance effect with any torch greatly reduces accidents at night.</td>
+    </tr>
+  </tbody>
+</table>
+
+Runes:
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Item</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightGray">1/2 Hunger</td>
+      <td>Diet Shield</td>
+      <td>Slows fullness depletion rate by 50%, and plays well with Heal Bracelet.<br/>Makes it easier to linger on floors to level equipment and obtain items.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">1/2 Fire</td>
+      <td>Lizard Shield<br/>Dragon Grass</td>
+      <td>Reduces fire damage received by 50%.<br/>Fire damage sources include Dragons, Firepuffs, lava eruptions.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">1/2 Blast</td>
+      <td>Blast Shield<br/>Bomb Rock</td>
+      <td>Reduces explosion damage received by 50%.<br/>Explosion damage sources include Pop Tank, Explochin, Explosion Trap.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Rustproof</td>
+      <td>Dull Gold Shield<br/>Plating Scroll</td>
+      <td>Protects loss of upgrade value due to Slimes and Rust Traps.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Anti-Theft</td>
+      <td>Lock Shield</td>
+      <td>Lets you hunt Zaloklefts for item drops risk-free.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Agile</td>
+      <td>Spry Shield<br/>Sight Grass x 2</td>
+      <td>Increases your chance to evade enemy direct attacks.<br/>Level up a Mixer using items like Berserk Talisman, Fear Scroll.</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Bracelets
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightGray">Heal Bracelet</td>
+      <td>Restores 3 HP per turn, but hastens fullness depletion.<br/>HP regeneration is very slow in Shiren 4 as max HP increases, so this<br/>bracelet greatly reduces the difficulty from Ruins of Laferriere onward.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Monster Detector</td>
+      <td>Reveals the location of enemies and NPCs.<br/>Shop exclusive. Significantly lowers the risk of accidents at night.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Calm Bracelet</td>
+      <td>Prevents confusion from sources like Spin Trap, Fowl Wizard, final boss.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Cleansing Bracelet</td>
+      <td>Prevents strength loss from Scorpions between 10-12F.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Happy Bracelet</td>
+      <td>Gain 1 experience point per turn. Particularly helpful early game.</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Staves
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightGray">Pinning Staff</td>
+      <td>Extremely valuable as an emergency escape option.<br/>Can be used like Warp Grass if you land on a water or air tile.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Paralysis Staff</td>
+      <td>Paralyzed enemies can't act until they get hit by an attack or effect.<br/>Can be used to safely wait for night inside a special door room in Gold Palace.<br/>You'll want to synthesize one of these between 26-27F.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Seal Staff</td>
+      <td>Essential to have an easy final boss fight.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Swap Staff</td>
+      <td>Nice escape option, especially if you start a floor in a Monster House.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Lightning Staff</td>
+      <td>Homing attack that deals 25 damage.<br/>It's nice for early game and defeating Cave Mamels, but it's fine to sell it.</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Projectiles
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightGray">Wood Arrow</td>
+      <td>Decent attack power, and easy to stock up on using traps.<br/>Useful against both regular monsters and bosses, despite its low accuracy.<br/>Don't hesitate to shoot arrows if doing so conserves better items.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Poison Arrow</td>
+      <td>Essentially a stronger version of Wood Arrows.<br/>Switch to these toward the end if you managed to obtain lots of them.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Rock</td>
+      <td>Used to collect arrows from Wood Arrow and Poison Arrow traps.<br/>It's fine to discard them around 13F, since Porky appears between 13-18F.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Porky Rock</td>
+      <td>Short range, but can hit monsters around corners and inside walls.<br/>Don't worry about conserving them too much.</td>
+    </tr>
+  </tbody>
+</table>
+
+### Moves
+
+Night monsters can be one-shot by most moves until Devil's Navel,<br/>but some like Dark Ricebadger and Evil Sky Dragon require A rank or higher moves.
+
+Recommended Moves:
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Power</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightGray">Kaboom Bullet</td>
+      <td>S (90)</td>
+      <td>Derived from Sticky Shot. One-shots most monsters.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Sticky Shot</td>
+      <td>A (70)</td>
+      <td>Default move. Strong against blue aura monsters.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Room Cyclone</td>
+      <td>B (40)</td>
+      <td>1~2 uses clears out most monsters in a room.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Cluster Confusion</td>
+      <td>-</td>
+      <td>Used before Room Cyclone to wipe out all monsters,<br/>but there's risk of being hit by confused enemies,<br/>so consider the risk vs. return before using it.</td>
+    </tr>
+  </tbody>
+</table>
+
+# Floor Guide
+
+### Introduction
+
+Grilled Bananas restore 40 HP, so grill most bananas you obtain.<br/>
+Save Swift Grass, Otogiriso, arrows, and other useful grass and scroll items for the first boss.<br/>Save Seal Staff, Seal Talisman, Fear Scroll, Fear Talisman, and Banana Peels for the final boss.<br/>Purify Pots should be used as a container for Mixer synthesis ingredients.<br/>It's best to be Lv20 or so around Rakutata Village, and Lv30 or so around Eagle Valley\~Devil's Navel.<br/>Ideal equipment strength is around 20 for both weapon and shield.
+
+Optional events in Boronga Village:
+
+- Talk to the woman inside the Tavern to receive Undo Grass.
+- Deposit Gitan from the tutorial dungeon into the Bank to receive Revival Grass.
+
+### Grasslands - Crocodile Swamp (1-5F)
+
+<div class="dungeonPageImage2">
+  <img src="../images/dungeons/grasslands.png"/><img src="../images/dungeons/crocodile_swamp.png"/>
+</div>
+
+Daytime-only.<br/>
+Keep an eye out for main equipment, synthesis ingredients, and bracelets.<br/>
+If you're attempting a single adventure clear, you need to be skilled enough to manage without ideal items,<br/>so don't give up right away if you don't find powerful equipment - doing so just forms bad habits.
+
+Walk along the edges of rooms between 3-5F in search of wood arrow and poison arrow traps,<br/>
+and collect arrows from them by throwing rocks or other items onto the trap.<br/>
+Hunt Froggos to gain enough money to purchase items, rest at the inn, and hone equipment in Gonchiki Village.<br/>
+The inn fully replenishes your HP, fullness, and strength for 500 Gitan, so don't worry about losing strength.<br/>Place pots near the exit so that they don't break from stepping on a Trip Trap.<br/>Pots don't break even if they're thrown by Bored Kappa, so they're safe.
+
+### Gonchiki Village
+
+<div class="dungeonPageImage">
+  <img src="../images/dungeons/gonchiki_village.png"/>
+</div>
+
+Buy all bananas, torches, and Storage Pots that are in stock.<br/>If a Lamp Shield is in stock for 1500G, do whatever it takes to buy it.<br/>Upgrade value +1 doesn't have a large impact in this game, and you won't be able to trade hits<br/>with monsters in the second half either way, so prioritize buying items and resting at the inn.
+
+### Rocky Stretch - Snake Hole (6-10F)
+
+<div class="dungeonPageImage2">
+  <img src="../images/dungeons/rocky_stretch.png"/><img src="../images/dungeons/snake_hole.png"/>
+</div>
+
+First area to feature a day and night cycle.<br/>
+Level up a Ricebear (6-8F) to Ricebadger using items like Fear or Berserk talismans,<br/>and then defeat it using direct attacks after inflicting a status condition to level up equipment.<br/>Monsters with auras provide x2.0 experience points, and use a Growth Seed if you have one.<br/>※ Unlike Shiren 5, talismans other than Seal Talisman don't remove auras in this game.
+
+Hunt Zaloklefts (8-10F) for item drops.<br/>Intentionally get hit by Firepuff (6-8F)'s special attack to grill bananas.<br/>Step in place near the stairs at night after checking every room, and defeat night monsters<br/>for experience points and item drops until you've used up all moves before advancing.<br/>Foul Morphs (8-10F) occasionally drop blessed Spoiled Bananas, which can be grilled.
+
+It's ideal to reach Lv20 for Shiren and Lv3 for equipment before advancing to 11F.<br/>If you have Storage Pots, try to save the following to synthesize on 26-27F:
+
+- Sight Grass x 3
+- Paralysis Staff
+- Antidote Grass
+- Desert Scroll
+
+Perform Nigiri Morph Factory using a Foul Morph if you have a torch and poison arrows.<br/>※ You can grill the bananas between 13-18F by having a Traproid create an Explosion Trap.
+
+1. Place important items in a hallway near the stairs room before sunset.
+2. Shoot arrows at a wall or throw rocks on the ground.
+3. Hold X and move toward a single arrow or rock to step on top of it.
+4. Swap the item with an inventory item to place the single arrow or rock in your inventory.
+5. Repeat until you have lots of single arrows or rocks in your inventory.
+6. Equip the poison arrows and torch at night, and keep an item like Otogiriso on hand for emergencies.
+7. Shoot poison arrows at Foul Morph to lower its attack and lure it into a hallway.
+8. Place the Otogiriso underfoot, and have it change the single arrows and rocks into Spoiled Bananas.
+
+### Sea of Trees (11-12F)
+
+<div class="dungeonPageImage">
+  <img src="../images/dungeons/sea_of_trees.png"/>
+</div>
+
+Recommended to hurry to the next floor after checking rooms for items.<br/>
+Strong Cart's arrows can deal knockback, so don't approach with direct attacks in rooms.<br/>
+Scorpions (10-12F) can lower your strength, so don't linger unless you have a Cleansing Bracelet.<br/>Dark Absorbiphants appear at night, so it's dangerous to use Cluster Confusion.
+
+### Rakutata Village
+
+<div class="dungeonPageImage">
+  <img src="../images/dungeons/rakutata_village.png"/>
+</div>
+
+Buy all bananas, torches, and Storage Pots that are in stock.<br/>
+The Purifier can remove curses and seals from items for 1000G if needed.
+
+Optional - Deposit Gitan into the Bank to receive items:
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Gitan</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightGray">Revival Grass</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Undo Grass</td>
+      <td>5,000</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Blank Scroll</td>
+      <td>10,000</td>
+    </tr>
+  </tbody>
+</table>
+
+### Ruins of Laferriere (13-18F)
+
+<div class="dungeonPageImage">
+  <img src="../images/dungeons/ruins_of_laferriere.png"/>
+</div>
+
+Things start to get a bit difficult from this area onward without a Heal Bracelet.<br/>However, you'll be underleveled and will likely run out of items if you rush stairs this early,<br/>so check rooms for items and utilize Porky Rocks dropped by Porky to conserve items.<br/>Cluster Confusion + Room Cyclone can wipe out enemies, but it's rather risky.
+
+Fearabbits attract you and other monsters to itself, so you can end up surrounded right away.<br/>This area has large rooms, so they can be a big problem - use items like Fear Scroll if you get surrounded.<br/>Porky's special deals 20 damage, so use items instead of approaching with direct attacks to keep your HP up.<br/>N'twyn spawns both during the day and at night, so don't try to pick up items when your HP is low.<br/>Have a Traproid create an Explosion Trap to grill bananas if desired.
+
+Step in place near the stairs at night after checking every room, and defeat night monsters<br/>for experience points and item drops until you've used up all moves before advancing.<br/>If you have a Replenish Scroll, linger until Dark Villeaters appear and hunt them for items.<br/>It's also possible to refresh moves using Revival Grass or Undo Grass, but it's a gamble<br/>whether or not you'll obtain an item that's worth the trade.<br/>Don't fight Villeaters during the day.
+
+⭐︎ <span class="orangeText">For those that can't deal with night</span> ⭐︎
+
+Rush stairs between 13-18F, 21-25F, and 27-36F.
+
+Dark Villeaters are extremely dangerous if you don't have a Super Torch or Monster Detector,<br/>since they approach at double speed if they're in the same room as Shiren.
+
+### Monkey Village
+
+<div class="dungeonPageImage">
+  <img src="../images/dungeons/monkey_village.png"/>
+</div>
+
+Have an optional conversation with the Monkey King.<br/>
+Upgrade your shield at the blacksmith, and buy items from the shop.
+
+### Eagle Valley (19-20F)
+
+<div class="dungeonPageImage">
+  <img src="../images/dungeons/eagle_valley.png"/>
+</div>
+
+Daytime-only.<br/>
+Enemy attack power starts to get ridiculous from this point.<br/>
+Kengo has high attack and HP, and can knock your equipped shield away.<br/>
+Dagger Bee's special deals x2.0 damage and inflicts Confusion.<br/>
+Sr. Yanpii hits like a wrecking ball, and its tackle deals damage and knockback.<br/>
+Gyadon can pluck a staff and reduce its remaining uses to 0.
+
+Floating monsters rush toward you at the start, so it's easy to get surrounded.<br/>Fight Kengo with your back against a wall so that your shield doesn't fly off a cliff.<br/>Despite these dangers, be sure to check each room for items instead of rushing the exit.<br/>If there's a Sr. Yanpii with an aura, level it up and defeat it to gain lots of experience points.<br/>Protect staves from Gyadon by inserting them into Storage Pots.
+
+⭐︎ <span class="orangeText">For those that can't deal with night</span> ⭐︎
+
+Linger on these floors and hunt monsters to level up.<br/>This is basically the last area where you can fight during the daytime if you can't deal with night.<br/>Be careful of Kengo while checking rooms, and then step in place near the exit and hunt until the wind blows.<br/>Hide behind a wall or object while waiting so that you don't get tackled by Sr. Yanpii right away,<br/>and use arrows to soften it enough so that it can be defeated in one hit.
+
+### Lave Field (21-23F)
+
+<div class="dungeonPageImage">
+  <img src="../images/dungeons/lava_field.png"/>
+</div>
+
+Daytime-only.<br/>
+Trauma inducing Gyazas appear alongside Cheer-Hams and Banana Morphs.<br/>Gyazas convert most non-direct attacks and effects into 2 damage.<br/>Cheer-Hams boost the attack power of adjacent creatures and let them survive a fatal hit with 1 HP.<br/>Banana Morphs transform an inventory item into a Yellow Banana, so don't let them act.<br/>Concusschins have 83 HP and explode if you deal a total of 67+ damage without defeating it,<br/>so use arrows, rocks, or unequip your weapon to ensure it doesn't explode.
+
+
+It's somewhat safe to check rooms if your weapon has the Anti-Aquatic rune,<br/>
+but otherwise consider rushing stairs instead of lingering very long.<br/>Lava eruptions can be used to grill bananas.
+
+### Inn of the Wind
+
+<div class="dungeonPageImage">
+  <img src="../images/dungeons/inn_of_the_wind.png"/>
+</div>
+
+The Purifier can remove curses and seals from items for 1500G if needed.<br/>
+Lost NPCs must be guided to this location to unlock the item shop, inn, and storage.
+
+### Devil's Navel (24-26F)
+
+<div class="dungeonPageImage">
+  <img src="../images/dungeons/devils_navel.png"/>
+</div>
+
+Daytime-only.<br/>
+Consider rushing stairs on 24-25F if you feel good about your current level and stock of items.<br/>Super Gazers and Cursisters can destroy items, so don't let them act if they're adjacent.<br/>Dragons and Hipadiles hit incredibly hard and have high HP, so use items to deal with them.<br/>N'mach (24-36F) disguises itself as an item and doesn't reveal itself until you try to use it,<br/>so don't trust scrolls and grass you pick up from 24F onward.
+
+Mixers (26-27F) appear, so synthesize equipment and combine staves.<br/>Prioritize the Anti-Dragon and 1/2 Fire runes to make it a bit easier to linger.<br/>If you have extra slots, synthesize runes that increase max HP for upcoming boss fights,<br/>which include HP+20 (Life Grass), HP+15 (Heal Grass), HP+10 (Otogiriso), and HP+5 (Herb).
+
+Weapon runes to aim for at this point:
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Priority</th>
+      <th>Name</th>
+      <th>Item</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightOrange">High</td>
+      <td>Paralyzing</td>
+      <td>Paralysis Staff</td>
+    </tr>
+    <tr>
+      <td class="highlightOrange">High</td>
+      <td>Anti-Drain</td>
+      <td>Drain Dagger<br/>Antidote Grass</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">Mid</td>
+      <td>Anti-Dragon</td>
+      <td>Lizard Lasher<br/>Dragon Grass</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">Mid</td>
+      <td>Anti-Cyclops</td>
+      <td>Myopic Masher<br/>Sight Grass</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">Mid</td>
+      <td>Anti-Aquatic</td>
+      <td>Water Cutter<br/>Evaporate Scroll</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue">Low</td>
+      <td>Anti-Float</td>
+      <td>Sky Splitter<br/>Warp Grass</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue">Low</td>
+      <td>Sealing</td>
+      <td>Seal Staff</td>
+    </tr>
+  </tbody>
+</table>
+
+Shield runes to aim for at this point:
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Priority</th>
+      <th>Name</th>
+      <th>Item</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightOrange">High</td>
+      <td>Agile</td>
+      <td>Spry Shield<br/>Sight Grass x 2</td>
+    </tr>
+    <tr>
+      <td class="highlightOrange">High</td>
+      <td>1/2 Fire</td>
+      <td>Lizard Shield<br/>Dragon Grass</td>
+    </tr>
+    <tr>
+      <td class="highlightOrange">High</td>
+      <td>1/2 Blast</td>
+      <td>Blast Shield<br/>Bomb Rock</td>
+    </tr>
+    <tr>
+      <td class="highlightOrange">High</td>
+      <td>Rustproof</td>
+      <td>Dull Gold Shield<br/>Plating Scroll</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">Mid</td>
+      <td>Anti-Theft</td>
+      <td>Lock Shield</td>
+    </tr>
+  </tbody>
+</table>
+
+※ Synthesizing Agile with 2 Sight Grass requires leveling up a Mixer.
+
+⭐︎ <span class="orangeText">For those that can't deal with night</span> ⭐︎
+
+The day and night cycle returns starting on 27F, so finish synthesizing on 26F.<br/>Continue to hunt Lime Zaloklefts (24-30F) for item drops if possible.
+
+### Devil's Navel (27-30F)
+
+<div class="dungeonPageImage">
+  <img src="../images/dungeons/devils_navel_2.png"/>
+</div>
+
+Mixers continue to appear on 27F, so finish synthesizing if you didn't do so on 26F.<br/>Fowl Wizard's magic bullet effect is randomly selected from confusion, blind, transient, and 20 damage.<br/>If a Kappa Pest is standing on an item, swing a Transient Staff or wait until night to claim the item.<br/>Grape Grimes lower weapon or shield upgrade value by 2 and can multiply, so unequip your equipment.<br/>Continue to hunt Lime Zaloklefts (24-30F) for item drops if possible.<br/>Remember, you want to save Seal Staff for the final boss.
+
+Dark Ricebadgers and Evil Sky Dragons can't be one-shot with B rank moves at night.<br/>Evil Sky Dragon's special attack deals 50 fire damage from anywhere in the room, so stay in hallways.<br/>That said, Evil Sky Dragons provide 1500 experience points, so try to defeat any that you see.
+
+⭐︎ <span class="orangeText">For those that can't deal with night</span> ⭐︎
+
+Rush stairs in hopes of reaching the boss before it turns to night.<br/>
+If you get the transient effect from a Fowl Wizard's magic bullet, go ahead and advance to the next floor.<br/>To avoid wasting turns, don't approach Kappa Pest if it's standing on an item.
+
+### Boss 1
+
+This is typically the most difficult point of the main story.
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>HP</th>
+      <th>Atk</th>
+      <th>Def</th>
+      <th>Exp</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="centeredText">301</td>
+      <td class="centeredText">70</td>
+      <td class="centeredText">15</td>
+      <td class="centeredText">0</td>
+      <td>Swift (1 attack).<br/>Immune to Sleep, Decoy, Paralysis.<br/>Ignores Sanctuary Scroll.<br/>Gitan deals 2 damage.</td>
+    </tr>
+  </tbody>
+</table>
+
+Boss Moves:
+
+- Direct attack - High power.
+- Tackle - Lunges forward to deal damage, and then retreats.
+- Poison Claw - Deals damage and lowers strength by 1.
+- Instant Recovery - Cures all status conditions.
+
+The boss moves at double speed, cures status conditions in 1 turn, ignores Sanctuary Scroll,<br/>only takes 2 damage from thrown Gitan, and its tackle can close distances if you try to step away.<br/>It doesn't have high HP for a boss, but you won't defeat it by trading direct attacks unless your level,<br/>weapon, and shield are outstanding.
+
+The boss fight occurs during daytime, so abilities can't be used - you need to use items.<br/>Status conditions aren't very effective even if the boss isn't immune to it, since it'll be cured quickly.<br/>However, they become viable if you boost Shiren's action speed by eating Swift Grass.
+
+Some strategies:
+
+- Swift Grass + Knockback Staff + arrows
+    - Create distance between you and the boss and shoot arrows.
+- Swift Grass + Power Up Grass + healing items
+    - Trade hits after boosting your speed and attack power. Requires lots of healing items.
+- Empathy Staff + healing items
+    - Deal damage using Empathy status, healing as needed.<br/>The boss will cure Empathy status, so prepare at least 5 uses worth to be safe.
+
+### Gold Palace (31-36F)
+
+<div class="dungeonPageImage">
+  <img src="../images/dungeons/gold_palace.png"/>
+</div>
+
+Rush stairs as fast as possible. It's fine to use up all items that aren't needed for the final boss.<br/>Night monsters are far easier in this area compared to daytime, so you could cycle time of day<br/>using a special door room and descend at night if you have a Super Torch.
+
+Demon Scorp (31-33F) decreases strength by 2.<br/>
+Chainhead (31-33F), Eligan (31-36F), and Cave Mamel (34-36F) hit very hard.<br/>
+Grampa Tank (31-33F) fires 30 damage cannonballs and has incredibly smart AI.<br/>
+Digestiphant (31-36F) absorbs status conditions to boost attack power by 2 stages.<br/>
+Porkchop (34-36F) throws Porky Rocks that deal 20 damage within a range of 4 tiles.
+
+### Final Boss
+
+Shiren is automatically granted Swift status for this fight, so you get 4 actions for every 1 boss action.
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>HP</th>
+      <th>Atk</th>
+      <th>Def</th>
+      <th>Exp</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="centeredText">1800</td>
+      <td class="centeredText">100</td>
+      <td class="centeredText">20</td>
+      <td class="centeredText">0</td>
+      <td>Slow.<br/>Immune to Sleep, Decoy, Paralysis.<br/>Ignores Sanctuary Scroll.<br/>Gitan deals 2 damage.</td>
+    </tr>
+  </tbody>
+</table>
+
+Boss Moves:
+
+- Direct attack - High power.
+- Lightning - Deals 30\~40 damage.
+- Confusion - Inflicts Confused status.
+- Knockback - Low power, deals kncoback.
+- Call Monsters - Summons 4\~6 monsters.
+    - Digestiphant, Tiger Hurler, Porkchop.
+- Instant Recovery - Cures all status conditions.
+
+Incredibly high HP, summons monsters, inflicts confusion, cures status conditions, ignores Sanctuary Scroll,<br/>only takes 2 damage from thrown Gitan, and due to story events, only performs 1 action every 4 turns.<br/>Status conditions are very effective due to the action speed difference, and the only dangerous specials<br/>are Call Monsters and Confusion.
+
+Seal the boss immediately when the fight begins to avoid having to deal with summoned monsters,<br/>and then use items like Banana Peel, Fear Scroll, Fear Talisman, Seal Staff, etc. to keep the boss disabled.<br/>The boss is immune to Sleep, Decoy, and Paralysis, so just keep that in mind and you should be fine.<br/>It's possible to clear this fight without taking damage if you keep track of the turn order.
+
+
+
+# Monsters
+
+#### List (Day)
+
+#### List (Night)
+
+# Monster Table
+
+#### Table (Day)
+
+#### Table (Night)
+
+# Items
+
+- F = Floor, Daytime monster drop
+- S = Shop, Night monster drop, Shiny Object (yellow), Peddler
+- P = Presto Pot
+- Z = Zalokleft drop
+- E = Elite Shop, Shiny Object (blue)
+
+<br/>
+
+<table class="dungeonItemTable">
+  <tr>
+    <th colspan="6" class="highlightGreen">Weapon</th>
+    <th rowspan="81"></th>
+    <th colspan="6" class="highlightGreen">Bracelet</th>
+    <th rowspan="81"></th>
+    <th colspan="6" class="highlightGreen">Scroll</th>
+  </tr>
+  <tr>
+    <th>Name</th>
+    <th>F</th>
+    <th>S</th>
+    <th>P</th>
+    <th>Z</th>
+    <th>E</th>
+    <th>Name</th>
+    <th>F</th>
+    <th>S</th>
+    <th>P</th>
+    <th>Z</th>
+    <th>E</th>
+    <th>Name</th>
+    <th>F</th>
+    <th>S</th>
+    <th>P</th>
+    <th>Z</th>
+    <th>E</th>
+  </tr>
+  <tr>
+    <td class="leftText">Palm Stick</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Pierce Bracelet</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Light Scroll</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Copper Blade</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Heal Bracelet</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Purify Scroll</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Katana</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Calm Bracelet</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Identify Scroll</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Beast Fang</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Holy Bracelet</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Heaven Scroll</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Dotanuki</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Alert Bracelet</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Earth Scroll</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Bladite</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Cleansing Bracelet</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Plating Scroll</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Red Blade</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Staunch Bracelet</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Confusion Scroll</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Kabura's Blade</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Strength Bracelet</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Slumber Scroll</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Rusty Pickaxe</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Bad Aim Bracelet</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Air Slash Scroll</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Rusty Mattock</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Strider Bracelet</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Expulsion Scroll</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Breeze Blade</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Wall Clip Bracelet</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Fear Scroll</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Hatchet</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Alleyway Bracelet</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Trap Erase Scroll</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Shoddy Dirk</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Identify Bracelet</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Fixer Scroll</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Bright Blade</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Bind Bracelet</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Pot Expand Scroll</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Old Mallet</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Scout Bracelet</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Medicine Scroll</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Sturdy Hammer</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Happy Bracelet</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Sanctuary Scroll</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Dull Gold Edge</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Trapper Bracelet</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Escape Scroll</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Burning Blade</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Trap Bracelet</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Blank Scroll</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Baffle Axe</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Warp Bracelet</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Banana Scroll</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Shockuto</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Bomber Bracelet</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Muzzle Scroll</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Seal Rod</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Regret Bracelet</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Grounded Scroll</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Nap Rattle</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Monster Caller</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Swift Foe Scroll</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Dim Rod</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Monster Detector</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Monster Scroll</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Crescent Arm</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Item Detector</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Trap Scroll</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Water Cutter</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <th colspan="6" class="highlightGreen">Grass</th>
+    <td class="leftText">Lost Scroll</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Sky Splitter</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <th>Name</th>
+    <th>F</th>
+    <th>S</th>
+    <th>P</th>
+    <th>Z</th>
+    <th>E</th>
+    <td class="leftText">Desert Scroll</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Myopic Masher</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Weeds</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Extinction Scroll</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Drain Dagger</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Herb</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Attract Scroll</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Lizard Lasher</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Otogiriso</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Suction Scroll</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th colspan="6" class="highlightGreen">Shield</th>
+    <td class="leftText">Heal Grass</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Dispel Aura Scroll</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Name</th>
+    <th>F</th>
+    <th>S</th>
+    <th>P</th>
+    <th>Z</th>
+    <th>E</th>
+    <td class="leftText">Life Grass</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Night-Day Scroll</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Palm Shield</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Expand Seed</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Tag Scroll</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Copper Buckler</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Shrink Seed</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Invitation</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Iron Targe</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Happy Grass</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Replenish Scroll</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Clan Shield</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Angel Seed</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <th colspan="6" class="highlightGreen">Pot</th>
+  </tr>
+  <tr>
+    <td class="leftText">Beast Shield</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Unlucky Seed</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <th>Name</th>
+    <th>F</th>
+    <th>S</th>
+    <th>P</th>
+    <th>Z</th>
+    <th>E</th>
+  </tr>
+  <tr>
+    <td class="leftText">Targite</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Disaster Seed</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Storage Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Red Shield</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Antidote Grass</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Synthesis Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Fuuma Shield</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Strength Grass</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Identify Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Diet Shield</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Poison Grass</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Upgrade Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Heavy Shield</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Swift Grass</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Degrade Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Lizard Shield</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Dizzy Grass</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Purify Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Counter Shield</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Sleep Grass</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Curse Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Spry Shield</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Rage Grass</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Blessing Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Shoddy Plank</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Amnesia Grass</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Mailing Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Blast Shield</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Warp Grass</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Void Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Dull Gold Shield</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Sight Grass</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Sale Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Steady Shield</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Dragon Grass</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Presto Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Gazer Guard</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Power Up Grass</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Hide Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Swap Shield</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Invincible Grass</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Sticky Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Happy Shield</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Revival Grass</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">4-2-8 Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Bowl Shield</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Imabikiso</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Sturdy Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Lock Shield</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Growth Seed</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Ordinary Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Safe Shield</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Blinding Grass</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Heal Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Gyadon Guard</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Undo Grass</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Zalokleft Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Lamp Shield</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <th colspan="6" class="highlightGreen">Staff</th>
+    <td class="leftText">Monster Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th colspan="6" class="highlightGreen">Projectile</th>
+    <th>Name</th>
+    <th>F</th>
+    <th>S</th>
+    <th>P</th>
+    <th>Z</th>
+    <th>E</th>
+    <td class="leftText">Water Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Name</th>
+    <th>F</th>
+    <th>S</th>
+    <th>P</th>
+    <th>Z</th>
+    <th>E</th>
+    <td class="leftText">Empathy Staff</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Oil Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Wood Arrow</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Transient Staff</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Chocolate Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Iron Arrow</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Paralysis Staff</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Calling Pot</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Silver Arrow</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Swap Staff</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <th colspan="6" class="highlightGreen">Talisman</th>
+  </tr>
+  <tr>
+    <td class="leftText">Critical Arrow</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Knockback Staff</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <th>Name</th>
+    <th>F</th>
+    <th>S</th>
+    <th>P</th>
+    <th>Z</th>
+    <th>E</th>
+  </tr>
+  <tr>
+    <td class="leftText">Poison Arrow</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Seal Staff</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Sleep Talisman</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Knockback Arrow</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Decoy Staff</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Seal Talisman</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Homing Arrow</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Balance Staff</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Dizzy Talisman</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Killer Arrow</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Tunnel Staff</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Miss Talisman</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Drain Arrow</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Pinning Staff</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Fear Talisman</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Rock</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Swift Staff</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Bind Talisman</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Porky Rock</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Slow Staff</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Swift Talisman</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Bomb Rock</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Happy Staff</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Slow Talisman</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th colspan="6" class="highlightGreen">Other</th>
+    <td class="leftText">Unlucky Staff</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Berserk Talisman</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Name</th>
+    <th>F</th>
+    <th>S</th>
+    <th>P</th>
+    <th>Z</th>
+    <th>E</th>
+    <td class="leftText">Trap Erase Staff</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Rage Talisman</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Torch</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Mage Staff</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Fury Talisman</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Fine Torch</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Ordinary Staff</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <th colspan="6" class="highlightGreen">Food</th>
+  </tr>
+  <tr>
+    <td class="leftText">Super Torch</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Lightning Staff</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <th>Name</th>
+    <th>F</th>
+    <th>S</th>
+    <th>P</th>
+    <th>Z</th>
+    <th>E</th>
+  </tr>
+  <tr>
+    <td class="leftText">Gitan</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Fortress Staff</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Green Banana</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td rowspan="3" colspan="6" class="highlightGray"></td>
+    <td rowspan="3" colspan="6" class="highlightGray"></td>
+    <td class="leftText">Yellow Banana</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Ripe Banana</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Grilled Banana</td>
+    <td></td>
+    <td></td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+※ If you find an item that isn't listed, please feel free to add it to the table.
+
+# Traps
+
+1-2F: None (Trip if Trap Scroll is read)
+
+3-5F: Bind, Trip, Wood Arrow, Poison Arrow
+
+6-7F: Trip, Rockfall, Spin, Spring
+
+8-10F: Hunger, Poison Arrow, Spoil, Rust, Strip
+
+11-12F: Trip, Hide Gauge, Blind, Spin, Slow
+
+13-18F: Banana, Curse, Summon, Landmine, Sleep
+
+19-20F: Poison Arrow, Hunger, Spin, Strip, Bind
+
+21-23F: Trip, Rockfall, Revitalize, Slow, Spoil
+
+24-30F: Landmine, Spring, Blind, Summon, Hide Gauge, Rust, Banana
+
+31-36F: Metal, Strip, Monster, Curse, Rage, Summon, Landmine, Sleep
+
+# NPCs
