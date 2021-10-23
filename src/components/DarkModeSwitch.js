@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from '@emotion/styled';
-
 import NightImage from './images/night.png';
 import DayImage from './images/day.png';
 

@@ -392,7 +392,7 @@ Runes:
     </tr>
     <tr>
       <td class="highlightGray">Calm Bracelet</td>
-      <td>Prevents confusion from sources like Spin Trap, Fowl Wizard, final boss.</td>
+      <td>Prevents confusion from sources like Spin Trap, MC Mage, final boss.</td>
     </tr>
     <tr>
       <td class="highlightGray">Cleansing Bracelet</td>
@@ -666,7 +666,7 @@ Linger on these floors and hunt monsters to level up.<br/>This is basically the 
 </div>
 
 Daytime-only.<br/>
-Trauma inducing Gyazas appear alongside Cheer-Hams and Banana Morphs.<br/>Gyazas convert most non-direct attacks and effects into 2 damage.<br/>Cheer-Hams boost the attack power of adjacent creatures and let them survive a fatal hit with 1 HP.<br/>Banana Morphs transform an inventory item into a Yellow Banana, so don't let them act.<br/>Concusschins have 83 HP and explode if you deal a total of 67+ damage without defeating it,<br/>so use arrows, rocks, or unequip your weapon to ensure it doesn't explode.
+Trauma inducing Gyazas appear alongside Go Hams and Banana Morphs.<br/>Gyazas convert most non-direct attacks and effects into 2 damage.<br/>Go Hams boost the attack power of adjacent creatures and let them survive a fatal hit with 1 HP.<br/>Banana Morphs transform an inventory item into a Yellow Banana, so don't let them act.<br/>Concusschins have 83 HP and explode if you deal a total of 67+ damage without defeating it,<br/>so use arrows, rocks, or unequip your weapon to ensure it doesn't explode.
 
 
 It's somewhat safe to check rooms if your weapon has the Anti-Aquatic rune,<br/>
@@ -792,16 +792,16 @@ The day and night cycle returns starting on 27F, so finish synthesizing on 26F.<
   <img src="../images/dungeons/devils_navel_2.png"/>
 </div>
 
-Mixers continue to appear on 27F, so finish synthesizing if you didn't do so on 26F.<br/>Fowl Wizard's magic bullet effect is randomly selected from confusion, blind, transient, and 20 damage.<br/>If a Kappa Pest is standing on an item, swing a Transient Staff or wait until night to claim the item.<br/>Grape Grimes lower weapon or shield upgrade value by 2 and can multiply, so unequip your equipment.<br/>Continue to hunt Lime Zaloklefts (24-30F) for item drops if possible.<br/>Remember, you want to save Seal Staff for the final boss.
+Mixers continue to appear on 27F, so finish synthesizing if you didn't do so on 26F.<br/>MC Mage's magic bullet effect is randomly selected from confusion, blind, transient, and 20 damage.<br/>If a Kappa Pest is standing on an item, swing a Transient Staff or wait until night to claim the item.<br/>Grimes lower weapon or shield upgrade value by 2 and can multiply, so unequip your equipment.<br/>Continue to hunt Lime Zaloklefts (24-30F) for item drops if possible.<br/>Remember, you want to save Seal Staff for the final boss.
 
 Dark Ricebadgers and Evil Sky Dragons can't be one-shot with B rank moves at night.<br/>Evil Sky Dragon's special attack deals 50 fire damage from anywhere in the room, so stay in hallways.<br/>That said, Evil Sky Dragons provide 1500 experience points, so try to defeat any that you see.
 
 ⭐︎ <span class="orangeText">For those that can't deal with night</span> ⭐︎
 
 Rush stairs in hopes of reaching the boss before it turns to night.<br/>
-If you get the transient effect from a Fowl Wizard's magic bullet, go ahead and advance to the next floor.<br/>To avoid wasting turns, don't approach Kappa Pest if it's standing on an item.
+If you get the transient effect from a MC Mage's magic bullet, go ahead and advance to the next floor.<br/>To avoid wasting turns, don't approach Kappa Pest if it's standing on an item.
 
-### Boss 1
+### Mid Boss
 
 This is typically the most difficult point of the main story.
 
@@ -899,26 +899,1021 @@ Incredibly high HP, summons monsters, inflicts confusion, cures status condition
 
 Seal the boss immediately when the fight begins to avoid having to deal with summoned monsters,<br/>and then use items like Banana Peel, Fear Scroll, Fear Talisman, Seal Staff, etc. to keep the boss disabled.<br/>The boss is immune to Sleep, Decoy, and Paralysis, so just keep that in mind and you should be fine.<br/>It's possible to clear this fight without taking damage if you keep track of the turn order.
 
-
-
 # Monsters
 
 #### List (Day)
 
+<table class="dungeonMonsterList monsterListDay">
+  <thead>
+    <tr>
+      <th>F</th>
+      <th>Name</th>
+      <th>HP</th>
+      <th>Atk</th>
+      <th>Def</th>
+      <th>Exp</th>
+      <th>Skill</th>
+      <th>Type</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1-2</td>
+      <td>Mamel</td>
+      <td>5</td>
+      <td>2</td>
+      <td>1</td>
+      <td>3</td>
+      <td>1</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>1-3</td>
+      <td>Seedie</td>
+      <td>6</td>
+      <td>3</td>
+      <td>4</td>
+      <td>5</td>
+      <td>1</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2-3</td>
+      <td>Chintala</td>
+      <td>7</td>
+      <td>7</td>
+      <td>1</td>
+      <td>4</td>
+      <td>1</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>2-4</td>
+      <td>Pit Mamel</td>
+      <td>9</td>
+      <td>6</td>
+      <td>3</td>
+      <td>6</td>
+      <td>1</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>3-7</td>
+      <td>Froggo</td>
+      <td>28</td>
+      <td>10</td>
+      <td>1</td>
+      <td>5</td>
+      <td>1</td>
+      <td>-</td>
+      <td>Steals ~500G, warps, and runs away at double speed.</td>
+    </tr>
+    <tr>
+      <td>3-5</td>
+      <td>Hopodile</td>
+      <td>19</td>
+      <td>9</td>
+      <td>4</td>
+      <td>12</td>
+      <td>5</td>
+      <td>Dragon<br/>Aquatic</td>
+      <td>Chess knight movement, 10 damage body slam.</td>
+    </tr>
+    <tr>
+      <td>3-5</td>
+      <td>Bored Kappa</td>
+      <td>14</td>
+      <td>7</td>
+      <td>3</td>
+      <td>4</td>
+      <td>2</td>
+      <td>Aquatic</td>
+      <td>Throws ground items in a 3 tile radius, always misses.</td>
+    </tr>
+    <tr>
+      <td>4-6</td>
+      <td>Squid King</td>
+      <td>19</td>
+      <td>8</td>
+      <td>4</td>
+      <td>8</td>
+      <td>2</td>
+      <td>Aquatic</td>
+      <td>Inflicts Blind status 1 tile in front.</td>
+    </tr>
+    <tr>
+      <td>6-7</td>
+      <td>Blade Bee</td>
+      <td>15</td>
+      <td>13</td>
+      <td>1</td>
+      <td>13</td>
+      <td>5</td>
+      <td>Floating</td>
+      <td>Stinger inflicts Confused status, and then it collapses.</td>
+    </tr>
+    <tr>
+      <td>6-8</td>
+      <td>Ricebear</td>
+      <td>25</td>
+      <td>15</td>
+      <td>8</td>
+      <td>35</td>
+      <td>8</td>
+      <td>-</td>
+      <td>Item drop is always Onigiri.</td>
+    </tr>
+    <tr>
+      <td>6-8</td>
+      <td>Firepuff</td>
+      <td>17</td>
+      <td>7</td>
+      <td>7</td>
+      <td>10</td>
+      <td>2</td>
+      <td>Dragon<br/>Floating</td>
+      <td>10 fire damage 1 tile in front, but attack can fail.</td>
+    </tr>
+    <tr>
+      <td>7-9</td>
+      <td>DJ Mage</td>
+      <td>16</td>
+      <td>8</td>
+      <td>6</td>
+      <td>14</td>
+      <td>4</td>
+      <td>-</td>
+      <td>Warp, knockback, swap places, or swift by 1 stage.</td>
+    </tr>
+    <tr>
+      <td>8-10</td>
+      <td>Zalokleft</td>
+      <td>30</td>
+      <td>10</td>
+      <td>6</td>
+      <td>8</td>
+      <td>3</td>
+      <td>Aquatic</td>
+      <td>Steals an item and warps away. 100% item drop rate.</td>
+    </tr>
+    <tr>
+      <td>8-10</td>
+      <td>Slime</td>
+      <td>21</td>
+      <td>6</td>
+      <td>3</td>
+      <td>10</td>
+      <td>4</td>
+      <td>Aquatic</td>
+      <td>Lowers weapon or shield upgrade value by 1.</td>
+    </tr>
+    <tr>
+      <td>8-10</td>
+      <td>Curse Girl</td>
+      <td>21</td>
+      <td>13</td>
+      <td>7</td>
+      <td>22</td>
+      <td>5</td>
+      <td>-</td>
+      <td>Curses or seals 1 item.</td>
+    </tr>
+    <tr>
+      <td>9-11</td>
+      <td>Mid Chintala</td>
+      <td>28</td>
+      <td>18</td>
+      <td>8</td>
+      <td>40</td>
+      <td>10</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>10-12</td>
+      <td>Scorpion</td>
+      <td>35</td>
+      <td>18</td>
+      <td>12</td>
+      <td>53</td>
+      <td>12</td>
+      <td>Drain</td>
+      <td>Lowers strength by 1.</td>
+    </tr>
+    <tr>
+      <td>10-12</td>
+      <td>Absorbiphant</td>
+      <td>27</td>
+      <td>13</td>
+      <td>10</td>
+      <td>28</td>
+      <td>6</td>
+      <td>Drain</td>
+      <td>Absorbs status. (Heal HP, boost attack by 1 stage)</td>
+    </tr>
+    <tr>
+      <td>11-12</td>
+      <td>Tiger Tosser</td>
+      <td>42</td>
+      <td>20</td>
+      <td>12</td>
+      <td>63</td>
+      <td>16</td>
+      <td>-</td>
+      <td>Throws creatures up to 5 tiles away. (5 damage)</td>
+    </tr>
+    <tr>
+      <td>11-12</td>
+      <td>Strong Cart</td>
+      <td>34</td>
+      <td>16</td>
+      <td>10</td>
+      <td>50</td>
+      <td>9</td>
+      <td>-</td>
+      <td>Swift 1, shoots Knockback Arrows.</td>
+    </tr>
+    <tr>
+      <td>13-18</td>
+      <td>Fearabbit</td>
+      <td>26</td>
+      <td>9</td>
+      <td>9</td>
+      <td>67</td>
+      <td>9</td>
+      <td>-</td>
+      <td>Attracts creatures in the room to itself.</td>
+    </tr>
+    <tr>
+      <td>13-18</td>
+      <td>Pumphantasm</td>
+      <td>34</td>
+      <td>24</td>
+      <td>3</td>
+      <td>83</td>
+      <td>24</td>
+      <td>Floating</td>
+      <td>Moves through walls, unpredictable movement.</td>
+    </tr>
+    <tr>
+      <td>13-18</td>
+      <td>Porky</td>
+      <td>47</td>
+      <td>21</td>
+      <td>8</td>
+      <td>100</td>
+      <td>20</td>
+      <td>-</td>
+      <td>Throws 20 damage Porky Rock, range of 2 tiles.</td>
+    </tr>
+    <tr>
+      <td>13-18</td>
+      <td>Traproid</td>
+      <td>44</td>
+      <td>18</td>
+      <td>12</td>
+      <td>72</td>
+      <td>9</td>
+      <td>-</td>
+      <td>Swift 1, creates traps.</td>
+    </tr>
+    <tr>
+      <td>13-18</td>
+      <td>N'twyn</td>
+      <td>36</td>
+      <td>37</td>
+      <td>8</td>
+      <td>33</td>
+      <td>9</td>
+      <td>-</td>
+      <td>Disguised as an item, attacks if you try to use it.</td>
+    </tr>
+    <tr>
+      <td>13-18</td>
+      <td>Villeater</td>
+      <td>75</td>
+      <td>60</td>
+      <td>25</td>
+      <td>1000</td>
+      <td>100</td>
+      <td>-</td>
+      <td>Spawns after ominous area warning.<br/>Speed increases to swift 1 if Shiren is in view.<br/>Roar inflicts Fear. Stats increase based on depth.</td>
+    </tr>
+    <tr>
+      <td>17-18</td>
+      <td>Pot Knave</td>
+      <td>43</td>
+      <td>16</td>
+      <td>11</td>
+      <td>75</td>
+      <td>8</td>
+      <td>-</td>
+      <td>Turns floor items into Weeds, throws Weeds into pots.</td>
+    </tr>
+    <tr>
+      <td>19-20</td>
+      <td>Kengo</td>
+      <td>58</td>
+      <td>32</td>
+      <td>16</td>
+      <td>180</td>
+      <td>15</td>
+      <td>-</td>
+      <td>Knocks away your equipped shield.</td>
+    </tr>
+    <tr>
+      <td>19-20</td>
+      <td>Dagger Bee</td>
+      <td>46</td>
+      <td>27</td>
+      <td>14</td>
+      <td>200</td>
+      <td>30</td>
+      <td>Floating</td>
+      <td>Stinger inflicts Confused status, and then it collapses.</td>
+    </tr>
+    <tr>
+      <td>19-20</td>
+      <td>Gyadon</td>
+      <td>48</td>
+      <td>22</td>
+      <td>17</td>
+      <td>90</td>
+      <td>12</td>
+      <td>Floating</td>
+      <td>Lowers a staff's use count to 0.</td>
+    </tr>
+    <tr>
+      <td>19-20</td>
+      <td>Flamepuff</td>
+      <td>48</td>
+      <td>18</td>
+      <td>18</td>
+      <td>120</td>
+      <td>15</td>
+      <td>Dragon<br/>Floating</td>
+      <td>20 fire damage 1 tile in front, but attack can fail.</td>
+    </tr>
+    <tr>
+      <td>19-20</td>
+      <td>Sr. Yanpii</td>
+      <td>49</td>
+      <td>44</td>
+      <td>13</td>
+      <td>310</td>
+      <td>40</td>
+      <td>-</td>
+      <td>Headbutts, dealing 20 damage and knockback.</td>
+    </tr>
+    <tr>
+      <td>19-23</td>
+      <td>Froggucci</td>
+      <td>51</td>
+      <td>23</td>
+      <td>7</td>
+      <td>10</td>
+      <td>7</td>
+      <td>-</td>
+      <td>Steals ~1000G, warps, and runs away at double speed.</td>
+    </tr>
+    <tr>
+      <td>21-23</td>
+      <td>Go Ham</td>
+      <td>34</td>
+      <td>15</td>
+      <td>10</td>
+      <td>50</td>
+      <td>20</td>
+      <td>-</td>
+      <td>Cheer raises attack by 2 stages, grants Enduring.</td>
+    </tr>
+    <tr>
+      <td>21-23</td>
+      <td>Concusschin</td>
+      <td>83</td>
+      <td>22</td>
+      <td>10</td>
+      <td>110</td>
+      <td>20</td>
+      <td>Bomb<br/>Aquatic<br/>Cyclops</td>
+      <td>Stops moving after taking 46+ damage.<br/>Explodes after taking 67+ damage.<br/>Explosion leaves Shiren with 1 HP.</td>
+    </tr>
+    <tr>
+      <td>21-23</td>
+      <td>Flashbird</td>
+      <td>31</td>
+      <td>11</td>
+      <td>18</td>
+      <td>57</td>
+      <td>9</td>
+      <td>Floating</td>
+      <td>Heals nearby monster HP by 30, burns thrown items.</td>
+    </tr>
+    <tr>
+      <td>21-23</td>
+      <td>Banana Morph</td>
+      <td>58</td>
+      <td>32</td>
+      <td>18</td>
+      <td>330</td>
+      <td>25</td>
+      <td>-</td>
+      <td>Turns an inventory item into a Yellow Banana.<br/>Instantly collapses if hit by a thrown banana.</td>
+    </tr>
+    <tr>
+      <td>21-23</td>
+      <td>Gyaza</td>
+      <td>68</td>
+      <td>36</td>
+      <td>23</td>
+      <td>400</td>
+      <td>40</td>
+      <td>Aquatic</td>
+      <td>Converts non-direct attacks and effects to 2 damage.</td>
+    </tr>
+    <tr>
+      <td>24-30</td>
+      <td>Lime Zalokleft</td>
+      <td>55</td>
+      <td>17</td>
+      <td>11</td>
+      <td>24</td>
+      <td>10</td>
+      <td>Aquatic</td>
+      <td>Steals an item and warps away. 100% item drop rate.</td>
+    </tr>
+    <tr>
+      <td>24-26</td>
+      <td>Cursister</td>
+      <td>52</td>
+      <td>24</td>
+      <td>15</td>
+      <td>170</td>
+      <td>20</td>
+      <td>-</td>
+      <td>Curses or seals 1 item.</td>
+    </tr>
+    <tr>
+      <td>24-26</td>
+      <td>Super Gazer</td>
+      <td>49</td>
+      <td>19</td>
+      <td>17</td>
+      <td>190</td>
+      <td>20</td>
+      <td>Cyclops</td>
+      <td>Hypnotizes, making you perform an involuntary action.</td>
+    </tr>
+    <tr>
+      <td>24-26</td>
+      <td>Dragon</td>
+      <td>80</td>
+      <td>45</td>
+      <td>23</td>
+      <td>1000</td>
+      <td>40</td>
+      <td>Dragon</td>
+      <td>30 damage fire in a straight line.</td>
+    </tr>
+    <tr>
+      <td>24-26</td>
+      <td>Hipadile</td>
+      <td>70</td>
+      <td>40</td>
+      <td>21</td>
+      <td>600</td>
+      <td>40</td>
+      <td>Dragon<br/>Aquatic</td>
+      <td>Chess knight movement, 20 damage body slam.</td>
+    </tr>
+    <tr>
+      <td>24-36</td>
+      <td>N'mach</td>
+      <td>47</td>
+      <td>53</td>
+      <td>11</td>
+      <td>100</td>
+      <td>20</td>
+      <td>-</td>
+      <td>Disguised as an item, attacks if you try to use it.<br/>Remains unidentified if you return to Boronga Village.</td>
+    </tr>
+    <tr>
+      <td>26-27</td>
+      <td>Mixer</td>
+      <td>45</td>
+      <td>15</td>
+      <td>9</td>
+      <td>33</td>
+      <td>8</td>
+      <td>-</td>
+      <td>Eats up to 2 thrown items and synthesizes them.</td>
+    </tr>
+    <tr>
+      <td>27-30</td>
+      <td>MC Mage</td>
+      <td>51</td>
+      <td>21</td>
+      <td>18</td>
+      <td>170</td>
+      <td>25</td>
+      <td>-</td>
+      <td>Confused, Blind, transient effect, or 20 damage.</td>
+    </tr>
+    <tr>
+      <td>27-30</td>
+      <td>Pumphantom</td>
+      <td>66</td>
+      <td>36</td>
+      <td>15</td>
+      <td>210</td>
+      <td>25</td>
+      <td>Floating</td>
+      <td>Moves through walls, unpredictable movement.</td>
+    </tr>
+    <tr>
+      <td>27-30</td>
+      <td>Kappa Pest</td>
+      <td>56</td>
+      <td>28</td>
+      <td>17</td>
+      <td>180</td>
+      <td>20</td>
+      <td>Aquatic</td>
+      <td>Throws ground items in a 5 tile radius.</td>
+    </tr>
+    <tr>
+      <td>27-30</td>
+      <td>Grime</td>
+      <td>43</td>
+      <td>12</td>
+      <td>7</td>
+      <td>80</td>
+      <td>20</td>
+      <td>Aquatic</td>
+      <td>Lowers weapon or shield upgrade value by 2.</td>
+    </tr>
+    <tr>
+      <td>-</td>
+      <td>Mid Boss</td>
+      <td>301</td>
+      <td>70</td>
+      <td>15</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-</td>
+      <td>See <a href="#mid-boss">Mid Boss</a>.</td>
+    </tr>
+    <tr>
+      <td>31-33</td>
+      <td>Chainhead</td>
+      <td>84</td>
+      <td>60</td>
+      <td>19</td>
+      <td>900</td>
+      <td>70</td>
+      <td>Cyclops</td>
+      <td>Hits targets 2 tiles away, charges strength.</td>
+    </tr>
+    <tr>
+      <td>31-33</td>
+      <td>Demon Scorp</td>
+      <td>70</td>
+      <td>34</td>
+      <td>25</td>
+      <td>360</td>
+      <td>25</td>
+      <td>Drain</td>
+      <td>Lowers strength by 2.</td>
+    </tr>
+    <tr>
+      <td>31-33</td>
+      <td>Grampa Tank</td>
+      <td>75</td>
+      <td>37</td>
+      <td>20</td>
+      <td>400</td>
+      <td>35</td>
+      <td>Bomb</td>
+      <td>Fires 30 damage cannonballs.</td>
+    </tr>
+    <tr>
+      <td>31-36</td>
+      <td>Digestiphant</td>
+      <td>48</td>
+      <td>30</td>
+      <td>16</td>
+      <td>270</td>
+      <td>25</td>
+      <td>Drain</td>
+      <td>Absorbs status. (Heal HP, boost attack by 2 stages)</td>
+    </tr>
+    <tr>
+      <td>31-36</td>
+      <td>Eligan</td>
+      <td>78</td>
+      <td>60</td>
+      <td>23</td>
+      <td>1200</td>
+      <td>50</td>
+      <td>-</td>
+      <td>No abilities, but high attack power.</td>
+    </tr>
+    <tr>
+      <td>31-36</td>
+      <td>Villeater</td>
+      <td>75</td>
+      <td>60</td>
+      <td>25</td>
+      <td>1000</td>
+      <td>100</td>
+      <td>-</td>
+      <td>Spawns after ominous area warning.<br/>Speed increases to swift 1 if Shiren is in view.<br/>Roar inflicts Fear. Stats increase based on depth.</td>
+    </tr>
+    <tr>
+      <td>34-36</td>
+      <td>Porkchop</td>
+      <td>72</td>
+      <td>38</td>
+      <td>22</td>
+      <td>840</td>
+      <td>70</td>
+      <td>-</td>
+      <td>Throws 20 damage Porky Rock, range of 4 tiles.</td>
+    </tr>
+    <tr>
+      <td>34-36</td>
+      <td>Tiger Hurler</td>
+      <td>68</td>
+      <td>39</td>
+      <td>18</td>
+      <td>350</td>
+      <td>35</td>
+      <td>-</td>
+      <td>Throws creatures up to 10 tiles away. (10 damage)</td>
+    </tr>
+    <tr>
+      <td>34-36</td>
+      <td>Cave Mamel</td>
+      <td>6</td>
+      <td>54</td>
+      <td>19</td>
+      <td>1000</td>
+      <td>70</td>
+      <td>-</td>
+      <td>Converts direct attack damage to 1.</td>
+    </tr>
+    <tr>
+      <td>-</td>
+      <td>Final Boss</td>
+      <td>1800</td>
+      <td>100</td>
+      <td>20</td>
+      <td>0</td>
+      <td>0</td>
+      <td>-</td>
+      <td>See <a href="#final-boss">Final Boss</a>.</td>
+    </tr>
+  </tbody>
+</table>
+
 #### List (Night)
+
+<table class="dungeonMonsterList monsterListNight">
+  <thead>
+    <tr>
+      <th>F</th>
+      <th>Name</th>
+      <th>HP</th>
+      <th>Atk</th>
+      <th>Def</th>
+      <th>Exp</th>
+      <th>Skill</th>
+      <th>Type</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>6-7</td>
+      <td>Dark Bored Kappa</td>
+      <td>17</td>
+      <td>11</td>
+      <td>2</td>
+      <td>12</td>
+      <td>7</td>
+      <td>Aquatic</td>
+      <td>Throws ground items in a 3 tile radius, always misses.</td>
+    </tr>
+    <tr>
+      <td>6-7</td>
+      <td>Evil Chintala</td>
+      <td>20</td>
+      <td>18</td>
+      <td>2</td>
+      <td>24</td>
+      <td>15</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>6-7</td>
+      <td>Snide Froggo</td>
+      <td>26</td>
+      <td>8</td>
+      <td>0</td>
+      <td>5</td>
+      <td>5</td>
+      <td>-</td>
+      <td>Steals Gitan, but also uses direct attacks.</td>
+    </tr>
+    <tr>
+      <td>6-8</td>
+      <td>Evil Firepuff</td>
+      <td>18</td>
+      <td>8</td>
+      <td>3</td>
+      <td>11</td>
+      <td>7</td>
+      <td>Dragon<br/>Floating</td>
+      <td>20 fire damage 1 tile in front, but attack can fail.</td>
+    </tr>
+    <tr>
+      <td>8-10</td>
+      <td>Evil Hopodile</td>
+      <td>28</td>
+      <td>26</td>
+      <td>3</td>
+      <td>35</td>
+      <td>20</td>
+      <td>Dragon<br/>Aquatic</td>
+      <td>Chess knight movement, 15 damage body slam.</td>
+    </tr>
+    <tr>
+      <td>8-10</td>
+      <td>Dark Boy Cart</td>
+      <td>16</td>
+      <td>11</td>
+      <td>2</td>
+      <td>14</td>
+      <td>7</td>
+      <td>-</td>
+      <td>Swift 1, shoots Wood Arrows. Missed arrows vanish.</td>
+    </tr>
+    <tr>
+      <td>8-10</td>
+      <td>Foul Morph</td>
+      <td>22</td>
+      <td>16</td>
+      <td>2</td>
+      <td>22</td>
+      <td>15</td>
+      <td>-</td>
+      <td>Turns an inventory item into a Spoiled Banana.</td>
+    </tr>
+    <tr>
+      <td>11-12</td>
+      <td>Evil Gazer</td>
+      <td>15</td>
+      <td>10</td>
+      <td>1</td>
+      <td>16</td>
+      <td>10</td>
+      <td>Cyclops</td>
+      <td>Hypnotizes, making you perform an involuntary action.</td>
+    </tr>
+    <tr>
+      <td>11-12</td>
+      <td>Dark Pit Mamel</td>
+      <td>35</td>
+      <td>32</td>
+      <td>4</td>
+      <td>56</td>
+      <td>30</td>
+      <td>-</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11-12</td>
+      <td>Dark Absorbiphant</td>
+      <td>33</td>
+      <td>24</td>
+      <td>4</td>
+      <td>40</td>
+      <td>20</td>
+      <td>Drain</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13-18</td>
+      <td>Evil PolySpinna</td>
+      <td>25</td>
+      <td>18</td>
+      <td>3</td>
+      <td>26</td>
+      <td>13</td>
+      <td>Drain</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13-18</td>
+      <td>Evil Porky</td>
+      <td>39</td>
+      <td>28</td>
+      <td>3</td>
+      <td>200</td>
+      <td>30</td>
+      <td>-</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13-18</td>
+      <td>Shady Slime</td>
+      <td>23</td>
+      <td>14</td>
+      <td>1</td>
+      <td>18</td>
+      <td>13</td>
+      <td>Aquatic</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13-18</td>
+      <td>Dark N'twyn</td>
+      <td>35</td>
+      <td>52</td>
+      <td>1</td>
+      <td>220</td>
+      <td>50</td>
+      <td>-</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13-18</td>
+      <td>Dark Villeater</td>
+      <td>85</td>
+      <td>65</td>
+      <td>9</td>
+      <td>1500</td>
+      <td>250</td>
+      <td>-</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>27-30</td>
+      <td>Dark Traproid</td>
+      <td>43</td>
+      <td>35</td>
+      <td>5</td>
+      <td>60</td>
+      <td>25</td>
+      <td>-</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>27-30</td>
+      <td>Dark Ricebadger</td>
+      <td>52</td>
+      <td>48</td>
+      <td>7</td>
+      <td>270</td>
+      <td>75</td>
+      <td>-</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>27-30</td>
+      <td>Evil Sky Dragon</td>
+      <td>65</td>
+      <td>59</td>
+      <td>10</td>
+      <td>1500</td>
+      <td>220</td>
+      <td>Dragon</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>27-30</td>
+      <td>Dark Demon Scorp</td>
+      <td>65</td>
+      <td>62</td>
+      <td>9</td>
+      <td>720</td>
+      <td>180</td>
+      <td>Drain</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>27-36</td>
+      <td>Dark N'mach</td>
+      <td>48</td>
+      <td>75</td>
+      <td>2</td>
+      <td>850</td>
+      <td>160</td>
+      <td>-</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>31-33</td>
+      <td>Bad Lime Zalokleft</td>
+      <td>45</td>
+      <td>15</td>
+      <td>1</td>
+      <td>20</td>
+      <td>20</td>
+      <td>Aquatic</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>31-33</td>
+      <td>Snide Froggucci</td>
+      <td>36</td>
+      <td>19</td>
+      <td>1</td>
+      <td>30</td>
+      <td>20</td>
+      <td>-</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>31-33</td>
+      <td>Dark Cursister</td>
+      <td>40</td>
+      <td>35</td>
+      <td>3</td>
+      <td>110</td>
+      <td>35</td>
+      <td>-</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>31-36</td>
+      <td>Dark Villeater</td>
+      <td>85</td>
+      <td>65</td>
+      <td>9</td>
+      <td>1500</td>
+      <td>250</td>
+      <td>-</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>34-36</td>
+      <td>Shady Grime</td>
+      <td>41</td>
+      <td>22</td>
+      <td>2</td>
+      <td>50</td>
+      <td>35</td>
+      <td>Aquatic</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>34-36</td>
+      <td>Dark Beanie</td>
+      <td>55</td>
+      <td>46</td>
+      <td>6</td>
+      <td>350</td>
+      <td>100</td>
+      <td>-</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>34-36</td>
+      <td>Foul Boss</td>
+      <td>45</td>
+      <td>38</td>
+      <td>5</td>
+      <td>150</td>
+      <td>45</td>
+      <td>-</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 # Monster Table
 
 #### Table (Day)
 
+
+
 #### Table (Night)
+
+
 
 # Items
 
-- F = Floor, Daytime monster drop
-- S = Shop, Night monster drop, Shiny Object (yellow), Peddler
+- F = Floor, Monster (day)
+- S = Shop, Monster (night), Maneater, Shiny Object (yellow), Peddler
 - P = Presto Pot
-- Z = Zalokleft drop
+- Z = Zalokleft
 - E = Elite Shop, Shiny Object (blue)
 
 <br/>

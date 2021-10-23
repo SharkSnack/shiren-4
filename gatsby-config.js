@@ -57,7 +57,7 @@ if (config.header.search && config.header.search.enabled && config.header.search
       appId: config.header.search.algoliaAppId, // algolia application id
       apiKey: config.header.search.algoliaAdminKey, // algolia admin key to index
       queries,
-      chunkSize: 10000, // default: 1000
+      chunkSize: 1000, // default: 1000
     }}
   )
 }

@@ -144,8 +144,8 @@ export const baseStyles = css`
     align-items: center;
   }
   .formElement {
-    background-color: transparent;
-    padding: 4px;
+    background-color: white;
+    margin: 4px;
     border-radius: 5px;
     position: relative;
   }
@@ -154,16 +154,19 @@ export const baseStyles = css`
     border: none;
   }
   .formElement svg path {
-    fill: #2fd2c5;
+    fill: #25A26D;
+  }
+  ::placeholder {
+    color: #091C10;
+    opacity: 1;
   }
   .searchInput {
     width: 100%;
     background-color: rgba(28,211,198,.12) !important;
     border-width: 0 !important;
-    color: #C2C2C2;
+    color: #091C10;
     padding: 10px;
     border-radius: 5px;
-    color: #fff;
     opacity: .6;
     padding-left: 38px;
     max-width: 600px;
@@ -178,7 +181,7 @@ export const baseStyles = css`
   .searchWrapper {
     padding-left: 0px;
     padding-right: 20px;
-    flex: 1;
+    /* flex: 1; */
     position: relative;
   }
   .searchWrapper a {
@@ -706,9 +709,44 @@ export const baseStyles = css`
     font-weight: normal;
     background-color: #f0f0f0;
   }
-  /* overviewTable (dungeon pages) */
   .overviewTable th {
     background-color: #ddfff7;
+  }
+  .dungeonMonsters th {
+    background-color: #f3f3f3;
+    font-weight: normal;
+    text-align: center;
+    padding: 2px;
+  }
+  .dungeonMonsters td {
+    font-size: 12.65px;
+    text-align: center;
+    padding: 2px;
+  }
+  .dungeonMonsterList th {
+    font-weight: normal;
+    text-align: center;
+    padding: 5px;
+  }
+  .dungeonMonsterList td {
+    text-align: center;
+    padding: 5px;
+  }
+  .dungeonMonsterList td:nth-of-type(1){
+    text-align: left;
+    background-color: #f7f7f7;
+  }
+  .dungeonMonsterList td:nth-of-type(2){
+    text-align: left;
+  }
+  .dungeonMonsterList td:nth-of-type(9){
+    text-align: left;
+  }
+  .monsterListDay td:nth-of-type(2) {
+    background-color: #fffff6;
+  }
+  .monsterListNight td:nth-of-type(2) {
+    background-color: #f8fbff;
   }
   .monsterTable th {
     padding: 4px;

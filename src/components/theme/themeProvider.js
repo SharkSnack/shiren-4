@@ -1,6 +1,5 @@
 import * as React from 'react';
 import { ThemeProvider as EmotionThemeProvider, Global, css} from '@emotion/react';
-
 import { lightTheme, darkTheme } from './index';
 import Header from '../Header';
 import { baseStyles } from '../styles/GlobalStyles';
