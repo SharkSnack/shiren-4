@@ -748,11 +748,33 @@ export const baseStyles = css`
   .monsterListNight td:nth-of-type(2) {
     background-color: #f8fbff;
   }
+  .monsterDay {
+    background-color: #fffff6;
+  }
+  .monsterNight {
+    background-color: #f8fbff;
+  }
   .monsterTable th {
-    padding: 4px;
+    text-align: center;
+    padding: 2.5px;
   }
   .monsterTable td {
-    padding: 4px;
+    text-align: center;
+    padding-left: 2.5px;
+    padding-right: 2.5px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+  .monsterTableVillage {
+    background-color: #e5f7ff;
+  }
+  .monsterTableNdubba {
+    color: white;
+    background-color: #467395;
+  }
+  .monsterTableManeater {
+    color: white;
+    background-color: #3d4353;
   }
   .monsterTableSmall th {
     padding: 2px;

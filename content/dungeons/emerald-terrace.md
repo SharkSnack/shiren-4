@@ -106,25 +106,25 @@ If you're new to Shiren, or aren't up for the challenge, it's best to stock up o
     </tr>
     <tr>
       <td class="highlightGray">Crocodile Swamp</td>
-      <td></td>
+      <td>6</td>
       <td>30</td>
       <td>(20)</td>
     </tr>
     <tr>
       <td class="highlightGray">Rocky Stretch</td>
-      <td></td>
+      <td>8</td>
       <td>30</td>
       <td>20</td>
     </tr>
     <tr>
       <td class="highlightGray">Snake Hole</td>
-      <td></td>
+      <td>7~8</td>
       <td>30</td>
       <td>20</td>
     </tr>
     <tr>
       <td class="highlightGray">Sea of Trees</td>
-      <td></td>
+      <td>7</td>
       <td>30</td>
       <td>20</td>
     </tr>
@@ -136,7 +136,7 @@ If you're new to Shiren, or aren't up for the challenge, it's best to stock up o
     </tr>
     <tr>
       <td class="highlightGray">Eagle Valley</td>
-      <td></td>
+      <td>6~8</td>
       <td>30</td>
       <td>(20)</td>
     </tr>
@@ -148,13 +148,13 @@ If you're new to Shiren, or aren't up for the challenge, it's best to stock up o
     </tr>
     <tr>
       <td class="highlightGray">Devil's Navel</td>
-      <td></td>
+      <td>8~10</td>
       <td>25</td>
       <td>20</td>
     </tr>
     <tr>
       <td class="highlightGray">Gold Palace</td>
-      <td></td>
+      <td>9~10</td>
       <td>25</td>
       <td>15</td>
     </tr>
@@ -352,7 +352,7 @@ Runes:
     <tr>
       <td class="highlightGray">1/2 Blast</td>
       <td>Blast Shield<br/>Bomb Rock</td>
-      <td>Reduces explosion damage received by 50%.<br/>Explosion damage sources include Pop Tank, Explochin, Explosion Trap.</td>
+      <td>Reduces explosion damage received by 50%.<br/>Explosion damage sources include Pop Tank, Explochin, Landmine.</td>
     </tr>
     <tr>
       <td class="highlightGray">Rustproof</td>
@@ -558,7 +558,7 @@ It's ideal to reach Lv20 for Shiren and Lv3 for equipment before advancing to 11
 - Antidote Grass
 - Desert Scroll
 
-Perform Nigiri Morph Factory using a Foul Morph if you have a torch and poison arrows.<br/>※ You can grill the bananas between 13-18F by having a Traproid create an Explosion Trap.
+Perform Nigiri Morph Factory using a Foul Morph if you have a torch and poison arrows.<br/>※ You can grill the bananas between 13-18F by having a Traproid create a Landmine.
 
 1. Place important items in a hallway near the stairs room before sunset.
 2. Shoot arrows at a wall or throw rocks on the ground.
@@ -621,7 +621,7 @@ Optional - Deposit Gitan into the Bank to receive items:
 
 Things start to get a bit difficult from this area onward without a Heal Bracelet.<br/>However, you'll be underleveled and will likely run out of items if you rush stairs this early,<br/>so check rooms for items and utilize Porky Rocks dropped by Porky to conserve items.<br/>Cluster Confusion + Room Cyclone can wipe out enemies, but it's rather risky.
 
-Fearabbits attract you and other monsters to itself, so you can end up surrounded right away.<br/>This area has large rooms, so they can be a big problem - use items like Fear Scroll if you get surrounded.<br/>Porky's special deals 20 damage, so use items instead of approaching with direct attacks to keep your HP up.<br/>N'twyn spawns both during the day and at night, so don't try to pick up items when your HP is low.<br/>Have a Traproid create an Explosion Trap to grill bananas if desired.
+Fearabbits attract you and other monsters to itself, so you can end up surrounded right away.<br/>This area has large rooms, so they can be a big problem - use items like Fear Scroll if you get surrounded.<br/>Porky's special deals 20 damage, so use items instead of approaching with direct attacks to keep your HP up.<br/>N'twyn spawns both during the day and at night, so don't try to pick up items when your HP is low.<br/>Have a Traproid create a Landmine to grill bananas if desired.
 
 Step in place near the stairs at night after checking every room, and defeat night monsters<br/>for experience points and item drops until you've used up all moves before advancing.<br/>If you have a Replenish Scroll, linger until Dark Villeaters appear and hunt them for items.<br/>It's also possible to refresh moves using Revival Grass or Undo Grass, but it's a gamble<br/>whether or not you'll obtain an item that's worth the trade.<br/>Don't fight Villeaters during the day.
 
@@ -971,7 +971,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>5</td>
       <td>1</td>
       <td>-</td>
-      <td>Steals ~500G, warps, and runs away at double speed.</td>
+      <td>Steals Gitan, warps, and runs away at double speed.</td>
     </tr>
     <tr>
       <td>3-5</td>
@@ -1059,7 +1059,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>8</td>
       <td>3</td>
       <td>Aquatic</td>
-      <td>Steals an item and warps away. 100% item drop rate.</td>
+      <td>Steals an item and warps. 100% item drop rate.</td>
     </tr>
     <tr>
       <td>8-10</td>
@@ -1279,7 +1279,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>10</td>
       <td>7</td>
       <td>-</td>
-      <td>Steals ~1000G, warps, and runs away at double speed.</td>
+      <td>Steals Gitan, warps, and runs away at double speed.</td>
     </tr>
     <tr>
       <td>21-23</td>
@@ -1345,7 +1345,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>24</td>
       <td>10</td>
       <td>Aquatic</td>
-      <td>Steals an item and warps away. 100% item drop rate.</td>
+      <td>Steals an item and warps. 100% item drop rate.</td>
     </tr>
     <tr>
       <td>24-26</td>
@@ -1629,7 +1629,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>5</td>
       <td>5</td>
       <td>-</td>
-      <td>Steals Gitan, but also uses direct attacks.</td>
+      <td>Steals Gitan, and uses direct attacks.</td>
     </tr>
     <tr>
       <td>6-8</td>
@@ -1695,7 +1695,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>56</td>
       <td>30</td>
       <td>-</td>
-      <td></td>
+      <td>No abilities, but high attack power.</td>
     </tr>
     <tr>
       <td>11-12</td>
@@ -1706,7 +1706,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>40</td>
       <td>20</td>
       <td>Drain</td>
-      <td></td>
+      <td>Absorbs status. (Heal HP, boost attack by 1 stage)</td>
     </tr>
     <tr>
       <td>13-18</td>
@@ -1717,7 +1717,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>26</td>
       <td>13</td>
       <td>Drain</td>
-      <td></td>
+      <td>Lowers max HP by 2, or max fullness by 5.</td>
     </tr>
     <tr>
       <td>13-18</td>
@@ -1728,7 +1728,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>200</td>
       <td>30</td>
       <td>-</td>
-      <td></td>
+      <td>Throws 20 damage Porky Rock, range of 2 tiles.</td>
     </tr>
     <tr>
       <td>13-18</td>
@@ -1739,7 +1739,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>18</td>
       <td>13</td>
       <td>Aquatic</td>
-      <td></td>
+      <td>Lowers weapon or shield upgrade value by 2.<br/>Puts out equipped torch, and uses direct attacks.</td>
     </tr>
     <tr>
       <td>13-18</td>
@@ -1750,7 +1750,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>220</td>
       <td>50</td>
       <td>-</td>
-      <td></td>
+      <td>Disguised as an item, attacks if you try to use it.</td>
     </tr>
     <tr>
       <td>13-18</td>
@@ -1761,7 +1761,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>1500</td>
       <td>250</td>
       <td>-</td>
-      <td></td>
+      <td>Spawns after ominous area warning.<br/>Speed increases to swift 1 if Shiren is in view.<br/>Roar inflicts Fear.</td>
     </tr>
     <tr>
       <td>27-30</td>
@@ -1772,7 +1772,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>60</td>
       <td>25</td>
       <td>-</td>
-      <td></td>
+      <td>Swift 1, creates traps.</td>
     </tr>
     <tr>
       <td>27-30</td>
@@ -1783,7 +1783,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>270</td>
       <td>75</td>
       <td>-</td>
-      <td></td>
+      <td>Item drop is always Onigiri.</td>
     </tr>
     <tr>
       <td>27-30</td>
@@ -1794,7 +1794,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>1500</td>
       <td>220</td>
       <td>Dragon</td>
-      <td></td>
+      <td>50 damage fire from anywhere in the room.</td>
     </tr>
     <tr>
       <td>27-30</td>
@@ -1805,7 +1805,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>720</td>
       <td>180</td>
       <td>Drain</td>
-      <td></td>
+      <td>Lowers strength by 3.</td>
     </tr>
     <tr>
       <td>27-36</td>
@@ -1816,7 +1816,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>850</td>
       <td>160</td>
       <td>-</td>
-      <td></td>
+      <td>Disguised as an item, attacks if you try to use it.<br/>Remains unidentified if you return to Boronga Village.</td>
     </tr>
     <tr>
       <td>31-33</td>
@@ -1827,7 +1827,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>20</td>
       <td>20</td>
       <td>Aquatic</td>
-      <td></td>
+      <td>Steals an item and warps. 100% item drop rate.<br/>Uses direct attacks.</td>
     </tr>
     <tr>
       <td>31-33</td>
@@ -1838,7 +1838,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>30</td>
       <td>20</td>
       <td>-</td>
-      <td></td>
+      <td>Steals Gitan, and uses direct attacks.</td>
     </tr>
     <tr>
       <td>31-33</td>
@@ -1849,7 +1849,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>110</td>
       <td>35</td>
       <td>-</td>
-      <td></td>
+      <td>Curses or seals 1 item.</td>
     </tr>
     <tr>
       <td>31-36</td>
@@ -1860,7 +1860,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>1500</td>
       <td>250</td>
       <td>-</td>
-      <td></td>
+      <td>Spawns after ominous area warning.<br/>Speed increases to swift 1 if Shiren is in view.<br/>Roar inflicts Fear.</td>
     </tr>
     <tr>
       <td>34-36</td>
@@ -1871,7 +1871,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>50</td>
       <td>35</td>
       <td>Aquatic</td>
-      <td></td>
+      <td>Lowers weapon or shield upgrade value by 3.<br/>Puts out equipped torch, and uses direct attacks.</td>
     </tr>
     <tr>
       <td>34-36</td>
@@ -1882,7 +1882,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>350</td>
       <td>100</td>
       <td>-</td>
-      <td></td>
+      <td>-</td>
     </tr>
     <tr>
       <td>34-36</td>
@@ -1893,20 +1893,568 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>150</td>
       <td>45</td>
       <td>-</td>
-      <td></td>
+      <td>Turns Shiren into a banana. (Torch is unequipped)</td>
     </tr>
   </tbody>
 </table>
 
 # Monster Table
 
-#### Table (Day)
+- F = Floor
+- <span class="monsterTableNdubba">N</span> = N'dubba level
+- <span class="monsterTableManeater">M</span> = Maneater level
 
+<br/>
 
-
-#### Table (Night)
-
-
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th colspan="6">Day</th>
+      <th>F</th>
+      <th colspan="4">Night</th>
+      <th>N</th>
+      <th>M</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Seedie</td>
+      <td>Mamel</td>
+      <th>1</th>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Chintala</td>
+      <td>Pit Mamel</td>
+      <td>Seedie</td>
+      <td>Mamel</td>
+      <th>2</th>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>Bored Kappa</td>
+      <td>Hopodile</td>
+      <td>Chintala</td>
+      <td>Pit Mamel</td>
+      <td>Seedie</td>
+      <td>Froggo</td>
+      <th>3</th>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>Bored Kappa</td>
+      <td>Hopodile</td>
+      <td class="highlightGray"></td>
+      <td>Pit Mamel</td>
+      <td>Squid King</td>
+      <td>Froggo</td>
+      <th>4</th>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>Bored Kappa</td>
+      <td>Hopodile</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Squid King</td>
+      <td>Froggo</td>
+      <th>5</th>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="13" class="monsterTableVillage">Gonchiki Village</td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>Blade Bee</td>
+      <td>Firepuff</td>
+      <td>Ricebear</td>
+      <td>Squid King</td>
+      <td>Froggo</td>
+      <th>6</th>
+      <td>Dark Bored Kappa</td>
+      <td>Evil Chintala</td>
+      <td>Snide Froggo</td>
+      <td>Evil Firepuff</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>Blade Bee</td>
+      <td>Firepuff</td>
+      <td>Ricebear</td>
+      <td>DJ Mage</td>
+      <td>Froggo</td>
+      <th>7</th>
+      <td>Dark Bored Kappa</td>
+      <td>Evil Chintala</td>
+      <td>Snide Froggo</td>
+      <td>Evil Firepuff</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>Curse Girl</td>
+      <td>Slime</td>
+      <td>Firepuff</td>
+      <td>Ricebear</td>
+      <td>DJ Mage</td>
+      <td>Zalokleft</td>
+      <th>8</th>
+      <td>Evil Hopodile</td>
+      <td>Dark Boy Cart</td>
+      <td>Foul Morph</td>
+      <td>Evil Firepuff</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>Curse Girl</td>
+      <td>Slime</td>
+      <td class="highlightGray"></td>
+      <td>Mid Chintala</td>
+      <td>DJ Mage</td>
+      <td>Zalokleft</td>
+      <th>9</th>
+      <td>Evil Hopodile</td>
+      <td>Dark Boy Cart</td>
+      <td>Foul Morph</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>Curse Girl</td>
+      <td>Slime</td>
+      <td>Absorbiphant</td>
+      <td>Mid Chintala</td>
+      <td>Scorpion</td>
+      <td>Zalokleft</td>
+      <th>10</th>
+      <td>Evil Hopodile</td>
+      <td>Dark Boy Cart</td>
+      <td>Foul Morph</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>Strong Cart</td>
+      <td>Absorbiphant</td>
+      <td>Mid Chintala</td>
+      <td>Scorpion</td>
+      <td>Tiger Tosser</td>
+      <th>11</th>
+      <td>Evil Gazer</td>
+      <td>Dark Pit Mamel</td>
+      <td>Dark Absorbiphant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>Strong Cart</td>
+      <td>Absorbiphant</td>
+      <td class="highlightGray"></td>
+      <td>Scorpion</td>
+      <td>Tiger Tosser</td>
+      <th>12</th>
+      <td>Evil Gazer</td>
+      <td>Dark Pit Mamel</td>
+      <td>Dark Absorbiphant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="13" class="monsterTableVillage">Rakutata Village</td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Traproid</td>
+      <td>Porky</td>
+      <td>Pumphantasm</td>
+      <td>Fearabbit</td>
+      <th>13</th>
+      <td>Evil PolySpinna</td>
+      <td>Evil Porky</td>
+      <td>Shady Slime</td>
+      <td class="highlightGray"></td>
+      <td rowspan="6" class="monsterTableNdubba">2</td>
+      <td rowspan="6" class="monsterTableManeater">2</td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Traproid</td>
+      <td>Porky</td>
+      <td>Pumphantasm</td>
+      <td>Fearabbit</td>
+      <th>14</th>
+      <td>Evil PolySpinna</td>
+      <td>Evil Porky</td>
+      <td>Shady Slime</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Traproid</td>
+      <td>Porky</td>
+      <td>Pumphantasm</td>
+      <td>Fearabbit</td>
+      <th>15</th>
+      <td>Evil PolySpinna</td>
+      <td>Evil Porky</td>
+      <td>Shady Slime</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Traproid</td>
+      <td>Porky</td>
+      <td>Pumphantasm</td>
+      <td>Fearabbit</td>
+      <th>16</th>
+      <td>Evil PolySpinna</td>
+      <td>Evil Porky</td>
+      <td>Shady Slime</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>Pot Knave</td>
+      <td>Traproid</td>
+      <td>Porky</td>
+      <td>Pumphantasm</td>
+      <td>Fearabbit</td>
+      <th>17</th>
+      <td>Evil PolySpinna</td>
+      <td>Evil Porky</td>
+      <td>Shady Slime</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>Pot Knave</td>
+      <td>Traproid</td>
+      <td>Porky</td>
+      <td>Pumphantasm</td>
+      <td>Fearabbit</td>
+      <th>18</th>
+      <td>Evil PolySpinna</td>
+      <td>Evil Porky</td>
+      <td>Shady Slime</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="13" class="monsterTableVillage">Monkey Village</td>
+    </tr>
+    <tr>
+      <td>Froggucci</td>
+      <td>Sr. Yanpii</td>
+      <td>Flamepuff</td>
+      <td>Gyadon</td>
+      <td>Dagger Bee</td>
+      <td>Kengo</td>
+      <th>19</th>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>Froggucci</td>
+      <td>Sr. Yanpii</td>
+      <td>Flamepuff</td>
+      <td>Gyadon</td>
+      <td>Dagger Bee</td>
+      <td>Kengo</td>
+      <th>20</th>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>Froggucci</td>
+      <td>Gyaza</td>
+      <td>Banana Morph</td>
+      <td>Flashbird</td>
+      <td>Concusschin</td>
+      <td>Go Ham</td>
+      <th>21</th>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>Froggucci</td>
+      <td>Gyaza</td>
+      <td>Banana Morph</td>
+      <td>Flashbird</td>
+      <td>Concusschin</td>
+      <td>Go Ham</td>
+      <th>22</th>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>Froggucci</td>
+      <td>Gyaza</td>
+      <td>Banana Morph</td>
+      <td>Flashbird</td>
+      <td>Concusschin</td>
+      <td>Go Ham</td>
+      <th>23</th>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="13" class="monsterTableVillage">Inn of the Wind</td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>Hipadile</td>
+      <td>Dragon</td>
+      <td>Super Gazer</td>
+      <td>Cursister</td>
+      <td>Lime Zalokleft</td>
+      <th>24</th>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td rowspan="3" class="monsterTableNdubba">3</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>Hipadile</td>
+      <td>Dragon</td>
+      <td>Super Gazer</td>
+      <td>Cursister</td>
+      <td>Lime Zalokleft</td>
+      <th>25</th>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>Mixer</td>
+      <td>Hipadile</td>
+      <td>Dragon</td>
+      <td>Super Gazer</td>
+      <td>Cursister</td>
+      <td>Lime Zalokleft</td>
+      <th>26</th>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="13" class="monsterTableVillage">Devil's Navel Halfway Point</td>
+    </tr>
+    <tr>
+      <td>Mixer</td>
+      <td>Grime</td>
+      <td>Kappa Pest</td>
+      <td>Pumphantom</td>
+      <td>MC Mage</td>
+      <td>Lime Zalokleft</td>
+      <th>27</th>
+      <td>Dark Ricebadger</td>
+      <td>Dark Traproid</td>
+      <td>Evil Sky Dragon</td>
+      <td>Dark Demon Scorp</td>
+      <td rowspan="4" class="monsterTableNdubba">3</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>Grime</td>
+      <td>Kappa Pest</td>
+      <td>Pumphantom</td>
+      <td>MC Mage</td>
+      <td>Lime Zalokleft</td>
+      <th>28</th>
+      <td>Dark Ricebadger</td>
+      <td>Dark Traproid</td>
+      <td>Evil Sky Dragon</td>
+      <td>Dark Demon Scorp</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>Grime</td>
+      <td>Kappa Pest</td>
+      <td>Pumphantom</td>
+      <td>MC Mage</td>
+      <td>Lime Zalokleft</td>
+      <th>29</th>
+      <td>Dark Ricebadger</td>
+      <td>Dark Traproid</td>
+      <td>Evil Sky Dragon</td>
+      <td>Dark Demon Scorp</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>Grime</td>
+      <td>Kappa Pest</td>
+      <td>Pumphantom</td>
+      <td>MC Mage</td>
+      <td>Lime Zalokleft</td>
+      <th>30</th>
+      <td>Dark Ricebadger</td>
+      <td>Dark Traproid</td>
+      <td>Evil Sky Dragon</td>
+      <td>Dark Demon Scorp</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="13" class="highlightOrange">Mid Boss</td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>Eligan</td>
+      <td>Digestiphant</td>
+      <td>Demon Scorp</td>
+      <td>Chainhead</td>
+      <td>Grampa Tank</td>
+      <th>31</th>
+      <td>Snide Froggucci</td>
+      <td>Dark Cursister</td>
+      <td>Bad Lime Zalokleft</td>
+      <td class="highlightGray"></td>
+      <td rowspan="6" class="monsterTableNdubba">3</td>
+      <td rowspan="6" class="monsterTableManeater">2</td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>Eligan</td>
+      <td>Digestiphant</td>
+      <td>Demon Scorp</td>
+      <td>Chainhead</td>
+      <td>Grampa Tank</td>
+      <th>32</th>
+      <td>Snide Froggucci</td>
+      <td>Dark Cursister</td>
+      <td>Bad Lime Zalokleft</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>Eligan</td>
+      <td>Digestiphant</td>
+      <td>Demon Scorp</td>
+      <td>Chainhead</td>
+      <td>Grampa Tank</td>
+      <th>33</th>
+      <td>Snide Froggucci</td>
+      <td>Dark Cursister</td>
+      <td>Bad Lime Zalokleft</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>Eligan</td>
+      <td>Digestiphant</td>
+      <td>Cave Mamel</td>
+      <td>Tiger Hurler</td>
+      <td>Porkchop</td>
+      <th>34</th>
+      <td>Shady Grime</td>
+      <td>Dark Beanie</td>
+      <td>Foul Boss</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>Eligan</td>
+      <td>Digestiphant</td>
+      <td>Cave Mamel</td>
+      <td>Tiger Hurler</td>
+      <td>Porkchop</td>
+      <th>35</th>
+      <td>Shady Grime</td>
+      <td>Dark Beanie</td>
+      <td>Foul Boss</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>Eligan</td>
+      <td>Digestiphant</td>
+      <td>Cave Mamel</td>
+      <td>Tiger Hurler</td>
+      <td>Porkchop</td>
+      <th>36</th>
+      <td>Shady Grime</td>
+      <td>Dark Beanie</td>
+      <td>Foul Boss</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="13" class="highlightOrange">Final Boss</td>
+    </tr>
+  </tbody>
+</table>
 
 # Items
 
@@ -1921,9 +2469,9 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
 <table class="dungeonItemTable">
   <tr>
     <th colspan="6" class="highlightGreen">Weapon</th>
-    <th rowspan="81"></th>
+    <th rowspan="82"></th>
     <th colspan="6" class="highlightGreen">Bracelet</th>
-    <th rowspan="81"></th>
+    <th rowspan="82"></th>
     <th colspan="6" class="highlightGreen">Scroll</th>
   </tr>
   <tr>
@@ -1954,62 +2502,62 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td class="leftText">Pierce Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td>X</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Light Scroll</td>
-    <td></td>
-    <td></td>
     <td>X</td>
     <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Copper Blade</td>
-    <td></td>
-    <td></td>
     <td>X</td>
     <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Heal Bracelet</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Purify Scroll</td>
-    <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Katana</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td>X</td>
     <td></td>
-    <td></td>
     <td class="leftText">Calm Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Identify Scroll</td>
     <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Beast Fang</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -2020,28 +2568,28 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td class="leftText">Heaven Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td>X</td>
     <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Dotanuki</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Alert Bracelet</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Earth Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -2052,38 +2600,38 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td>X</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Cleansing Bracelet</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Plating Scroll</td>
-    <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Red Blade</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Staunch Bracelet</td>
     <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Confusion Scroll</td>
-    <td></td>
-    <td></td>
     <td>X</td>
     <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -2092,18 +2640,18 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td>X</td>
     <td></td>
-    <td></td>
-    <td class="leftText">Strength Bracelet</td>
-    <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td class="leftText">Strength Bracelet</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Slumber Scroll</td>
-    <td></td>
-    <td></td>
     <td>X</td>
     <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -2111,7 +2659,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Bad Aim Bracelet</td>
     <td></td>
@@ -2120,10 +2668,10 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td class="leftText">Air Slash Scroll</td>
-    <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -2134,7 +2682,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td class="leftText">Strider Bracelet</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2152,7 +2700,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Wall Clip Bracelet</td>
     <td></td>
     <td></td>
@@ -2160,19 +2708,19 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td class="leftText">Fear Scroll</td>
-    <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Hatchet</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Alleyway Bracelet</td>
     <td></td>
     <td></td>
@@ -2204,7 +2752,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td>X</td>
     <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Bright Blade</td>
@@ -2224,7 +2772,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Old Mallet</td>
@@ -2240,10 +2788,10 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td class="leftText">Medicine Scroll</td>
-    <td></td>
-    <td></td>
     <td>X</td>
     <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -2254,13 +2802,13 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td class="leftText">Happy Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td>X</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Sanctuary Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2268,10 +2816,10 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   </tr>
   <tr>
     <td class="leftText">Dull Gold Edge</td>
-    <td></td>
-    <td></td>
     <td>X</td>
     <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Trapper Bracelet</td>
     <td></td>
@@ -2281,9 +2829,9 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td class="leftText">Escape Scroll</td>
     <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -2292,7 +2840,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Trap Bracelet</td>
     <td></td>
     <td></td>
@@ -2301,10 +2849,10 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td class="leftText">Blank Scroll</td>
     <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Baffle Axe</td>
@@ -2349,7 +2897,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   <tr>
     <td class="leftText">Seal Rod</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2369,7 +2917,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   <tr>
     <td class="leftText">Nap Rattle</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -2389,13 +2937,13 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   <tr>
     <td class="leftText">Dim Rod</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Monster Detector</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2408,14 +2956,14 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   </tr>
   <tr>
     <td class="leftText">Crescent Arm</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Item Detector</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2428,8 +2976,8 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   </tr>
   <tr>
     <td class="leftText">Water Cutter</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -2444,7 +2992,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   <tr>
     <td class="leftText">Sky Splitter</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2455,10 +3003,10 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <th>Z</th>
     <th>E</th>
     <td class="leftText">Desert Scroll</td>
-    <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -2489,7 +3037,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td class="leftText">Herb</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td>X</td>
     <td></td>
@@ -2503,14 +3051,14 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   </tr>
   <tr>
     <td class="leftText">Lizard Lasher</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Otogiriso</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -2524,16 +3072,16 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   <tr>
     <th colspan="6" class="highlightGreen">Shield</th>
     <td class="leftText">Heal Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td>X</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Dispel Aura Scroll</td>
     <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -2548,7 +3096,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Night-Day Scroll</td>
     <td></td>
     <td></td>
@@ -2558,14 +3106,14 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   </tr>
   <tr>
     <td class="leftText">Palm Shield</td>
-    <td></td>
-    <td></td>
     <td>X</td>
     <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Expand Seed</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -2591,24 +3139,24 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td class="leftText">Invitation</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Iron Targe</td>
-    <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Happy Grass</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Replenish Scroll</td>
     <td></td>
     <td></td>
@@ -2618,8 +3166,8 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   </tr>
   <tr>
     <td class="leftText">Clan Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -2634,7 +3182,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   <tr>
     <td class="leftText">Beast Shield</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -2654,10 +3202,10 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   <tr>
     <td class="leftText">Targite</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Disaster Seed</td>
     <td></td>
     <td></td>
@@ -2665,31 +3213,31 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td class="leftText">Storage Pot</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Red Shield</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Antidote Grass</td>
-    <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Synthesis Pot</td>
     <td></td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Fuuma Shield</td>
@@ -2697,24 +3245,24 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Strength Grass</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Identify Pot</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Diet Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -2734,15 +3282,15 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   <tr>
     <td class="leftText">Heavy Shield</td>
     <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Swift Grass</td>
-    <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Degrade Pot</td>
     <td></td>
@@ -2757,7 +3305,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Dizzy Grass</td>
     <td></td>
     <td></td>
@@ -2766,15 +3314,15 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td class="leftText">Purify Pot</td>
     <td></td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Counter Shield</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -2797,7 +3345,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td>X</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Rage Grass</td>
     <td></td>
     <td></td>
@@ -2806,10 +3354,10 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td class="leftText">Blessing Pot</td>
     <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Shoddy Plank</td>
@@ -2825,24 +3373,24 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td class="leftText">Mailing Pot</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Blast Shield</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Warp Grass</td>
-    <td></td>
-    <td></td>
     <td>X</td>
     <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Void Pot</td>
     <td></td>
@@ -2853,16 +3401,16 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   </tr>
   <tr>
     <td class="leftText">Dull Gold Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Sight Grass</td>
-    <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Sale Pot</td>
     <td></td>
@@ -2877,16 +3425,16 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Dragon Grass</td>
-    <td></td>
-    <td></td>
     <td>X</td>
     <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Presto Pot</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2897,18 +3445,18 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Power Up Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td>X</td>
     <td></td>
-    <td></td>
     <td class="leftText">Hide Pot</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -2917,13 +3465,13 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Invincible Grass</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Sticky Pot</td>
     <td></td>
     <td></td>
@@ -2937,13 +3485,13 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Revival Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td>X</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">4-2-8 Pot</td>
     <td></td>
     <td></td>
@@ -2957,7 +3505,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Imabikiso</td>
     <td></td>
     <td></td>
@@ -2973,8 +3521,8 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   </tr>
   <tr>
     <td class="leftText">Lock Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -2982,7 +3530,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Ordinary Pot</td>
     <td></td>
@@ -2994,9 +3542,9 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   <tr>
     <td class="leftText">Safe Shield</td>
     <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Blinding Grass</td>
     <td></td>
@@ -3009,12 +3557,12 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Gyadon Guard</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -3023,7 +3571,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Zalokleft Pot</td>
     <td></td>
     <td></td>
@@ -3033,11 +3581,11 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   </tr>
   <tr>
     <td class="leftText">Lamp Shield</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <th colspan="6" class="highlightGreen">Staff</th>
     <td class="leftText">Monster Pot</td>
     <td></td>
@@ -3058,7 +3606,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -3069,10 +3617,10 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <th>Z</th>
     <th>E</th>
     <td class="leftText">Empathy Staff</td>
-    <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Oil Pot</td>
     <td></td>
@@ -3083,16 +3631,16 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   </tr>
   <tr>
     <td class="leftText">Wood Arrow</td>
-    <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Transient Staff</td>
-    <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Chocolate Pot</td>
     <td></td>
@@ -3104,35 +3652,35 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   <tr>
     <td class="leftText">Iron Arrow</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td class="leftText">Paralysis Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td>X</td>
     <td></td>
+    <td class="leftText">Paralysis Staff</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Calling Pot</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Silver Arrow</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Swap Staff</td>
-    <td></td>
-    <td></td>
     <td>X</td>
     <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <th colspan="6" class="highlightGreen">Talisman</th>
   </tr>
@@ -3144,10 +3692,10 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td class="leftText">Knockback Staff</td>
-    <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <th>Name</th>
     <th>F</th>
@@ -3164,14 +3712,14 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td class="leftText">Seal Staff</td>
-    <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Sleep Talisman</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -3184,16 +3732,16 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td class="leftText">Decoy Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Seal Talisman</td>
     <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -3205,15 +3753,15 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td class="leftText">Balance Staff</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Dizzy Talisman</td>
-    <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -3231,9 +3779,9 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td class="leftText">Miss Talisman</td>
     <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -3244,24 +3792,24 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td class="leftText">Pinning Staff</td>
-    <td></td>
-    <td></td>
     <td>X</td>
     <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Fear Talisman</td>
-    <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Rock</td>
-    <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Swift Staff</td>
     <td></td>
@@ -3270,24 +3818,24 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td class="leftText">Bind Talisman</td>
-    <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Porky Rock</td>
     <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Slow Staff</td>
-    <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Swift Talisman</td>
     <td></td>
@@ -3299,7 +3847,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   <tr>
     <td class="leftText">Bomb Rock</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3311,7 +3859,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td class="leftText">Slow Talisman</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -3325,10 +3873,10 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td class="leftText">Berserk Talisman</td>
-    <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -3353,7 +3901,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   </tr>
   <tr>
     <td class="leftText">Torch</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td>X</td>
     <td></td>
@@ -3373,10 +3921,10 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   </tr>
   <tr>
     <td class="leftText">Fine Torch</td>
-    <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Ordinary Staff</td>
     <td></td>
@@ -3388,16 +3936,16 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   </tr>
   <tr>
     <td class="leftText">Super Torch</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Lightning Staff</td>
-    <td></td>
-    <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <th>Name</th>
     <th>F</th>
@@ -3408,7 +3956,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   </tr>
   <tr>
     <td class="leftText">Gitan</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3418,20 +3966,20 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Green Banana</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td rowspan="3" colspan="6" class="highlightGray"></td>
-    <td rowspan="3" colspan="6" class="highlightGray"></td>
+    <td rowspan="4" colspan="6" class="highlightGray"></td>
+    <td rowspan="4" colspan="6" class="highlightGray"></td>
     <td class="leftText">Yellow Banana</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -3447,10 +3995,18 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   <tr>
     <td class="leftText">Grilled Banana</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
+    <td>X</td>
+  </tr>
+  <tr>
+    <td class="leftText">Chocolate Banana</td>
     <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>X</td>
   </tr>
 </table>
 
@@ -3458,24 +4014,53 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
 
 # Traps
 
-1-2F: None (Trip if Trap Scroll is read)
-
-3-5F: Bind, Trip, Wood Arrow, Poison Arrow
-
-6-7F: Trip, Rockfall, Spin, Spring
-
-8-10F: Hunger, Poison Arrow, Spoil, Rust, Strip
-
-11-12F: Trip, Hide Gauge, Blind, Spin, Slow
-
-13-18F: Banana, Curse, Summon, Landmine, Sleep
-
-19-20F: Poison Arrow, Hunger, Spin, Strip, Bind
-
-21-23F: Trip, Rockfall, Revitalize, Slow, Spoil
-
-24-30F: Landmine, Spring, Blind, Summon, Hide Gauge, Rust, Banana
-
-31-36F: Metal, Strip, Monster, Curse, Rage, Summon, Landmine, Sleep
-
-# NPCs
+<table>
+  <thead>
+    <tr>
+      <th>F</th>
+      <th>Traps</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1 - 2</td>
+      <td>None (Trip if Trap Scroll is read)</td>
+    </tr>
+    <tr>
+      <td>3 - 5</td>
+      <td>Bind | Trip | Wood Arrow | Poison Arrow</td>
+    </tr>
+    <tr>
+      <td>6 - 7</td>
+      <td>Trip | Rockfall | Spin | Spring</td>
+    </tr>
+    <tr>
+      <td>8 - 10</td>
+      <td>Hunger | Poison Arrow | Spoil | Rust | Strip</td>
+    </tr>
+    <tr>
+      <td>11 - 12</td>
+      <td>Trip | Hide Gauge | Blind | Spin | Slow</td>
+    </tr>
+    <tr>
+      <td>13 - 18</td>
+      <td>Banana | Curse | Summon | Landmine | Sleep</td>
+    </tr>
+    <tr>
+      <td>19 - 20</td>
+      <td>Poison Arrow | Hunger | Spin | Strip | Bind</td>
+    </tr>
+    <tr>
+      <td>21 - 23</td>
+      <td>Trip | Rockfall | Revitalize | Slow | Spoil</td>
+    </tr>
+    <tr>
+      <td>24 - 30</td>
+      <td>Landmine | Spring | Blind | Summon | Hide Gauge | Rust | Banana</td>
+    </tr>
+    <tr>
+      <td>31 - 36</td>
+      <td>Metal | Strip | Monster | Curse | Rage | Summon | Landmine | Sleep</td>
+    </tr>
+  </tbody>
+</table>
