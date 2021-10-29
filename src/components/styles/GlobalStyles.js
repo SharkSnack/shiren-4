@@ -1146,6 +1146,9 @@ export const baseStyles = css`
   .orangeText {
     color: #f9a100;
   }
+  .tealText {
+    color: #007db9;
+  }
   .blueText {
     color: #66f;
   }
