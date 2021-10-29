@@ -809,6 +809,12 @@ export const baseStyles = css`
   #monsterList td {
     text-align: center;
   }
+  .moveTable th {
+    text-align: center;
+  }
+  .moveTable td:first-of-type {
+    background-color: #ffffe4;
+  }
   .itemTable th {
     text-align: center;
     padding: 3px;
@@ -846,24 +852,53 @@ export const baseStyles = css`
   .summaryTable td {
     padding: 1.5px;
   }
-  .locationTable th {
-    background-color: #f4fff8;
+  /* This might be bad practice? */
+  .roundedTableWrapper {
+    width: max-content;
+    overflow: auto;
+    border-radius: 6px;
+    border: 1px solid #919191;
+  }
+  /* Location Table on Villages Page */
+  .locationTable {
+    border-collapse: collapse;
+    border-spacing: 0px;
+    border-style: hidden;
+  }
+  .locationTable thead tr th {
     font-weight: normal;
     text-align: center;
-    padding: 1px;
+  }
+  .locationTable tbody tr td:first-of-type[rowspan="2"] {
+    border-left: 1px solid #919191;
+    border-bottom-left-radius: 6px;
+  }
+  .locationTable tbody tr td:last-of-type[rowspan="2"] {
+    border-right: 1px solid #919191;
+    border-bottom-right-radius: 6px;
+  }
+  .locationTable tbody tr td {
+    border-left: 1px solid #919191;
+    border-bottom: 1px solid #919191;
   }
   .locationTable td {
     text-align: center;
-    padding: 1px;
+  }
+
+  .currentLocation {
+    background-color: #e2fdf3;
+  }
+  .itemDetailsTable {
+    border-radius: 3px;
   }
   .itemDetailsTable th {
     background-color: #f4fff8;
     font-weight: normal;
     text-align: center;
-    padding: 3px;
+    padding: 4px;
   }
   .itemDetailsTable td {
-    padding: 3px;
+    padding: 4px;
   }
   .itemDetailsTable img {
     position: relative !important;
@@ -1135,7 +1170,13 @@ export const baseStyles = css`
   .leftText {
     text-align: left !important;
   }
-
+  .facility {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 8px;
+    margin-top: 12px;
+  }
   /* Image styling */
   img {
     max-width: 100%;
@@ -1241,8 +1282,11 @@ export const baseStyles = css`
     position: relative !important;
     background-color: #555;
   }
+  .boxArt {
+    text-align: center;
+  }
   .boxArt img {
-    height: 150px !important;
+    height: 200px !important;
     position: relative !important;
   }
   .relativeImage img {

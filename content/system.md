@@ -1,6 +1,6 @@
 ---
 title: "System"
-metaTitle: "System - Shiren the Wanderer 2: Oni Invasion! Wiki"
+metaTitle: "System - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Gameplay Systems for Shiren the Wanderer 2: Oni Invasion!"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Status Conditions"
-metaTitle: "Status Conditions - Shiren the Wanderer: Tower of Fortune Wiki"
+metaTitle: "Status Conditions - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "List of status conditions for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
 ---
 

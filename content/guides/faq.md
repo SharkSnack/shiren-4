@@ -1,6 +1,6 @@
 ---
 title: "FAQ"
-metaTitle: "FAQ - Shiren the Wanderer 2: Oni Invasion! Wiki"
+metaTitle: "FAQ - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Frequently Asked Questions for Shiren the Wanderer 2: Oni Invasion!"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Price Chart"
-metaTitle: "Price Chart - Shiren the Wanderer 2: Oni Invasion! Wiki"
+metaTitle: "Price Chart - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Item price chart for Shiren the Wanderer 2: Oni Invasion!"
 ---
 

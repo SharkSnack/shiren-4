@@ -1,6 +1,6 @@
 ---
 title: "Monster Book"
-metaTitle: "Secret Phrases - Shiren the Wanderer 2: Oni Invasion! Wiki"
+metaTitle: "Secret Phrases - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Secret Phrase Guide for Shiren the Wanderer 2: Oni Invasion!"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Monsters"
-metaTitle: "Monsters - Shiren the Wanderer 2: Oni Invasion! Wiki"
+metaTitle: "Monsters - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Complete list of monsters for Shiren the Wanderer 2: Oni Invasion!"
 ---
 

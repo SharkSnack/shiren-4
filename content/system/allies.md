@@ -1,6 +1,6 @@
 ---
 title: "Allies"
-metaTitle: "Allies - Shiren the Wanderer 2: Oni Invasion! Wiki"
+metaTitle: "Allies - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "List of allies and their characteristics for Shiren the Wanderer 2: Oni Invasion!"
 ---
 

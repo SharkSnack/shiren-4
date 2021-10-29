@@ -1,6 +1,6 @@
 ---
 title: "Weapons"
-metaTitle: "Weapons - Shiren the Wanderer: Tower of Fortune Wiki"
+metaTitle: "Weapons - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Complete weapon details for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate"
 ---
 

@@ -1,49 +1,75 @@
 ---
 title: "Footprints"
-metaTitle: "Adventure Footprints - Shiren the Wanderer: Tower of Fortune Wiki"
+metaTitle: "Adventure Footprints - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "List of Adventure Footprints for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate"
 ---
 
 <div class="pageTopImage screenshot">
-  <img src="../images/other/adventure_footprint.jpg"/>
+  <img src="../images/other/adventure_footprints.png"/>
 </div>
 
 In-game achievements that automatically update as you play the game.
 
-## Switch / Steam
+## PSP
 
 |No.|Footprint|Notes|
 |-|-|-|
-|1|Top Level: N (Max: 99)|Easily achieved using Gambler's Scrolls.|
-|2|Max HP: N (Max: 630)|500 (stats) + 100 (runes) + 30 (resonance)<br/>Resonance: Wonder Pick + Nirvana Board|
-|3|Max Fullness: N (Max: 200)|-|
-|4|Max Exp.: N (Max: 9,999,999)|Over double the exp needed to reach Lv99.<br/>Monster Summoner is required.|
-|5|Max Strength: N (Max: 56)|Requires 2 Strength Bracelets or<br/>1 Strength Bracelet + gold set resonance.|
-|6|Max Gitan: N (Max: 999,999)|Bring 999,999 Gitan into a dungeon that<br/>allows carry-in items.|
-|7|High Score: N|Clear bonus and exp have a large impact.|
-|8|Most Foes defeated on 1 floor: N (Max: 9999)|Wind doesn't blow in the "I wish to fight<br/>Gendolucika" boss battle.|
-|9|Max damage in 1 attack: N (Max: 999)|Get hit by a high level night monster or<br/>blessed Gitan.|
-|10|You've cleared Tower of Fortune N times.|-|
-|11|You've cleared Inori Cave N times.|-|
-|12|You've cleared Primordial Chasm N times.|-|
-|13|You've cleared Destiny's Descent N times.|-|
-|14|You've cleared Bizarre Tower N times.|-|
-|15|You've cleared Onigiri Hollow N times.|-|
-|16|You've cleared Pitfall of Life N times.|-|
-|17|You've cleared Heavenly Lake N times.|-|
-|18|You've cleared Old Road N times.|-|
-|19|You've cleared Gen's Turf N times.|-|
-|20|You've cleared Lost Well N times.|-|
-|21|You've cleared N questions of the Training Facility.<br/>You've cleared all of the Training Facility.|-|
-|22|You've cleared Explosion Rocks N times.|-|
-|23|You've cleared N sections of the Underground Manor.<br/>You've cleared all of the Underground Manor.|-|
-|24|You've cleared N questions at Statue Cave.|-|
-|25|You've awakened Super status N times.|See Super status.|
-|26|You successfully stole N times.|Triggering thief mode isn't required, so you<br/>can use a Pit Trap inside a store.|
-|27|You failed to steal N times.|Collapse while in thief mode. (Ending the<br/>game without suspending doesn't count)|
-|28|You made N successful rescues.|-|
-|29|You created N new items.|Items discarded without registering count.|
-|30|You've succeeded N times at the Pick-A-Choice Shop.|Collection Scroll doesn't count.|
-|31|You've failed N times at the Pick-A-Choice Shop.|-|
-|32|You had N wishes granted.|"I don't wish for anything" doesn't count.|
-|33|You learned N abilities.<br/>You learned all abilities.|30 abilities total.|
+|1|Highest Level N|Max: 99|
+|2|Max HP N|Max: 630|
+|3|Max Fullness N|Max: 200|
+|4|Max Exp N|Max: 9,999,999|
+|5|Max Strength N|Max: 56|
+|6|Max Gitan N|Max: 999,999|
+|7|High Score N|-|
+|8|Defeated N foes on 1 floor|Max: 9,999|
+|9|Dealt N damage in 1 hit|Max: 999|
+|10|Received N damage in 1 hit|Max: 999|
+|11|Defeated Divine Breast Kamina|-|
+|12|Defeated Divine Beast Jaguar|-|
+|13|Defeated Hemoji|-|
+|14|Defeated Mr.Bulldog|-|
+|15|Cleared Southern Island Beach|-|
+|16|Cleared Emerald Terrace (N)|-|
+|17|Cleared Platinum Paradise (N)|-|
+|18|Cleared Bayside Monster Cave (N)|-|
+|19|Cleared Shrine of Challenges (N)|-|
+|20|Cleared Shrine of Night Adventures|-|
+|21|Cleared Jaguar's Hunting Forest (N)|-|
+|22|Cleared Double Strike Cave (N)|-|
+|23|Cleared Static Forest (N)|-|
+|24|Cleared Ceiling Cave (N)|-|
+|25|Cleared Cave of Endless Night (N)|-|
+|26|Cleared Entrancing Lane (N)|-|
+|27|Cleared Trap Zone (N)|-|
+|28|Cleared Banana Kingdom (N)|-|
+|29|Cleared Trial Road (N)|-|
+|30|Cleared Statue Cave (N)|-|
+|31|Cleared Asura Realm (N)|-|
+|32|Cleared Mystery Shopping Mall (N)|-|
+|33|Cleared Grass and Scroll Cave (N)|-|
+|34|Thrown into a Monster House|Tiger Tosser|
+|35|Threw Synthesis Pot very far|Pierce Bracelet|
+|36|Collapsed as a Grilled Banana|Fire or explosion|
+|37|Collapsed as a Spoiled Banana|Spoil Trap|
+|38|Defeated by an ally|Confusion, etc.|
+|39|Swept away by the wind|-|
+|40|Successful thefts N|-|
+|41|Failed thefts N|-|
+|42|Successful rescues N|-|
+|43|Maxed out your bank account|Max: 99,999,999|
+|44|Collected all weapons|280 total|
+|45|Collected all shields|232 total|
+|46|Collected all bracelets|25 total|
+|47|Collected all arrows|10 total|
+|48|Collected all stones|3 total|
+|49|Collected all food|10 total|
+|50|Collected all grasses|29 total|
+|51|Collected all scrolls|37 total|
+|52|Collected all staves|19 total|
+|53|Collected all talismans|11 total|
+|54|Collected all pots|24 total|
+|55|Completed the Item Book|716 total|
+|56|Completed the Monster Book|366 total|
+|57|Pick-A-Choice wins N|-|
+|58|Pick-A-Choice losses N|-|
+|59|Learned N moves|29 total|

@@ -1,6 +1,6 @@
 ---
 title: "Runes"
-metaTitle: "Synthesis Runes - Shiren the Wanderer 2: Oni Invasion! Wiki"
+metaTitle: "Synthesis Runes - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Complete list of seals for Shiren the Wanderer 2: Oni Invasion!"
 ---
 

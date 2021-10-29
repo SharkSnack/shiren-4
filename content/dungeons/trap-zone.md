@@ -1,6 +1,6 @@
 ---
 title: "Trap Zone"
-metaTitle: "Trap Zone - Shiren the Wanderer 2: Oni Invasion! Wiki"
+metaTitle: "Trap Zone - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
 ---
 # Items
