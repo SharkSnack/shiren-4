@@ -1,7 +1,7 @@
 ---
 title: "Necklace Moves"
 metaTitle: "Necklace Moves - Shiren the Wanderer 4: The Eye of God Wiki"
-metaDescription: "Details about moves / abilities and unlock conditions for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
+metaDescription: "Details about moves / abilities and unlock conditions for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
 <div class="pageTopImage screenshot">

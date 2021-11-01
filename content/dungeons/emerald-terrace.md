@@ -1,7 +1,7 @@
 ---
 title: "Emerald Terrace"
 metaTitle: "Emerald Terrace - Shiren the Wanderer 4: The Eye of God Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaDescription: "Emerald Terrace / story dungeon guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
 <div class="pageTopImage screenshot">
@@ -862,7 +862,7 @@ Porkchop (34-36F) throws Porky Rocks that deal 20 damage within a range of 4 til
 
 ### Final Boss
 
-Shiren is automatically granted Swift status for this fight, so you get 4 actions for every 1 boss action.
+Shiren is granted Swift status for this fight, so you get 4 actions for every 1 boss action.
 
 <table class="dungeonTable">
   <thead>
@@ -2635,7 +2635,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Kabura's Blade</td>
+    <td class="leftText">Kabura Katana</td>
     <td></td>
     <td></td>
     <td>X</td>
@@ -3392,7 +3392,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td>X</td>
     <td>X</td>
     <td></td>
-    <td class="leftText">Void Pot</td>
+    <td class="leftText">Black Hole Pot</td>
     <td></td>
     <td></td>
     <td></td>

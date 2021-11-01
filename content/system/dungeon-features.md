@@ -1,7 +1,7 @@
 ---
 title: "Dungeon Features"
 metaTitle: "Dungeon Features - Shiren the Wanderer 4: The Eye of God Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaDescription: "Information about dungeon features like shops and monster houses for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
 This page offers explanations for dungeon features and gimmicks.

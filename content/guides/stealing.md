@@ -1,5 +1,5 @@
 ---
 title: "Stealing"
-metaTitle: "Bracelets - Shiren the Wanderer 4: The Eye of God Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaTitle: "Stealing - Shiren the Wanderer 4: The Eye of God Wiki"
+metaDescription: "Stealing guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---

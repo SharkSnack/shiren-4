@@ -1191,6 +1191,14 @@ export const baseStyles = css`
   .dungeonPageImage img {
     position: relative !important;
   }
+  .allyPageImage {
+    display: flex;
+    width: 560px !important;
+    height: auto;
+  }
+  .allyPageImage img {
+    position: relative !important;
+  }
   .dungeonPageImage2 {
     display: flex;
     width: 480px !important;
@@ -1240,25 +1248,6 @@ export const baseStyles = css`
     max-height: 240px;
     width: auto !important;
     padding: 5px;
-  }
-  .galleryImage span {
-    margin-left: 0px !important;
-    background-image: none !important;
-    display: block !important;
-  }
-  .galleryImage span img {
-    height: auto !important;
-    width: 590px;
-  }
-  .allyImage span {
-    margin-left: 0px !important;
-    background-image: none !important;
-    display: block !important;
-  }
-  .allyImage img {
-    height: auto !important;
-    width: auto !important;
-    padding: 1px;
   }
   .statueImage {
     display: flex;
@@ -1330,6 +1319,10 @@ export const baseStyles = css`
   }
   .smallScreenshot {
     width: 240px;
+    height: auto;
+  }
+  .allyImage {
+    width: 100px;
     height: auto;
   }
   .overworldMap {

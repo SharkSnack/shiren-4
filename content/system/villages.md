@@ -1,7 +1,7 @@
 ---
 title: "Villages"
 metaTitle: "Villages - Shiren the Wanderer 4: The Eye of God Wiki"
-metaDescription: "Village guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
+metaDescription: "Village and overworld area guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
 # Overview

@@ -1,7 +1,7 @@
 ---
 title: "Map Patterns"
 metaTitle: "Map Patterns - Shiren the Wanderer 4: The Eye of God Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaDescription: "List of map patterns used in Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
 ## Overview

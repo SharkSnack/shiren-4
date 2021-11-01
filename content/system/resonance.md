@@ -1,7 +1,7 @@
 ---
 title: "Resonance"
 metaTitle: "Resonance - Shiren the Wanderer 4: The Eye of God Wiki"
-metaDescription: "List of equipment resonance effects for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
+metaDescription: "List of equipment resonance effects for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
 <div id="resonanceImage" class="pageTopImage">

@@ -58,6 +58,14 @@ const Sidebar = styled('aside')`
   padding-right: 0;
   -webkit-box-shadow: -1px 0px 4px 1px rgba(175, 158, 232, 0.4);
 
+  /* Hide scrollbar but allow scrolling */
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  overflow-y: scroll;
+  ::-webkit-scrollbar {
+    display: none;
+  }
+
   @media only screen and (max-width: 1023px) {
     width: 100%;
     /* position: relative; */

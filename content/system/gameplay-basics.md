@@ -1,7 +1,7 @@
 ---
 title: "Gameplay Basics"
 metaTitle: "Gameplay Basics - Shiren the Wanderer 4: The Eye of God Wiki"
-metaDescription: "Gameplay guide for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
+metaDescription: "Gameplay guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
 ## Overview

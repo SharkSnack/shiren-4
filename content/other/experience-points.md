@@ -1,7 +1,7 @@
 ---
 title: "Exp Table"
 metaTitle: "Exp Table - Shiren the Wanderer 4: The Eye of God Wiki"
-metaDescription: "Experience Point Table for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate"
+metaDescription: "Experience Point Table for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
 This page lists the amount of experience points needed for characters to level up.

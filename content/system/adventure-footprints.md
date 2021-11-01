@@ -1,7 +1,7 @@
 ---
 title: "Footprints"
 metaTitle: "Adventure Footprints - Shiren the Wanderer 4: The Eye of God Wiki"
-metaDescription: "List of Adventure Footprints for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate"
+metaDescription: "List of Adventure Footprints for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
 <div class="pageTopImage screenshot">

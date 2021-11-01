@@ -1,7 +1,7 @@
 ---
 title: "Runes"
 metaTitle: "Synthesis Runes - Shiren the Wanderer 4: The Eye of God Wiki"
-metaDescription: "Complete list of seals for Shiren the Wanderer 2: Oni Invasion!"
+metaDescription: "Complete list of runes for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
 Seals are special abilities that can be synthesized onto weapons or shields.

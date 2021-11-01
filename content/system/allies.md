@@ -1,359 +1,591 @@
 ---
 title: "Allies"
 metaTitle: "Allies - Shiren the Wanderer 4: The Eye of God Wiki"
-metaDescription: "List of allies and their characteristics for Shiren the Wanderer 2: Oni Invasion!"
+metaDescription: "List of allies and their characteristics for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
-Allies are NPC characters who fight monsters alongside Shiren.<br/>
-Shiren 5 features six ally characters - Jirokichi, Tao, Okon, Koharu, and Gen.<br/>
-Each character comes with a unique ability, and can grow stronger through leveling up.
-
-Those looking for a more classic roguelike experience can leave everyone except Jirokichi<br/>
-behind during the main story, but considering most post-game dungeons don't allow allies,<br/>
-it might be fun to experience them and see their abilities while you can.
-
-<ul class="quickLinksUL">
-  <li><a href="#overview">Overview</a></li>
-  <li><a href="#characters">Characters</a>
-    <ul>
-      <li><a href="#jirokichi">Jirokichi</a></li>
-      <li><a href="#tao">Tao</a></li>
-      <li><a href="#kojirouta">Kojirouta</a></li>
-      <li><a href="#okon">Okon</a></li>
-      <li><a href="#koharu">Koharu</a></li>
-      <li><a href="#gen">Gen</a></li>
-      <li><a href="#sage-/-sparrow">Sage / Sparrow</a></li>
-    </ul>
-  </li>
-</ul>
+<div class="allyPageImage">
+  <img src="../images/ally/millie.png"/>
+  <img src="../images/ally/edna.png"/>
+  <img src="../images/ally/galwin.png"/>
+  <img src="../images/ally/saruma.jpg"/>
+  <img src="../images/ally/banana.png"/>
+</div>
 
 ## Overview
 
+Allies are NPC characters who fight monsters alongside Shiren.<br/>
+There are 8 ally characters - Millie, Edna, Galwin, Saruma Brothers, Banana Prince, and Borg Mamel.<br/>
+Each character comes with a unique ability, and can grow stronger through leveling up.
+
+Those looking for a more classic roguelike experience can play without allies,<br/>but since most post-game dungeons don't allow allies, it might be fun to experience them while you can.
+
+<ul class="quickLinksUL">
+  <li><a href="#overview">Overview</a>
+    <ul>
+      <li><a href="#unlocking-allies">Unlocking Allies</a></li>
+      <li><a href="#ally-behavior">Ally Behavior</a></li>
+      <li><a href="#ally-stats">Ally Stats</a></li>
+    </ul>
+  </li>
+  <li><a href="#characters">Characters</a>
+    <ul>
+      <li><a href="#millie">Millie</a></li>
+      <li><a href="#edna">Edna</a></li>
+      <li><a href="#galwin">Galwin</a></li>
+      <li><a href="#saruma-brothers">Saruma Brothers</a></li>
+      <li><a href="#banana-prince">Banana Prince</a></li>
+      <li><a href="#borg-mamel">Borg Mamel</a></li>
+    </ul>
+  </li>
+  <li><a href="#borg-mamel-items">Borg Mamel Items</a></li>
+</ul>
+
+### Unlocking Allies
+
 Allies must be unlocked before they can join your adventures.<br/>
-The unlock conditions are generally pretty lax, with some characters simply joining<br/>
-you automatically when you reach certain points of the main story.
+Once unlocked, they can randomly appear in the Boronga Village Tavern, villages up to Monkey Village,<br/>and can show up between Grasslands ~ Sea of Trees (1\~12F) and Eagle Valley ~ Lava Field (19\~23F).
 
-Level ups for allies persist between adventures.<br/>
-Due to this, they typically require more experience points to level up.<br/>
-It's best to use items like Cheery Grass or Angel Seed to level them up once they reach high levels.
+|Character|Condition|
+|-|-|
+|Millie|1. Progress the story until you've reached Rocky Stretch.<br/>2. Visit Gonchiki Village again and head toward the exit.<br/>3. Go to the Gonchiki Village Inn and talk to Millie.|
+|Edna|1. Talk to the chief of Rakutata Village.<br/>2. Talk to a woman in the Tavern in Boronga Village.<br/>3. Go to the Beach. (West exit of Boronga Village)|
+|Galwin|1. Fail or give up on an adventure about 5 times for an event.<br/>2. Go to the Tavern and talk to Galwin.|
+|Ichiro<br/>Jiro<br/>Saburo|1. Progress the story until you've reached Monkey Village.<br/>2. Encounter Jiro in a dungeon, and agree to search for his brothers.<br/>3. Encounter Ichiro in a dungeon, and give him an Herb.<br/>4. Randomly encounter Saburo when advancing floors, and defeat all monsters.|
+|Banana Prince|1. Clear the main story.<br/>2. Go to Monkey Village and slip on a banana peel to unlock Banana Kingdom.<br/>3. Clear Banana Kingdom.|
+|Borg Mamel|1. Clear the main story.<br/>2. Go to Gonchiki Village and unlock Entrancing Lane.<br/>3. Clear Entrancing Lane.|
 
-Turn order: Shiren → Allies → Monsters.
+### Ally Behavior
 
-All allies except for Kojirouta prioritize following Shiren.<br/>
-They won't attack monsters who aren't an immediate threat.<br/>(Example: Napping or paralyzed monsters)
+Turn order: Shiren → Allies → Monsters.<br/>
+※ If there was a disguised N'mach: Shiren → N'mach → Allies → Monsters.
 
-Press Select (- or ZL on Nintendo Switch) to view their current HP.<br/>
-You can also talk to them to get a rough idea, but keep in mind that talking is a turn ending action.<br/>
+If a dungeon allows allies, you can bring up to 3 allies with you.<br/>
+If you recruit a 4th ally during an adventure, you can choose who to leave behind.
 
-If an ally is defeated, the monster that defeated the ally levels up.<br/>
-
-Experience points are distributed to all party members regardless of who defeated the monster.<br/>The amount of experience points doesn't change based on number of party members.
+All allies except for Galwin and Borg Mamel prioritize following Shiren.<br/>
+They generally won't attack monsters who aren't an immediate threat.<br/>(Example: Napping or paralyzed monsters)
 
 Allies follow you when you switch places with a wandering NPC.<br/>
 Doors wait to close until Shiren and all allies pass through the door.<br/>
-However, blue doors still close immediately if a monster is present in the room you enter.
+However, special doors still close immediately if a monster is present in the room you enter.
 
-Except for Kojirouta, allies follow you to the next floor even if you were in different rooms.<br/>Levels can be gained or lost by level-changing items such as Cheery Grass or Unlucky Staff.<br/>Koharu and allies who are in wandering NPC mode aren't affected.<br/>
+If an ally is defeated, the monster that defeated the ally levels up.<br/>
 
-The most efficient way to level up allies:
+Unlike Shiren 5, allies DO NOT dodge flying equipment, including equipment disarmed by a Kengo.<br/>
 
-1. Use Fever Pots and blessed Extraction Scrolls to prepare lots of blessed Angel Seeds.
-    - Alternatively, register an Angel Seed as a New Item, and then purchase a bunch of that item.
-2. Equip a Can. Arm Bracelet and enter a dungeon with 3 allies.
-3. Line them up in a hallway and throw the Angel Seeds.
+### Ally Stats
 
-Herb, Otogiriso, Heal Grass, and Life Grass will restore HP when thrown at an ally.<br/>
+
+
+Maximum level of 10, and level ups persist between adventures.<br/>
+Due to this, they typically require more experience points to level up.<br/>
+It's easiest to use items like Happy Grass to level them up once they reach high levels.<br/>
+※ Borg Mamel's maximum level is 99, and isn't based on experience points.
+
+Experience points are distributed to all party members regardless of who defeated the monster.<br/>The amount of experience points doesn't change based on number of party members.
+
+Except for Galwin, allies follow you to the next floor even if you were in different rooms.<br/>Levels can be gained or lost by level-changing items such as Happy Grass or Unlucky Staff,<br/>but allies who are in wandering NPC mode aren't affected.<br/>
+
+Unlike Shiren 5, this game doesn't have a way to display ally HP.<br/>
+You can talk to them to get a rough idea, but keep in mind that talking is a turn ending action.<br/>
+
+Herb, Otogiriso, and Heal Grass will restore HP when thrown at an ally.<br/>
 Max HP won't increase when they're at full HP.
-
-They dodge flying equipment, include equipment disarmed by a Swordsman's special attack.<br/>
-The number of allies you can have with you depends on the dungeon, but it's usually 3 characters.
 
 ## Characters
 
-### Jirokichi
+### Millie
 
-<div class="relativeImage">
-  <img src="../images/ally/jirokichi.png"/>
+<div class="relativeImage allyImage">
+  <img src="../images/ally/millie.png"/>
 </div>
 
-#### Location
+#### Description
 
-- No permanent location.
-- Automatically joins when you reach the first 3 towers. (Past, Present, or Future)
-    - Mandatory ally during the main story.
-        - This means only 2 other allies can join you during the main story.
-    - If you collapse or advance while Jirokichi is a gravestone, you have to reach the same floor<br/>before you can recruit him again.
-- Permanently becomes unavailable as an ally after clearing the main story.
-    - However, he can be recruited in Garden of Destiny (Switch/Steam exclusive),<br/>so it may be worth leveling him during the main story.
+A blond girl who crash landed on Cahitan Isle while she was headed to Texas on a hang glider.
+
+She's extremely powerful during the day, but requires care at night.
+
+#### Unlock Condition
+
+1. Progress the story until you've reached Rocky Stretch.
+2. Visit Gonchiki Village again and head toward the exit.
+3. Go to the Gonchiki Village Inn and talk to Millie.
 
 #### Characteristics
 
-- Highest HP among all allies, and levels up quickly.
-- He transforms into a gravestone when he collapses.
-    - Revive him by throwing an item like Herb, Otogiriso, Heal Grass, Life Grass,<br/>Heal Pot (with at least 1 capacity), Revival Grass, or Undo Grass.
-    - Throwing a non-healing item at the gravestone will make the item vanish.<br/>(Example: Throw a Preservation Pot with items inside, the pot and all contents are lost)
-- The gravestone is treated as a NPC.
-    - You can switch places with the gravestone, and enemies can't move through it.
-- Advancing while Jirokichi is a gravestone returns you to Nekomaneki Village.
-    - This can be used to return with your items if you forgot an Escape Scroll or Undo Grass.
-    - Throw a Hide Pot at him to keep him safe from enemies.
-        - He can't break free unless you talk to him or he gets hit by an effect.
-    - Floaty monsters can't warp you with their special attack in this state.
-    - You can still progress if he collapses during a boss fight.
-    - If you advance while he's a gravestone in Garden of Destiny, he just disappears.
-- If you collapse while he's alive, he'll keep any untagged items you had equipped.
+- Max HP increases as she levels up.
+    - Lv1: 30 HP
+    - Lv10: 57 HP
+- Shoots monsters multiple times in a single turn during daytime.
+    - Damage, number of shots, and range increases as she levels up.
+    - Lv1 = 10 damage x 2 shots for 20 damage, 3 tile radius.
+    - Lv10 = 30 damage x 4 shot for 120 damage, 6 tile radius.
+    - Bullets have 100% accuracy, and targets don't have to be lined up.
+    - Gyazas convert bullets into 2 damage.
+    - Bored Kappas can't catch bullets.
+- Kicks monsters at night, dealing 1 damage.
 
-### Tao
+### Edna
 
-<div class="relativeImage">
-  <img src="../images/ally/tao.png"/>
+<div class="relativeImage allyImage">
+  <img src="../images/ally/edna.png"/>
 </div>
 
-#### Location
+#### Description
 
-- Tower of Fortune Entrance. (Requires a payment of 1500 Gitan)
-    - Randomly appears between Destiny Trail ~ Tower of Fortune Unexplored Area)
-    - She'll raise the price to 2000 Gitan if you decline her first offer.
-    - Can be found inside the Beginner House in Inori Village after clearing the main story.
+An apprentice priestess with a mysterious image.<br/>She appears while riding a giant shell when you first meet her.
+
+She's very reliable at night, but requires care during daytime.
+
+#### Unlock Condition
+
+1. Talk to the chief of Rakutata Village.
+2. Talk to a woman in the Tavern in Boronga Village.
+3. Go to the Beach. (West exit of Boronga Village)
 
 #### Characteristics
 
-- Throws a boomerang that deals fixed damage from a distance.
-    - Starts at 10 damage, and goes up to 55 damage.
-    - It flies in a square pattern, and ignores walls and allies.
-    - This attack can accidentally wake up napping or paralyzed enemies.
-- She offers to sell you an item if you talk to her under special circumstances.
-    - Only 1 item can be purchased per floor.
-
-Items for Sale:
-
-|Item|Price|Condition|
-|-|-|-|
-|Exorcism Scroll|1500|Have a cursed item equipped. (Not sealed)|
-|Antidote Grass|500|Strength has been lowered.|
-|Onigiri|500|Fullness is at 0.|
-|Fine Torch|800|It's night.|
-|Replenish Scroll|3000|It's night, and used all abilities.|
+- Max HP increases as she levels up.
+    - Lv1: ??? HP
+    - Lv10: 62 HP
+- Casts support magic on Shiren when you talk to her during daytime.
+    - Effect is randomly selected from attack up, defense up, or swift.
+    - Attack up and defense up last for the duration of the floor.
+    - Only casts support magic 1 time per floor.
+- Uses an exclusive move called Light Arrow at night.
+    - Power: B (45) - Deals around 50 damage.
+    - The move has piercing properties, and has infinite range in a straight line.
+    - She won't use the move if an ally is in-between her and the target.
+- Uses direct attacks during the day, but doesn't deal much damage.
 
 #### Sidequest
 
-Unlocking Bizarre Tower (Post-game):
+There's a small event when you take her to Ruins of Laferriere 15F.
 
-1. Bring her to the top of Tower of Fortune.
-2. Talk to her inside Sparrow's Inn.
-3. Reach the top of Tower of Miracles.
-4. Go to the Tower of Fortune Entrance.
+### Galwin
 
-### Kojirouta
-
-<div class="relativeImage">
-  <img src="../images/ally/kojirouta.png"/>
+<div class="relativeImage allyImage">
+  <img src="../images/ally/galwin.png"/>
 </div>
 
-#### How to Unlock
+#### Description
 
-1. Talk to Kojirouta inside the Rich Man's House (Inori Village) and become his servant.
-2. Kojirouta will rescue you if you collapse in Destiny Trail.
-    - It's about a 1/3 chance for him to appear.
-    - The event won't occur if you have Revival Grass or Undo Grass.
-    - He won't appear if you already have 3 allies with you.
-- Step 2 is skipped after you clear the main story.
+A self-proclaimed legendary pirate with a terrible sense of direction.
 
-#### Location
+His aggressive AI and tendency to disappear during an adventure makes him<br/>rather underwhelming compared to other allies, despite his high stats.
 
-Rich Man's House (Inori Village)
+#### Unlock Condition
+
+1. Fail or give up on an adventure about 5 times for an event.
+2. Go to the Tavern and talk to Galwin.
 
 #### Characteristics
 
-- High HP and attack from the start, but average defense and collapses easily.
-- Throws a bag of Gitan that deals fixed damage to a single target.
-    - Range and damage increase as he levels up.
-        - It only hits adjacent enemies at first.
-    - It has piercing properties, so it damages Bored Kappa, Mixer, Sweet Nut, etc.
-    - Froggos are dangerous for Kojirouta, since they're healed by thrown Gitan.
-        - He can collapse if there are multiple enemies around besides the Froggo.
-- He has an offensive AI and charges at enemies.
-    - He won't approach at night, if he's about to collapse, or if the enemy is paralyzed.
+- Max HP increases as he levels up.
+    - Lv1: ??? HP
+    - Lv10: ??? HP
+- Throws special Rum Juice at monsters in a straight line.
+    - Inflicts a random status condition. (Sleep, Fear, Confusion, or Rage)
+- Uses direct attacks during the day.
+    - High attack power from the start.
+- Has an offensive AI and chases enemies within his view.
+    - He does this even if he can't hit the monster, such as Pumphantasms inside walls.
+    - He won't approach monsters at night.
 - He can randomly disappear when advancing to the next floor.
-    - Disappears if you use the Sparrow's Shuttle before completing his quest.
-    - Disappears if you reach Tower of Fortune 14F with Tao and haven't finished her quest.
-- It seems he stops disappearing once you've cleared Tao and Kojirouta's sidequests.
+    - The message "Galwin isn't anywhere in sight. It seems you became separated." is displayed.
 
-#### Sidequest
+### Saruma Brothers
 
-Unlocking Pitfall of Life (Post-game):
-
-1. Bring him to the top of Tower of Fortune.
-2. Bring him to the top of Tower of Miracles.
-3. Go to the Rich Man's House. (Inori Village)
-
-※ The game prioritizes Tao's sidequest if both allies are with you.
-
-### Okon
-
-<div class="relativeImage">
-  <img src="../images/ally/okon.png"/>
+<div class="relativeImage allyImage">
+  <img src="../images/ally/saruma.jpg"/>
 </div>
 
-#### How to Unlock
+#### Description
 
-1. Help the trapped fox when you randomly encounter it inside a dungeon.
-    - The event will occur again later if you decide not to help the fox.
-2. Return to Nekomaneki Village.
+A trio of monkeys with cheerful personalities.<br/>
+Their names are Ichiro (Red), Jiro (Blue), and Saburo (Yellow).
 
-#### Location
+Their ability to copy Shiren's actions is quite powerful, since you can shoot arrows<br/>or throw items like grasses, staves, or talismans without consuming items.<br/>
+Only 1 monkey can join your adventure at a time.
 
-Next to the Lot Shop. (Basement of Hotel Nekomaneki)
+#### Unlock Condition
+
+1. Progress the story until you've reached Monkey Village.
+2. Encounter Jiro in a dungeon, and agree to search for his brothers.
+3. Encounter Ichiro in a dungeon, and give him an Herb.
+4. Randomly encounter Saburo when advancing floors, and defeat all monsters.
 
 #### Characteristics
 
-- Low HP and collapses extremely easily.
-    - Expect her to collapse if you get separated from her.
-- Transforms into a monster and uses its special attack.
-    - Talk to Okon to enable/disable specific transformations.
-    - She'll learn new transformations as she levels up.
-    - Guaranteed to transform if the special attack will work.
-        - Example: An enemy is adjacent → Transforms into Gazer and confuse them.
+- Level ups are not shared.
+- Stats differ between monkeys.
+    - Ichiro (Higher attack):
+        - Lv1: ??? HP
+        - Lv10: 85 HP
+    - Jiro (Higher defense):
+        - Lv1: ??? HP
+        - Lv10: 85 HP
+    - Saburo (Higher max HP):
+        - Lv1: ??? HP
+        - Lv10: 114 HP
+- Copies Shiren's action in the opposite direction when adjacent to Shiren.
+    - Direct attack. (Won't use direct attacks toward allies)
+    - Throw an identical item. (Piercing properties)
+        - Gitan deals 10 damage.
+        - Can't be used to duplicate items or level up Borg Mamel.
+        - Can hit Shiren, but always misses other ally characters.
+    - Use a scroll or staff. (Excluding selection-based scrolls)
+    - Use a necklace move. (Always fails, so it's pointless)
 
-Transformation List:
+### Banana Prince
 
-|Lv|Monster|Effect|
-|-|-|-|
-|1|Blade Bee|Retreat 1 tile after attacking.|
-|5|Gazer|Inflicts Confused status to a monster in front.|
-|9|Moseal|Body slams a monster either to the north or south.|
-|14|DJ Mage|Fires a magic bullet in a straight line that either knocks a target back,<br/>or warps them to a different location on the same floor.|
-|20|Curse Girl|Inflicts Sealed status to a monster in front.|
-|27|Scoopie|Inflicts Blind status from a distance.<br/>However, it can miss, and Flamebirds burn the dirt on contact.|
-|35|Grass Boy|Throws a random grass with piercing properties.<br/>It can miss, and it won't hit Shiren if he's visible to Okon.|
-|44|Absorbiphant|Cures ailments for allies, and erases enemy auras and positive effects.<br/>Okon's HP will be fully restored, and she'll gain the Buffed status.|
-|54|Naptapir|Infclits Asleep status to all monsters within a 1 tile radius.|
-|65|Flamebird|Restores 30 HP when Shiren, an ally, or Okon has Danger status.|
-
-#### Tips
-
-Generally, it's dangerous for her to have many transformations enabled at the same time,<br/>since the AI might choose to an attacking transformation instead of one that disables<br/>an adjacent enemy.
-
-If you're worried, it's best to only leave Naptapir (or Gazer) enabled for general play,<br/>and toggle other transformations for one turn as needed.
-
-- Blade Bee is her main method to deal with Gyazas and Absorbiphants.
-- Gazer is necessary to win (or even survive) 1-vs-1 fights until she learns Naptapir.
-- Moseal should be disabled at all times, since it places her away from Shiren.
-- DJ Mage can be handy to avoid fights at night or in single-room Monster Houses.
-- Curse Girl should be disabled at all times, since Okon will easily collapse if she's attacked.
-- Scoopie is excellent at disabling enemies in rooms, though note that it can miss.
-- Grass Boy is a decent long range option, but enemies can level up if she throws Rage Grass.
-    - Throws Poison, Confusion, Sleepy, Blinding, Rage, Dragon, Amnesia, or Warp grass.
-- Absorbiphant offers fantastic support for Shiren, and greatly increases Okon's offense.
-- Naptapir should be enabled at all times, since it completely shuts down most enemies.
-    - Except when fighting Gyazas, since they convert the effect into 2 damage.
-- Flamebird should be used to restore HP after a fight, rather than enabling it while fighting.
-
-#### Sidequest
-
-Unlocking Old Road (Post-game):
-
-1. Level Okon and Gen to at least Lv10, and Koharu's equipment level to at least 2.
-2. Visit Gen's House and check the letter on the floor.
-3. Talk to the NPC near the south entrance of Inori Village.
-
-### Koharu
-
-<div class="relativeImage">
-  <img src="../images/ally/koharu.png"/>
+<div class="relativeImage allyImage">
+  <img src="../images/ally/banana.png"/>
 </div>
 
-#### How to Unlock
+#### Description
 
-1. Appears next to the Lot Shop after Okon joins and you go on 3 adventures.
+A peculiar prince who has the appearance of a banana.<br/>
+He can be seen outside the Tavern in Boronga Village from the start.
 
-#### Location
+He's essentially a blue mage character that can learn monster special attacks,<br/>and has a unique HP system where he bruises instead of taking number damage.
 
-Next to the Lot Shop. (Basement of Hotel Nekomaneki)
+#### Unlock Condition
+
+1. Clear the main story.
+2. Go to Monkey Village and slip on a banana peel to unlock Banana Kingdom.
+3. Clear Banana Kingdom.
 
 #### Characteristics
 
-- She can transform into an equippable Fox Kodachi or Fox Shield if you talk to her.
-    - You must have an open inventory slot for her to transform.
-    - Equipment level is shared between the two, and both are registered to the Item Book.
-    - However, upgrade value is separate.
-    - She can only transform into equipment one time per floor.
-    - She'll warp if there isn't enough space when you undo the transformation.
-- Doesn't gain exp by defeating enemies, but instead levels up when equipment level increases.
-    - Lv8 is her max level, and she reaches a pretty solid 95 HP.
-    - Upgrade value of Fox Kodachi is added to her attack.
-    - Upgrade value of Fox Shield is added to her defense.
-    - Use Fate and Earth scrolls, Hermit's Hermitage Blacksmith to increase upgrade value.
-        - "Boost buff rates and # of usable items" New Item bracelet ability is also effective.
-    - Incredible attack and defense at +99, and proves to be a very reliable ally.
-- The transformation wears off if an effect other than increasing upgrade value occurs.
-    - If you try to tag the equipment, or the item is about to rust, turn into an onigiri, etc.
+- Bruises instead of taking number damage when he gets hit.
+    - 12~9 HP = Yellow.
+    - 8~5 HP = Brown.
+    - 4~1 HP = Black.
+- HP doesn't regenerate over time.
+    - HP is fully restored if he gets hit by a Banana Peel or any banana.
+        - Excluding sealed ones or N'dubba monsters disguised as items.
+    - HP is fully restored if he gets hit by a Banana Morph's special attack.
+- Learns abilities called Bana Powers as he gets hit by special attacks or items.
+    - Total of 8 Bana Powers can be assigned - 4 daytime powers, and 4 nighttime powers.
+    - Performs all Bana Powers if applicable in a single turn, starting from the top.
+    - See <a href="/system/bana-powers">Bana Powers</a> for details.
+- Instantly collapses if he gets hit by fire or explosion damage.
+    - The <span class="greenText">Chilly</span> Bana Power (Ice Banana) protects against this weakness.
+    - Firepuff or Dragon special attacks, magma eruptions, etc.
+    - Landmine, Explochin, or Pop Tank blasts, etc.
+- Instantly collapses if he gets splashed by water or oil.
+    - Unlike fire or explosion damage, there's no way to protect against this weakness.
 
-#### Sidequest
-
-Unlocking Old Road (Post-game):
-
-1. Level Okon and Gen to at least Lv10, and Koharu's equipment level to at least 2.
-2. Visit Gen's House and check the letter on the floor.
-3. Talk to the NPC near the south entrance of Inori Village.
-
-### Gen
+### Borg Mamel
 
 <div class="relativeImage">
-  <img src="../images/ally/gen.png"/>
+  <img src="../images/ally/borg_mamel.png"/>
 </div>
 
-#### How to Unlock
+#### Description
 
-1. Reach Hermit's Hermitage.
-2. Obtain catnip juice in Inori Village. (2nd house from the left)
-3. Go to Gen's House in Nekomaneki Village, and give him the catnip juice.
+Cyborg Mamel who time traveled to the past in order to train and save the future.<br/>
+Its default name is "BMamel", but can be renamed when it first joins you.
 
-#### Location
+It doesn't gain experience points, but instead levels up when specific items are thrown at it.<br/>Be sure to tag rare equipment like Sturdy Hammer and Jaguar's Shield before throwing them.<br/>※ The item's name has to be an exact match, along with blessed/cursed/sealed status.
 
-Gen's House (Nekomaneki Village)
+Once it reaches Lv100, it returns to the future and leaves behind a True Knife as thanks.<br/>It can then be found at the end of Entrancing Lane again, but its level resets to 1.
+
+#### Unlock Condition
+
+1. Clear the main story.
+2. Go to Gonchiki Village and unlock Entrancing Lane.
+3. Clear Entrancing Lane.
 
 #### Characteristics
 
-- High stats and fast to level up, and can deal damage to night monsters.
-    - He shines at night, but can put up a fight during the day as well.
-- Shoots enemies with his rifle at night, dealing fixed damage to a single target.
-    - Starts at 40 damage, and goes up to 70 damage.
-    - The shot can also inflict a random status condition.
-        - Shadow Bound, Weakened, Wizened, and possibly others.
-    - Doesn't shoot if an ally is blocking his line of sight.
-    - It's not an ability, so it only deals 2 damage to Gyaza monsters.
+- Max HP increases as it levels up.
+    - Lv1: ??? HP
+    - Lv99: ??? HP
+- Only uses direct attacks.
+- Has an offensive AI and chases enemies within its view.
+    - It does this even if it can't hit the monster, such as Pumphantasms inside walls.
+    - It won't approach monsters at night.
 
-#### Sidequest
+<br/>
 
-Unlocking Gen's Turf (Post-game):
+## Borg Mamel Items
 
-1. Examine the glowing pot inside Gen's House.
+Leveling Borg Mamel to Lv100 is the only way to obtain <a href="/items/weapons#true-knife">True Knife</a> in Shiren 4.
 
-Unlocking Old Road (Post-game):
+The item's name has to be an exact match, along with blessed/cursed/sealed status.<br/><span class="orangeText">Tag rare equipment like Sturdy Hammer and Jaguar's Shield before throwing them.</span>
 
-1. Level Okon and Gen to at least Lv10, and Koharu's equipment level to at least 2.
-2. Visit Gen's House and check the letter on the floor.
-3. Talk to the NPC near the south entrance of Inori Village.
+- B = Blessed
+- C = Cursed
+- S = Sealed
 
-### Sage / Sparrow
+<br/>
 
-<div class="relativeImage">
-  <img src="../images/ally/sage.png"/> <img src="../images/ally/sparrow.png"/>
-</div>
-
-NPCs who ask to be guided to different overworld areas.<br/>
-Both are Lv1 and have 100 HP, and won't fight enemies even if attacked.<br/>
-Sage → Hermit's Hermitage<br/>
-Sparrow → Sparrow's Inn<br/>
-
-Guiding the sage to Hermit's Hermitage unlocks a side quest to learn Staccato Wave.
-
-- Clearing the main story lets you skip having to guide the sage.
-
-Guiding the sparrow unlocks the Sparrow NPC.
-
-- Offers to heal you for 500G when you're in danger.
-- The event only occurs in dungeons that have wandering NPCs.
-- The interruptions can get annoying, so some players intentionally skip this sidequest.
-
+<table>
+  <thead>
+    <tr>
+      <th>Lv</th>
+      <th>Item</th>
+      <th>Lv</th>
+      <th>Item</th>
+      <th>Lv</th>
+      <th>Item</th>
+      <th>Lv</th>
+      <th>Item</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightGray">1</td>
+      <td>Palm Stick</td>
+      <td class="highlightGray">26</td>
+      <td>Poison Grass</td>
+      <td class="highlightGray">51</td>
+      <td>Red Blade</td>
+      <td class="highlightGray">76</td>
+      <td>Fury Talisman</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">2</td>
+      <td>Yellow Banana</td>
+      <td class="highlightGray">27</td>
+      <td>Medicine Scroll</td>
+      <td class="highlightGray">52</td>
+      <td>Diet Shield</td>
+      <td class="highlightGray">77</td>
+      <td>Safe Shield (<span class="greenText">Anti-Theft</span>)</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">3</td>
+      <td>Herb</td>
+      <td class="highlightGray">28</td>
+      <td>Purify Scroll</td>
+      <td class="highlightGray">53</td>
+      <td>Swift Grass</td>
+      <td class="highlightGray">78</td>
+      <td>Super Torch (B)</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">4</td>
+      <td>Storage Pot</td>
+      <td class="highlightGray">29</td>
+      <td>Banana Peel</td>
+      <td class="highlightGray">54</td>
+      <td>Water Pot</td>
+      <td class="highlightGray">79</td>
+      <td>Sky Splitter</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">5</td>
+      <td>Copper Buckler</td>
+      <td class="highlightGray">30</td>
+      <td>Rusty Pickaxe (C)</td>
+      <td class="highlightGray">55</td>
+      <td>Heal Bracelet (S)</td>
+      <td class="highlightGray">80</td>
+      <td>Hemoji Arrow</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">6</td>
+      <td>Torch</td>
+      <td class="highlightGray">31</td>
+      <td>Old Mallet</td>
+      <td class="highlightGray">56</td>
+      <td>Squid Sushi Scroll</td>
+      <td class="highlightGray">81</td>
+      <td>Ice Banana (S)</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">7</td>
+      <td>Light Scroll</td>
+      <td class="highlightGray">32</td>
+      <td>Seal Rod</td>
+      <td class="highlightGray">57</td>
+      <td>Onigiri</td>
+      <td class="highlightGray">82</td>
+      <td>Black Hole Pot</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">8</td>
+      <td>Knockback Staff</td>
+      <td class="highlightGray">33</td>
+      <td>Knockback Arrow</td>
+      <td class="highlightGray">58</td>
+      <td>Chocolate Pot</td>
+      <td class="highlightGray">83</td>
+      <td>Tag Scroll (B)</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">9</td>
+      <td>Replenish Scroll</td>
+      <td class="highlightGray">34</td>
+      <td>Life Grass</td>
+      <td class="highlightGray">59</td>
+      <td>Bind Talisman</td>
+      <td class="highlightGray">84</td>
+      <td>Invitation</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">10</td>
+      <td>Heaven Scroll</td>
+      <td class="highlightGray">35</td>
+      <td>Spoiled Banana</td>
+      <td class="highlightGray">60</td>
+      <td>Dull Gold Edge (S, <span class="greenText">Anti-Drain</span>)</td>
+      <td class="highlightGray">85</td>
+      <td>Decoy Staff (B)</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">11</td>
+      <td>Pierce Bracelet</td>
+      <td class="highlightGray">36</td>
+      <td>Empathy Staff</td>
+      <td class="highlightGray">61</td>
+      <td>Critical Arrow</td>
+      <td class="highlightGray">86</td>
+      <td>Heal Pot (S)</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">12</td>
+      <td>Wood Arrow</td>
+      <td class="highlightGray">37</td>
+      <td>Transient Staff</td>
+      <td class="highlightGray">62</td>
+      <td>Fixer Scroll</td>
+      <td class="highlightGray">87</td>
+      <td>Hatchet (<span class="greenText">HP+20</span>)</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">13</td>
+      <td>Katana</td>
+      <td class="highlightGray">38</td>
+      <td>Mailing Pot</td>
+      <td class="highlightGray">63</td>
+      <td>Happy Grass</td>
+      <td class="highlightGray">88</td>
+      <td>Sturdy Hammer</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">14</td>
+      <td>Iron Targe</td>
+      <td class="highlightGray">39</td>
+      <td>Heal Grass</td>
+      <td class="highlightGray">64</td>
+      <td>Ordinary Staff (B)</td>
+      <td class="highlightGray">89</td>
+      <td>Ogre's Club</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">15</td>
+      <td>Dragon Grass</td>
+      <td class="highlightGray">40</td>
+      <td>Confusion Scroll (S)</td>
+      <td class="highlightGray">65</td>
+      <td>Sanctuary Scroll (B)</td>
+      <td class="highlightGray">90</td>
+      <td>Jaguar's Shield</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">16</td>
+      <td>Weeds</td>
+      <td class="highlightGray">41</td>
+      <td>Miss Talisman</td>
+      <td class="highlightGray">66</td>
+      <td>Dim Rod</td>
+      <td class="highlightGray">91</td>
+      <td>Lizard Shield (<span class="greenText">Anti-Peck</span>)</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">17</td>
+      <td>Air Slash Scroll</td>
+      <td class="highlightGray">42</td>
+      <td>Slumber Scroll</td>
+      <td class="highlightGray">67</td>
+      <td>Staunch Bracelet</td>
+      <td class="highlightGray">92</td>
+      <td>Scout Bracelet (B)</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">18</td>
+      <td>Myopic Masher</td>
+      <td class="highlightGray">43</td>
+      <td>Cleansing Bracelet</td>
+      <td class="highlightGray">68</td>
+      <td>Ripe Banana</td>
+      <td class="highlightGray">93</td>
+      <td>Calling Pot</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">19</td>
+      <td>Green Banana</td>
+      <td class="highlightGray">44</td>
+      <td>Calm Bracelet</td>
+      <td class="highlightGray">69</td>
+      <td>Shrink Seed (S)</td>
+      <td class="highlightGray">94</td>
+      <td>Degrade Pot</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">20</td>
+      <td>Swap Staff</td>
+      <td class="highlightGray">45</td>
+      <td>Otogiriso (B)</td>
+      <td class="highlightGray">70</td>
+      <td>Revival Grass (S)</td>
+      <td class="highlightGray">95</td>
+      <td>Angel Seed</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">21</td>
+      <td>Sleep Talisman</td>
+      <td class="highlightGray">46</td>
+      <td>Grilled Banana</td>
+      <td class="highlightGray">71</td>
+      <td>Earth Scroll (B)</td>
+      <td class="highlightGray">96</td>
+      <td>Upgrade Pot</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">22</td>
+      <td>Hide Pot</td>
+      <td class="highlightGray">47</td>
+      <td>Strength Grass</td>
+      <td class="highlightGray">72</td>
+      <td>Blank Scroll</td>
+      <td class="highlightGray">97</td>
+      <td>Imabikiso</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">23</td>
+      <td>Strength Bracelet</td>
+      <td class="highlightGray">48</td>
+      <td>Tunnel Staff</td>
+      <td class="highlightGray">73</td>
+      <td>Kabura Katana</td>
+      <td class="highlightGray">98</td>
+      <td>Worthy Shield (<span class="greenText">Anti-Hypno</span>)</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">24</td>
+      <td>Lock Shield</td>
+      <td class="highlightGray">49</td>
+      <td>Presto Pot</td>
+      <td class="highlightGray">74</td>
+      <td>Steady Shield</td>
+      <td class="highlightGray">99</td>
+      <td>Extinction Scroll</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">25</td>
+      <td>Poison Arrow</td>
+      <td class="highlightGray">50</td>
+      <td>Palm Shield (<span class="greenText">1/2 Blast</span>)</td>
+      <td class="highlightGray">75</td>
+      <td>Blessing Pot (B)</td>
+      <td colspan="2" class="highlightGray"></td>
+    </tr>
+  </tbody>
+</table>

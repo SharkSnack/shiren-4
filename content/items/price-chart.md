@@ -1,8 +1,10 @@
 ---
 title: "Price Chart"
 metaTitle: "Price Chart - Shiren the Wanderer 4: The Eye of God Wiki"
-metaDescription: "Item price chart for Shiren the Wanderer 2: Oni Invasion!"
+metaDescription: "Item price chart for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
+
+[NOTICE] This page is currently a copy of Shiren 5, so the information isn't correct.
 
 # Categories
 

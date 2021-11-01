@@ -1,7 +1,7 @@
 ---
 title: "FAQ"
 metaTitle: "FAQ - Shiren the Wanderer 4: The Eye of God Wiki"
-metaDescription: "Frequently Asked Questions for Shiren the Wanderer 2: Oni Invasion!"
+metaDescription: "Frequently Asked Questions for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
 This page provides answers to frequently asked questions.
