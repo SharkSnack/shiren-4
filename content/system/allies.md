@@ -273,7 +273,7 @@ He's essentially a blue mage character that can learn monster special attacks,<b
     - Performs all Bana Powers if applicable in a single turn, starting from the top.
     - See <a href="/system/bana-powers">Bana Powers</a> for details.
 - Instantly collapses if he gets hit by fire or explosion damage.
-    - The <span class="greenText">Chilly</span> Bana Power (Ice Banana) protects against this weakness.
+    - The <span class="greenText">Icy Cold</span> Bana Power (Ice Banana) protects against this weakness.
     - Firepuff or Dragon special attacks, magma eruptions, etc.
     - Landmine, Explochin, or Pop Tank blasts, etc.
 - Instantly collapses if he gets splashed by water or oil.

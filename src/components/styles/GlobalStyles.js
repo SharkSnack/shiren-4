@@ -290,7 +290,7 @@ export const baseStyles = css`
   }
 
   .navBarBrand img {
-    width: 40px;
+    width: 32px;
     margin-right: 6px;
     display: inline-block;
   }
@@ -787,17 +787,17 @@ export const baseStyles = css`
   .monsterPageTable th {
     font-weight: normal;
     text-align: center;
-    padding: 2px;
+    padding: 4px;
   }
   .monsterPageTable td {
-    padding: 2px;
+    padding: 4px;
   }
   .monsterImage {
     margin-bottom: 5px !important;
   }
   .monsterImage img {
-    max-width: 60px;
-    max-height: 60px;
+    /* max-width: 58px; */
+    max-height: 58px;
   }
   .bossImage {
     margin-bottom: 5px !important;
@@ -915,8 +915,8 @@ export const baseStyles = css`
     padding: 3px;
   }
   .npcTable img {
-    width: 48px !important;
-    height: auto !important;
+    max-width: 48px;
+    height: auto;
     position: relative !important;
   }
   .firstYellowTable th {

@@ -648,16 +648,16 @@ Upgrade your shield at the blacksmith, and buy items from the shop.
 
 Daytime-only.<br/>
 Enemy attack power starts to get ridiculous from this point.<br/>
-Kengo has high attack and HP, and can knock your equipped shield away.<br/>
+Swordsman has high attack and HP, and can knock your equipped shield away.<br/>
 Dagger Bee's special deals x2.0 damage and inflicts Confusion.<br/>
 Sr. Yanpii hits like a wrecking ball, and its tackle deals damage and knockback.<br/>
 Gyadon can pluck a staff and reduce its remaining uses to 0.
 
-Floating monsters rush toward you at the start, so it's easy to get surrounded.<br/>Fight Kengo with your back against a wall so that your shield doesn't fly off a cliff.<br/>Despite these dangers, be sure to check each room for items instead of rushing the exit.<br/>If there's a Sr. Yanpii with an aura, level it up and defeat it to gain lots of experience points.<br/>Protect staves from Gyadon by inserting them into Storage Pots.
+Floating monsters rush toward you at the start, so it's easy to get surrounded.<br/>Fight Swordsman with your back against a wall so that your shield doesn't fly off a cliff.<br/>Despite these dangers, be sure to check each room for items instead of rushing the exit.<br/>If there's a Sr. Yanpii with an aura, level it up and defeat it to gain lots of experience points.<br/>Protect staves from Gyadon by inserting them into Storage Pots.
 
 ⭐︎ <span class="orangeText">For those that can't deal with night</span> ⭐︎
 
-Linger on these floors and hunt monsters to level up.<br/>This is basically the last area where you can fight during the daytime if you can't deal with night.<br/>Be careful of Kengo while checking rooms, and then step in place near the exit and hunt until the wind blows.<br/>Hide behind a wall or object while waiting so that you don't get tackled by Sr. Yanpii right away,<br/>and use arrows to soften it enough so that it can be defeated in one hit.
+Linger on these floors and hunt monsters to level up.<br/>This is basically the last area where you can fight during the daytime if you can't deal with night.<br/>Be careful of Swordsman while checking rooms, and then step in place near the exit and hunt until the wind blows.<br/>Hide behind a wall or object while waiting so that you don't get tackled by Sr. Yanpii right away,<br/>and use arrows to soften it enough so that it can be defeated in one hit.
 
 ### Lave Field (21-23F)
 
@@ -1217,7 +1217,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     </tr>
     <tr>
       <td>19-20</td>
-      <td>Kengo</td>
+      <td>Swordsman</td>
       <td>58</td>
       <td>32</td>
       <td>16</td>
@@ -2192,7 +2192,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>Flamepuff</td>
       <td>Gyadon</td>
       <td>Dagger Bee</td>
-      <td>Kengo</td>
+      <td>Swordsman</td>
       <th>19</th>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -2207,7 +2207,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>Flamepuff</td>
       <td>Gyadon</td>
       <td>Dagger Bee</td>
-      <td>Kengo</td>
+      <td>Swordsman</td>
       <th>20</th>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -2955,7 +2955,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Crescent Arm</td>
+    <td class="leftText">Crescent Blade</td>
     <td>X</td>
     <td></td>
     <td></td>

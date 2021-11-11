@@ -4,24 +4,26 @@ metaTitle: "NPCs - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Complete NPC details for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
+<div class="pageTopImage screenshot">
+  <p>[Image]</p>
+</div>
+
 ## Overview
 
 Characters that can be found wandering around inside dungeons.<br/>
-They're represented as a yellow dot on the map, and turn hostile when attacked.<br/>
-Up to 3 NPCs can appear on any given floor, and are included in the 20 character limit.
+They're represented as a yellow dot on the map, and only appear in <a href="/dungeons/emerald-terrace">Emerald Terrace</a>.
 
 Characteristics:
 
-- Slow movement (excluding Sage and Sparrow), and 100 HP.
+- Slow movement.
 - Can swap places with Shiren and ally characters.
 - Day monsters won't attack them, but night monsters will.
-- They always dodge thrown weapons and shields.
 
-Ally characters can also appear as wandering NPCs, and can be recruited by talking.<br/>They never turn hostile, no matter what you actions you take against them.
+Ally characters can also appear as wandering NPCs, and can be recruited by talking.<br/>NPCs never turn hostile, no matter what actions you take against them.
 
 <ul class="quickLinksUL">
   <li><a href="#npc-list">NPC List</a></li>
-  <li><a href="#chiroro-items">Chiroro Items</a></li>
+  <li><a href="#bargain-hunter-items">Bargain Items</a></li>
   <li><a href="#ateska-fortunes">Ateska Fortunes</a></li>
 </ul>
 
@@ -30,183 +32,138 @@ Ally characters can also appear as wandering NPCs, and can be recruited by talki
 <table class="npcTable">
   <tr>
     <th>NPC</th>
-    <th>Story Dungeons</th>
-    <th>Post-Game Dungeons</th>
     <th>Notes</th>
   </tr>
   <tr>
-    <td class="highlightYellow"><img src="../images/npc/peddler.png"/><br/>Peddler</td>
-    <td>Destiny Trail: 1-5<br/>Tower of the Past: 4-7<br/>Tower of the Present: 4-7<br/>Tower of the Future: 4-7</td>
-    <td>Pitfall of Life: 4-13<br/>Lost Well: 4-14<br/>Heavenly Lake: 4-14<br/>Inori Cave: 73-83<br/>Onigiri Hollow: 5-14</td>
-    <td>Lets you purchase and sell items.<br/>The 8 items for sale are randomly chosen from the dungeon's<br/>shop / night monster drop table. (S column on dungeon pages)<br/>※ You can't buy back items you sell.</td>
+    <td class="highlightYellow"><img src="../images/npc/runner.png"/><br/>Runner</td>
+    <td>Offers to retrieve an item from the Boronga Village storehouse for free.<br/>You don't get the item right away, but instead have to wait until you see him again.</td>
   </tr>
   <tr>
-    <td class="highlightYellow"><img src="../images/npc/calligrapher.png"/><br/>Calligrapher</td>
-    <td>Tower of the Past: 1-7<br/>Tower of the Present: 1-7<br/>Tower of the Future: 1-7<br/>Tower of Fortune: 1-3</td>
-    <td>Lost Well: 1-14<br/>Inori Cave: 70-83</td>
-    <td>Answer "Yes" and give her a Blank Scroll to receive a scroll<br/>that you haven't read before, excluding Blank, Wet, and Paper.<br/>12% chance to fail and receive Piece of Paper.<br/>Receive Expulsion Scroll if you've read all other scrolls.</td>
+    <td class="highlightYellow"><img src="../images/npc/ace_runner.png"/><br/>Ace Runner</td>
+    <td>Offers to deliver an item to the Boronga Village storehouse for free.<br/>If he's defeated before he leaves, he'll drop the item you handed him on the ground.</td>
   </tr>
   <tr>
-    <td class="highlightYellow"><img src="../images/npc/appraiser.png"/><br/>Appraiser</td>
-    <td>Destiny Trail: 1-5<br/>Tower of the Past: 1-3<br/>Tower of the Present: 1-4<br/>Tower of the Future: 1-4<br/>Tower of Fortune: 1-3</td>
-    <td>Lost Well: 1-14<br/>Heavenly Lake: 1-14<br/>Inori Cave: 70-83<br/>Onigiri Hollow: 1-14</td>
-    <td>Identifies a random category of items for you.<br/>※ Items inside pots won't be identified.<br/>Afterward, you can pay 500G to identify 1 item.</td>
+    <td class="highlightYellow"><img src="../images/npc/smith_1.png"/><br/>Smith 1</td>
+    <td>Pay 1000G to increase a selected item's upgrade value by 1.<br/>If you're lucky, upgrade value will be increased by 3 instead.<br/>Select a Fuuma Shield+99 to turn it into a Helix Shield.</td>
   </tr>
   <tr>
-    <td class="highlightYellow"><img src="../images/npc/blacksmith_1.png"/><br/>Blacksmith 1</td>
-    <td>Destiny Trail: 1-5<br/>Tower of the Past: 4-7<br/>Tower of the Present: 4-7<br/>Tower of the Future: 4-7</td>
-    <td>Pitfall of Life: 4-13<br/>Lost Well: 4-14<br/>Heavenly Lake: 4-14<br/>Inori Cave: 73-83<br/>Onigiri Hollow: 5-14</td>
-    <td>Pay 1000G to increase a selected item's upgrade value.<br/>If you're lucky, it'll increase by +3 instead of +1. (1/12 chance)</td>
-  </tr>
-  <tr>
-    <td class="highlightYellow"><img src="../images/npc/blacksmith_2.png"/><br/>Blacksmith 2</td>
-    <td>Destiny Trail: 1-5<br/>Tower of the Past: 4-7<br/>Tower of the Present: 4-7<br/>Tower of the Future: 4-7</td>
-    <td>Lost Well: 4-14<br/>Inori Cave: 73-83</td>
-    <td>Pay 1000G and deposit equipment to raise its upgrade value.<br/>Returns it to you the next time you meet her, and the upgrade<br/>value will have increased by either +7 or +13 if you're lucky.<br/>Lucky chance is 12% at first, and increases by 2% each time<br/>you use her service, up to a max of 30%.<br/>※ This service can't be used with Koharu.</td>
+    <td class="highlightYellow"><img src="../images/npc/smith_2.png"/><br/>Smith 2</td>
+    <td>Pay 1000G and deposit a weapon or shield to increase its upgrade value.<br/>He'll return the item to you the next time you meet him, and the upgrade value will<br/>have increased by +7~13. The smith's skill increases each time you place an order,<br/>and after a number of orders, he can turn a Kabura Katana+99 into a Kaburagi.</td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/upgrader.png"/><br/>Upgrader</td>
-    <td>Destiny Trail: 1-5<br/>Tower of the Past: 1-7<br/>Tower of the Present: 1-7<br/>Tower of the Future: 1-7</td>
-    <td>Lost Well: 1-14<br/>Inori Cave: 70-83</td>
-    <td>Deposit equipment, and she'll return it to you the next time<br/>you meet her with the item having gained 50,000 skill exp.<br/>※ Equipment can only level up 1 level at a time.<br/>※ This service can't be used with Koharu.</td>
+    <td>Deposit a weapon or shield, and he'll return it to you the next time you meet him<br/>with the item having gained lots of skill points. (Often enough to increase level by 1)<br/>The Item Book is updated right away if the deposited item levels up.</td>
   </tr>
   <tr>
-    <td class="highlightYellow"><img src="../images/npc/tag_master.png"/><br/>Tag Master</td>
-    <td>Destiny Trail: 1-5<br/>Tower of the Past: 1-7<br/>Tower of the Present: 1-7<br/>Tower of the Future: 1-7<br/>Tower of Fortune: 1-3</td>
-    <td>Lost Well: 1-14<br/>Inori Cave: 70-83</td>
-    <td>Pay 2000G to tag a piece of equipment.</td>
+    <td class="highlightYellow"><img src="../images/npc/peddler.png"/><br/>Peddler</td>
+    <td>Lets you purchase and sell items on the spot.<br/>Doesn't drop anything or trigger Thief Mode if defeated.<br/>Talks about opening his own store when you first talk to him, and after he does so,<br/>a blue shopkeep replaces him as the Peddler NPC.</td>
   </tr>
   <tr>
-    <td class="highlightYellow"><img src="../images/npc/lost_soul.png"/><br/>Lost Soul</td>
-    <td>Destiny Trail: 1-5<br/>Tower of the Past: 1-7<br/>Tower of the Present: 1-7<br/>Tower of the Future: 1-7<br/>Tower of Fortune: 1-3</td>
-    <td>Pitfall of Life: 1-13<br/>Lost Well: 1-14<br/>Heavenly Lake: 1-14<br/>Inori Cave: 70-83<br/>Onigiri Hollow: 1-14</td>
-    <td>Answer "No" to receive a random item.<br/>(Chosen from the dungeon's floor / day monster drop table)</td>
+    <td class="highlightYellow"><img src="../images/npc/torch_girl.png"/><br/>Torch Girl</td>
+    <td>Sells Torches for 100G each, and occasionally charges 300G instead.<br/>If you buy torches each time, she can eventually be found sleeping on the ground,<br/>and offers to sell you a blessed Torch after waking her up.</td>
   </tr>
   <tr>
-    <td class="highlightYellow"><img src="../images/npc/connoisseur.png"/><br/>Connoisseur</td>
-    <td>Destiny Trail: 1-5<br/>Tower of the Past: 1-7<br/>Tower of the Present: 1-7<br/>Tower of the Future: 1-7<br/>Tower of Fortune: 1-3</td>
-    <td>Pitfall of Life: 1-13<br/>Lost Well: 1-14<br/>Heavenly Lake: 1-14<br/>Inori Cave: 70-83<br/>Onigiri Hollow: 1-14</td>
-    <td>Gives you a random item.<br/>(Chosen from the dungeon's floor / day monster drop table)</td>
-  </tr>
-  <tr>
-    <td class="highlightYellow"><img src="../images/npc/researcher.png"/><br/>Researcher</td>
-    <td>Destiny Trail: 1-5<br/>Tower of the Past: 1-7<br/>Tower of the Present: 1-7<br/>Tower of the Future: 1-7<br/>Tower of Fortune: 1-3</td>
-    <td>Pitfall of Life: 1-13<br/>Lost Well: 1-14<br/>Heavenly Lake: 1-14<br/>Inori Cave: 70-83<br/>Onigiri Hollow: 1-14</td>
-    <td>Gives you a random item.<br/>(Chosen from the dungeon's floor / day monster drop table)</td>
-  </tr>
-  <tr>
-    <td class="highlightYellow"><img src="../images/npc/gambler.png"/><br/>Gambler</td>
-    <td>Destiny Trail: 1-5<br/>Tower of the Past: 1-7<br/>Tower of the Present: 1-7<br/>Tower of the Future: 1-7<br/>Tower of Fortune: 1-3</td>
-    <td>-</td>
-    <td>He asks for Gitan, and eventually rewards you with items.<br/>500G (Catstone) → 1500G → 3000G → 0G (Undo Grass) →<br/>0G (Breeze Blade) → 5000G → 0G → 0G (Waterwalk Bracelet)</td>
+    <td class="highlightYellow"><img src="../images/npc/lost_youth.png"/><br/>Lost Youth</td>
+    <td>Can only be found during the night. (He vanishes once it changes to daytime)<br/>Give him any torch and he'll give you a Light Scroll as thanks.<br/></td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/mekky.png"/><br/>Mekky</td>
-    <td>Destiny Trail: 1-5<br/>Tower of the Past: 4-7<br/>Tower of the Present: 4-7<br/>Tower of the Future: 4-7</td>
-    <td>Pitfall of Life: 4-13<br/>Lost Well: 4-14<br/>Heavenly Lake: 4-14<br/>Inori Cave: 73-83<br/>Onigiri Hollow: 5-14</td>
-    <td>Pay 2000G to add the <span class="greenText">Rustproof</span> rune to a piece of equipment.<br/>Can also plate Shiren or an ally instead. (Plated status)<br/>※ Okon and Koharu have special colors when plated.</td>
+    <td>Pay 2000G to add the <span class="greenText">Rustproof</span> rune to a weapon or shield of your choice.<br/>Can also plate Shiren, turning him invulnerable until the plating wears off.</td>
   </tr>
   <tr>
-    <td class="highlightYellow"><img src="../images/npc/child.png"/><br/>Child</td>
-    <td>Tower of the Past: 1-4<br/>Tower of the Present: 1-4<br/>Tower of the Future: 1-4</td>
-    <td>Pitfall of Life: 1-13<br/>Lost Well: 1-14<br/>Heavenly Lake: 1-14<br/>Inori Cave: 70-83<br/>Onigiri Hollow: 1-14</td>
-    <td>Say "Yes", and Child's Sister may appear in a Monster House.</td>
+    <td class="highlightYellow"><img src="../images/npc/tag_shop.png"/><br/>Tag Shop</td>
+    <td>Pay 2000G to tag a weapon or shield of your choice.</td>
   </tr>
   <tr>
-    <td class="highlightYellow"><img src="../images/npc/sister.png"/><br/>Child's Sister</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Appears in a Monster House after saying "Yes" to the Child.<br/>Talk to her to rescue her. She'll then rescue you the next time<br/>you collapse, reviving and warping you out of the room.<br/>※ She'll then be defeated by a monster, leveling them up.</td>
+    <td class="highlightYellow"><img src="../images/npc/purifier.png"/><br/>Purifier</td>
+    <td>Pay 500G to remove a curse or seal from 1 item.<br/>However, it occasionally fails, and you don't get your money back.</td>
   </tr>
   <tr>
-    <td class="highlightYellow"><img src="../images/npc/chiroro.png"/><br/>Chiroro</td>
-    <td>Destiny Trail: 1-5<br/>Tower of the Past: 4-7<br/>Tower of the Present: 4-7<br/>Tower of the Future: 4-7</td>
-    <td>Lost Well: 4-14<br/>Inori Cave: 73-83</td>
-    <td>Pay 1000, 2000, or 3000G and he'll give you an item<br/>the next time you meet him. (Chosen from the floor table)</td>
+    <td class="highlightYellow"><img src="../images/npc/healer.png"/><br/>Healer</td>
+    <td>Pay 300G to restore Shiren's HP, strength, and status.</td>
   </tr>
   <tr>
-    <td class="highlightYellow"><img src="../images/npc/gachagacha.png"/><br/>Gachagacha</td>
-    <td>Destiny Trail: 1-5<br/>Tower of the Past: 1-7<br/>Tower of the Present: 1-7<br/>Tower of the Future: 1-7<br/>Tower of Fortune: 1-3</td>
-    <td>Lost Well: 1-14<br/>Inori Cave: 70-83</td>
-    <td>Purchase a random Wanderer Eraser for 50 points.<br/>※ DS version only, and must be carrying a Point Card.</td>
+    <td class="highlightYellow"><img src="../images/npc/hugger.png"/><br/>Hugger</td>
+    <td>Old man who was blinded by a monster's attack.<br/>Talk to him after throwing Sight Grass or Heal Grass, and he'll raise max HP by 10.<br/>If you're lucky, he'll raise your max HP by 20 instead.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow"><img src="../images/npc/bad_morph.png"/><br/>Bad Morph</td>
+    <td>Banana Morph who can't turn items into Yellow Bananas.<br/>He'll offer to change an item into a banana if you choose not to laugh at him.<br/>1st: Spoiled Banana, 2nd: Green Banana, 3rd: Grilled Banana, 4th: Banana Peel,<br/>5th: Shiren turns into a banana, 6th onward: Ice Banana.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow"><img src="../images/npc/appraiser.png"/><br/>Appraiser</td>
+    <td>Identifies a random category of items for you.<br/>Afterward, you can pay 500G to identify 1 item.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow"><img src="../images/npc/scribe.png"/><br/>Scribe</td>
+    <td>Only appears between 11-12F and 19-26F.<br/>Give her a Blank Scroll to receive a scroll that you haven't read before.<br/>Occasionally fails, resulting in a Piece of Paper.<br/>Receive an Invitation if you've read all other scrolls.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow"><img src="../images/npc/bargain.png"/><br/>Bargain<br/>Hunter</td>
+    <td>Pay 1000G and she'll give you an item the next time you meet her.<br/>Nothing happens when you talk to her until you've heard the rumors in the Tavern.<br/>Asks for 3000G every 5 times, which results in the exclusive Bargain Blade.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow"><img src="../images/npc/man.png"/><br/>Man</td>
+    <td>Asks you to rescue his friend who collapsed inside the dungeon.<br/>Say "Yes", and his friend may appear in a Monster House.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow"><img src="../images/npc/friend.png"/><br/>Friend</td>
+    <td>Appears in a Monster House after saying "Yes" to the Man NPC.<br/>Talk to him to rescue him. He'll then rescue you if you collapse, reviving you and<br/>warping you out of the room. He'll then be defeated by a monster, leveling them up.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow"><img src="../images/npc/business_monkey.png"/><br/>Business<br/>Monkey</td>
+    <td>He asks for Gitan, and grants access to the Monkey Village warehouse in return.<br/>1000G (warehouse unlocked) → 3000G (expansion) → 5000G (expansion).<br/>After that, he gives you 10% of Diet Banana sales each time you run into him.<br/><br/>He appears if you're starving and offers 3 Diet Bananas in exchange for all Gitan.<br/>The Diet Lady NPC appears when you advance floors after buying Diet Bananas.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow"><img src="../images/npc/diet_banana.png"/><br/>Diet Lady</td>
+    <td>Gives you a Ripe Banana and 3000G in exchange for a Diet Banana.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow"><img src="../images/npc/peko.png"/><br/>Peko</td>
+    <td>Appears and asks for the banana when you try to eat your last banana while starving.<br/>(Bananas underfoot and inside pots are ignored for the event).<br/>If you give the banana, Peko will appear in a subsequent adventure and replenish<br/>your fullness when you're starving.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow"><img src="../images/npc/osteopath.png"/><br/>Osteopath</td>
+    <td>Give him a pot, and he'll restore your strength and increase your max strength by 1.<br/>If you're lucky, he'll increase your max strength by 3 instead.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow"><img src="../images/npc/refresher.png"/><br/>Refresher</td>
+    <td>Pay 300G to refresh all necklace moves.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow"><img src="../images/npc/tamo.png"/><br/>Tamo</td>
+    <td>Begins to dig walls if you give him a Rusty Pickaxe type weapon.<br/>Periodically talk to him after letting him dig for a bit to receive an item.</td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/apprentice.png"/><br/>Apprentice</td>
-    <td>Destiny Trail: 1-5<br/>Tower of the Past: 1-3<br/>Tower of the Present: 1-4<br/>Tower of the Future: 1-4<br/>Tower of Fortune: 1-3</td>
-    <td>Lost Well: 1-14<br/>Heavenly Lake: 1-14<br/>Inori Cave: 70-83</td>
-    <td>Teaches you a new ability. (Selected randomly)<br/>- Room Sealant<br/>- Sticky Shot<br/>- HP Divider<br/>- Last Stand<br/>- Pyrrhic Piercer</td>
+    <td>Teaches you a new necklace move. (Selected randomly)<br/>・Cluster Confusion<br/>・Bi-Direction Bind<br/>・Circle Wave</td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/tradesman.png"/><br/>Tradesman</td>
-    <td>Destiny Trail: 1-5<br/>Tower of the Past: 1-7<br/>Tower of the Present: 1-7<br/>Tower of the Future: 1-7<br/>Tower of Fortune: 1-3</td>
-    <td>Lost Well: 1-14<br/>Heavenly Lake: 1-14<br/>Inori Cave: 70-83</td>
-    <td>Teaches you a new ability. (Selected randomly)<br/>- Dicey Distractor<br/>- Ally Launcher<br/>- Room Cyclone<br/>- Room Healing Flash<br/>- Crawling Confusion</td>
+    <td>Teaches you a new necklace move. (Selected randomly)<br/>・Billiards Blast<br/>・8-Way Boom Bullet<br/>・Piercing Blast<br/>・Draining Circle</td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/master.png"/><br/>Master</td>
-    <td>Tower of Fortune: 1-3</td>
-    <td>Lost Well: 1-14<br/>Heavenly Lake: 1-14<br/>Inori Cave: 70-83</td>
-    <td>Teaches you a new ability. (Selected randomly)<br/>- Pot Party<br/>- Bi-Directional Blast<br/>- Stairlight<br/>- Reflecto<br/>- Onigiri Bonanza</td>
+    <td>Teaches you a new necklace move. (Selected randomly)<br/>・Room Shockwave<br/>・Piercing Cross Blast<br/>・Dazing Circle<br/>・8-Way Slumber Shot<br/>・8-Way Piercing Blast</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow"><img src="../images/npc/inn_girl.png"/><br/>Inn Girl</td>
+    <td>Only appears between 6-12F and 19-20F.<br/>Guide her to Inn of the Wind to unlock the Inn service.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow"><img src="../images/npc/inn_boy.png"/><br/>Inn Boy</td>
+    <td>Only appears between 6-12F and 19-20F.<br/>Guide him to Inn of the Wind to unlock the item shop.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow"><img src="../images/npc/inn_gramps.png"/><br/>Inn Gramps</td>
+    <td>Only appears between 6-12F and 19-20F.<br/>Guide him to Inn of the Wind to unlock the storehouse.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow"><img src="../images/npc/inn_man.png"/><br/>Inn Man</td>
+    <td>Only appears between 6-12F and 19-20F.<br/>Guide him to Inn of the Wind along with the other 3 inn NPCs to unlock Trial Road.</td>
   </tr>
   <tr>
     <td class="highlightYellow">Madam<br/>Ateska</td>
-    <td>Tower of the Past: 1-6<br/>Tower of the Present: 1-6<br/>Tower of the Future: 1-6<br/>Tower of Fortune: 1-2</td>
-    <td>Pitfall of Life: 1-13<br/>Lost Well: 1-14<br/>Heavenly Lake: 1-14<br/>Inori Cave: 70-83<br/>Onigiri Hollow: 1-14</td>
-    <td>Disguises herself as a different NPC, and tells you a fortune.<br/>(The result of the fortune takes effect on the next floor)<br/><br/>Super Good: Floor items = Angel Seed, Blank Scroll.<br/>Great: Floor items = Cheery Grass.<br/>Decent: Floor items = Fate Scroll, Earth Scroll.<br/>Good: 100% chance for a store to appear.<br/>Bad: 100% chance for a Monster House to appear.<br/>Terrible: Greater number of traps on the floor.<br/>Ultimate Bad: Initial monsters are all Field Knaves.</td>
-  </tr>
-  <tr>
-    <td class="highlightYellow"><img src="../images/npc/digger_don.png"/><br/>Digger Don</td>
-    <td>Tower of the Past: 5-7<br/>Tower of the Present: 5-7<br/>Tower of the Future: 5-7</td>
-    <td>Pitfall of Life: 5-13<br/>Lost Well: 6-14<br/>Inori Cave: 74-83<br/>Onigiri Hollow: 5-14</td>
-    <td>Give him a Rusty Pickaxe type weapon, and he'll start digging.<br/>He'll uncover items as he digs, which you're free to pick up.<br/>(Items are selected from the rescue reward table)<br/>※ The Rusty Pickaxe will be lost.</td>
-  </tr>
-  <tr>
-    <td class="highlightYellow"><img src="../images/npc/curse_breaker.png"/><br/>Curse Breaker</td>
-    <td>Tower of the Past: 1-3<br/>Tower of the Present: 1-4<br/>Tower of the Future: 1-4<br/>Tower of Fortune: 1-3</td>
-    <td>Pitfall of Life: 1-13<br/>Lost Well: 1-14<br/>Heavenly Lake: 1-14<br/>Inori Cave: 70-83<br/>Onigiri Hollow: 1-14</td>
-    <td>Pay 500G to remove a curse or seal from 1 item.</td>
-  </tr>
-  <tr>
-    <td class="highlightYellow"><img src="../images/npc/poo.png"/><br/>Poo</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Pay 3000G to receive a Catstone. (1/7 chance per color)<br/>Talk to Ah in Hotel Nekomaneki to learn where Poo is located.<br/>※ Doesn't appear until post-game.</td>
-  </tr>
-  <tr>
-    <td class="highlightYellow"><img src="../images/npc/sage.png"/><br/>Sage</td>
-    <td>Tower of the Past: 1-7<br/>Tower of the Present: 1-7<br/>Tower of the Future: 1-7</td>
-    <td>-</td>
-    <td>Answer "Yes" to have him join your party. (Doesn't fight)<br/>Receive Undo Grass if you guide him to Hermit's Hermitage.<br/>Only available after reaching Hermit's Hermitage, and before<br/>defeating the final boss of the main story.</td>
-  </tr>
-  <tr>
-    <td class="highlightYellow"><img src="../images/npc/sparrow.png"/><br/>Sparrow</td>
-    <td>Tower of the Past: 1-7<br/>Tower of the Present: 1-7<br/>Tower of the Future: 1-7<br/>Tower of Fortune: 1-14</td>
-    <td>-</td>
-    <td>Answer "Yes" to have them join your party. (Doesn't fight)<br/>Receive Undo Grass if you guide them to Sparrow's Inn.<br/>Afterward, they'll come to your rescue when you're in danger.<br/>(Pay 500G to restore HP and ailments)</td>
+    <td>Disguises herself as a different NPC, and tells you a fortune.<br/>(The result of the fortune takes effect on the next floor)<br/><br/>Great: Floor items = Happy Grass.<br/>Good: Floor items = Gitan.<br/>Decent: 100% chance for a shop to appear.<br/>Average: Floor items = bananas.<br/>Bad: 100% chance for a Monster House to appear.</td>
   </tr>
 </table>
-
-## Chiroro Items
-
-Some of the items you can receive from Chiroro.
-
-|Gitan|Item|
-|-|-|
-|1000|Conf. Talisman x3, Strength Grass, Heal Grass|
-|2000|Myopic Masher, Cleansing Bracelet|
-|3000|Alert Bracelet, Cleansing Bracelet, Revival Grass, Life Grass,<br/>Invincible Grass, Beast Fang, Dispel Aura Scroll|
-
-## Ateska Fortunes
-
-The result of a fortune takes effect on the next floor.<br/>
-Angel Seeds can be used as a base for New Items to rapidly level up allies,<br/>and should be duplicated using Fever Pots instead of being consumed.
-
-|Result|Effect|
-|-|-|
-|Super Good|Floor items are all either Blank Scroll or Angel Seed.<br/>Scrolls inside a Monster House are Navigation Scrolls.<br/>Buried and island items are unaffected.|
-|Great|Floor items are all Cheery Grass.<br/>Buried and island items are unaffected.|
-|Decent|Floor items are all either Fate Scroll or Earth Scroll.<br/>Buried and island items are unaffected.|
-|Good|100% chance for a store to appear.<br/>It won't appear if the given floor never has stores.|
-|Bad|100% chance for a Monster House to appear.<br/>Can be a pop-up Monster House.<br/>It won't appear if the given floor never has Monster Houses.|
-|Terrible|Greater number of traps on the floor. (Limit of 64 traps)|
-|Ultimate Bad|Initial monsters are all Field Knaves.|

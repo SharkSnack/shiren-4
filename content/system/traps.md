@@ -9,7 +9,7 @@ metaDescription: "Complete list of traps for Shiren the Wanderer 4: The Eye of G
 Traps are dungeon objects that trigger when stepped on, and have a wide variety of effects.<br/>
 The effect also differs based on what caused it to trigger. (Shiren, monster, or an item landing on the trap)
 
-See Gen's Turf for information about Trapper Status.
+See <a href="/dungeons/trap-zone">Trap Zone</a> for information about Trapper Status.
 
 ## Trap List
 
@@ -94,14 +94,14 @@ Traps are listed in Item Book order.
     <td>-</td>
   </tr>
   <tr>
-    <td id="trip-trap"><img src="../images/traps/trip.png"/><br/>Trip</td>
+    <td id="trip-trap">[Trip]</td>
     <td>Deals 2~3 damage and<br/>makes you drop items.<br/>Dropped pots can break.<br/><br/>Balance Staff protects<br/>you from this effect.</td>
     <td>Deals 2~3 damage.<br/><br/>Zaloklefts, Mixers, and<br/>Froggos will drop the<br/>item they're carrying.</td>
     <td>Trap activates.</td>
     <td>Each activation while<br/>carrying Balance Staff<br/>lowers use count by 1.</td>
   </tr>
   <tr>
-    <td id="decay-trap"><img src="../images/traps/decay.png"/><br/>Decay</td>
+    <td id="decay-trap">[Spoil]</td>
     <td>Onigiri and peaches not<br/>inside pots instantly rot.<br/><br/>Instantly collapse if you<br/>step on it while you're<br/>an Onigiri.</td>
     <td>Become a Rotten Onigiri.<br/>(No experience points)<br/><br/>Gyazas are immune.<br/>(Receives 2 damage)</td>
     <td>Onigiri and peaches<br/>become rotten.</td>
@@ -157,9 +157,9 @@ Traps are listed in Item Book order.
     <td>-</td>
   </tr>
   <tr>
-    <td id="onigiri-trap"><img src="../images/traps/onigiri.png"/><br/>Onigiri</td>
-    <td>Inflicts Onigiri.</td>
-    <td>Inflicts Onigiri.<br/><br/>Nigiri Baby monsters<br/>will be Buffed instead.</td>
+    <td id="onigiri-trap">[Banana]</td>
+    <td>Inflicts Banana.</td>
+    <td>Inflicts Banana.<br/><br/>Banana Novice monsters<br/>will be Buffed instead.</td>
     <td>Trap activates.</td>
     <td>-</td>
   </tr>
@@ -171,7 +171,7 @@ Traps are listed in Item Book order.
     <td>See Slow status.</td>
   </tr>
   <tr>
-    <td id="hunger-trap"><img src="../images/traps/hunger.png"/><br/>Hunger</td>
+    <td id="hunger-trap">[Hunger]</td>
     <td>Decreases fullness by 10.</td>
     <td>Inflicts Weakened.<br/><br/>Polygon Spinnas will be<br/>Buffed instead.</td>
     <td>Trap activates.</td>
@@ -239,19 +239,5 @@ Traps are listed in Item Book order.
     <td>Doesn't activate.</td>
     <td>Doesn't activate.<br/>(Item lands next to it)</td>
     <td>-</td>
-  </tr>
-  <tr>
-    <td id="duelist-trap"><img src="../images/traps/duelist.png"/><br/>Duelist</td>
-    <td>Nothing happens.</td>
-    <td>Inflicts Dueling.</td>
-    <td>Trap activates.</td>
-    <td>Duelist traps set by<br/>Shiren will break after<br/>a single use.</td>
-  </tr>
-  <tr>
-    <td id="point-switch"><img src="../images/traps/point_switch.png"/><br/>Point Switch</td>
-    <td>Adds points to Point Card<br/>if it's in your inventory.</td>
-    <td>No effect.</td>
-    <td>Trap activates.</td>
-    <td>Trap breaks after 1 use.<br/>Point gain varies by<br/>location. (10~220)</td>
   </tr>
 </table>
