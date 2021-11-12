@@ -73,7 +73,7 @@ Monster Book Order
     <td class="highlightGray"><a href="#traproid">Traproid</a></td>
     <td class="highlightYellow"><a href="#gyaza">Gyaza</a></td>
     <td class="highlightGray"><a href="#crow-tengu">Crow Tengu</a></td>
-    <td></td>
+    <td class="highlightYellow"><a href="#shopkeep">Shopkeep</a></td>
   </tr>
   <tr>
     <td class="highlightYellow"><a href="#squid-king">Squid King</a></td>
@@ -1269,7 +1269,7 @@ Element Order
     <td>11</td>
     <td>7</td>
     <td>4%</td>
-    <td rowspan="4">Floating<br/>Random</td>
+    <td rowspan="4">Dragon<br/>Floating<br/>Random</td>
     <td>Same as Firepuff, but fire deals 20 damage.</td>
   </tr>
   <tr>
@@ -3409,7 +3409,7 @@ Element Order
     <td>72</td>
     <td>9</td>
     <td>4%</td>
-    <td>-</td>
+    <td rowspan="4">Swift 1</td>
     <td rowspan="4">Double speed (1 attack).<br/>Initially Napping, and wakes up if you enter the room.<br/>Creates traps inside the room based on the floor's trap table.<br/>Stops acting for 2 turns after creating a trap.<br/>Chance to create a trap when defeated.</td>
   </tr>
   <tr>
@@ -3421,7 +3421,6 @@ Element Order
     <td>440</td>
     <td>35</td>
     <td>4%</td>
-    <td>-</td>
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
@@ -3432,7 +3431,6 @@ Element Order
     <td>1500</td>
     <td>80</td>
     <td>4%</td>
-    <td>-</td>
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
@@ -3443,7 +3441,6 @@ Element Order
     <td>3500</td>
     <td>300</td>
     <td>4%</td>
-    <td>-</td>
   </tr>
   <tr>
     <th>Lv</th>
@@ -3466,7 +3463,7 @@ Element Order
     <td>60</td>
     <td>25</td>
     <td>4%</td>
-    <td rowspan="4">Regular</td>
+    <td rowspan="4">Swift 1<br/>Regular</td>
     <td rowspan="4">Same as daytime abilities.</td>
   </tr>
   <tr>
@@ -4344,5 +4341,1513 @@ Element Order
     <td>7500</td>
     <td>500</td>
     <td>4%</td>
+  </tr>
+</table>
+
+### Cheer Ham
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/cheer_ham.png"/><img src="../images/monsters/cheer_ham_2.png"/><img src="../images/monsters/cheer_ham_3.png"/><img src="../images/monsters/cheer_ham_4.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Cheer Ham</td>
+    <td>13</td>
+    <td>5</td>
+    <td>3</td>
+    <td>12</td>
+    <td>5</td>
+    <td>4%</td>
+    <td>-</td>
+    <td>Runs from Shiren, and moves toward monsters in its view.<br/>Cheers for creatures in a 1 tile radius, raising attack power<br/>by 1 stage and letting them survive a fatal hit.<br/>Its cheer also affects Shiren and his allies.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>monster_name</td>
+    <td>34</td>
+    <td>15</td>
+    <td>10</td>
+    <td>50</td>
+    <td>20</td>
+    <td>4%</td>
+    <td>-</td>
+    <td>Same as Cheer Ham, but raises attack by 2 stages.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>monster_name</td>
+    <td>46</td>
+    <td>22</td>
+    <td>15</td>
+    <td>130</td>
+    <td>30</td>
+    <td>4%</td>
+    <td>-</td>
+    <td>Same as Cheer Ham, but raises attack and defense by 1 stage.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>monster_name</td>
+    <td>60</td>
+    <td>30</td>
+    <td>20</td>
+    <td>400</td>
+    <td>50</td>
+    <td>4%</td>
+    <td>-</td>
+    <td>Same as Cheer Ham, but raises attack and defense by 2 stages.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>monster_name</td>
+    <td>25</td>
+    <td>14</td>
+    <td>1</td>
+    <td>22</td>
+    <td>18</td>
+    <td>4%</td>
+    <td rowspan="4">Regular</td>
+    <td rowspan="4">Same as daytime abilities.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>monster_name</td>
+    <td>37</td>
+    <td>24</td>
+    <td>2</td>
+    <td>60</td>
+    <td>60</td>
+    <td>4%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>monster_name</td>
+    <td>44</td>
+    <td>32</td>
+    <td>3</td>
+    <td>240</td>
+    <td>130</td>
+    <td>4%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>monster_name</td>
+    <td>56</td>
+    <td>45</td>
+    <td>4</td>
+    <td>1000</td>
+    <td>220</td>
+    <td>4%</td>
+  </tr>
+</table>
+
+### Dragon
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/dragon.png"/><img src="../images/monsters/dragon_2.png"/><img src="../images/monsters/dragon_3.png"/><img src="../images/monsters/dragon_4.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Dragon</td>
+    <td>80</td>
+    <td>45</td>
+    <td>23</td>
+    <td>1000</td>
+    <td>40</td>
+    <td>22%</td>
+    <td rowspan="4">Dragon</td>
+    <td>Breathes 30 damage fire in a straight line.<br/>Often generated Napping, high item drop rate.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Sky Dragon</td>
+    <td>90</td>
+    <td>80</td>
+    <td>30</td>
+    <td>3000</td>
+    <td>150</td>
+    <td>22%</td>
+    <td>Breathes 40 damage fire from anywhere in the room.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Archdragon</td>
+    <td>100</td>
+    <td>97</td>
+    <td>42</td>
+    <td>6000</td>
+    <td>400</td>
+    <td>22%</td>
+    <td>Breathes 50 damage fire from anywhere on the floor.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Abyss Dragon</td>
+    <td>120</td>
+    <td>106</td>
+    <td>56</td>
+    <td>8000</td>
+    <td>600</td>
+    <td>22%</td>
+    <td>Same as Archdragon, but fire deals 60 damage.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>monster_name</td>
+    <td>55</td>
+    <td>40</td>
+    <td>8</td>
+    <td>150</td>
+    <td>50</td>
+    <td>22%</td>
+    <td rowspan="4">Dragon<br/>Random</td>
+    <td>Same as Dragon, but fire deals 40 damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>monster_name</td>
+    <td>65</td>
+    <td>59</td>
+    <td>10</td>
+    <td>1500</td>
+    <td>220</td>
+    <td>22%</td>
+    <td>Same as Sky Dragon, but fire deals 50 damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>monster_name</td>
+    <td>73</td>
+    <td>70</td>
+    <td>12</td>
+    <td>3800</td>
+    <td>300</td>
+    <td>22%</td>
+    <td>Same as Archdragon, but fire deals 60 damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>monster_name</td>
+    <td>84</td>
+    <td>81</td>
+    <td>14</td>
+    <td>7000</td>
+    <td>500</td>
+    <td>22%</td>
+    <td>Same as Archdragon, but fire deals 70 damage.</td>
+  </tr>
+</table>
+
+### Mixer
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/mixer.png"/><img src="../images/monsters/mixer_2.png"/><img src="../images/monsters/mixer_3.png"/><img src="../images/monsters/mixer_4.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Mixer</td>
+    <td>45</td>
+    <td>15</td>
+    <td>9</td>
+    <td>33</td>
+    <td>8</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Eats up to 2 thrown items and synthesizes them.<br/>Attack power increases by 1 stage per item eaten.<br/>Drops eaten items if inflicted with Slip status.<br/>Won't eat if it's inflicted with: Napping, Asleep,<br/>Slumber, Sealed, Paralyzed, Banana, Slip.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Mixermon</td>
+    <td>55</td>
+    <td>26</td>
+    <td>13</td>
+    <td>130</td>
+    <td>20</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Same as Mixer, but eats up to 3 items.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Mixergon</td>
+    <td>66</td>
+    <td>40</td>
+    <td>20</td>
+    <td>550</td>
+    <td>50</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Same as Mixer, but eats up to 4 items.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Mixerdon</td>
+    <td>83</td>
+    <td>51</td>
+    <td>27</td>
+    <td>1150</td>
+    <td>100</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Same as Mixer, but eats up to 5 items.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>monster_name</td>
+    <td>42</td>
+    <td>32</td>
+    <td>3</td>
+    <td>55</td>
+    <td>25</td>
+    <td>0%</td>
+    <td rowspan="4">Regular</td>
+    <td rowspan="4">Same as daytime abilities.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>monster_name</td>
+    <td>56</td>
+    <td>46</td>
+    <td>5</td>
+    <td>280</td>
+    <td>80</td>
+    <td>0%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>monster_name</td>
+    <td>64</td>
+    <td>55</td>
+    <td>7</td>
+    <td>720</td>
+    <td>130</td>
+    <td>0%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>monster_name</td>
+    <td>72</td>
+    <td>68</td>
+    <td>8</td>
+    <td>2600</td>
+    <td>220</td>
+    <td>0%</td>
+  </tr>
+</table>
+
+### Eligan
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/eligan.png"/><img src="../images/monsters/eligan_2.png"/><img src="../images/monsters/eligan_3.png"/><img src="../images/monsters/eligan_4.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Eligan</td>
+    <td>78</td>
+    <td>60</td>
+    <td>23</td>
+    <td>1200</td>
+    <td>50</td>
+    <td>4%</td>
+    <td>-</td>
+    <td rowspan="4">No abilities.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>monster_name</td>
+    <td>85</td>
+    <td>70</td>
+    <td>26</td>
+    <td>2700</td>
+    <td>150</td>
+    <td>4%</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>monster_name</td>
+    <td>108</td>
+    <td>89</td>
+    <td>37</td>
+    <td>4800</td>
+    <td>300</td>
+    <td>4%</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>monster_name</td>
+    <td>125</td>
+    <td>120</td>
+    <td>52</td>
+    <td>9000</td>
+    <td>700</td>
+    <td>4%</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>monster_name</td>
+    <td>38</td>
+    <td>38</td>
+    <td>6</td>
+    <td>62</td>
+    <td>30</td>
+    <td>4%</td>
+    <td rowspan="4">Random</td>
+    <td rowspan="4">No abilities.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>monster_name</td>
+    <td>60</td>
+    <td>60</td>
+    <td>8</td>
+    <td>500</td>
+    <td>100</td>
+    <td>4%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>monster_name</td>
+    <td>70</td>
+    <td>69</td>
+    <td>10</td>
+    <td>800</td>
+    <td>180</td>
+    <td>4%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>monster_name</td>
+    <td>82</td>
+    <td>96</td>
+    <td>13</td>
+    <td>6000</td>
+    <td>420</td>
+    <td>4%</td>
+  </tr>
+</table>
+
+### Ironhead
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/ironhead.png"/><img src="../images/monsters/ironhead_2.png"/><img src="../images/monsters/ironhead_3.png"/><img src="../images/monsters/ironhead_4.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Ironhead</td>
+    <td>32</td>
+    <td>16</td>
+    <td>10</td>
+    <td>45</td>
+    <td>10</td>
+    <td>4%</td>
+    <td rowspan="4">Cyclops</td>
+    <td rowspan="4">Attacks 2 tiles ahead and through corners.<br/>Charges strength to deal a critical hit on the next turn,<br/>dealing double damage. Moving cancels its charge.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>monster_name</td>
+    <td>84</td>
+    <td>60</td>
+    <td>19</td>
+    <td>900</td>
+    <td>70</td>
+    <td>4%</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>monster_name</td>
+    <td>106</td>
+    <td>83</td>
+    <td>22</td>
+    <td>3400</td>
+    <td>200</td>
+    <td>4%</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>monster_name</td>
+    <td>120</td>
+    <td>103</td>
+    <td>26</td>
+    <td>6500</td>
+    <td>500</td>
+    <td>4%</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>monster_name</td>
+    <td>45</td>
+    <td>40</td>
+    <td>5</td>
+    <td>80</td>
+    <td>40</td>
+    <td>4%</td>
+    <td rowspan="4">Cyclops<br/>Random</td>
+    <td rowspan="4">Same as daytime abilities.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>monster_name</td>
+    <td>66</td>
+    <td>62</td>
+    <td>7</td>
+    <td>630</td>
+    <td>140</td>
+    <td>4%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>monster_name</td>
+    <td>74</td>
+    <td>72</td>
+    <td>9</td>
+    <td>2000</td>
+    <td>260</td>
+    <td>4%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>monster_name</td>
+    <td>88</td>
+    <td>100</td>
+    <td>10</td>
+    <td>6500</td>
+    <td>500</td>
+    <td>4%</td>
+  </tr>
+</table>
+
+### Snacky
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/snacky.png"/><img src="../images/monsters/snacky_2.png"/><img src="../images/monsters/snacky_3.png"/><img src="../images/monsters/snacky_4.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Snacky</td>
+    <td>8</td>
+    <td>4</td>
+    <td>22</td>
+    <td>8</td>
+    <td>1</td>
+    <td>100%</td>
+    <td rowspan="4">Swift 1</td>
+    <td>Double speed, 1 attack. Runs away from other creatures.<br/>Monsters attack Snacky instead of Shiren if one is visible.<br/>Always drops a floor table item.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>Munchy</td>
+    <td>20</td>
+    <td>9</td>
+    <td>32</td>
+    <td>20</td>
+    <td>15</td>
+    <td>100%</td>
+    <td rowspan="2">Same as Snacky, but drops a shop table item.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>Mealy</td>
+    <td>33</td>
+    <td>15</td>
+    <td>40</td>
+    <td>73</td>
+    <td>30</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>Candy</td>
+    <td>48</td>
+    <td>28</td>
+    <td>55</td>
+    <td>200</td>
+    <td>65</td>
+    <td>100%</td>
+    <td>Same as Snacky, but drops a Candy table item.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>Rare Snacky</td>
+    <td>10</td>
+    <td>5</td>
+    <td>1</td>
+    <td>1</td>
+    <td>5</td>
+    <td>100%</td>
+    <td rowspan="4">Swift 1<br/>Regular</td>
+    <td rowspan="4">Same as daytime abilities.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>Rare Munchy</td>
+    <td>20</td>
+    <td>11</td>
+    <td>2</td>
+    <td>10</td>
+    <td>23</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>Rare Mealy</td>
+    <td>35</td>
+    <td>18</td>
+    <td>3</td>
+    <td>50</td>
+    <td>50</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>Rare Candy</td>
+    <td>49</td>
+    <td>26</td>
+    <td>4</td>
+    <td>200</td>
+    <td>80</td>
+    <td>100%</td>
+  </tr>
+</table>
+
+### Crow Tengu
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/crow_tengu.png"/><img src="../images/monsters/crow_tengu_2.png"/><img src="../images/monsters/crow_tengu_3.png"/><img src="../images/monsters/crow_tengu_4.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Crow Tengu</td>
+    <td>32</td>
+    <td>5</td>
+    <td>11</td>
+    <td>16</td>
+    <td>4</td>
+    <td>0%</td>
+    <td rowspan="4">Floating</td>
+    <td rowspan="4">Disguised as a monster from the floor's monster table.<br/>It can't use abilities of the monster it's disguised as.<br/>Reveals itself when Sealed or defeated.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>monster_name</td>
+    <td>53</td>
+    <td>17</td>
+    <td>23</td>
+    <td>91</td>
+    <td>20</td>
+    <td>0%</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>monster_name</td>
+    <td>71</td>
+    <td>23</td>
+    <td>32</td>
+    <td>300</td>
+    <td>60</td>
+    <td>0%</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>monster_name</td>
+    <td>79</td>
+    <td>32</td>
+    <td>38</td>
+    <td>700</td>
+    <td>100</td>
+    <td>0%</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>monster_name</td>
+    <td>20</td>
+    <td>7</td>
+    <td>2</td>
+    <td>8</td>
+    <td>5</td>
+    <td>0%</td>
+    <td rowspan="4">Floating<br/>Regular</td>
+    <td rowspan="4">Same as daytime abilities.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>monster_name</td>
+    <td>34</td>
+    <td>16</td>
+    <td>4</td>
+    <td>40</td>
+    <td>23</td>
+    <td>0%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>monster_name</td>
+    <td>45</td>
+    <td>27</td>
+    <td>5</td>
+    <td>100</td>
+    <td>70</td>
+    <td>0%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>monster_name</td>
+    <td>52</td>
+    <td>37</td>
+    <td>6</td>
+    <td>500</td>
+    <td>190</td>
+    <td>0%</td>
+  </tr>
+</table>
+
+### Mutaikon
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/mutaikon.png"/><img src="../images/monsters/mutaikon_2.png"/><img src="../images/monsters/mutaikon_3.png"/><img src="../images/monsters/mutaikon_4.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Mutaikon</td>
+    <td>30</td>
+    <td>13</td>
+    <td>11</td>
+    <td>35</td>
+    <td>8</td>
+    <td>6%</td>
+    <td>-</td>
+    <td>Throws Poison Grass 2 tiles ahead.<br/>Only drops Poison Grass.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>monster_name</td>
+    <td>46</td>
+    <td>23</td>
+    <td>16</td>
+    <td>140</td>
+    <td>20</td>
+    <td>6%</td>
+    <td>-</td>
+    <td>Throws Dizzy Grass within a 2 tile radius, or<br/>Poison Grass if Shiren is already Confused.<br/>Only drops Dizzy Grass.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>monster_name</td>
+    <td>61</td>
+    <td>39</td>
+    <td>20</td>
+    <td>790</td>
+    <td>80</td>
+    <td>6%</td>
+    <td>-</td>
+    <td>Throws Sleep Grass within a 3 tile radius, or<br/>Poison Grass if Shiren is already Asleep.<br/>Only drops Sleep Grass.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>monster_name</td>
+    <td>75</td>
+    <td>50</td>
+    <td>26</td>
+    <td>1300</td>
+    <td>170</td>
+    <td>6%</td>
+    <td>-</td>
+    <td>Throws Rage Grass within a 5 tile radius, or<br/>Poison Grass if Shiren is already Berserk.<br/>Only drops Rage Grass.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>monster_name</td>
+    <td>16</td>
+    <td>6</td>
+    <td>1</td>
+    <td>6</td>
+    <td>7</td>
+    <td>6%</td>
+    <td rowspan="4">Random</td>
+    <td rowspan="4">Same as daytime abilities.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>monster_name</td>
+    <td>38</td>
+    <td>29</td>
+    <td>2</td>
+    <td>100</td>
+    <td>45</td>
+    <td>6%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>monster_name</td>
+    <td>49</td>
+    <td>39</td>
+    <td>3</td>
+    <td>680</td>
+    <td>130</td>
+    <td>6%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>monster_name</td>
+    <td>58</td>
+    <td>53</td>
+    <td>4</td>
+    <td>1600</td>
+    <td>220</td>
+    <td>6%</td>
+  </tr>
+</table>
+
+### Foly
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/foly.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Foly</td>
+    <td>30</td>
+    <td>14</td>
+    <td>10</td>
+    <td>30</td>
+    <td>6</td>
+    <td>0%</td>
+    <td>Cyclops<br/>Floating<br/>Swift 1</td>
+    <td>Double speed (1 attack). Moves along the wall in rooms.<br/>Changes color and abilities every 8 turns.<br/><span class="redText">Red: Nullifies and reflects direct attacks.</span><br/><span class="blueText">Blue: 15 damage lightning to all creatures in the room after it acts.</span><br/><span class="greenText">Green: Heals your HP by 50 if you hit it with a direct attack.</span><br/><span class="purpleText">Purple: Counters with an ailment if you hit it with a direct attack:<br/>Bound, Confused, Berserk, Inaccurate, Grounded.</span><br/>Green and Purple effects won't occur if slain in one hit.<br/>Only 1 Foly can be present on a floor at a time.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>monster_name</td>
+    <td>18</td>
+    <td>10</td>
+    <td>2</td>
+    <td>8</td>
+    <td>7</td>
+    <td>0%</td>
+    <td>Cyclops<br/>Floating<br/>Swift 1<br/>Regular</td>
+    <td>Same as daytime abilities.</td>
+  </tr>
+</table>
+
+### Floaty
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/floaty.png"/><img src="../images/monsters/floaty_2.png"/><img src="../images/monsters/floaty_3.png"/><img src="../images/monsters/floaty_4.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Floaty</td>
+    <td>33</td>
+    <td>14</td>
+    <td>11</td>
+    <td>38</td>
+    <td>8</td>
+    <td>4%</td>
+    <td>-</td>
+    <td rowspan="4">Initially Napping in a group of 3.<br/>Special warps you 1~3 floors when 3 of them surround you.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>monster_name</td>
+    <td>54</td>
+    <td>33</td>
+    <td>17</td>
+    <td>370</td>
+    <td>40</td>
+    <td>4%</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>monster_name</td>
+    <td>65</td>
+    <td>46</td>
+    <td>22</td>
+    <td>700</td>
+    <td>80</td>
+    <td>4%</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>monster_name</td>
+    <td>73</td>
+    <td>60</td>
+    <td>27</td>
+    <td>1100</td>
+    <td>170</td>
+    <td>4%</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>monster_name</td>
+    <td>20</td>
+    <td>15</td>
+    <td>1</td>
+    <td>19</td>
+    <td>10</td>
+    <td>4%</td>
+    <td rowspan="4">Regular</td>
+    <td rowspan="4">Same as daytime abilities.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>monster_name</td>
+    <td>43</td>
+    <td>26</td>
+    <td>2</td>
+    <td>90</td>
+    <td>40</td>
+    <td>4%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>monster_name</td>
+    <td>53</td>
+    <td>40</td>
+    <td>3</td>
+    <td>330</td>
+    <td>90</td>
+    <td>4%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>monster_name</td>
+    <td>60</td>
+    <td>61</td>
+    <td>4</td>
+    <td>690</td>
+    <td>150</td>
+    <td>4%</td>
+  </tr>
+</table>
+
+### Zapdon
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/zapdon.png"/><img src="../images/monsters/zapdon_2.png"/><img src="../images/monsters/zapdon_3.png"/><img src="../images/monsters/zapdon_4.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Zapdon</td>
+    <td>63</td>
+    <td>50</td>
+    <td>25</td>
+    <td>150</td>
+    <td>30</td>
+    <td>4%</td>
+    <td rowspan="4">Slow</td>
+    <td>1 action every 2 turns.<br/>40 damage lightning in a 1 tile radius after being hit 3 times.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>monster_name</td>
+    <td>88</td>
+    <td>80</td>
+    <td>35</td>
+    <td>1100</td>
+    <td>70</td>
+    <td>4%</td>
+    <td>Same as Zapdon, but lightning deals 50 damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>monster_name</td>
+    <td>110</td>
+    <td>110</td>
+    <td>50</td>
+    <td>3000</td>
+    <td>400</td>
+    <td>4%</td>
+    <td>Same as Zapdon, but lightning deals 60 damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>monster_name</td>
+    <td>130</td>
+    <td>140</td>
+    <td>70</td>
+    <td>6000</td>
+    <td>600</td>
+    <td>4%</td>
+    <td>Same as Zapdon, but lightning deals 70 damage.</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>monster_name</td>
+    <td>46</td>
+    <td>50</td>
+    <td>7</td>
+    <td>84</td>
+    <td>40</td>
+    <td>4%</td>
+    <td rowspan="4">Slow<br/>Random</td>
+    <td rowspan="4">Same as daytime abilities.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>monster_name</td>
+    <td>78</td>
+    <td>75</td>
+    <td>12</td>
+    <td>900</td>
+    <td>220</td>
+    <td>4%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>monster_name</td>
+    <td>86</td>
+    <td>88</td>
+    <td>14</td>
+    <td>3500</td>
+    <td>300</td>
+    <td>4%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>monster_name</td>
+    <td>100</td>
+    <td>120</td>
+    <td>17</td>
+    <td>6800</td>
+    <td>500</td>
+    <td>4%</td>
+  </tr>
+</table>
+
+### Maneater
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/maneater.png"/><img src="../images/monsters/maneater_2.png"/><img src="../images/monsters/maneater_3.png"/><img src="../images/monsters/maneater_4.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Maneater</td>
+    <td>50</td>
+    <td>23</td>
+    <td>12</td>
+    <td>100</td>
+    <td>30</td>
+    <td>31%</td>
+    <td>-</td>
+    <td rowspan="4">Begins to spawn after Ominous Aura warning.<br/>Becomes double speed (1 attack) when it sees Shiren.<br/>Roars if it's in the same room, inflicting Afraid status.<br/>Only drops shop table items.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">2</td>
+    <td>monster_name</td>
+    <td>75</td>
+    <td>60</td>
+    <td>25</td>
+    <td>1000</td>
+    <td>100</td>
+    <td>31%</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">3</td>
+    <td>monster_name</td>
+    <td>100</td>
+    <td>90</td>
+    <td>40</td>
+    <td>6000</td>
+    <td>400</td>
+    <td>31%</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">4</td>
+    <td>monster_name</td>
+    <td>150</td>
+    <td>120</td>
+    <td>60</td>
+    <td>9000</td>
+    <td>700</td>
+    <td>31%</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightNight">1</td>
+    <td>monster_name</td>
+    <td>60</td>
+    <td>30</td>
+    <td>5</td>
+    <td>150</td>
+    <td>50</td>
+    <td>31%</td>
+    <td rowspan="4">Regular</td>
+    <td rowspan="4">Same as daytime abilities.</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">2</td>
+    <td>monster_name</td>
+    <td>85</td>
+    <td>65</td>
+    <td>9</td>
+    <td>1500</td>
+    <td>250</td>
+    <td>31%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">3</td>
+    <td>monster_name</td>
+    <td>110</td>
+    <td>90</td>
+    <td>13</td>
+    <td>4000</td>
+    <td>400</td>
+    <td>31%</td>
+  </tr>
+  <tr>
+    <td class="highlightNight">4</td>
+    <td>monster_name</td>
+    <td>123</td>
+    <td>110</td>
+    <td>17</td>
+    <td>8000</td>
+    <td>700</td>
+    <td>31%</td>
+  </tr>
+</table>
+
+### Boss Type
+
+### Divine Beast Kamina
+
+<div class="relativeImage bossImage">
+  <img src="../images/monsters/divine_beast_kamina.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>Divine Beast<br/>Kamina</td>
+    <td>301</td>
+    <td>70</td>
+    <td>15</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0%</td>
+    <td>Swift 1</td>
+    <td>Double speed (1 attack). Immune to Sleep, Decoy, Paralysis.<br/>Ignores Sanctuary Scroll. Gitan deals 2 damage.<br/>Moves:<br/>・Direct attack - High power.<br/>・Tackle - Lunges forward to deal damage, and then retreats.<br/>・Poison Claw - Deals damage and lowers strength by 1.<br/>・Instant Recovery - Cures all status conditions.</td>
+  </tr>
+</table>
+
+### Divine Beast Jaguar
+
+<div class="relativeImage bossImage">
+  <img src="../images/monsters/divine_beast_jaguar.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>Divine Beast<br/>Jaguar</td>
+    <td>1800</td>
+    <td>100</td>
+    <td>20</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0%</td>
+    <td>Slow</td>
+    <td>1 action every 4 turns. Immune to Sleep, Decoy, Paralysis.<br/>Ignores Sanctuary Scroll. Gitan deals 2 damage.<br/>Moves:<br/>・Direct attack - High power.<br/>・Lightning - Deals 30~40 damage.<br/>・Confusion - Inflicts Confused status.<br/>・Knockback - Low power, deals kncoback.<br/>・Call Monsters - Summons 4~6 monsters.<br/>・Instant Recovery - Cures all status conditions.</td>
+  </tr>
+</table>
+
+### Hemoji
+
+<div class="relativeImage bossImage">
+  <img src="../images/monsters/hemoji.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>Hemoji</td>
+    <td>400</td>
+    <td>50</td>
+    <td>20</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0%</td>
+    <td>-</td>
+    <td></td>
+  </tr>
+</table>
+
+### Mr. Bulldog
+
+<div class="relativeImage bossImage">
+  <img src="../images/monsters/mr_bulldog.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>Mr. Bulldog</td>
+    <td>600</td>
+    <td>70</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0%</td>
+    <td>-</td>
+    <td></td>
   </tr>
 </table>

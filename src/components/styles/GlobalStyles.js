@@ -803,8 +803,7 @@ export const baseStyles = css`
     margin-bottom: 5px !important;
   }
   .bossImage img {
-    max-width: 100px;
-    max-height: 70px;
+    max-height: 90px;
   }
   #monsterList td {
     text-align: center;
