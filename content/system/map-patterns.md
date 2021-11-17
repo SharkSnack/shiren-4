@@ -4,6 +4,8 @@ metaTitle: "Map Patterns - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "List of map patterns used in Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
+[NOTICE] This page is currently a copy of Shiren 5, so the information isn't correct.
+
 ## Overview
 
 There are 2 main types of maps in Shiren 5.

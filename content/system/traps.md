@@ -4,6 +4,8 @@ metaTitle: "Traps - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Complete list of traps for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
+[NOTICE] This page is currently a copy of Shiren 5, so the information isn't correct.
+
 ## Overview
 
 Traps are dungeon objects that trigger when stepped on, and have a wide variety of effects.<br/>

@@ -4,6 +4,8 @@ metaTitle: "Weapons - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
+[NOTICE] This page is currently a copy of Shiren 5, so the information isn't correct.
+
 # Weapon List
 
 <table class="itemListCentered">
@@ -551,33 +553,20 @@ The listed experience points per level is not an accumilated total.<br/>
 Extra exp from defeating a monster will not carry forward when a weapon levels up.<br/>
 (Example: 100 exp until level up, defeat an Archdragon for 240 exp, 140 exp is lost)
 
-#### Locations Key
-
-|Letter|Meaning|
-|-|-|
-|F|Floor, Monster drop (day)|
-|S|Store, Peddler, Shiny Object (yellow), Monster drop (night), Maneater drop|
-|P|Presto Pot|
-|Z|Zalokleft drop|
-|M|Mealy drop|
-|E|Elite store, Pick-A-Choice, Shiny Object (yellow, blue)|
-
 ### Ordinary Stick
 
 <table class="itemDetailsTable">
   <tr>
-    <th>Lv1-7</th>
-    <th>Lv8</th>
+    <th>Lv1-8</th>
     <th>Lv1 Description</th>
   </tr>
   <tr>
     <td><img src="../images/weapons/ordinary_stick_1.png"/></td>
-    <td><img src="../images/weapons/ordinary_stick_8.png"/></td>
     <td>It's an ordinary stick. Totally ordinary.<br/>It's ubiquitous!</td>
   </tr>
 </table>
 
-It's weak, but levels up quickly.<br/>Has the highest starting upgrade limit among all weapons, so it shines<br/>in dungeons like Gen's Turf where you can obtain lots of Blank Scrolls.<br/>Good weapon to insert into Upgrade Pots.
+<br/>
 
 <table class="itemDetailsTable">
   <tbody>
@@ -677,57 +666,4 @@ It's weak, but levels up quickly.<br/>Has the highest starting upgrade limit amo
       <td>420</td>
     </tr>
   </tbody>
-</table>
-
-Locations:
-
-<table class="locationTable">
-  <tr>
-    <th>Trail</th>
-    <th>Past</th>
-    <th>Present</th>
-    <th>Future</th>
-    <th>Fortune</th>
-    <th>Miracle</th>
-    <th>Rocks</th>
-    <th>Gen</th>
-    <th>Pitfall</th>
-    <th>Manor</th>
-  </tr>
-  <tr>
-    <td>FP</td>
-    <td>FP</td>
-    <td>FP</td>
-    <td>FPZ</td>
-    <td>PZ</td>
-    <td>P</td>
-    <td>Novice</td>
-    <td>FPZ</td>
-    <td>PZ</td>
-    <td>FPZ</td>
-  </tr>
-  <tr>
-    <th>Bizarre</th>
-    <th>Onigiri</th>
-    <th>Chasm</th>
-    <th>Well</th>
-    <th>Lake</th>
-    <th>Inori</th>
-    <th>Old</th>
-    <th>Descent</th>
-    <th></th>
-    <th></th>
-  </tr>
-  <tr>
-    <td>FPZ</td>
-    <td>PZ</td>
-    <td>FPZ</td>
-    <td>-</td>
-    <td>FP</td>
-    <td>FPZ</td>
-    <td>PZ</td>
-    <td>FPZ</td>
-    <td></td>
-    <td></td>
-  </tr>
 </table>

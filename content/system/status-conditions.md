@@ -4,6 +4,8 @@ metaTitle: "Status Conditions - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "List of status conditions for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
+[NOTICE] This page is currently a copy of Shiren 5, so the information isn't correct.
+
 <div class="pageTopImage">
   <img src="../images/other/shiren_confused.png"/>
 </div>

@@ -96,12 +96,12 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">Swift 1</td>
-    <td><a href="#pin-kid">Pin Kid</a> | <a href="#karakuroid">Karakuroid</a> | <a href="#floaty">Floaty</a> | <a href="#foly">Foly</a> | <a href="#boy-cart">Boy Cart</a> | <a href="#pop-tank">Ornery Tank</a> | <a href="#chow">Chow</a> | <a href="#shopkeeper">Shopkeeper</a></td>
+    <td><a href="#traproid">Traproid</a> | <a href="#foly">Foly</a> | <a href="#boy-cart">Boy Cart</a> | <a href="#pop-tank">Ornery Tank</a> | <a href="#snacky">Snacky</a></td>
     <td>Double speed, attacks once</td>
   </tr>
   <tr>
     <td class="highlightYellow">Swift 2</td>
-    <td><a href="#mamel">Gitan Mamel</a> | <a href="#pop-tank">Cranky Tank</a> | <a href="#fo-ub">FO-Uβ</a></td>
+    <td><a href="#mamel">Gitan Mamel</a> | <a href="#pop-tank">Cranky Tank</a></td>
     <td>Double speed, attacks twice</td>
   </tr>
   <tr>
@@ -110,84 +110,40 @@ Element Order
     <td>One action every 2 turns</td>
   </tr>
   <tr>
-    <td class="highlightYellow">Rust</td>
-    <td><a href="#grass-boy">Grass Boy</a> | <a href="#pin-kid">Pin Kid</a> | <a href="#sweet-nut">Sweet Nut</a> | <a href="#karakuroid">Karakuroid</a> | <a href="#swordsman">Swordsman</a> | <a href="#flamebird">Flamebird</a> | <a href="#scoopie">Scoopie</a><br/><a href="#zapdon">Zapdon</a> | <a href="#boy-cart">Boy Cart</a> | <a href="#pop-tank">Pop Tank</a> | <a href="#absorbiphant">Absorbiphant</a> | <a href="#punisher">Punisher</a> | <a href="#fo-ub">FO-Uβ</a> | <a href="#shagga">Shagga</a></td>
-    <td>Splash water from a <a href="#">Water Pot</a><br/>to apply a negative effect.</td>
-  </tr>
-  <tr>
     <td class="highlightYellow">Normal</td>
-    <td><a href="#mamel">Mamel</a> | <a href="#colum">Colum</a> | <a href="#chintala">Chintala</a> | <a href="#nigiri-baby">Nigiri Baby</a> | <a href="#froggo">Froggo</a> | <a href="#tiger-tosser">Tiger Tosser</a> | <a href="#curse-girl">Curse Girl</a> | <a href="#floaty">Floaty</a><br/><a href="#mixer">Mixer</a> | <a href="#naptapir">Naptapir</a> | <a href="#swordsman">Swordsman</a> | <a href="#cheer-ham">Cheer-Ham</a> | <a href="#yanpii">Yanpii</a> | <a href="#eligan">Eligan</a> | <a href="#zapdon">Zapdon</a> | <a href="#porky">Porky</a><br/><a href="#boy-cart">Boy Cart</a> | <a href="#punisher">Punisher</a> | <a href="#kumonigiri">Kumonigiri</a> | <a href="#field-knave">Field Knave</a> | <a href="#maneater">Maneater</a> | <a href="#shopkeeper">Shopkeeper</a></td>
+    <td>
+      <a href="#mamel">Mamel</a> | <a href="#chintala">Chintala</a> | <a href="#seedie">Seedie</a> | <a href="#banana-novice">Banana Novice</a> | <a href="#froggo">Froggo</a> | <a href="#tiger-tosser">Tiger Tosser</a> | <a href="#curse-girl">Curse Girl</a><br/><a href="#floaty">Floaty</a> | <a href="#mixer">Mixer</a> | <a href="#swordsman">Swordsman</a> | <a href="#cheer-ham">Cheer Ham</a> | <a href="#yanpii">Yanpii</a> | <a href="#eligan">Eligan</a> | <a href="#zapdon">Zapdon</a> | <a href="#porky">Porky</a><br/><a href="#n'dubba">N'dubba</a> | <a href="#boy-cart">Boy Cart</a> | <a href="#ricebear">Ricebear</a> | <a href="#field-knave">Field Knave</a> | <a href="#dj-mage">DJ Mage</a> | <a href="#fearabbit">Fearabbit</a> | <a href="#mutaikon">Mutaikon</a><br/><a href="#maneater">Maneater</a></td>
     <td>No type-effective weakness</td>
   </tr>
   <tr>
     <td class="highlightYellow">Cyclops</td>
-    <td><a href="#metalhead">Metalhead</a> | <a href="#foly">Foly</a> | <a href="#gazer">Gazer</a> | <a href="#explochin">Explochin</a></td>
+    <td><a href="#ironhead">Ironhead</a> | <a href="#foly">Foly</a> | <a href="#gazer">Gazer</a> | <a href="#explochin">Explochin</a></td>
     <td>Weak to Anti-Cyclops rune</td>
   </tr>
   <tr>
     <td class="highlightYellow">Drain</td>
-    <td><a href="#scorpion">Scorpion</a> | <a href="#polygon-spinna">Polygon Spinna</a> | <a href="#absorbiphant">Absorbiphant</a> | <a href="#myriman">Myriman</a></td>
+    <td><a href="#scorpion">Scorpion</a> | <a href="#spin-polygon">Spin Polygon</a> | <a href="#absorbiphant">Absorbiphant</a></td>
     <td>Weak to Anti-Drain rune</td>
   </tr>
   <tr>
     <td class="highlightYellow">Dragon</td>
-    <td><a href="#hopodile">Hopodile</a> | <a href="#dragon">Dragon</a> | <a href="#firepuff">Firepuff</a> | <a href="#shagga">Shagga</a></td>
+    <td><a href="#hopodile">Hopodile</a> | <a href="#dragon">Dragon</a> | <a href="#firepuff">Firepuff</a></td>
     <td>Weak to Anti-Dragon rune</td>
   </tr>
   <tr>
-    <td class="highlightYellow">Explode</td>
-    <td><a href="#sweet-nut">Sweet Nut</a> | <a href="#pop-tank">Pop Tank</a> | <a href="#explochin">Explochin</a></td>
-    <td>Weak to Anti-Explode rune</td>
-  </tr>
-  <tr>
-    <td class="highlightYellow">Metal</td>
-    <td><a href="#karakuroid">Karakuroid</a> | <a href="#ndubba">N'dubba</a> | <a href="#scoopie">Scoopie</a> | <a href="#pop-tank">Pop Tank</a> | <a href="#fo-ub">FO-Uβ</a></td>
-    <td>Weak to Anti-Metal rune</td>
-  </tr>
-  <tr>
-    <td class="highlightYellow">Plant</td>
-    <td><a href="#sproutant">Sproutant</a> | <a href="#seedie">Seedie</a> | <a href="#grass-boy">Grass Boy</a> | <a href="#pin-kid">Pin Kid</a> | <a href="#sweet-nut">Sweet Nut</a> | <a href="#pumphantasm">Pumphantasm</a> | <a href="#mutaikon">Mutaikon</a></td>
-    <td>Weak to Anti-Plant rune</td>
-  </tr>
-  <tr>
-    <td class="highlightYellow">Magic</td>
-    <td><a href="#fearabbit">Fearabbit</a> | <a href="#polygon-spinna">Polygon Spinna</a> | <a href="#gazer">Gazer</a> | <a href="#dj-mage">DJ Mage</a></td>
-    <td>Weak to Anti-Magic rune</td>
+    <td class="highlightYellow">Bomb</td>
+    <td><a href="#pop-tank">Pop Tank</a> | <a href="#explochin">Explochin</a></td>
+    <td>Weak to Anti-Bomb rune</td>
   </tr>
   <tr>
     <td class="highlightYellow">Floating</td>
-    <td><a href="#blade-bee">Blade Bee</a> | <a href="#pumphantasm">Pumphantasm</a> | <a href="#foly">Foly</a> | <a href="#flamebird">Flamebird</a> | <a href="#gyadon">Gyadon</a> | <a href="#firepuff">Firepuff</a> | <a href="#crow-tengu">Crow Tengu</a><br/><a href="#fo-ub">FO-Uβ</a> | <a href="#chow">Chow</a></td>
+    <td><a href="#blade-bee">Blade Bee</a> | <a href="#pumphantasm">Pumphantasm</a> | <a href="#foly">Foly</a> | <a href="#flashbird">Flashbird</a> | <a href="#gyadon">Gyadon</a> | <a href="#firepuff">Firepuff</a> | <a href="#crow-tengu">Crow Tengu</a><br/><a href="#snacky">Snacky</a></td>
     <td>Weak to Anti-Floating rune</td>
   </tr>
   <tr>
     <td class="highlightYellow">Aquatic</td>
-    <td><a href="#gyaza">Gyaza</a> | <a href="#mudkin">Mudkin</a> | <a href="#kid-squid">Kid Squid</a> | <a href="#bored-kappa">Bored Kappa</a> | <a href="#hopodile">Hopodile</a> | <a href="#zalokleft">Zalokleft</a> | <a href="#moseal">Moseal</a><br/><a href="#explochin">Explochin</a></td>
+    <td><a href="#gyaza">Gyaza</a> | <a href="#slime">Slime</a> | <a href="#squid-king">Squid King</a> | <a href="#bored-kappa">Bored Kappa</a> | <a href="#hopodile">Hopodile</a> | <a href="#zalokleft">Zalokleft</a> | <a href="#explochin">Explochin</a></td>
     <td>Weak to Anti-Aquatic rune</td>
-  </tr>
-  <tr>
-    <td class="highlightYellow">Power</td>
-    <td><a href="#sproutant">Sproutant</a> | <a href="#scorpion">Scorpion</a> | <a href="#metalhead">Metalhead</a> | <a href="#eligan">Eligan</a> | <a href="#gyadon">Gyadon</a> | <a href="#zapdon">Zapdon</a> | <a href="#porky">Porky</a> | <a href="#pop-tank">Pop Tank</a><br/><a href="#absorbiphant">Absorbiphant</a></td>
-    <td>Appears in power houses</td>
-  </tr>
-  <tr>
-    <td class="highlightYellow">Greed</td>
-    <td><a href="#sweet-nut">Sweet Nut</a> | <a href="#froggo">Froggo</a> | <a href="#curse-girl">Curse Girl</a> | <a href="#mixer">Mixer</a> | <a href="#swordsman">Swordsman</a> | <a href="#zalokleft">Zalokleft</a> | <a href="#gyadon">Gyadon</a></td>
-    <td>Appears in greed houses</td>
-  </tr>
-  <tr>
-    <td class="highlightYellow">Projectile</td>
-    <td><a href="#grass-boy">Grass Boy</a> | <a href="#tiger-tosser">Tiger Tosser</a> | <a href="#floaty">Floaty</a> | <a href="#mutaikon">Mutaikon</a> | <a href="#bored-kappa">Bored Kappa</a> | <a href="#scoopie">Scoopie</a> | <a href="#porky">Porky</a><br/><a href="#boy-cart">Boy Cart</a> | <a href="#field-knave">Field Knave</a></td>
-    <td>Appears in projectile houses</td>
-  </tr>
-  <tr>
-    <td class="highlightYellow">Explosive</td>
-    <td><a href="#sweet-nut">Sweet Nut</a> | <a href="#flamebird">Flamebird</a> | <a href="#dragon">Dragon</a> | <a href="#firepuff">Firepuff</a> | <a href="#pop-tank">Pop Tank</a> | <a href="#explochin">Explochin</a></td>
-    <td>Appears in explosive houses</td>
-  </tr>
-  <tr>
-    <td class="highlightYellow">Harass</td>
-    <td><a href="#karakuroid">Karakuroid</a> | <a href="#fearabbit">Fearabbit</a> | <a href="#polygon-spinna">Polygon Spinna</a> | <a href="#cheer-ham">Cheer-Ham</a> | <a href="#yanpii">Yanpii</a> | <a href="#scoopie">Scoopie</a> | <a href="#gazer">Gazer</a><br/><a href="#dj-mage">DJ Mage</a> | <a href="#absorbiphant">Absorbiphant</a> | <a href="#myriman">Myriman</a> | <a href="#explochin">Explochin</a></td>
-    <td>Appears in harassment houses</td>
   </tr>
 </table>
 
@@ -5817,7 +5773,7 @@ Element Order
     <td>0</td>
     <td>0%</td>
     <td>-</td>
-    <td></td>
+    <td>Moves:<br/>・Blowdart - Deals 30 or so damage. (Ranged)<br/>・Mysterious Dance - Inflicts Paralyzed status.<br/>・Monster Calling Dance - Summons 4~5 monsters.<br/>・Instant Recovery - Cures all status conditions.</td>
   </tr>
 </table>
 
@@ -5848,6 +5804,6 @@ Element Order
     <td>0</td>
     <td>0%</td>
     <td>-</td>
-    <td></td>
+    <td>Moves:<br/>・Double Lariat - Deals damage (1 tile radius).<br/>・Boulder Throw - Deals 50 or so damage (Ranged, 1 tile radius).<br/>・Sumo Slap - Deals 20 or so damage + 10 tiles knockback.<br/>・Call Monsters - Summons 2~3 monsters.<br/>・Instant Recovery - Cures all status conditions.</td>
   </tr>
 </table>

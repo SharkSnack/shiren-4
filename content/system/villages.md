@@ -4,6 +4,10 @@ metaTitle: "Villages - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Village and overworld area guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
+<div class="pageTopImage screenshot">
+  <img src="../images/other/village.png"/>
+</div>
+
 # Overview
 
 There are 6 notable overworld areas in the game, and each village has their own NPCs and facilities.<br/>

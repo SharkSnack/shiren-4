@@ -4,6 +4,8 @@ metaTitle: "Dungeon Features - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Information about dungeon features like shops and monster houses for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
+[NOTICE] This page is currently a copy of Shiren 5, so the information isn't correct.
+
 This page offers explanations for dungeon features and gimmicks.
 
 <ul class="quickLinksUL">

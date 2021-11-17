@@ -2921,7 +2921,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td>X</td>
     <td></td>
     <td></td>
-    <td class="leftText">Monster Caller</td>
+    <td class="leftText">Monster Summoner</td>
     <td></td>
     <td></td>
     <td></td>

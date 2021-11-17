@@ -823,18 +823,18 @@ export const baseStyles = css`
   }
   .itemListTable th {
     text-align: center;
-    padding: 2px;
+    padding: 4px;
   }
   .itemListTable td {
-    padding: 2px;
+    padding: 4px;
   }
   .itemListCentered th {
     text-align: center;
-    padding: 2px;
+    padding: 3px;
   }
   .itemListCentered td {
     text-align: center;
-    padding: 2px;
+    padding: 3px;
   }
   .itemListCentered3 th {
     text-align: center;

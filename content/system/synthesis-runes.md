@@ -7,6 +7,8 @@ metaDescription: "Complete list of runes for Shiren the Wanderer 4: The Eye of G
   <p>[Image]</p>
 </div>
 
+[NOTICE] This page is currently a copy of Shiren 5, so the information isn't correct.
+
 ## Overview
 
 Runes are special abilities that can be found on weapons or shields.

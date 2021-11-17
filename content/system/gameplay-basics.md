@@ -4,6 +4,8 @@ metaTitle: "Gameplay Basics - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Gameplay guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
+[NOTICE] This page is currently a copy of Shiren 5, so the information isn't correct.
+
 ## Overview
 
 This page provides information for Shiren 5's various gameplay systems and mechanics.
