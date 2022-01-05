@@ -4,8 +4,6 @@ metaTitle: "Price Chart - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Item price chart for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
-[NOTICE] This page is currently a copy of Shiren 5, so the information isn't correct.
-
 # Categories
 
 <ul class="quickLinksUL">
@@ -36,7 +34,7 @@ metaDescription: "Item price chart for Shiren the Wanderer 4: The Eye of God and
 #### Price formula
 
 Floor[ <span class="highlightGreen">[1, 1.1(blessed), or 0.8(cursed/sealed)]</span> x <span class="highlightPink">Floor[{</span><span class="highlightBlue">base price</span><span class="highlightPink"> x</span><span class="highlightYellow"> (1 + upgrade value/uses/capacity x 0.05) </span><span class="highlightPink">}]</span> ]<br/>
-Example: Bladite-1 (Cursed): 0.8 x {3000 x (1 - 0.05)} = 3000 x 0.8 x 0.95 = 3000 x 0.76 = 2280<br/>
+Example: Bladite-1 (Cursed): 0.8 x {3200 x (1 - 0.05)} = 3200 x 0.8 x 0.95 = 3200 x 0.76 = 2432<br/>
 ※ Floor means truncate decimals. (Example: 5.54 → 5)
 
 ## Scrolls / Bracelets / Grass / Talismans
@@ -63,305 +61,233 @@ Example: Bladite-1 (Cursed): 0.8 x {3000 x (1 - 0.05)} = 3000 x 0.8 x 0.95 = 300
     <th>Sell</th>
   </tr>
   <tr>
-    <td class="highlightGray">Wet Scroll</td>
-    <td rowspan="2">10</td>
-    <td rowspan="2">3</td>
-    <td class="highlightGray">Weeds</td>
+    <td class="priceTableName">Invitation</td>
+    <td rowspan="3">10</td>
+    <td rowspan="3">3</td>
+    <td class="priceTableName">Weeds</td>
     <td>10</td>
     <td>3</td>
-    <td class="highlightGray">Strength Bracelet</td>
-    <td rowspan="4">2000</td>
-    <td rowspan="4">700</td>
-    <td class="highlightGray">Shadow Bind Tal.</td>
-    <td rowspan="13">600</td>
-    <td rowspan="13">210</td>
+    <td class="priceTableName">Strength Bracelet</td>
+    <td rowspan="3">2000</td>
+    <td rowspan="3">700</td>
+    <td class="priceTableName">Sleep Talisman</td>
+    <td rowspan="11">500</td>
+    <td rowspan="11">175</td>
   </tr>
   <tr>
-    <td class="highlightGray">Piece of Paper</td>
-    <td class="highlightGray">Herb</td>
-    <td rowspan="2">50</td>
-    <td rowspan="2">17</td>
-    <td class="highlightGray">Can. Arm Bracelet</td>
-    <td class="highlightGray">Cnf. Talisman</td>
+    <td class="priceTableName">Wet Scroll</td>
+    <td class="priceTableName">Herb</td>
+    <td>50</td>
+    <td>17</td>
+    <td class="priceTableName">Pierce Bracelet</td>
+    <td class="priceTableName">Seal Talisman</td>
   </tr>
   <tr>
-    <td class="highlightGray">Escape Scroll</td>
-    <td rowspan="6">100</td>
-    <td rowspan="6">35</td>
-    <td class="highlightGray">Fine Grass</td>
-    <td class="highlightGray">Inacc. Bracelet</td>
-    <td class="highlightGray">Seal Talisman</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Navigation Scroll</td>
-    <td class="highlightGray">Otogiriso</td>
+    <td class="priceTableName">Piece of Paper</td>
+    <td class="priceTableName">Otogiriso</td>
     <td rowspan="4">100</td>
     <td rowspan="4">35</td>
-    <td class="highlightGray">Bunch Bracelet</td>
-    <td class="highlightGray">Fear Talisman</td>
+    <td class="priceTableName">Bad Aim Bracelet</td>
+    <td class="priceTableName">Dizzy Talisman</td>
   </tr>
   <tr>
-    <td class="highlightGray">Oil Scroll</td>
-    <td class="highlightGray">Antidote Grass</td>
-    <td class="highlightGray">Cleansing Bracelet</td>
-    <td rowspan="10">3000</td>
-    <td rowspan="10">1050</td>
-    <td class="highlightGray">Berserker Tal.</td>
+    <td class="priceTableName">Escape Scroll</td>
+    <td rowspan="2">100</td>
+    <td rowspan="2">35</td>
+    <td class="priceTableName">Antidote Grass</td>
+    <td class="priceTableName">Holy Bracelet</td>
+    <td rowspan="8">3000</td>
+    <td rowspan="8">1050</td>
+    <td class="priceTableName">Miss Talisman</td>
   </tr>
   <tr>
-    <td class="highlightGray">Light Scroll</td>
-    <td class="highlightGray">Poison Grass</td>
-    <td class="highlightGray">Anti-Cnf. Bracelet</td>
-    <td class="highlightGray">Inacc. Talisman</td>
+    <td class="priceTableName">Navigation Scroll</td>
+    <td class="priceTableName">Poison Grass</td>
+    <td class="priceTableName">Alert Bracelet</td>
+    <td class="priceTableName">Fear Talisman</td>
   </tr>
   <tr>
-    <td class="highlightGray">Recommend. Letter</td>
-    <td class="highlightGray">Warp Grass</td>
-    <td class="highlightGray">Alert Bracelet</td>
-    <td class="highlightGray">Sleep Talisman</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Commend. Letter</td>
-    <td class="highlightGray">Heal Grass</td>
+    <td class="priceTableName">Squid Sushi Scroll</td>
     <td>200</td>
     <td>70</td>
-    <td class="highlightGray">Anti-Crs. Bracelet</td>
-    <td class="highlightGray">Slumber Talisman</td>
+    <td class="priceTableName">Warp Grass</td>
+    <td class="priceTableName">Calm Bracelet</td>
+    <td class="priceTableName">Bind Talisman</td>
   </tr>
   <tr>
-    <td class="highlightGray">Identify Scroll</td>
+    <td class="priceTableName">Identify Scroll</td>
+    <td>300</td>
+    <td>105</td>
+    <td class="priceTableName">Heal Grass</td>
     <td>200</td>
     <td>70</td>
-    <td class="highlightGray">Power Up Grass</td>
-    <td rowspan="9">300</td>
-    <td rowspan="9">105</td>
-    <td class="highlightGray">Staunch Bracelet</td>
-    <td class="highlightGray">Slow Talisman</td>
+    <td class="priceTableName">Cleansing Bracelet</td>
+    <td class="priceTableName">Swift Talisman</td>
   </tr>
   <tr>
-    <td class="highlightGray">Gathering Scroll</td>
-    <td rowspan="3">300</td>
-    <td rowspan="3">105</td>
-    <td class="highlightGray">Upgrade Seed</td>
-    <td class="highlightGray">Critical Bracelet</td>
-    <td class="highlightGray">Swift Talisman</td>
+    <td class="priceTableName">Purify Scroll</td>
+    <td rowspan="8">500</td>
+    <td rowspan="8">175</td>
+    <td class="priceTableName">Growth Seed</td>
+    <td rowspan="8">300</td>
+    <td rowspan="8">105</td>
+    <td class="priceTableName">Staunch Bracelet</td>
+    <td class="priceTableName">Slow Talisman</td>
   </tr>
   <tr>
-    <td class="highlightGray">Collection Scroll</td>
-    <td class="highlightGray">Perception Grass</td>
-    <td class="highlightGray">Mojo Bracelet</td>
-    <td class="highlightGray">Enraged Talisman</td>
+    <td class="priceTableName">Heaven Scroll</td>
+    <td class="priceTableName">Swift Grass</td>
+    <td class="priceTableName">Monster Summoner</td>
+    <td class="priceTableName">Berserk Talisman</td>
   </tr>
   <tr>
-    <td class="highlightGray">Squid Sushi Scroll</td>
-    <td class="highlightGray">Swift Grass</td>
-    <td class="highlightGray">Monster Summoner</td>
-    <td class="highlightGray">Furious Talisman</td>
+    <td class="priceTableName">Earth Scroll</td>
+    <td class="priceTableName">Sight Grass</td>
+    <td class="priceTableName">Regret Bracelet</td>
+    <td class="priceTableName">Rage Talisman</td>
   </tr>
   <tr>
-    <td class="highlightGray">Exorcism Scroll</td>
-    <td rowspan="15">500</td>
-    <td rowspan="15">175</td>
-    <td class="highlightGray">Stomach Expander</td>
-    <td class="highlightGray">Dozer Bracelet</td>
-    <td class="highlightGray">Glorious Talisman</td>
+    <td class="priceTableName">Plating Scroll</td>
+    <td class="priceTableName">Blind Grass</td>
+    <td class="priceTableName">Trap Bracelet</td>
+    <td class="priceTableName">Fury Talisman</td>
   </tr>
   <tr>
-    <td class="highlightGray">Fate Scroll</td>
-    <td class="highlightGray">Stomach Shrinker</td>
-    <td class="highlightGray">Trap Bracelet</td>
-    <td rowspan="40"></td>
-    <td rowspan="40"></td>
-    <td rowspan="40"></td>
+    <td class="priceTableName">Suction Scroll</td>
+    <td class="priceTableName">Dizzy Grass</td>
+    <td class="priceTableName">Monster Detector</td>
+    <td rowspan="8">5000</td>
+    <td rowspan="8">1750</td>
+    <td colspan="3" rowspan="26"></td>
   </tr>
   <tr>
-    <td class="highlightGray">Earth Scroll</td>
-    <td class="highlightGray">Confusion Grass</td>
-    <td class="highlightGray">Monster Detector</td>
-    <td rowspan="11">5000</td>
-    <td rowspan="11">1750</td>
+    <td class="priceTableName">Expand Scroll</td>
+    <td class="priceTableName">Power Up Grass</td>
+    <td class="priceTableName">Item Detector</td>
   </tr>
   <tr>
-    <td class="highlightGray">Plating Scroll</td>
-    <td class="highlightGray">Blinding Grass</td>
-    <td class="highlightGray">Monsterphobic</td>
+    <td class="priceTableName">Banana Scroll</td>
+    <td class="priceTableName">Expand Seed</td>
+    <td class="priceTableName">Heal Bracelet</td>
   </tr>
   <tr>
-    <td class="highlightGray">Tag Scroll</td>
-    <td class="highlightGray">Nymph Grass</td>
-    <td class="highlightGray">Item Detector</td>
+    <td class="priceTableName">Tag Scroll</td>
+    <td class="priceTableName">Shrink Seed</td>
+    <td class="priceTableName">Wall Clip Bracelet</td>
   </tr>
   <tr>
-    <td class="highlightGray">Sale Scroll</td>
-    <td class="highlightGray">Life Grass</td>
-    <td rowspan="6">500</td>
-    <td rowspan="6">175</td>
-    <td class="highlightGray">Itemphobic</td>
+    <td class="priceTableName">Medicine Scroll</td>
+    <td rowspan="8">800</td>
+    <td rowspan="8">280</td>
+    <td class="priceTableName">Life Grass</td>
+    <td rowspan="5">500</td>
+    <td rowspan="5">175</td>
+    <td class="priceTableName">Strider Bracelet</td>
   </tr>
   <tr>
-    <td class="highlightGray">Onigiri Scroll</td>
-    <td class="highlightGray">Strength Grass</td>
-    <td class="highlightGray">Waterwalk Bracelet</td>
+    <td class="priceTableName">Fear Scroll</td>
+    <td class="priceTableName">Strength Grass</td>
+    <td class="priceTableName">Warp Bracelet</td>
   </tr>
   <tr>
-    <td class="highlightGray">Pot God Scroll</td>
-    <td class="highlightGray">Dragon Grass</td>
-    <td class="highlightGray">Wall Clip Bracelet</td>
+    <td class="priceTableName">Desert Scroll</td>
+    <td class="priceTableName">Dragon Grass</td>
+    <td class="priceTableName">Alleyway Bracelet</td>
   </tr>
   <tr>
-    <td class="highlightGray">Extraction Scroll</td>
-    <td class="highlightGray">Sleepy Grass</td>
-    <td class="highlightGray">Heal Bracelet</td>
+    <td class="priceTableName">Trap Erase Scroll</td>
+    <td class="priceTableName">Sleep Grass</td>
+    <td class="priceTableName">Explosion Bracelet</td>
   </tr>
   <tr>
-    <td class="highlightGray">Blessing Scroll</td>
-    <td class="highlightGray">Rage Grass</td>
-    <td class="highlightGray">Alleyway Bracelet</td>
+    <td class="priceTableName">Trap Scroll</td>
+    <td class="priceTableName">Rage Grass</td>
+    <td class="priceTableName">Happy Bracelet</td>
+    <td rowspan="2">10000</td>
+    <td rowspan="2">3500</td>
   </tr>
   <tr>
-    <td class="highlightGray">Curse Scroll</td>
-    <td class="highlightGray">Dracon Grass</td>
-    <td class="highlightGray">Blink Bracelet</td>
+    <td class="priceTableName">Attraction Scroll</td>
+    <td class="priceTableName">Revival Grass</td>
+    <td>1000</td>
+    <td>350</td>
+    <td class="priceTableName">Bind Bracelet</td>
   </tr>
   <tr>
-    <td class="highlightGray">Coupon Scroll</td>
-    <td class="highlightGray">Revival Grass</td>
-    <td rowspan="2">1000</td>
-    <td rowspan="2">350</td>
-    <td class="highlightGray">Explosion Bracelet</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Mate Scroll</td>
-    <td class="highlightGray">Gut Grass</td>
-    <td class="highlightGray">Nonary Bracelet</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Darth Scroll</td>
-    <td class="highlightGray">Undo Grass</td>
-    <td rowspan="2">1500</td>
-    <td rowspan="2">525</td>
-    <td class="highlightGray">Growth Bracelet</td>
-    <td rowspan="4">10000</td>
-    <td rowspan="4">3500</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Pot Dog Scroll</td>
-    <td class="highlightGray">Repeat Grass</td>
-    <td class="highlightGray">Anti-Parry Brce.</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Fear Scroll</td>
-    <td rowspan="7">800</td>
-    <td rowspan="7">280</td>
-    <td class="highlightGray">Invincible Grass</td>
-    <td rowspan="5">2000</td>
-    <td rowspan="5">700</td>
-    <td class="highlightGray">Time Stop Bracelet</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Trap Deletion Scrl</td>
-    <td class="highlightGray">Cheery Grass</td>
-    <td class="highlightGray">Floating Bracelet</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Desert Scroll</td>
-    <td class="highlightGray">Unlucky Seed</td>
-    <td class="highlightGray">Night Ward</td>
+    <td class="priceTableName">Muzzled Scroll</td>
+    <td class="priceTableName">Undo Grass</td>
+    <td>1500</td>
+    <td>525</td>
+    <td class="priceTableName">Scout Bracelet</td>
     <td rowspan="4">30000</td>
     <td rowspan="4">10500</td>
   </tr>
   <tr>
-    <td class="highlightGray">Trap Scroll</td>
-    <td class="highlightGray">Imabikiso</td>
-    <td class="highlightGray">Scout Bracelet</td>
+    <td class="priceTableName">Grounded Scroll</td>
+    <td class="priceTableName">Invincible Grass</td>
+    <td rowspan="5">2000</td>
+    <td rowspan="5">700</td>
+    <td class="priceTableName">Trapper Bracelet</td>
   </tr>
   <tr>
-    <td class="highlightGray">Muzzled Scroll</td>
-    <td class="highlightGray">Amnesia Grass</td>
-    <td class="highlightGray">Trapper Bracelet</td>
+    <td class="priceTableName">Confusion Scroll</td>
+    <td rowspan="9">1000</td>
+    <td rowspan="9">350</td>
+    <td class="priceTableName">Happy Grass</td>
+    <td class="priceTableName">Identify Bracelet</td>
   </tr>
   <tr>
-    <td class="highlightGray">Grounded Scroll</td>
-    <td class="highlightGray">Angel Seed</td>
+    <td class="priceTableName">Slumber Scroll</td>
+    <td class="priceTableName">Unlucky Seed</td>
+    <td class="priceTableName">Bulldog Bracelet</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Fixer Scroll</td>
+    <td class="priceTableName">Amnesia Grass</td>
+    <td colspan="3" rowspan="12"></td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Air Slash Scroll</td>
+    <td class="priceTableName">Imabikiso</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Replenish Scroll</td>
+    <td class="priceTableName">Angel Seed</td>
     <td rowspan="2">5000</td>
     <td rowspan="2">1750</td>
-    <td class="highlightGray">Identify Bracelet</td>
   </tr>
   <tr>
-    <td class="highlightGray">Attraction Scroll</td>
-    <td class="highlightGray">SuperUnlucky Seed</td>
-    <td class="highlightGray">VIP Bracelet</td>
-    <td>50000</td>
-    <td>17500</td>
+    <td class="priceTableName">Dispel Aura Scroll</td>
+    <td class="priceTableName">Disaster Seed</td>
   </tr>
   <tr>
-    <td class="highlightGray">Confusion Scroll</td>
-    <td rowspan="13">1000</td>
-    <td rowspan="13">350</td>
-    <td rowspan="19"></td>
-    <td rowspan="19"></td>
-    <td rowspan="19"></td>
-    <td rowspan="19"></td>
-    <td rowspan="19"></td>
-    <td rowspan="19"></td>
+    <td class="priceTableName">Mon House Scroll</td>
+    <td colspan="3" rowspan="8"></td>
   </tr>
   <tr>
-    <td class="highlightGray">Slumber Scroll</td>
+    <td class="priceTableName">Swift Foe Scroll</td>
   </tr>
   <tr>
-    <td class="highlightGray">Vacuum Slash Scrl</td>
+    <td class="priceTableName">Night-Day Scroll</td>
   </tr>
   <tr>
-    <td class="highlightGray">Dispel Aura Scroll</td>
+    <td class="priceTableName">Sanctuary Scroll</td>
+    <td rowspan="3">3000</td>
+    <td rowspan="3">1050</td>
   </tr>
   <tr>
-    <td class="highlightGray">Night-Day Scroll</td>
+    <td class="priceTableName">Lost Scroll</td>
   </tr>
   <tr>
-    <td class="highlightGray">Swift Foe Scroll</td>
+    <td class="priceTableName">Eradicate Scroll</td>
   </tr>
   <tr>
-    <td class="highlightGray">Mnster House Scrl</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Immunity Scroll</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Replenish Scroll</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Fixer Scroll</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Gambler's Scroll</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Arbor Scroll</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Nixer Scroll</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Lost Scroll</td>
-    <td rowspan="4">3000</td>
-    <td rowspan="4">1050</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Sanctuary Scroll</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Expulsion Scroll</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Bankruptcy Scroll</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Blank Scroll</td>
+    <td class="priceTableName">Blank Scroll</td>
     <td>5000</td>
     <td>1750</td>
   </tr>
   <tr>
-    <td class="highlightGray">Extinction Scroll</td>
+    <td class="priceTableName">Extinction Scroll</td>
     <td>10000</td>
     <td>3500</td>
   </tr>
@@ -399,178 +325,163 @@ Example: Bladite-1 (Cursed): 0.8 x {3000 x (1 - 0.05)} = 3000 x 0.8 x 0.95 = 300
     <th>7</th>
   </tr>
   <tr>
-    <td class="highlightGray">Swap Staff</td>
+    <td class="priceTableName">Knockback Staff</td>
     <td rowspan="4">5~7</td>
-    <td rowspan="6">30</td>
-    <td rowspan="6">600</td>
-    <td rowspan="6">630</td>
-    <td rowspan="6">660</td>
-    <td rowspan="6">690</td>
-    <td rowspan="6">720</td>
-    <td rowspan="6">750</td>
-    <td rowspan="6">780</td>
-    <td rowspan="6">810</td>
-    <td class="tableDivider" rowspan="6"></td>
-    <td rowspan="6">10.5</td>
-    <td rowspan="6">210</td>
-    <td rowspan="6">220</td>
-    <td rowspan="6">231</td>
-    <td rowspan="6">241</td>
-    <td rowspan="6">252</td>
-    <td rowspan="6">262</td>
-    <td rowspan="6">273</td>
-    <td rowspan="6">283</td>
+    <td rowspan="7">50</td>
+    <td rowspan="7">1000</td>
+    <td rowspan="7">1050</td>
+    <td rowspan="7">1100</td>
+    <td rowspan="7">1150</td>
+    <td rowspan="7">1200</td>
+    <td rowspan="7">1250</td>
+    <td rowspan="7">1300</td>
+    <td rowspan="7">1350</td>
+    <td class="tableDivider" rowspan="7"></td>
+    <td rowspan="7">17.5</td>
+    <td rowspan="7">350</td>
+    <td rowspan="7">367</td>
+    <td rowspan="7">385</td>
+    <td rowspan="7">402</td>
+    <td rowspan="7">420</td>
+    <td rowspan="7">437</td>
+    <td rowspan="7">455</td>
+    <td rowspan="7">472</td>
   </tr>
   <tr>
-    <td class="highlightGray">Knockback Staff</td>
+    <td class="priceTableName">Swap Staff</td>
   </tr>
   <tr>
-    <td class="highlightGray">Pinning Staff</td>
+    <td class="priceTableName">Pinning Staff</td>
   </tr>
   <tr>
-    <td class="highlightGray">Mage Staff</td>
+    <td class="priceTableName">Mage Staff</td>
   </tr>
   <tr>
-    <td class="highlightGray">Slow Staff</td>
-    <td rowspan="2">4~6</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Swift Staff</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Transient Staff</td>
-    <td rowspan="4">4~6</td>
-    <td rowspan="8">45</td>
-    <td rowspan="8">900</td>
-    <td rowspan="8">945</td>
-    <td rowspan="8">990</td>
-    <td rowspan="8">1035</td>
-    <td rowspan="8">1080</td>
-    <td rowspan="8">1125</td>
-    <td rowspan="8">1170</td>
-    <td rowspan="8">1215</td>
-    <td class="tableDivider" rowspan="8"></td>
-    <td rowspan="8">15.75</td>
-    <td rowspan="8">315</td>
-    <td rowspan="8">330</td>
-    <td rowspan="8">346</td>
-    <td rowspan="8">362</td>
-    <td rowspan="8">378</td>
-    <td rowspan="8">393</td>
-    <td rowspan="8">409</td>
-    <td rowspan="8">425</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Paralysis Staff</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Drama Staff</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Nagging Staff</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Balance Staff</td>
-    <td rowspan="4">5~7</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Empathy Staff</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Ordinary Staff</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Trap Del. Staff</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Electric Staff</td>
-    <td rowspan="2">4~6</td>
-    <td rowspan="2">60</td>
-    <td rowspan="2">1200</td>
-    <td rowspan="2">1260</td>
-    <td rowspan="2">1320</td>
-    <td rowspan="2">1380</td>
-    <td rowspan="2">1440</td>
-    <td rowspan="2">1500</td>
-    <td rowspan="2">1560</td>
-    <td rowspan="2">1620</td>
-    <td class="tableDivider" rowspan="2"></td>
-    <td rowspan="2">21</td>
-    <td rowspan="2">420</td>
-    <td rowspan="2">441</td>
-    <td rowspan="2">462</td>
-    <td rowspan="2">483</td>
-    <td rowspan="2">504</td>
-    <td rowspan="2">525</td>
-    <td rowspan="2">546</td>
-    <td rowspan="2">567</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Shocking Staff</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Seal Staff</td>
+    <td class="priceTableName">Swift Staff</td>
     <td rowspan="3">4~6</td>
-    <td rowspan="3">75</td>
-    <td rowspan="3">1500</td>
-    <td rowspan="3">1575</td>
-    <td rowspan="3">1650</td>
-    <td rowspan="3">1725</td>
-    <td rowspan="3">1800</td>
-    <td rowspan="3">1875</td>
-    <td rowspan="3">1950</td>
-    <td rowspan="3">2025</td>
-    <td class="tableDivider" rowspan="3"></td>
-    <td rowspan="3">26.25</td>
-    <td rowspan="3">525</td>
-    <td rowspan="3">551</td>
-    <td rowspan="3">577</td>
-    <td rowspan="3">603</td>
-    <td rowspan="3">630</td>
-    <td rowspan="3">656</td>
-    <td rowspan="3">682</td>
-    <td rowspan="3">708</td>
   </tr>
   <tr>
-    <td class="highlightGray">Clone Staff</td>
+    <td class="priceTableName">Slow Staff</td>
   </tr>
   <tr>
-    <td class="highlightGray">Staff of Sacrifice</td>
+    <td class="priceTableName">Lightning Staff</td>
   </tr>
   <tr>
-    <td class="highlightGray">Glorious Staff</td>
-    <td rowspan="5">4~6</td>
-    <td rowspan="5">90</td>
-    <td rowspan="5">1800</td>
-    <td rowspan="5">1890</td>
-    <td rowspan="5">1980</td>
-    <td rowspan="5">2070</td>
-    <td rowspan="5">2160</td>
-    <td rowspan="5">2250</td>
-    <td rowspan="5">2340</td>
-    <td rowspan="5">2430</td>
-    <td class="tableDivider" rowspan="5"></td>
-    <td rowspan="5">31.5</td>
-    <td rowspan="5">630</td>
-    <td rowspan="5">661</td>
-    <td rowspan="5">693</td>
-    <td rowspan="5">724</td>
-    <td rowspan="5">756</td>
-    <td rowspan="5">787</td>
-    <td rowspan="5">819</td>
-    <td rowspan="5">850</td>
+    <td class="priceTableName">Empathy Staff</td>
+    <td rowspan="4">5~7</td>
+    <td rowspan="6">75</td>
+    <td rowspan="6">1500</td>
+    <td rowspan="6">1575</td>
+    <td rowspan="6">1650</td>
+    <td rowspan="6">1725</td>
+    <td rowspan="6">1800</td>
+    <td rowspan="6">1875</td>
+    <td rowspan="6">1950</td>
+    <td rowspan="6">2025</td>
+    <td class="tableDivider" rowspan="6"></td>
+    <td rowspan="6">26.25</td>
+    <td rowspan="6">525</td>
+    <td rowspan="6">551</td>
+    <td rowspan="6">577</td>
+    <td rowspan="6">603</td>
+    <td rowspan="6">630</td>
+    <td rowspan="6">656</td>
+    <td rowspan="6">682</td>
+    <td rowspan="6">708</td>
   </tr>
   <tr>
-    <td class="highlightGray">Unlucky Staff</td>
+    <td class="priceTableName">Balance Staff</td>
   </tr>
   <tr>
-    <td class="highlightGray">Boring Staff</td>
+    <td class="priceTableName">Trap Erase Staff</td>
   </tr>
   <tr>
-    <td class="highlightGray">Fort. Staff</td>
+    <td class="priceTableName">Ordinary Staff</td>
   </tr>
   <tr>
-    <td class="highlightGray">Sharing Staff</td>
+    <td class="priceTableName">Transient Staff</td>
+    <td rowspan="2">4~6</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Paralysis Staff</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Seal Staff</td>
+    <td rowspan="2">4~6</td>
+    <td rowspan="2">100</td>
+    <td rowspan="2">2000</td>
+    <td rowspan="2">2100</td>
+    <td rowspan="2">2200</td>
+    <td rowspan="2">2300</td>
+    <td rowspan="2">2400</td>
+    <td rowspan="2">2500</td>
+    <td rowspan="2">2600</td>
+    <td rowspan="2">2700</td>
+    <td class="tableDivider" rowspan="2"></td>
+    <td rowspan="2">35</td>
+    <td rowspan="2">700</td>
+    <td rowspan="2">735</td>
+    <td rowspan="2">770</td>
+    <td rowspan="2">805</td>
+    <td rowspan="2">840</td>
+    <td rowspan="2">875</td>
+    <td rowspan="2">910</td>
+    <td rowspan="2">945</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Decoy Staff</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Tunnel Staff</td>
+    <td rowspan="2">4~6</td>
+    <td rowspan="2">150</td>
+    <td rowspan="2">3000</td>
+    <td rowspan="2">3150</td>
+    <td rowspan="2">3300</td>
+    <td rowspan="2">3450</td>
+    <td rowspan="2">3600</td>
+    <td rowspan="2">3750</td>
+    <td rowspan="2">3900</td>
+    <td rowspan="2">4050</td>
+    <td class="tableDivider" rowspan="2"></td>
+    <td rowspan="2">52.5</td>
+    <td rowspan="2">1050</td>
+    <td rowspan="2">1102</td>
+    <td rowspan="2">1155</td>
+    <td rowspan="2">1207</td>
+    <td rowspan="2">1260</td>
+    <td rowspan="2">1312</td>
+    <td rowspan="2">1365</td>
+    <td rowspan="2">1417</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Fortress Staff</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Happy Staff</td>
+    <td rowspan="2">4~6</td>
+    <td rowspan="2">200</td>
+    <td rowspan="2">4000</td>
+    <td rowspan="2">4200</td>
+    <td rowspan="2">4400</td>
+    <td rowspan="2">4600</td>
+    <td rowspan="2">4800</td>
+    <td rowspan="2">5000</td>
+    <td rowspan="2">5200</td>
+    <td rowspan="2">5400</td>
+    <td class="tableDivider" rowspan="2"></td>
+    <td rowspan="2">70</td>
+    <td rowspan="2">1400</td>
+    <td rowspan="2">1470</td>
+    <td rowspan="2">1540</td>
+    <td rowspan="2">1610</td>
+    <td rowspan="2">1680</td>
+    <td rowspan="2">1750</td>
+    <td rowspan="2">1820</td>
+    <td rowspan="2">1890</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Unlucky Staff</td>
   </tr>
 </table>
 
@@ -602,7 +513,7 @@ Example: Bladite-1 (Cursed): 0.8 x {3000 x (1 - 0.05)} = 3000 x 0.8 x 0.95 = 300
     <th>5</th>
   </tr>
   <tr>
-    <td class="highlightGray">Preservation Pot</td>
+    <td class="priceTableName">Storage Pot</td>
     <td rowspan="5">3~5</td>
     <td rowspan="5">30</td>
     <td rowspan="5">600</td>
@@ -621,20 +532,20 @@ Example: Bladite-1 (Cursed): 0.8 x {3000 x (1 - 0.05)} = 3000 x 0.8 x 0.95 = 300
     <td rowspan="5">262</td>
   </tr>
   <tr>
-    <td class="highlightGray">Ordinary Pot</td>
+    <td class="priceTableName">Identify Pot</td>
   </tr>
   <tr>
-    <td class="highlightGray">Identify Pot</td>
+    <td class="priceTableName">Hide Pot</td>
   </tr>
   <tr>
-    <td class="highlightGray">Hide Pot</td>
+    <td class="priceTableName">4-2-8 Pot</td>
   </tr>
   <tr>
-    <td class="highlightGray">4-2-8 Pot</td>
+    <td class="priceTableName">Ordinary Pot</td>
   </tr>
   <tr>
-    <td class="highlightGray">Sale Pot</td>
-    <td rowspan="5">3~5</td>
+    <td class="priceTableName">Sale Pot</td>
+    <td rowspan="7">3~5</td>
     <td rowspan="7">50</td>
     <td rowspan="7">1000</td>
     <td rowspan="7">1050</td>
@@ -652,28 +563,26 @@ Example: Bladite-1 (Cursed): 0.8 x {3000 x (1 - 0.05)} = 3000 x 0.8 x 0.95 = 300
     <td rowspan="7">437</td>
   </tr>
   <tr>
-    <td class="highlightGray">Presto Pot</td>
+    <td class="priceTableName">Presto Pot</td>
   </tr>
   <tr>
-    <td class="highlightGray">Floramorph Pot</td>
+    <td class="priceTableName">Sticky Pot</td>
   </tr>
   <tr>
-    <td class="highlightGray">Sticky Pot</td>
+    <td class="priceTableName">Sturdy Pot</td>
   </tr>
   <tr>
-    <td class="highlightGray">Unbreakable Pot</td>
+    <td class="priceTableName">Water Pot</td>
   </tr>
   <tr>
-    <td class="highlightGray">Black Hole Pot</td>
-    <td>2~4</td>
+    <td class="priceTableName">Oil Pot</td>
   </tr>
   <tr>
-    <td class="highlightGray">Fever Pot</td>
-    <td>3</td>
+    <td class="priceTableName">Chocolate Pot</td>
   </tr>
   <tr>
-    <td class="highlightGray">Exorcism Pot</td>
-    <td rowspan="3">2~4</td>
+    <td class="priceTableName">Purify Pot</td>
+    <td rowspan="3">2~3</td>
     <td rowspan="3">80</td>
     <td rowspan="3">1600</td>
     <td rowspan="3">1680</td>
@@ -691,152 +600,101 @@ Example: Bladite-1 (Cursed): 0.8 x {3000 x (1 - 0.05)} = 3000 x 0.8 x 0.95 = 300
     <td rowspan="3">700</td>
   </tr>
   <tr>
-    <td class="highlightGray">Blessing Pot</td>
+    <td class="priceTableName">Curse Pot</td>
   </tr>
   <tr>
-    <td class="highlightGray">Curse Pot</td>
+    <td class="priceTableName">Blessing Pot</td>
   </tr>
   <tr>
-    <td class="highlightGray">Water Pot</td>
-    <td>3~5</td>
-    <td rowspan="2">100</td>
-    <td rowspan="2">2000</td>
-    <td rowspan="2">2100</td>
-    <td rowspan="2">2200</td>
-    <td rowspan="2">2300</td>
-    <td rowspan="2">2400</td>
+    <td class="priceTableName">Mailing Pot</td>
+    <td rowspan="2">2~4</td>
+    <td rowspan="2">125</td>
     <td rowspan="2">2500</td>
-    <td class="tableDivider" rowspan="2"></td>
-    <td rowspan="2">35</td>
-    <td rowspan="2">700</td>
-    <td rowspan="2">735</td>
-    <td rowspan="2">770</td>
-    <td rowspan="2">805</td>
-    <td rowspan="2">840</td>
-    <td rowspan="2">875</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Heavenly Pot</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Zen Pot</td>
-    <td rowspan="4">2~4</td>
-    <td rowspan="4">125</td>
-    <td rowspan="4">2500</td>
-    <td rowspan="4">2625</td>
-    <td rowspan="4">2750</td>
-    <td rowspan="4">2875</td>
-    <td rowspan="4">3000</td>
-    <td rowspan="4">3125</td>
-    <td class="tableDivider" rowspan="4"></td>
-    <td rowspan="4">43.75</td>
-    <td rowspan="4">875</td>
-    <td rowspan="4">918</td>
-    <td rowspan="4">962</td>
-    <td rowspan="4">1006</td>
-    <td rowspan="4">1050</td>
-    <td rowspan="4">1093</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Dodger Pot</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Perceptive Pot</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Reflection Pot</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Heal Pot</td>
-    <td rowspan="4">3~5</td>
-    <td rowspan="6">175</td>
-    <td rowspan="6">3500</td>
-    <td rowspan="6">3675</td>
-    <td rowspan="6">3850</td>
-    <td rowspan="6">4025</td>
-    <td rowspan="6">4200</td>
-    <td rowspan="6">4375</td>
-    <td class="tableDivider" rowspan="6"></td>
-    <td rowspan="6">61.25</td>
-    <td rowspan="6">1225</td>
-    <td rowspan="6">1286</td>
-    <td rowspan="6">1347</td>
-    <td rowspan="6">1408</td>
-    <td rowspan="6">1470</td>
-    <td rowspan="6">1531</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Zalokleft Pot</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Monster Pot</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Klein Pot</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Hilarious Pot</td>
-    <td>2~4</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Shrine Maid. Pot</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Synthesis Pot</td>
-    <td>5</td>
-    <td rowspan="2">300</td>
-    <td rowspan="2">6000</td>
-    <td rowspan="2">6300</td>
-    <td rowspan="2">6600</td>
-    <td rowspan="2">6900</td>
-    <td rowspan="2">7200</td>
-    <td rowspan="2">7500</td>
-    <td class="tableDivider" rowspan="2"></td>
-    <td rowspan="2">105</td>
-    <td rowspan="2">2100</td>
-    <td rowspan="2">2205</td>
-    <td rowspan="2">2310</td>
-    <td rowspan="2">2415</td>
-    <td rowspan="2">2520</td>
     <td rowspan="2">2625</td>
+    <td rowspan="2">2750</td>
+    <td rowspan="2">2875</td>
+    <td rowspan="2">3000</td>
+    <td rowspan="2">3125</td>
+    <td class="tableDivider" rowspan="2"></td>
+    <td rowspan="2">43.75</td>
+    <td rowspan="2">875</td>
+    <td rowspan="2">918</td>
+    <td rowspan="2">962</td>
+    <td rowspan="2">1006</td>
+    <td rowspan="2">1050</td>
+    <td rowspan="2">1093</td>
   </tr>
   <tr>
-    <td class="highlightGray">Modder's Pot</td>
+    <td class="priceTableName">Black Hole Pot</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Heal Pot</td>
+    <td rowspan="4">3~5</td>
+    <td rowspan="4">190</td>
+    <td rowspan="4">3800</td>
+    <td rowspan="4">3990</td>
+    <td rowspan="4">4180</td>
+    <td rowspan="4">4370</td>
+    <td rowspan="4">4560</td>
+    <td rowspan="4">4750</td>
+    <td class="tableDivider" rowspan="4"></td>
+    <td rowspan="4">66.5</td>
+    <td rowspan="4">1330</td>
+    <td rowspan="4">1396</td>
+    <td rowspan="4">1463</td>
+    <td rowspan="4">1529</td>
+    <td rowspan="4">1596</td>
+    <td rowspan="4">1662</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Zalokleft Pot</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Monster Pot</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Calling Pot</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Synthesis Pot</td>
     <td>3~5</td>
+    <td>300</td>
+    <td>6000</td>
+    <td>6300</td>
+    <td>6600</td>
+    <td>6900</td>
+    <td>7200</td>
+    <td>7500</td>
+    <td class="tableDivider"></td>
+    <td>105</td>
+    <td>2100</td>
+    <td>2205</td>
+    <td>2310</td>
+    <td>2415</td>
+    <td>2520</td>
+    <td>2625</td>
   </tr>
   <tr>
-    <td class="highlightGray">Upgrade Pot</td>
+    <td class="priceTableName">Upgrade Pot</td>
     <td rowspan="2">2~3</td>
-    <td rowspan="5">500</td>
-    <td rowspan="5">10000</td>
-    <td rowspan="5">10500</td>
-    <td rowspan="5">11000</td>
-    <td rowspan="5">11500</td>
-    <td rowspan="5">12000</td>
-    <td rowspan="5">12500</td>
-    <td class="tableDivider" rowspan="5"></td>
-    <td rowspan="5">175</td>
-    <td rowspan="5">3500</td>
-    <td rowspan="5">3675</td>
-    <td rowspan="5">3850</td>
-    <td rowspan="5">4025</td>
-    <td rowspan="5">4200</td>
-    <td rowspan="5">4375</td>
+    <td rowspan="2">500</td>
+    <td rowspan="2">10000</td>
+    <td rowspan="2">10500</td>
+    <td rowspan="2">11000</td>
+    <td rowspan="2">11500</td>
+    <td rowspan="2">12000</td>
+    <td rowspan="2">12500</td>
+    <td class="tableDivider" rowspan="2"></td>
+    <td rowspan="2">175</td>
+    <td rowspan="2">3500</td>
+    <td rowspan="2">3675</td>
+    <td rowspan="2">3850</td>
+    <td rowspan="2">4025</td>
+    <td rowspan="2">4200</td>
+    <td rowspan="2">4375</td>
   </tr>
   <tr>
-    <td class="highlightGray">Degrade Pot</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Lucky Pot</td>
-    <td rowspan="3">3~5</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Unlucky Pot</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Grilling Pot</td>
+    <td class="priceTableName">Degrade Pot</td>
   </tr>
 </table>
 
@@ -845,166 +703,329 @@ Example: Bladite-1 (Cursed): 0.8 x {3000 x (1 - 0.05)} = 3000 x 0.8 x 0.95 = 300
 <table class="priceTable">
   <tr>
     <th>Name</th>
+    <th>Rune</th>
+    <th>Atk</th>
+    <th>Max</th>
+    <th>Ct</th>
     <th>Buy</th>
     <th>Sell</th>
+    <th></th>
     <th>Name</th>
-    <th>Buy</th>
-    <th>Sell</th>
-    <th>Name</th>
+    <th>Rune</th>
+    <th>Atk</th>
+    <th>Max</th>
+    <th>Ct</th>
     <th>Buy</th>
     <th>Sell</th>
   </tr>
   <tr>
-    <td class="highlightGray">Ordinary Stick</td>
+    <td colspan="7" class="highlightYellow">Regular Weapons</td>
+    <td class="tableDivider"></td>
+    <td colspan="7" class="highlightYellow">Special Weapons</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Palm Stick</td>
+    <td class="leftText">-</td>
+    <td>2</td>
+    <td>10</td>
+    <td>5</td>
     <td>300</td>
     <td>105</td>
-    <td class="highlightGray">Rusty Pickaxe</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Dull Gold Edge</td>
+    <td class="leftText">Rustproof</td>
+    <td>2</td>
+    <td>25</td>
+    <td>6</td>
     <td>1000</td>
     <td>350</td>
-    <td class="highlightGray">Shockuto</td>
-    <td>4000</td>
-    <td>1400</td>
   </tr>
   <tr>
-    <td class="highlightGray">Tin Blade</td>
+    <td class="priceTableName">Copper Edge</td>
+    <td class="leftText">-</td>
+    <td>4</td>
+    <td>10</td>
+    <td>4</td>
     <td>700</td>
     <td>245</td>
-    <td class="highlightGray">Old Mallet</td>
-    <td>2000</td>
-    <td>700</td>
-    <td class="highlightGray">Blurry Stick</td>
-    <td>6000</td>
-    <td>2100</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Rusty Pickaxe</td>
+    <td class="leftText">Wall Dig</td>
+    <td>3</td>
+    <td>25</td>
+    <td>8</td>
+    <td>1000</td>
+    <td>350</td>
   </tr>
   <tr>
-    <td class="highlightGray">Katana</td>
+    <td class="priceTableName">Katana</td>
+    <td class="leftText">-</td>
+    <td>6</td>
+    <td>10</td>
+    <td>4</td>
     <td>1100</td>
     <td>385</td>
-    <td class="highlightGray">Sky Splitter</td>
-    <td>7500</td>
-    <td>2625</td>
-    <td class="highlightGray">Sealing Keisaku</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Rusty Pick</td>
+    <td class="leftText">2 Tile Dig</td>
+    <td>5</td>
+    <td>25</td>
+    <td>8</td>
+    <td>2000</td>
+    <td>700</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Beast Fang</td>
+    <td class="leftText">-</td>
+    <td>8</td>
+    <td>10</td>
+    <td>3</td>
+    <td>1600</td>
+    <td>560</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Old Mallet</td>
+    <td class="leftText">Trap Breaker</td>
+    <td>5</td>
+    <td>25</td>
+    <td>8</td>
+    <td>2000</td>
+    <td>700</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Dotanuki</td>
+    <td class="leftText">-</td>
+    <td>10</td>
+    <td>10</td>
+    <td>5</td>
+    <td>2200</td>
+    <td>770</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Baffle Axe</td>
+    <td class="leftText">Confusing</td>
+    <td>6</td>
+    <td>25</td>
+    <td>5</td>
+    <td>2000</td>
+    <td>700</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Bladite</td>
+    <td class="leftText">-</td>
+    <td>12</td>
+    <td>10</td>
+    <td>4</td>
+    <td>3000</td>
+    <td>1050</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Shoddy Dirk</td>
+    <td class="leftText">Degrade</td>
+    <td>30</td>
+    <td>30</td>
+    <td>10</td>
+    <td>3000</td>
+    <td>1050</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Red Blade</td>
+    <td class="leftText">-</td>
+    <td>14</td>
+    <td>10</td>
+    <td>3</td>
+    <td>4200</td>
+    <td>1470</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Bright Blade</td>
+    <td class="leftText">Charge</td>
+    <td>3</td>
+    <td>25</td>
+    <td>5</td>
+    <td>3000</td>
+    <td>1050</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Kabura's Blade</td>
+    <td class="leftText">-</td>
+    <td>16</td>
+    <td>10</td>
+    <td>2</td>
+    <td>7400</td>
+    <td>2590</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Seal Rod</td>
+    <td class="leftText">Sealing</td>
+    <td>5</td>
+    <td>25</td>
+    <td>5</td>
     <td>3300</td>
     <td>1155</td>
   </tr>
   <tr>
-    <td class="highlightGray">Beast Fang</td>
-    <td>1600</td>
-    <td>560</td>
-    <td class="highlightGray">Water Cutter</td>
-    <td>6500</td>
-    <td>2275</td>
-    <td class="highlightGray">Baffle Axe</td>
-    <td>2000</td>
-    <td>700</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Dotanuki</td>
-    <td>2200</td>
-    <td>770</td>
-    <td class="highlightGray">Scythe</td>
-    <td>5500</td>
-    <td>1925</td>
-    <td class="highlightGray">Hatchet</td>
-    <td>5000</td>
-    <td>1750</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Bladite</td>
-    <td>3000</td>
-    <td>1050</td>
-    <td class="highlightGray">Myopic Masher</td>
-    <td>5500</td>
-    <td>1925</td>
-    <td class="highlightGray">Shoddy Dirk</td>
-    <td>3000</td>
-    <td>1050</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Red Blade</td>
-    <td>4200</td>
-    <td>1470</td>
-    <td class="highlightGray">Magic Masher</td>
-    <td>2500</td>
-    <td>875</td>
-    <td class="highlightGray">Glass Dirk</td>
-    <td>5000</td>
-    <td>1750</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Kabura Katana</td>
-    <td>7400</td>
-    <td>2590</td>
-    <td class="highlightGray">Drain Dagger</td>
-    <td>4500</td>
-    <td>1575</td>
-    <td class="highlightGray">Dirk of Debts</td>
-    <td>3000</td>
-    <td>1050</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Fuuma Sword</td>
+    <td class="priceTableName">Fuuma Sword</td>
+    <td class="leftText">-</td>
+    <td>20</td>
+    <td>10</td>
+    <td>∞</td>
     <td>10000</td>
     <td>3500</td>
-    <td class="highlightGray">Copper Cleaver</td>
-    <td>3500</td>
-    <td>1225</td>
-    <td class="highlightGray">Extreme Sword</td>
-    <td>2000</td>
-    <td>700</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Shockuto</td>
+    <td class="leftText">Paralyzing</td>
+    <td>3</td>
+    <td>25</td>
+    <td>3</td>
+    <td>4000</td>
+    <td>1400</td>
   </tr>
   <tr>
-    <td class="highlightGray">Pathetic Blade</td>
-    <td>300</td>
-    <td>105</td>
-    <td class="highlightGray">Crescent Katana</td>
-    <td>2500</td>
-    <td>875</td>
-    <td class="highlightGray">Violent Blade</td>
-    <td>2500</td>
-    <td>875</td>
+    <td class="priceTableName">Kaburagi</td>
+    <td class="leftText">-</td>
+    <td>25</td>
+    <td>10</td>
+    <td>∞</td>
+    <td>15000</td>
+    <td>5250</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Hatchet</td>
+    <td class="leftText">Critical</td>
+    <td>5</td>
+    <td>10</td>
+    <td>3</td>
+    <td>5000</td>
+    <td>1750</td>
   </tr>
   <tr>
-    <td class="highlightGray">Dull Gold Edge</td>
-    <td>1000</td>
-    <td>350</td>
-    <td class="highlightGray">Lizard Lasher</td>
+    <td colspan="7" class="highlightYellow">Type-Effective Weapons</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Dim Rod</td>
+    <td class="leftText">Blinding</td>
+    <td>4</td>
+    <td>25</td>
+    <td>5</td>
+    <td>6000</td>
+    <td>2100</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Crescent Blade</td>
+    <td class="leftText">Anti-Bomb</td>
+    <td>7</td>
+    <td>25</td>
+    <td>5</td>
+    <td>2500</td>
+    <td>875</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Nap Rattle</td>
+    <td class="leftText">Sedating</td>
+    <td>2</td>
+    <td>25</td>
+    <td>3</td>
+    <td>7000</td>
+    <td>2450</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Lizard Lasher</td>
+    <td class="leftText">Anti-Dragon</td>
+    <td>10</td>
+    <td>25</td>
+    <td>3</td>
     <td>3500</td>
     <td>1225</td>
-    <td class="highlightGray">Breeze Blade</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Breeze Blade</td>
+    <td class="leftText">Tri-direction</td>
+    <td>2</td>
+    <td>25</td>
+    <td>2</td>
     <td>8000</td>
     <td>2800</td>
   </tr>
   <tr>
-    <td class="highlightGray">Bright Blade</td>
-    <td>3000</td>
-    <td>1050</td>
-    <td class="highlightGray">Nap Rattle</td>
-    <td>7000</td>
-    <td>2450</td>
-    <td class="highlightGray">Burning Blade</td>
+    <td class="priceTableName">Drain Dagger</td>
+    <td class="leftText">Anti-Drain</td>
+    <td>6</td>
+    <td>25</td>
+    <td>5</td>
+    <td>4500</td>
+    <td>1575</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Burning Blade</td>
+    <td class="leftText">Flame Shot</td>
+    <td>9</td>
+    <td>25</td>
+    <td>4</td>
     <td>10000</td>
     <td>3500</td>
   </tr>
   <tr>
-    <td class="highlightGray">True Knife</td>
+    <td class="priceTableName">Myopic Masher</td>
+    <td class="leftText">Anti-Cyclops</td>
+    <td>5</td>
+    <td>25</td>
+    <td>5</td>
+    <td>5500</td>
+    <td>1925</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Bargain Blade</td>
+    <td class="leftText">Enriching</td>
+    <td>9</td>
+    <td>25</td>
+    <td>6</td>
+    <td>10000</td>
+    <td>3500</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Water Cutter</td>
+    <td class="leftText">Anti-Aquatic</td>
+    <td>4</td>
+    <td>25</td>
+    <td>5</td>
+    <td>6500</td>
+    <td>2275</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Wonder Pick</td>
+    <td class="leftText">Infinite Dig</td>
+    <td>7</td>
+    <td>25</td>
+    <td>3</td>
+    <td>10000</td>
+    <td>3500</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Sky Splitter</td>
+    <td class="leftText">Anti-Floating</td>
+    <td>2</td>
+    <td>25</td>
+    <td>3</td>
+    <td>7500</td>
+    <td>2625</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Sturdy Hammer</td>
+    <td class="leftText">Trap Destroyer</td>
+    <td>7</td>
+    <td>25</td>
+    <td>3</td>
+    <td>15000</td>
+    <td>5250</td>
+  </tr>
+  <tr>
+    <td colspan="7" rowspan="2"></td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">True Knife</td>
+    <td class="leftText">Accurate</td>
+    <td>1</td>
+    <td>25</td>
+    <td>10</td>
     <td>20000</td>
     <td>7000</td>
-    <td class="highlightGray">Wonder Pick</td>
-    <td>10000</td>
-    <td>3500</td>
-    <td class="highlightGray">Sturdy Hammer</td>
-    <td>15000</td>
-    <td>5250</td>
   </tr>
   <tr>
-    <td class="highlightGray">Kaburagi</td>
-    <td>15000</td>
-    <td>5250</td>
-    <td class="highlightGray">Fox Kodachi</td>
-    <td>-</td>
-    <td>-</td>
-    <td colspan="3"></td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Kamina's Sword</td>
+    <td class="leftText">Attack Down</td>
+    <td>25</td>
+    <td>25</td>
+    <td>10</td>
+    <td>25000</td>
+    <td>8750</td>
   </tr>
 </table>
 
@@ -1013,156 +1034,289 @@ Example: Bladite-1 (Cursed): 0.8 x {3000 x (1 - 0.05)} = 3000 x 0.8 x 0.95 = 300
 <table class="priceTable">
   <tr>
     <th>Name</th>
+    <th>Rune</th>
+    <th>Def</th>
+    <th>Max</th>
+    <th>Ct</th>
     <th>Buy</th>
     <th>Sell</th>
+    <th></th>
     <th>Name</th>
-    <th>Buy</th>
-    <th>Sell</th>
-    <th>Name</th>
+    <th>Rune</th>
+    <th>Def</th>
+    <th>Max</th>
+    <th>Ct</th>
     <th>Buy</th>
     <th>Sell</th>
   </tr>
   <tr>
-    <td class="highlightGray">Plain Targe</td>
+    <td colspan="7" class="highlightYellow">Regular Shields</td>
+    <td class="tableDivider"></td>
+    <td colspan="7" class="highlightYellow">Special Shields</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Palm Shield</td>
+    <td class="leftText">-</td>
+    <td>2</td>
+    <td>10</td>
+    <td>5</td>
     <td>360</td>
     <td>126</td>
-    <td class="highlightGray">Heavy Shield</td>
-    <td>6000</td>
-    <td>2100</td>
-    <td class="highlightGray">Gyadon Blocker</td>
-    <td>4000</td>
-    <td>1400</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Lamp Shield</td>
+    <td class="leftText">-</td>
+    <td>4</td>
+    <td>15</td>
+    <td>2</td>
+    <td>1500</td>
+    <td>525</td>
   </tr>
   <tr>
-    <td class="highlightGray">Tin Shield</td>
+    <td class="priceTableName">Copper Buckler</td>
+    <td class="leftText">-</td>
+    <td>4</td>
+    <td>10</td>
+    <td>4</td>
     <td>740</td>
     <td>259</td>
-    <td class="highlightGray">Midnight Shield</td>
-    <td>4200</td>
-    <td>1470</td>
-    <td class="highlightGray">Snake Shield</td>
-    <td>10000</td>
-    <td>3500</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Counter Shield</td>
+    <td class="leftText">Counter</td>
+    <td>3</td>
+    <td>15</td>
+    <td>5</td>
+    <td>3000</td>
+    <td>1050</td>
   </tr>
   <tr>
-    <td class="highlightGray">Iron Targe</td>
+    <td class="priceTableName">Iron Targe</td>
+    <td class="leftText">-</td>
+    <td>6</td>
+    <td>10</td>
+    <td>3</td>
     <td>1300</td>
     <td>455</td>
-    <td class="highlightGray">Day Shield</td>
-    <td>4200</td>
-    <td>1470</td>
-    <td class="highlightGray">Steady Shield</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Steady Shield</td>
+    <td class="leftText">Unmoving</td>
+    <td>4</td>
+    <td>15</td>
+    <td>4</td>
     <td>3000</td>
     <td>1050</td>
   </tr>
   <tr>
-    <td class="highlightGray">Wolfshead</td>
+    <td class="priceTableName">Clan Shield</td>
+    <td class="leftText">-</td>
+    <td>8</td>
+    <td>10</td>
+    <td>5</td>
     <td>1800</td>
     <td>630</td>
-    <td class="highlightGray">Binary Shield</td>
-    <td>2500</td>
-    <td>875</td>
-    <td class="highlightGray">Anti-Gaze Trge</td>
-    <td>10000</td>
-    <td>3500</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Beast Shield</td>
-    <td>2400</td>
-    <td>840</td>
-    <td class="highlightGray">Counter Shield</td>
-    <td>3000</td>
-    <td>1050</td>
-    <td class="highlightGray">Swap Shield</td>
-    <td>6000</td>
-    <td>2100</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Targite</td>
-    <td>3200</td>
-    <td>1120</td>
-    <td class="highlightGray">Student Shield</td>
-    <td>8000</td>
-    <td>2800</td>
-    <td class="highlightGray">Shoddy Plank</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Shoddy Plank</td>
+    <td class="leftText">Degrade</td>
+    <td>30</td>
+    <td>15</td>
+    <td>12</td>
     <td>4000</td>
     <td>1400</td>
   </tr>
   <tr>
-    <td class="highlightGray">Red Shield</td>
-    <td>4800</td>
-    <td>1680</td>
-    <td class="highlightGray">Bowl Shield</td>
-    <td>10000</td>
-    <td>3500</td>
-    <td class="highlightGray">Glass Buckler</td>
-    <td>6000</td>
-    <td>2100</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Fuuma Shield</td>
-    <td>8500</td>
-    <td>2975</td>
-    <td class="highlightGray">Spry Shield</td>
-    <td>8000</td>
-    <td>2800</td>
-    <td class="highlightGray">Pauper's Plank</td>
-    <td>2500</td>
-    <td>875</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Pathetic Shield</td>
-    <td>360</td>
-    <td>126</td>
-    <td class="highlightGray">Blast Shield</td>
-    <td>6000</td>
-    <td>2100</td>
-    <td class="highlightGray">Rush Shield</td>
-    <td>3000</td>
-    <td>1050</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Gold Shield</td>
-    <td>1500</td>
-    <td>525</td>
-    <td class="highlightGray">Lock Shield</td>
-    <td>2000</td>
-    <td>700</td>
-    <td class="highlightGray">Blazing Shield</td>
-    <td>1500</td>
-    <td>525</td>
-  </tr>
-  <tr>
-    <td class="highlightGray">Diet Shield</td>
+    <td class="priceTableName">Beast Shield</td>
+    <td class="leftText">-</td>
+    <td>10</td>
+    <td>10</td>
+    <td>4</td>
+    <td>2400</td>
+    <td>840</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Diet Shield</td>
+    <td class="leftText">1/2 Hunger</td>
+    <td>2</td>
+    <td>15</td>
+    <td>3</td>
     <td>5000</td>
     <td>1750</td>
-    <td class="highlightGray">Safe Shield</td>
-    <td>1800</td>
-    <td>630</td>
-    <td class="highlightGray">Onigiri Shield</td>
-    <td>12000</td>
-    <td>4200</td>
   </tr>
   <tr>
-    <td class="highlightGray">Helix Shield</td>
+    <td class="priceTableName">Targite</td>
+    <td class="leftText">-</td>
+    <td>12</td>
+    <td>10</td>
+    <td>5</td>
+    <td>3200</td>
+    <td>1120</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Heavy Shield</td>
+    <td class="leftText">Hungry</td>
+    <td>12</td>
+    <td>15</td>
+    <td>7</td>
+    <td>6000</td>
+    <td>2100</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Red Shield</td>
+    <td class="leftText">-</td>
+    <td>14</td>
+    <td>10</td>
+    <td>4</td>
+    <td>4800</td>
+    <td>1680</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Happy Shield</td>
+    <td class="leftText">Damage Exp</td>
+    <td>3</td>
+    <td>15</td>
+    <td>3</td>
+    <td>8000</td>
+    <td>2800</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Fuuma Shield</td>
+    <td class="leftText">-</td>
+    <td>16</td>
+    <td>10</td>
+    <td>3</td>
+    <td>8500</td>
+    <td>2975</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Bowl Shield</td>
+    <td class="leftText">Pain Fullness</td>
+    <td>4</td>
+    <td>15</td>
+    <td>5</td>
+    <td>10000</td>
+    <td>3500</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Helix Shield</td>
+    <td class="leftText">-</td>
+    <td>25</td>
+    <td>10</td>
+    <td>∞</td>
     <td>12000</td>
     <td>4200</td>
-    <td class="highlightGray">Parry Shield</td>
-    <td>9000</td>
-    <td>3150</td>
-    <td class="highlightGray">Nirvana Board</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Nirvana Board</td>
+    <td class="leftText">Hungerless</td>
+    <td>7</td>
+    <td>15</td>
+    <td>4</td>
     <td>14000</td>
     <td>4900</td>
   </tr>
   <tr>
-    <td class="highlightGray">Fox Shield</td>
-    <td>-</td>
-    <td>-</td>
-    <td colspan="6"></td>
+    <td colspan="7" class="highlightYellow">Special Shields (Reduce/Negate)</td>
+    <td class="tableDivider"></td>
+    <td class="priceTableName">Jaguar's Shield</td>
+    <td class="leftText">Status Counter</td>
+    <td>30</td>
+    <td>15</td>
+    <td>11</td>
+    <td>25000</td>
+    <td>8750</td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Dull Gold Shield</td>
+    <td class="leftText">Rustproof</td>
+    <td>2</td>
+    <td>15</td>
+    <td>7</td>
+    <td>1500</td>
+    <td>525</td>
+    <td class="tableDivider"></td>
+    <td rowspan="10" colspan="7"></td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Safe Shield</td>
+    <td class="leftText">Anti-Burgle</td>
+    <td>6</td>
+    <td>15</td>
+    <td>3</td>
+    <td>1800</td>
+    <td>630</td>
+    <td class="tableDivider"></td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Lock Shield</td>
+    <td class="leftText">Anti-Theft</td>
+    <td>5</td>
+    <td>15</td>
+    <td>4</td>
+    <td>2000</td>
+    <td>700</td>
+    <td class="tableDivider"></td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Gyadon Guard</td>
+    <td class="leftText">Anti-Peck</td>
+    <td>7</td>
+    <td>15</td>
+    <td>3</td>
+    <td>4000</td>
+    <td>1400</td>
+    <td class="tableDivider"></td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Swap Shield</td>
+    <td class="leftText">Magic Damage</td>
+    <td>7</td>
+    <td>15</td>
+    <td>5</td>
+    <td>6000</td>
+    <td>2100</td>
+    <td class="tableDivider"></td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Blast Shield</td>
+    <td class="leftText">1/2 Blast</td>
+    <td>5</td>
+    <td>15</td>
+    <td>4</td>
+    <td>6000</td>
+    <td>2100</td>
+    <td class="tableDivider"></td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Spry Shield</td>
+    <td class="leftText">Agile</td>
+    <td>2</td>
+    <td>15</td>
+    <td>2</td>
+    <td>8000</td>
+    <td>2800</td>
+    <td class="tableDivider"></td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Parry Shield</td>
+    <td class="leftText">Parry</td>
+    <td>6</td>
+    <td>15</td>
+    <td>4</td>
+    <td>9000</td>
+    <td>3150</td>
+    <td class="tableDivider"></td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Lizard Shield</td>
+    <td class="leftText">1/2 Fire</td>
+    <td>10</td>
+    <td>15</td>
+    <td>3</td>
+    <td>10000</td>
+    <td>3500</td>
+    <td class="tableDivider"></td>
+  </tr>
+  <tr>
+    <td class="priceTableName">Gazer Guard</td>
+    <td class="leftText">Anti-Hypno</td>
+    <td>6</td>
+    <td>15</td>
+    <td>4</td>
+    <td>10000</td>
+    <td>3500</td>
+    <td class="tableDivider"></td>
   </tr>
 </table>
-
-# Related Links
-
-- <a href="/shiren-5/guides/identifying">Identifying</a>
-- <a href="https://minotalen.github.io/shiren/">Price Identification Tool <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></a>

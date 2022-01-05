@@ -28,8 +28,8 @@ When a resonance effect activates, a message is displayed in the scrolling messa
     <td rowspan="8">Equip 2 bracelets</td>
   </tr>
   <tr>
-    <td class="highlightYellow"><a href="/shiren-5/items/weapons#copper-blade">Copper Blade</a></td>
-    <td class="highlightGray"><a href="/shiren-5/items/shields#copper-buckler">Copper Buckler</a></td>
+    <td class="highlightYellow"><a href="/shiren-5/items/weapons#copper-blade">Copper Edge</a></td>
+    <td class="highlightGray"><a href="/shiren-5/items/shields#copper-guard">Copper Guard</a></td>
     <td></td>
     <td></td>
   </tr>
@@ -52,8 +52,8 @@ When a resonance effect activates, a message is displayed in the scrolling messa
     <td></td>
   </tr>
   <tr>
-    <td class="highlightYellow"><a href="/shiren-5/items/weapons#bladite">Bladite</a></td>
-    <td class="highlightGray"><a href="/shiren-5/items/shields#targite">Targite</a></td>
+    <td class="highlightYellow"><a href="/shiren-5/items/weapons#meteor-edge">Meteor Edge</a></td>
+    <td class="highlightGray"><a href="/shiren-5/items/shields#meteor-guard">Meteor Guard</a></td>
     <td></td>
     <td></td>
   </tr>
@@ -70,7 +70,7 @@ When a resonance effect activates, a message is displayed in the scrolling messa
     <td></td>
   </tr>
   <tr>
-    <td class="highlightYellow"><a href="/shiren-5/items/weapons#kabura-katana">Kabura Katana</a></td>
+    <td class="highlightYellow"><a href="/shiren-5/items/weapons#kabura's-blade">Kabura's Blade</a></td>
     <td class="highlightGray"><a href="/shiren-5/items/shields#fuuma-shield">Fuuma Shield</a></td>
     <td></td>
     <td></td>
@@ -110,7 +110,7 @@ When a resonance effect activates, a message is displayed in the scrolling messa
     <td>Equipped items won't rust<br/>・Still degrades through usage.</td>
   </tr>
   <tr>
-    <td class="highlightYellow"><a href="/shiren-5/items/weapons#crescent-arm">Crescent Blade</a></td>
+    <td class="highlightYellow"><a href="/shiren-5/items/weapons#crescent-katana">Crescent Katana</a></td>
     <td class="highlightGray"><a href="/shiren-5/items/shields#blast-shield">Blast Shield</a></td>
     <td></td>
     <td></td>
@@ -152,7 +152,7 @@ When a resonance effect activates, a message is displayed in the scrolling messa
   <tr>
     <td class="highlightYellow"><a href="/shiren-5/items/weapons#baffle-axe">Baffle Axe</a></td>
     <td></td>
-    <td class="highlightLightblue"><a href="/shiren-5/items/bracelets#clarity-bracelet">Clarity Bracelet</a></td>
+    <td class="highlightLightblue"><a href="/shiren-5/items/bracelets#calm-bracelet">Calm Bracelet</a></td>
     <td></td>
     <td>Boost chance to inflict Confused</td>
   </tr>

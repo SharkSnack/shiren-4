@@ -1,6 +1,6 @@
 ---
 title: "Pots"
-metaTitle: "Bracelets - Shiren the Wanderer 4: The Eye of God Wiki"
+metaTitle: "Pots - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Complete pot details for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 

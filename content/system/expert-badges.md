@@ -76,7 +76,7 @@ Primary means of dealing damage are arrows and rocks.<br/>Bored Kappas can force
 |-|-|
 |Clear without shields/bracelets!|Clear a dungeon without equipping any<br/>shields or bracelets. Try for it anywhere<br/>other than <span class="orangeText">Double Strike Cave</span>!|
 
-Trading hits with 0 defense is incredibly dangerous, and it's hard to recover from accidents like traps,<br/>getting hit at night, higher level Fearabbits, Radishes, Archdragons, etc.<br/>
+Trading hits with 0 defense is incredibly dangerous, and it's hard to recover from accidents like traps,<br/>getting hit at night, higher level Fearabbits, Mutaikons, Archdragons, etc.<br/>
 Floors that limit your field of view in hallways raise the difficulty even further.<br/>
 Cave of Endless Night is easiest, since you want to avoid getting hit at night anyway.
 
@@ -102,7 +102,7 @@ Fixer Scroll and Revival Grass are your primary methods to replenish fullness.<b
 |-|-|
 |Clear without using grasses!|Clear a dungeon without using grass.<br/>This includes throwing it or reviving<br/>with Revival Grass or Undo Grass.|
 
-The only way to revive is to use Wanderer Rescue, and your Mixer synthesis options are limited.<br/>If attempting in a dungeon that allows carry-in items, bring an Undo Grass and escape if you collapse.<br/>Static Forest is difficult with low max HP, so it's recommended to challenge it elsewhere.<br/>If you don't use Wanderer Rescue or NPCs, you'll also obtain "Clear without collapsing!".
+The only way to revive is to use Wanderer Rescue, and your Mixer synthesis options are limited.<br/>If attempting in a dungeon that allows carry-in items, bring Undo Grass and escape if you collapse.<br/>Static Forest is difficult with low max HP, so it's recommended to challenge it elsewhere.<br/>If you don't use Wanderer Rescue or NPCs, you'll also obtain "Clear without collapsing!".
 
 ### No Scrolls
 
@@ -166,7 +166,7 @@ Level up an Elizgagon to Elizgagon99, and then use a Trapper Bracelet to add an 
 |-|-|
 |Clear with 999,999 Gitan!|Clear a dungeon with <span class="tealText">999,999</span> Gitan!|
 
-Withdraw 999,999 Gitan from your bank account and clear a dungeon that allows carry-in items.<br/>If challenging it in a dungeon that doesn't allow carry-in items, you'll need to steal from shops<br/>and make it a point to hunt Froggos, Gitan Mamels, and Ultra Gazers.
+Withdraw 999,999 Gitan from your bank account and clear a dungeon that allows carry-in items.<br/>If challenging it in a dungeon that doesn't allow carry-in items, you'll need to steal from shops<br/>and make it a point to hunt Froggos, Gitan Mamels, and Cash Gazers.
 
 ### 3 Allies
 
@@ -174,7 +174,7 @@ Withdraw 999,999 Gitan from your bank account and clear a dungeon that allows ca
 |-|-|
 |Clear with 3 allies!|Clear a dungeon with <span class="tealText">3</span> allies!|
 
-Level up your allies to Lv10 beforehand, and prepare an assortment of powerful items.<br/>Recruit allies at the Tavern in Boronga Village, or while progressing through Emerald Terrace.<br/>Use Monster Detector + Transient Staff to locate the stairs and rush through the dungeon.<br/>Bring lots of Blank Scrolls and don't hesitate to use Expulsion Scroll, etc. if an ally is in danger.<br/>Throw Extinction Scrolls at Pop Tank monsters, Archdragons, Abyssal Dragons.<br/>Easiest in Platinum Paradise or Cave of Endless Night.
+Level up your allies to Lv10 beforehand, and prepare an assortment of powerful items.<br/>Recruit allies at the Tavern in Boronga Village, or while progressing through Emerald Terrace.<br/>Use Monster Detector + Transient Staff to locate the stairs and rush through the dungeon.<br/>Bring lots of Blank Scrolls and don't hesitate to use Eradicate Scroll, etc. if an ally is in danger.<br/>Throw Extinction Scrolls at Pop Tank monsters, Archdragons, Abyssal Dragons.<br/>Easiest in Platinum Paradise or Cave of Endless Night.
 
 ### No Moves
 
@@ -183,7 +183,7 @@ Level up your allies to Lv10 beforehand, and prepare an assortment of powerful i
 |Clear without using moves!|Clear a dungeon without using moves!<br/>Try for it in <span class="orangeText">Entrancing Lane</span>!|
 
 The start of the run is tricky, but otherwise it mostly plays out the same.<br/>
-Corner a Rare Snacky (8 HP) in a room at night and punch it in hopes of obtaining a blessed Blank Scroll.<br/>Blessed Gitan deals 10 damage to night monsters, so it can one-shot a Rare Snacky.<br/>After that, use the blessed Suction Scroll loop technique to progress through the dungeon,<br/>and read Light Scrolls to rush stairs from about mid ~ late game.
+Corner a Rare Snacky (8 HP) in a room at night and punch it in hopes of obtaining a blessed Blank Scroll.<br/>Blessed Gitan deals 10 damage to night monsters, so it can one-shot a Rare Snacky.<br/>After that, use the blessed Suction Scroll loop technique to progress through the dungeon,<br/>and read Navigation Scrolls to rush stairs from about mid ~ late game.
 
 ### No Direct Attacks
 

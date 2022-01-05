@@ -186,8 +186,8 @@ His aggressive AI and tendency to disappear during an adventure makes him<br/>ra
 - Max HP increases as he levels up.
     - Lv1: ??? HP
     - Lv10: ??? HP
-- Throws special Rum Juice at monsters in a straight line.
-    - Inflicts a random status condition. (Sleep, Fear, Confusion, or Rage)
+- Throws Rum at monsters in a straight line.
+    - Inflicts a random status condition. (Asleep, Afraid, Confused, or Enraged)
 - Uses direct attacks during the day.
     - High attack power from the start.
 - Has an offensive AI and chases enemies within his view.
@@ -380,7 +380,7 @@ The item's name has to be an exact match, along with blessed/cursed/sealed statu
     </tr>
     <tr>
       <td class="highlightGray">5</td>
-      <td>Copper Buckler</td>
+      <td>Copper Guard</td>
       <td class="highlightGray">30</td>
       <td>Rusty Pickaxe (C)</td>
       <td class="highlightGray">55</td>
@@ -400,9 +400,9 @@ The item's name has to be an exact match, along with blessed/cursed/sealed statu
     </tr>
     <tr>
       <td class="highlightGray">7</td>
-      <td>Light Scroll</td>
+      <td>Navigation Scroll</td>
       <td class="highlightGray">32</td>
-      <td>Seal Rod</td>
+      <td>Sealing Keisaku</td>
       <td class="highlightGray">57</td>
       <td>Onigiri</td>
       <td class="highlightGray">82</td>
@@ -412,7 +412,7 @@ The item's name has to be an exact match, along with blessed/cursed/sealed statu
       <td class="highlightGray">8</td>
       <td>Knockback Staff</td>
       <td class="highlightGray">33</td>
-      <td>Knockback Arrow</td>
+      <td>Force Arrow</td>
       <td class="highlightGray">58</td>
       <td>Chocolate Pot</td>
       <td class="highlightGray">83</td>
@@ -494,7 +494,7 @@ The item's name has to be an exact match, along with blessed/cursed/sealed statu
       <td class="highlightGray">41</td>
       <td>Miss Talisman</td>
       <td class="highlightGray">66</td>
-      <td>Dim Rod</td>
+      <td>Blurry Stick</td>
       <td class="highlightGray">91</td>
       <td>Lizard Shield (<span class="greenText">Anti-Peck</span>)</td>
     </tr>
@@ -564,7 +564,7 @@ The item's name has to be an exact match, along with blessed/cursed/sealed statu
       <td class="highlightGray">48</td>
       <td>Tunnel Staff</td>
       <td class="highlightGray">73</td>
-      <td>Kabura Katana</td>
+      <td>Kabura's Blade</td>
       <td class="highlightGray">98</td>
       <td>Worthy Shield (<span class="greenText">Anti-Hypno</span>)</td>
     </tr>

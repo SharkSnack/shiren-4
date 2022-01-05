@@ -168,7 +168,7 @@ Element Order
     - Swift 2 = Double speed, 2 attacks.
     - Drain = Weak to <span class="greenText">Anti-Drain</span> rune.
     - Bomb = Weak to <span class="greenText">Anti-Bomb</span> rune.
-    - Floating = Weak to <span class="greenText">Anti-Float</span> rune.
+    - Floating = Weak to <span class="greenText">Anti-Floating</span> rune.
     - Dragon = Weak to <span class="greenText">Anti-Dragon</span> rune.
     - Aquatic = Weak to <span class="greenText">Anti-Aquatic</span> rune.
     - Cyclops = Weak to <span class="greenText">Anti-Cyclops</span> rune.

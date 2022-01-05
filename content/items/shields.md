@@ -4,13 +4,13 @@ metaTitle: "Shields - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
-[NOTICE] This page is currently a copy of Shiren 5, so the information isn't correct.
+[NOTICE] The Details section of this page is incomplete.
 
 # Shield List
 
 <table class="itemListCentered">
   <tr>
-    <th colspan="6">Item Book Order</th>
+    <th colspan="5">Item Book Order</th>
   </tr>
   <tr>
     <th>1</th>
@@ -18,62 +18,54 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
     <th>3</th>
     <th>4</th>
     <th>5</th>
-    <th>6</th>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="#plain-targe">Plain Targe</a></td>
-    <td class="highlightLightblue"><a href="#fuuma-shield">Fuuma Shield</a></td>
-    <td class="highlightOrange"><a href="#counter-shield">Counter Shield</a></td>
-    <td class="highlightOrange"><a href="#gyadon-blocker">Gyadon Blocker</a></td>
-    <td class="highlightOrange"><a href="#paupers-plank">Pauper's Plank</a></td>
-    <td class="highlightLightblue"><a href="#fox-shield">Fox Shield</a></td>
+    <td class="highlightLightblue"><a href="#palm-shield">Palm Shield</a></td>
+    <td class="highlightLightblue"><a href="#steady-shield">Steady Shield</a></td>
+    <td class="highlightLightblue"><a href="#safe-shield">Safe Shield</a></td>
+    <td class="highlightLightblue"><a href="#meteor-guard">Meteor Guard</a></td>
+    <td class="highlightLightblue"><a href="#jaguar's-shield">Jaguar's Shield</a></td>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="#tin-shield">Tin Shield</a></td>
-    <td class="highlightOrange"><a href="#gold-shield">Gold Shield</a></td>
-    <td class="highlightOrange"><a href="#student-shield">Student Shield</a></td>
-    <td class="highlightOrange"><a href="#snake-shield">Snake Shield</a></td>
-    <td class="highlightOrange"><a href="#rush-shield">Rush Shield</a></td>
-    <td class="highlightLightblue"><a href="#helix-shield">Helix Shield</a></td>
-  </tr>
-  <tr>
-    <td class="highlightLightblue"><a href="#iron-targe">Iron Targe</a></td>
-    <td class="highlightOrange"><a href="#diet-shield">Diet Shield</a></td>
-    <td class="highlightOrange"><a href="#bowl-shield">Bowl Shield</a></td>
-    <td class="highlightOrange"><a href="#steady-shield">Steady Shield</a></td>
-    <td class="highlightOrange"><a href="#blazing-shield">Blazing Shield</a></td>
+    <td class="highlightLightblue"><a href="#diet-shield">Diet Shield</a></td>
+    <td class="highlightLightblue"><a href="#bowl-shield">Bowl Shield</a></td>
+    <td class="highlightLightblue"><a href="#swap-shield">Swap Shield</a></td>
+    <td class="highlightLightblue"><a href="#heavy-shield">Heavy Shield</a></td>
     <td></td>
   </tr>
   <tr>
-    <td class="highlightLightblue"><a href="#wolfshead">Wolfshead</a></td>
-    <td class="highlightOrange"><a href="#heavy-shield">Heavy Shield</a></td>
-    <td class="highlightOrange"><a href="#spry-shield">Spry Shield</a></td>
-    <td class="highlightOrange"><a href="#anti-gaze-trge">Anti-Gaze Trge</a></td>
-    <td class="highlightOrange"><a href="#onigiri-shield">Onigiri Shield</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td class="highlightLightblue"><a href="#beast-shield">Beast Shield</a></td>
-    <td class="highlightOrange"><a href="#midnight-shield">Midnight Shield</a></td>
-    <td class="highlightOrange"><a href="#blast-shield">Blast Shield</a></td>
-    <td class="highlightOrange"><a href="#swap-shield">Swap Shield</a></td>
-    <td class="highlightOrange"><a href="#parry-shield">Parry Shield</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td class="highlightLightblue"><a href="#targite">Targite</a></td>
-    <td class="highlightOrange"><a href="#day-shield">Day Shield</a></td>
-    <td class="highlightOrange"><a href="#lock-shield">Lock Shield</a></td>
-    <td class="highlightOrange"><a href="#shoddy-plank">Shoddy Plank</a></td>
-    <td class="highlightOrange"><a href="#nirvana-board">Nirvana Board</a></td>
-    <td></td>
-  </tr>
-  <tr>
+    <td class="highlightLightblue"><a href="#spry-shield">Spry Shield</a></td>
+    <td class="highlightLightblue"><a href="#lamp-shield">Lamp Shield</a></td>
+    <td class="highlightLightblue"><a href="#lock-shield">Lock Shield</a></td>
     <td class="highlightLightblue"><a href="#red-shield">Red Shield</a></td>
-    <td class="highlightOrange"><a href="#binary-shield">Binary Shield</a></td>
-    <td class="highlightOrange"><a href="#safe-shield">Safe Shield</a></td>
-    <td class="highlightOrange"><a href="#glass-buckler">Glass Buckler</a></td>
-    <td class="highlightLightblue"><a href="#pathetic-shield">Pathetic Shield</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue"><a href="#dull-gold-shield">Dull Gold Shield</a></td>
+    <td class="highlightLightblue"><a href="#blast-shield">Blast Shield</a></td>
+    <td class="highlightLightblue"><a href="#gyadon-blocker">Gyadon Blocker</a></td>
+    <td class="highlightLightblue"><a href="#fuuma-shield">Fuuma Shield</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue"><a href="#counter-shield">Counter Shield</a></td>
+    <td class="highlightLightblue"><a href="#iron-targe">Iron Targe</a></td>
+    <td class="highlightLightblue"><a href="#clan-shield">Clan Shield</a></td>
+    <td class="highlightLightblue"><a href="#shoddy-plank">Shoddy Plank</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue"><a href="#happy-shield">Happy Shield</a></td>
+    <td class="highlightLightblue"><a href="#gazer-guard">Gazer Guard</a></td>
+    <td class="highlightLightblue"><a href="#beast-shield">Beast Shield</a></td>
+    <td class="highlightLightblue"><a href="#nirvana-board">Nirvana Board</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue"><a href="#copper-guard">Copper Guard</a></td>
+    <td class="highlightLightblue"><a href="#parry-shield">Parry Shield</a></td>
+    <td class="highlightLightblue"><a href="#lizard-shield">Lizard Shield</a></td>
+    <td class="highlightLightblue"><a href="#helix-shield">Helix Shield</a></td>
     <td></td>
   </tr>
 </table>
@@ -96,26 +88,26 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
   </thead>
   <tbody>
     <tr>
-      <td class="highlightLightblue"><a href="#plain-targe">Plain Targe</a></td>
+      <td class="highlightLightblue"><a href="#palm-shield">Palm Shield</a></td>
       <td class="highlightYellow">Demon's Guard</td>
       <td>15</td>
       <td>99</td>
       <td>∞</td>
       <td>-</td>
-      <td>Lively (Lv4)<br/>CR Diet (Lv8)</td>
+      <td>L4: HP+5<br/>L8: 1/2 Hunger</td>
       <td>28,410</td>
-      <td><a href="/shiren5/item/weapons#ordinary-stick">Ordinary Stick</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren5/item/weapons#palm-stick">Palm Stick</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
-      <td class="highlightLightblue"><a href="#tin-shield">Tin Shield</a></td>
+      <td class="highlightLightblue"><a href="#copper-guard">Copper Guard</a></td>
       <td class="highlightYellow">Bronze Bulwark</td>
       <td>18</td>
       <td>99</td>
       <td>∞</td>
       <td>-</td>
-      <td>Lively (Lv4)<br/>Rustproof (Lv8)</td>
+      <td>L4: HP+5<br/>L8: Rustproof</td>
       <td>34,725</td>
-      <td><a href="/shiren5/item/weapons#tin-blade">Tin Blade</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren5/item/weapons#copper-edge">Copper Edge</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#iron-targe">Iron Targe</a></td>
@@ -124,18 +116,18 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>99</td>
       <td>∞</td>
       <td>-</td>
-      <td>Uplifting (Lv4)</td>
+      <td>L4: HP+10</td>
       <td>41,070</td>
       <td><a href="/shiren5/item/weapons#katana">Katana</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
-      <td class="highlightLightblue"><a href="#wolfshead">Wolfshead</a></td>
-      <td class="highlightYellow">Epic Wolfshead</td>
+      <td class="highlightLightblue"><a href="#clan-shield">Clan Shield</a></td>
+      <td class="highlightYellow">Tribe King Shield</td>
       <td>22</td>
       <td>99</td>
       <td>∞</td>
       <td>-</td>
-      <td>Lively (Lv4)<br/>Rustproof (Lv5)</td>
+      <td>L4: HP+5<br/>L5: Rustproof</td>
       <td>44,250</td>
       <td><a href="/shiren5/item/weapons#dotanuki">Dotanuki</a><br/>(Equip 2 bracelets)</td>
     </tr>
@@ -146,350 +138,42 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>99</td>
       <td>∞</td>
       <td>-</td>
-      <td>Uplifting (Lv4)<br/>Enhancing (Lv8)</td>
+      <td>L4: HP+10<br/>L8: Def+3</td>
       <td>50,600</td>
       <td><a href="/shiren5/item/weapons#beast-fang">Beast Fang</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
-      <td class="highlightLightblue"><a href="#targite">Targite</a></td>
+      <td class="highlightLightblue"><a href="#meteor-guard">Meteor Guard</a></td>
       <td class="highlightYellow">Galaxy Guard</td>
       <td>25</td>
       <td>99</td>
       <td>∞</td>
       <td>-</td>
-      <td>Uplifting (Lv4)<br/>Rustproof (Lv5)<br/>Anti-Theft (Lv8)</td>
+      <td>L4: HP+10<br/>L5: Rustproof<br/>L8: Anti-Theft</td>
       <td>57,000</td>
-      <td><a href="/shiren5/item/weapons#bladite">Bladite</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren5/item/weapons#meteor-edge">Meteor Edge</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#red-shield">Red Shield</a></td>
-      <td class="highlightYellow">Shugouseki</td>
+      <td class="highlightYellow">Shugoseki Shield</td>
       <td>27</td>
       <td>99</td>
       <td>∞</td>
       <td>-</td>
-      <td>Uplifting (Lv3)<br/>Anti-Fire (Lv8)<br/>Anti-Peck (Lv8)</td>
+      <td>L3: HP+10<br/>L8: 1/2 Fire<br/>L8: Anti-Peck</td>
       <td>63,350</td>
       <td><a href="/shiren5/item/weapons#red-blade">Red Blade</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#fuuma-shield">Fuuma Shield</a></td>
-      <td class="highlightYellow">Fuuma Legend</td>
+      <td class="highlightYellow">Legendary Fuuma</td>
       <td>30</td>
       <td>99</td>
       <td>∞</td>
       <td>-</td>
-      <td>Tiger Mom (Lv8)</td>
+      <td>L8: Rustproof</td>
       <td>107,700</td>
-      <td><a href="/shiren5/item/weapons#kabura-katana">Kabura Katana</a><br/>(Attack damage +5)<br/><a href="/shiren5/item/weapons#fuuma-sword">Fuuma Sword</a><br/>(Attack damage +5)</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#gold-shield">Gold Shield</a></td>
-      <td class="highlightYellow">24K Gold Shield</td>
-      <td>14</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>Rustproof</td>
-      <td>Pain Fueled (Lv8)</td>
-      <td>31,600</td>
-      <td><a href="/shiren5/item/weapons#dull-gold-edge">Dull Gold Edge</a><br/>(Max strength +3)</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#diet-shield">Diet Shield</a></td>
-      <td class="highlightYellow">Surfeit Shield</td>
-      <td>12</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>CR Diet</td>
-      <td>Energizing (Lv8)</td>
-      <td>63,000</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#heavy-shield">Heavy Shield</a>※</td>
-      <td class="highlightYellow">Ultimate Aegis</td>
-      <td>28</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>Hungry</td>
-      <td>Unmoving (Lv8)<br/>Anti-Burgle (Lv8)</td>
-      <td>54,500</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#midnight-shield">Midnight Shield</a>※</td>
-      <td class="highlightYellow">Night Lord</td>
-      <td>15</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>Nocturnal</td>
-      <td>Rustproof (Lv6)</td>
-      <td>54,500</td>
-      <td><a href="/shiren5/item/weapons#breeze-blade">Breeze Blade</a><br/>(Equipped items won't rust)<br/><a href="/shiren5/item/weapons#torch">Torches</a><br/>(Night enemies miss more)</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#day-shield">Day Shield</a>※</td>
-      <td class="highlightYellow">Daytime Queen</td>
-      <td>15</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>Diurnal</td>
-      <td>Rustproof (Lv6)</td>
-      <td>54,500</td>
-      <td><a href="/shiren5/item/weapons#bright-blade">Bright Blade</a><br/>(Read scrolls in the dark)</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#binary-shield">Binary Shield</a></td>
-      <td class="highlightYellow">One/Zero Hero</td>
-      <td>17</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>Bit</td>
-      <td>Magi-Twister (Lv6)</td>
-      <td>88,800</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#counter-shield">Counter Shield</a></td>
-      <td class="highlightYellow">Killer Counter</td>
-      <td>13</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>Retribution</td>
-      <td>Tiger Mom (Lv8)</td>
-      <td>50,800</td>
-      <td><a href="/shiren5/item/bracelets#strength-bracelet">Strength Bracelet</a><br/>(Counter damage doubled)</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#student-shield">Student Shield</a></td>
-      <td class="highlightYellow">Valedictorian</td>
-      <td>15</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>Tiger Mom</td>
-      <td>Lively (Lv5)<br/>Enhancing (Lv8)</td>
-      <td>63,000</td>
-      <td><a href="/shiren5/item/bracelets#growth-bracelet">Growth Bracelet</a><br/>(Bracelet exp gain doubled)</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#bowl-shield">Bowl Shield</a></td>
-      <td class="highlightYellow">Omega Bowl</td>
-      <td>13</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>Pain Fueled</td>
-      <td>Rustproof (Lv6)</td>
-      <td>77,000</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#spry-shield">Spry Shield</a></td>
-      <td class="highlightYellow">Artful Dodger</td>
-      <td>13</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>Agile</td>
-      <td>Rustproof (Lv5)</td>
-      <td>88,800</td>
-      <td><a href="/shiren5/item/weapons#myopic-masher">Myopic Masher</a><br/>(Attack and Defense +3)</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#blast-shield">Blast Shield</a></td>
-      <td class="highlightYellow">Bomb Shelter</td>
-      <td>15</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>Anti-Blast</td>
-      <td>Rustproof (Lv8)<br/>Anti-Burgle (Lv8)</td>
-      <td>77,700</td>
-      <td><a href="/shiren5/item/weapons#crescent-katana">Crescent Katana</a><br/>(Attack and Defense +3)</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#lock-shield">Lock Shield</a></td>
-      <td class="highlightYellow">Retina Scan</td>
-      <td>12</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>Anti-Theft</td>
-      <td>Anti-Blast (Lv8)</td>
-      <td>44,500</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#safe-shield">Safe Shield</a></td>
-      <td class="highlightYellow">Fort Knox</td>
-      <td>13</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>Anti-Burgle</td>
-      <td>Anti-Blast (Lv8)</td>
-      <td>44,800</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#gyadon-blocker">Gyadon Blocker</a></td>
-      <td class="highlightYellow">Gyad-NON!</td>
-      <td>14</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>Anti-Peck</td>
-      <td>Agile (Lv8)</td>
-      <td>77,700</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#snake-shield">Snake Shield</a></td>
-      <td class="highlightYellow">Dragonkeeper</td>
-      <td>17</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>Anti-Fire</td>
-      <td>Retribution (Lv8)</td>
-      <td>84,000</td>
-      <td><a href="/shiren5/item/weapons#lizard-lasher">Lizard Lasher</a><br/>(Attack and Defense +3)</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#steady-shield">Steady Shield</a>※</td>
-      <td class="highlightYellow">Stalwart Shield</td>
-      <td>14</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>Unmoving</td>
-      <td>Retribution (Lv8)</td>
-      <td>44,500</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#anti-gaze-trge">Anti-Gaze Trge</a></td>
-      <td class="highlightYellow">Gazebuster</td>
-      <td>13</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>Anti-Hypno</td>
-      <td>Agile (Lv8)</td>
-      <td>63,000</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#swap-shield">Swap Shield</a></td>
-      <td class="highlightYellow">Mega Prismagic</td>
-      <td>19</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>Magi-Twister</td>
-      <td>Uplifting (Lv8)<br/>Enhancing (Lv8)</td>
-      <td>77,000</td>
-      <td><a href="/shiren5/item/weapons#burning-blade">Burning Blade</a><br/>(Boost Flame Shot damage)</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#shoddy-plank">Shoddy Plank</a>※</td>
-      <td class="highlightYellow">Worthy Shield</td>
-      <td>37</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>Expendable</td>
-      <td>-</td>
-      <td>112,000</td>
-      <td><a href="/shiren5/item/weapons#shoddy-dirk">Shoddy Dirk</a><br/>(Equipped items won't rust)</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#glass-buckler">Glass Buckler</a>※</td>
-      <td class="highlightYellow">Frangible Shld</td>
-      <td>42</td>
-      <td>99</td>
-      <td>11</td>
-      <td>Unsound</td>
-      <td>Stupefying (Lv8)</td>
-      <td>103,000</td>
-      <td><a href="/shiren5/item/weapons#glass-dirk">Glass Dirk</a><br/>(Nullifies magic bullets)</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#paupers-plank">Pauper's Plank</a>※</td>
-      <td class="highlightYellow">Gitan Ravager</td>
-      <td>17</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>Costly</td>
-      <td>-</td>
-      <td>54,500</td>
-      <td><a href="/shiren5/item/weapons#dirk-of-debts">Dirk of Debts</a><br/>(Enemies drop Gitan often)</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#rush-shield">Rush Shield</a>※</td>
-      <td class="highlightYellow">The Big Badass</td>
-      <td>20</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>Offensive</td>
-      <td>-</td>
-      <td>127,000</td>
-      <td><a href="/shiren5/item/weapons#extreme-sword">Extreme Sword</a><br/>(Equip 2 bracelets)</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#blazing-shield">Blazing Shield</a></td>
-      <td class="highlightYellow">The Burninator</td>
-      <td>11</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>-</td>
-      <td>-</td>
-      <td>57,000</td>
-      <td><a href="/shiren5/item/weapons#torch">Torches</a><br/>(Light up screen at night)</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#onigiri-shield">Onigiri Shield</a></td>
-      <td class="highlightYellow">Mom's Cooking</td>
-      <td>16</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>Anti-Onigiri</td>
-      <td>CR Diet (Lv6)</td>
-      <td>31,600</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#parry-shield">Parry Shield</a></td>
-      <td class="highlightYellow">Untouchable</td>
-      <td>15</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>Redirecting</td>
-      <td>Retribution (Lv8)<br/>Unmoving (Lv8)</td>
-      <td>127,000</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td class="highlightOrange"><a href="#nirvana-board">Nirvana Board</a>※</td>
-      <td class="highlightYellow">Nirvana Tower</td>
-      <td>18</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>Unfamished</td>
-      <td>Rustproof (Lv8)<br/>Tiger Mom (Lv8)</td>
-      <td>127,000</td>
-      <td><a href="/shiren5/item/weapons#wonder-pick">Wonder Pick</a><br/>(Max HP +30)</td>
-    </tr>
-    <tr>
-      <td class="highlightLightblue"><a href="#pathetic-shield">Pathetic Shield</a></td>
-      <td class="highlightYellow">Rising Sun Shld</td>
-      <td>38</td>
-      <td>99</td>
-      <td>∞</td>
-      <td>-</td>
-      <td>-</td>
-      <td>127,000</td>
-      <td><a href="/shiren5/item/weapons#pathetic-blade">Pathetic Blade</a><br/>(Lv1-7: Equip 2 bracelets)<br/>(Lv8: Foes may step back)</td>
-    </tr>
-    <tr>
-      <td class="highlightLightblue"><a href="#fox-shield">Fox Shield</a></td>
-      <td class="highlightYellow">Koharu Shield</td>
-      <td>30</td>
-      <td>99</td>
-      <td>5</td>
-      <td>-</td>
-      <td>Energizing (Lv2)<br/>Adaptive (Lv3)<br/>Ability Regen (Lv5)<br/>Critproof (Lv7)<br/>Curative (Lv8)</td>
-      <td>306,070</td>
-      <td>-</td>
+      <td><a href="/shiren5/item/weapons#kabura's-blade">Kabura's Blade</a><br/>(Attack damage +5)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#helix-shield">Helix Shield</a></td>
@@ -498,16 +182,232 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>99</td>
       <td>∞</td>
       <td>-</td>
-      <td>Anti-Hypno (Lv8)<br/>Tiger Mom (Lv8)</td>
-      <td>305,535</td>
+      <td>-</td>
+      <td>259,000</td>
       <td><a href="/shiren5/item/weapons#fuuma-sword">Fuuma Sword</a><br/>(Attack damage +10)<br/><a href="/shiren5/item/weapons#kaburagi">Kaburagi</a><br/>(Attack damage +10)</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue"><a href="#dull-gold-shield">Dull Gold Shield</a></td>
+      <td class="highlightYellow">DX Gold Shield</td>
+      <td>5</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>Rustproof</td>
+      <td>L8: Pain Fullness</td>
+      <td>32,100</td>
+      <td><a href="/shiren5/item/weapons#dull-gold-edge">Dull Gold Edge</a><br/>(Max strength +3)</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue"><a href="#diet-shield">Diet Shield</a></td>
+      <td class="highlightYellow">Surfeit Shield</td>
+      <td>10</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>1/2 Hunger</td>
+      <td>L8: HP+20</td>
+      <td>63,000</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue"><a href="#heavy-shield">Heavy Shield</a></td>
+      <td class="highlightYellow">Ultimate Aegis</td>
+      <td>28</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>Hungry</td>
+      <td>L8: Unmoving<br/>L8: Anti-Burgle</td>
+      <td>54,500</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue"><a href="#counter-shield">Counter Shield</a></td>
+      <td class="highlightYellow">Killer Counter</td>
+      <td>12</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>Counter</td>
+      <td>L8: Damage Exp</td>
+      <td>50,800</td>
+      <td><a href="/shiren5/item/bracelets#strength-bracelet">Strength Bracelet</a><br/>(Double counter damage)</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue"><a href="#happy-shield">Happy Shield</a></td>
+      <td class="highlightYellow">Blissful Shield</td>
+      <td>8</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>Damage Exp</td>
+      <td>L5: HP+5<br/>L8: Def+3</td>
+      <td>63,000</td>
+      <td><a href="/shiren5/item/weapons#happy-bracelet">Happy Bracelet</a><br/>(Double bracelet exp gain)</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue"><a href="#bowl-shield">Bowl Shield</a></td>
+      <td class="highlightYellow">Second Serving</td>
+      <td>10</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>Pain Fullness</td>
+      <td>L6: Rustproof</td>
+      <td>77,000</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue"><a href="#spry-shield">Spry Shield</a></td>
+      <td class="highlightYellow">Hyper Dodger</td>
+      <td>10</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>Agile</td>
+      <td>L5: Rustproof</td>
+      <td>93,400</td>
+      <td><a href="/shiren5/item/weapons#myopic-masher">Myopic Masher</a><br/>(Attack and defense +3)</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue"><a href="#blast-shield">Blast Shield</a></td>
+      <td class="highlightYellow">Bomb Shelter</td>
+      <td>13</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>1/2 Blast</td>
+      <td>L8: Rustproof<br/>L8: Anti-Burgle</td>
+      <td>77,700</td>
+      <td><a href="/shiren5/item/weapons#crescent-blade">Crescent Blade</a><br/>(Attack and defense +3)</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue"><a href="#lock-shield">Lock Shield</a></td>
+      <td class="highlightYellow">Retina Scan</td>
+      <td>12</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>Anti-Theft</td>
+      <td>L8: 1/2 Blast</td>
+      <td>44,500</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue"><a href="#safe-shield">Safe Shield</a></td>
+      <td class="highlightYellow">Fort Knox</td>
+      <td>13</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>Anti-Burgle</td>
+      <td>L8: 1/2 Blast</td>
+      <td>44,800</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue"><a href="#gyadon-blocker">Gyadon Blocker</a></td>
+      <td class="highlightYellow">Gyagya Gyadon!</td>
+      <td>14</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>Anti-Peck</td>
+      <td>L8: Agile</td>
+      <td>77,700</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue"><a href="#lizard-shield">Lizard Shield</a></td>
+      <td class="highlightYellow">Dragonkeeper</td>
+      <td>18</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>1/2 Fire</td>
+      <td>L8: Counter</td>
+      <td>84,000</td>
+      <td><a href="/shiren5/item/weapons#lizard-lasher">Lizard Lasher</a><br/>(Attack and defense +3)</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue"><a href="#steady-shield">Steady Shield</a></td>
+      <td class="highlightYellow">Stalwart Shield</td>
+      <td>12</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>Unmoving</td>
+      <td>L8: Counter</td>
+      <td>44,500</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue"><a href="#gazer-guard">Gazer Guard</a></td>
+      <td class="highlightYellow">Gazer Gazer!</td>
+      <td>10</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>Anti-Hypno</td>
+      <td>L8: Agile</td>
+      <td>63,000</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue"><a href="#swap-shield">Swap Shield</a></td>
+      <td class="highlightYellow">Mega Prismagic</td>
+      <td>11</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>Magic Damage</td>
+      <td>L8: HP+10<br/>L8: Def+3</td>
+      <td>74,000</td>
+      <td><a href="/shiren5/item/weapons#burning-blade">Burning Blade</a><br/>(Boost Flame Shot)</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue"><a href="#shoddy-plank">Shoddy Plank</a></td>
+      <td class="highlightYellow">Worthy Shield</td>
+      <td>37</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>Degrade</td>
+      <td>-</td>
+      <td>112,000</td>
+      <td><a href="/shiren5/item/weapons#shoddy-dirk">Shoddy Dirk</a><br/>(Equipped items won't rust)</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue"><a href="#lamp-shield">Lamp Shield</a></td>
+      <td class="highlightYellow">Blaze Shield</td>
+      <td>8</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>-</td>
+      <td>-</td>
+      <td>57,000</td>
+      <td><a href="/shiren5/item/weapons#torch">Torch</a><br/>(Light up entire room)</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue"><a href="#parry-shield">Parry Shield</a></td>
+      <td class="highlightYellow">Untouchable</td>
+      <td>13</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>Parry</td>
+      <td>L8: Counter<br/>L8: Unmoving</td>
+      <td>127,000</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue"><a href="#nirvana-board">Nirvana Board</a></td>
+      <td class="highlightYellow">Endless Nirvana</td>
+      <td>14</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>Hungerless</td>
+      <td>L8: Rustproof<br/>L8: Damage Exp</td>
+      <td>127,000</td>
+      <td><a href="/shiren5/item/weapons#wonder-pick">Wonder Pick</a><br/>(Max HP +30)</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue"><a href="#jaguar's-shield">Jaguar's Shield</a></td>
+      <td class="highlightYellow">Divine Jaguar</td>
+      <td>40</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>Status Counter</td>
+      <td>L8: Anti-Hypno<br/>L8: Counter</td>
+      <td>245,000</td>
+      <td><a href="/shiren5/item/weapons#kamina's-sword">Kamina's Sword</a><br/>(Equip 2 bracelets)<br/><a href="/shiren5/item/weapons#kamina's-sword">Kamina's Sword</a>+<br/><a href="/shiren5/item/bracelets#bulldog-bracelet">Bulldog Bracelet</a><br/>(Attack damage +20)<br/><a href="/shiren5/item/weapons#kamina's-sword">Kamina's Sword</a>+<br/><a href="/shiren5/item/bracelets#bulldog-bracelet">Bulldog Bracelet</a>+<br/><a href="/shiren5/item/projectiles#hemoji-arrow">Hemoji Arrow</a><br/>(No fullness depletion)</td>
     </tr>
   </tbody>
 </table>
-
-<div class="tableNotes">
-  <p>※ Shield with a drawback.</p>
-</div>
 
 # Details
 
@@ -515,18 +415,18 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
 
 The listed experience points per level is not an accumilated total.<br/>
 Extra exp from defeating a monster will not carry forward when a shield levels up.<br/>
-(Example: 100 exp until level up, defeat an Archdragon for 240 exp, 140 exp is lost)
+(Example: 100 exp until level up, defeat an Archdragon for 400 exp, 300 exp is lost)
 
-### Plain Targe
+### Palm Shield
 
 <table class="itemDetailsTable">
   <tr>
-    <th>Lv1-8</th>
+    <th>Image</th>
     <th>Lv1 Description</th>
   </tr>
   <tr>
-    <td><img src="../images/shields/plain_targe_1.png"/></td>
-    <td>An ordinary shield made from carving a<br/>hunk of wood. It's plain. It's ordinary.<br/>Its defining feature is that it's devoid of<br/>any defining features, hence the name.</td>
+    <td><img src="../images/shields/palm_shield.png"/></td>
+    <td>item_book_description</td>
   </tr>
 </table>
 
@@ -548,21 +448,21 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>1</td>
-      <td>Plain Targe</td>
+      <td>Palm Shield</td>
       <td rowspan="3">-</td>
       <td>2</td>
-      <td>50</td>
+      <td>10</td>
       <td>5</td>
       <td>-</td>
       <td>360</td>
       <td>126</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#ordinary-stick">Ordinary Stick</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#palm-stick">Palm Stick</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
-      <td>Solid Wd. Targe</td>
+      <td></td>
       <td>4</td>
-      <td>55</td>
+      <td>20</td>
       <td>6</td>
       <td>60</td>
       <td>460</td>
@@ -570,9 +470,9 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>3</td>
-      <td>Hard Wd. Targe</td>
+      <td></td>
       <td>6</td>
-      <td>60</td>
+      <td>30</td>
       <td>6</td>
       <td>450</td>
       <td>560</td>
@@ -580,55 +480,1556 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>4</td>
-      <td>Nice Wd. Targe</td>
-      <td rowspan="4">Lively</td>
+      <td></td>
+      <td rowspan="4">HP+5</td>
       <td>8</td>
-      <td>65</td>
+      <td>40</td>
       <td>7</td>
       <td>900</td>
-      <td>1160</td>
-      <td>406</td>
+      <td>660</td>
+      <td>231</td>
     </tr>
     <tr>
       <td>5</td>
-      <td>Fine Wd. Targe</td>
+      <td></td>
       <td>10</td>
-      <td>70</td>
+      <td>50</td>
       <td>7</td>
       <td>1800</td>
-      <td>1260</td>
-      <td>441</td>
+      <td>760</td>
+      <td>266</td>
     </tr>
     <tr>
       <td>6</td>
-      <td>Big Wd. Targe</td>
+      <td></td>
       <td>11</td>
-      <td>75</td>
+      <td>60</td>
       <td>8</td>
       <td>3600</td>
-      <td>1360</td>
-      <td>476</td>
+      <td>860</td>
+      <td>301</td>
     </tr>
     <tr>
       <td>7</td>
-      <td>Wd. Kite Shield</td>
+      <td></td>
       <td>12</td>
-      <td>80</td>
+      <td>70</td>
       <td>8</td>
       <td>7200</td>
-      <td>1460</td>
-      <td>511</td>
+      <td>960</td>
+      <td>336</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Demon's Guard</td>
-      <td>Lively<br/>CR Diet</td>
+      <td>HP+5<br/>1/2 Hunger</td>
       <td>15</td>
       <td>99</td>
       <td>∞</td>
       <td>14400</td>
+      <td>1300</td>
+      <td>455</td>
+    </tr>
+  </tbody>
+</table>
+
+### Copper Guard
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/copper_guard.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Copper Guard</td>
+      <td rowspan="3">-</td>
+      <td>4</td>
+      <td>10</td>
+      <td>4</td>
+      <td>-</td>
+      <td>740</td>
+      <td>259</td>
+      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#copper-edge">Copper Edge</a><br/>(Equip 2 bracelets)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td></td>
+      <td>5</td>
+      <td>20</td>
+      <td>5</td>
+      <td>75</td>
+      <td>840</td>
+      <td>294</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td></td>
+      <td>7</td>
+      <td>30</td>
+      <td>5</td>
+      <td>550</td>
+      <td>940</td>
+      <td>329</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td></td>
+      <td rowspan="4">HP+5</td>
+      <td>9</td>
+      <td>40</td>
+      <td>6</td>
+      <td>1100</td>
+      <td>1100</td>
+      <td>385</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td></td>
+      <td>11</td>
+      <td>50</td>
+      <td>6</td>
+      <td>2200</td>
+      <td>1200</td>
+      <td>420</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td></td>
+      <td>13</td>
+      <td>60</td>
+      <td>7</td>
+      <td>4400</td>
+      <td>1300</td>
+      <td>455</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td></td>
+      <td>15</td>
+      <td>70</td>
+      <td>7</td>
+      <td>8800</td>
+      <td>1400</td>
+      <td>490</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Bronze Bulwark</td>
+      <td>HP+5<br/>Rustproof</td>
+      <td>18</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>17600</td>
+      <td>1700</td>
+      <td>595</td>
+    </tr>
+  </tbody>
+</table>
+
+### Iron Targe
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/iron_targe.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Iron Targe</td>
+      <td rowspan="3">-</td>
+      <td>6</td>
+      <td>10</td>
+      <td>3</td>
+      <td>-</td>
+      <td>1300</td>
+      <td>455</td>
+      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#katana">Katana</a><br/>(Equip 2 bracelets)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td></td>
+      <td>8</td>
+      <td>20</td>
+      <td>5</td>
+      <td>120</td>
+      <td>1400</td>
+      <td>490</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td></td>
+      <td>10</td>
+      <td>30</td>
+      <td>5</td>
+      <td>650</td>
+      <td>1500</td>
+      <td>525</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td></td>
+      <td rowspan="5">HP+5</td>
+      <td>12</td>
+      <td>40</td>
+      <td>7</td>
+      <td>1300</td>
+      <td>1600</td>
+      <td>560</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td></td>
+      <td>14</td>
+      <td>50</td>
+      <td>7</td>
+      <td>2600</td>
+      <td>1700</td>
+      <td>595</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td></td>
+      <td>16</td>
+      <td>60</td>
+      <td>8</td>
+      <td>5200</td>
+      <td>1800</td>
+      <td>630</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td></td>
+      <td>18</td>
+      <td>70</td>
+      <td>8</td>
+      <td>10400</td>
+      <td>1900</td>
+      <td>665</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Heirloom Shield</td>
+      <td>20</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>20800</td>
+      <td>2400</td>
+      <td>840</td>
+    </tr>
+  </tbody>
+</table>
+
+### Clan Shield
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/clan_shield.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Clan Shield</td>
+      <td rowspan="3">-</td>
+      <td>8</td>
+      <td>10</td>
+      <td>5</td>
+      <td>-</td>
+      <td>1800</td>
+      <td>630</td>
+      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#dotanuki">Dotanuki</a><br/>(Equip 2 bracelets)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td></td>
+      <td>9</td>
+      <td>20</td>
+      <td>6</td>
+      <td>150</td>
+      <td>1900</td>
+      <td>665</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td></td>
+      <td>10</td>
+      <td>30</td>
+      <td>6</td>
+      <td>700</td>
+      <td>2000</td>
+      <td>700</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td></td>
+      <td>HP+5</td>
+      <td>14</td>
+      <td>40</td>
+      <td>7</td>
+      <td>1400</td>
+      <td>2100</td>
+      <td>735</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td></td>
+      <td rowspan="4">HP+5<br/>Rustproof</td>
+      <td>15</td>
+      <td>50</td>
+      <td>7</td>
+      <td>2800</td>
+      <td>2200</td>
+      <td>770</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td></td>
+      <td>16</td>
+      <td>60</td>
+      <td>8</td>
+      <td>5600</td>
       <td>2300</td>
       <td>805</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td></td>
+      <td>18</td>
+      <td>70</td>
+      <td>8</td>
+      <td>11200</td>
+      <td>2400</td>
+      <td>840</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Tribe King Shield</td>
+      <td>22</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>22400</td>
+      <td>2900</td>
+      <td>1015</td>
+    </tr>
+  </tbody>
+</table>
+
+### Beast Shield
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/beast_shield.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Beast Shield</td>
+      <td rowspan="3">-</td>
+      <td>10</td>
+      <td>10</td>
+      <td>4</td>
+      <td>-</td>
+      <td>2400</td>
+      <td>840</td>
+      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#beast-fang">Beast Fang</a><br/>(Equip 2 bracelets)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td></td>
+      <td>12</td>
+      <td>20</td>
+      <td>6</td>
+      <td>200</td>
+      <td>2500</td>
+      <td>875</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td></td>
+      <td>14</td>
+      <td>30</td>
+      <td>6</td>
+      <td>800</td>
+      <td>2600</td>
+      <td>910</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td></td>
+      <td rowspan="4">HP+10</td>
+      <td>16</td>
+      <td>40</td>
+      <td>8</td>
+      <td>1600</td>
+      <td>2700</td>
+      <td>945</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td></td>
+      <td>18</td>
+      <td>50</td>
+      <td>8</td>
+      <td>3200</td>
+      <td>2800</td>
+      <td>980</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td></td>
+      <td>20</td>
+      <td>60</td>
+      <td>9</td>
+      <td>6400</td>
+      <td>2900</td>
+      <td>1015</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td></td>
+      <td>21</td>
+      <td>70</td>
+      <td>9</td>
+      <td>12800</td>
+      <td>3000</td>
+      <td>1050</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Beastmaster</td>
+      <td>HP+10<br/>Def+3</td>
+      <td>23</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>25600</td>
+      <td>3500</td>
+      <td>1225</td>
+    </tr>
+  </tbody>
+</table>
+
+### Meteor Guard
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/meteor-guard.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Meteor Guard</td>
+      <td rowspan="3">-</td>
+      <td>12</td>
+      <td>10</td>
+      <td>5</td>
+      <td>-</td>
+      <td>3200</td>
+      <td>1120</td>
+      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#meteor-edge">Meteor Edge</a><br/>(Equip 2 bracelets)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td></td>
+      <td>16</td>
+      <td>20</td>
+      <td>6</td>
+      <td>300</td>
+      <td>3300</td>
+      <td>1155</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td></td>
+      <td>16</td>
+      <td>30</td>
+      <td>7</td>
+      <td>900</td>
+      <td>3400</td>
+      <td>1190</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td></td>
+      <td>HP+10</td>
+      <td>18</td>
+      <td>40</td>
+      <td>8</td>
+      <td>1800</td>
+      <td>3500</td>
+      <td>1225</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td></td>
+      <td rowspan="3">HP+10<br/>Rustproof</td>
+      <td>18</td>
+      <td>50</td>
+      <td>9</td>
+      <td>3600</td>
+      <td>3600</td>
+      <td>1260</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td></td>
+      <td>21</td>
+      <td>60</td>
+      <td>9</td>
+      <td>7200</td>
+      <td>3700</td>
+      <td>1295</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td></td>
+      <td>21</td>
+      <td>70</td>
+      <td>9</td>
+      <td>14400</td>
+      <td>3800</td>
+      <td>1330</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Galaxy Guard</td>
+      <td>HP+10<br/>Rustproof<br/>Anti-Theft</td>
+      <td>25</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>28800</td>
+      <td>4500</td>
+      <td>1575</td>
+    </tr>
+  </tbody>
+</table>
+
+### Red Shield
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/red_shield.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Red Shield</td>
+      <td rowspan="2">-</td>
+      <td>14</td>
+      <td>10</td>
+      <td>4</td>
+      <td>-</td>
+      <td>4800</td>
+      <td>1680</td>
+      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#red-blade">Red Blade</a><br/>(Equip 2 bracelets)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td></td>
+      <td>16</td>
+      <td>20</td>
+      <td>5</td>
+      <td>350</td>
+      <td>4900</td>
+      <td>1715</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td></td>
+      <td rowspan="5">HP+10</td>
+      <td>17</td>
+      <td>30</td>
+      <td>6</td>
+      <td>1000</td>
+      <td>5000</td>
+      <td>1750</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td></td>
+      <td>18</td>
+      <td>40</td>
+      <td>6</td>
+      <td>2000</td>
+      <td>5100</td>
+      <td>1785</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td></td>
+      <td>19</td>
+      <td>50</td>
+      <td>7</td>
+      <td>4000</td>
+      <td>5200</td>
+      <td>1820</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td></td>
+      <td>21</td>
+      <td>60</td>
+      <td>7</td>
+      <td>8000</td>
+      <td>5300</td>
+      <td>1855</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td></td>
+      <td>23</td>
+      <td>70</td>
+      <td>8</td>
+      <td>16000</td>
+      <td>5400</td>
+      <td>1890</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Shugoseki Shield</td>
+      <td>HP+10<br/>1/2 Fire<br/>Anti-Peck</td>
+      <td>27</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>32000</td>
+      <td>6400</td>
+      <td>2240</td>
+    </tr>
+  </tbody>
+</table>
+
+### Fuuma Shield
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/fuuma_shield.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Fuuma Shield</td>
+      <td rowspan="7">-</td>
+      <td>16</td>
+      <td>10</td>
+      <td>3</td>
+      <td>-</td>
+      <td>8500</td>
+      <td>2975</td>
+      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#kabura's-blade">Kabura's Blade</a><br/>(Attack damage +5)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td></td>
+      <td>17</td>
+      <td>20</td>
+      <td>4</td>
+      <td>600</td>
+      <td>8600</td>
+      <td>3010</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td></td>
+      <td>18</td>
+      <td>30</td>
+      <td>5</td>
+      <td>1700</td>
+      <td>8700</td>
+      <td>3045</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td></td>
+      <td>19</td>
+      <td>40</td>
+      <td>6</td>
+      <td>3400</td>
+      <td>8800</td>
+      <td>3080</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td></td>
+      <td>20</td>
+      <td>50</td>
+      <td>7</td>
+      <td>6800</td>
+      <td>8900</td>
+      <td>3115</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td></td>
+      <td>23</td>
+      <td>60</td>
+      <td>9</td>
+      <td>13600</td>
+      <td>9000</td>
+      <td>3150</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td></td>
+      <td>26</td>
+      <td>70</td>
+      <td>11</td>
+      <td>27200</td>
+      <td>9100</td>
+      <td>3185</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Legendary Fuuma</td>
+      <td>Rustproof</td>
+      <td>30</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>54400</td>
+      <td>11000</td>
+      <td>3850</td>
+    </tr>
+  </tbody>
+</table>
+
+### Helix Shield
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/helix_shield.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Helix Shield</td>
+      <td rowspan="8">-</td>
+      <td>25</td>
+      <td>10</td>
+      <td>∞</td>
+      <td>-</td>
+      <td>12000</td>
+      <td>4200</td>
+      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#fuuma-sword">Fuuma Sword</a><br/>(Attack damage +10)<br/><br/>Resonance: <a href="/shiren5/item/weapons#kaburagi">Kaburagi</a><br/>(Attack damage +10)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td></td>
+      <td>26</td>
+      <td>20</td>
+      <td>∞</td>
+      <td>22000</td>
+      <td>13000</td>
+      <td>4550</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td></td>
+      <td>27</td>
+      <td>30</td>
+      <td>∞</td>
+      <td>27000</td>
+      <td>14000</td>
+      <td>4900</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td></td>
+      <td>28</td>
+      <td>40</td>
+      <td>∞</td>
+      <td>32000</td>
+      <td>15000</td>
+      <td>5250</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td></td>
+      <td>29</td>
+      <td>50</td>
+      <td>∞</td>
+      <td>37000</td>
+      <td>16000</td>
+      <td>5600</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td></td>
+      <td>30</td>
+      <td>60</td>
+      <td>∞</td>
+      <td>42000</td>
+      <td>17000</td>
+      <td>5950</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td></td>
+      <td>31</td>
+      <td>70</td>
+      <td>∞</td>
+      <td>47000</td>
+      <td>18000</td>
+      <td>6300</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Infinautilus</td>
+      <td>40</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>52000</td>
+      <td>23000</td>
+      <td>8050</td>
+    </tr>
+  </tbody>
+</table>
+
+### Dull Gold Shield
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/dull_gold_shield.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Dull Gold Shield</td>
+      <td rowspan="7">(Rustproof)</td>
+      <td>2</td>
+      <td>15</td>
+      <td>7</td>
+      <td>-</td>
+      <td>1500</td>
+      <td>525</td>
+      <td rowspan="8">This shield won't rust.<br/><br/>Resonance: <a href="/shiren5/item/weapons#dull-gold-edge">Dull Gold Edge</a><br/>(Max strength +3)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td></td>
+      <td>2</td>
+      <td>25</td>
+      <td>8</td>
+      <td>100</td>
+      <td>1800</td>
+      <td>630</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td></td>
+      <td>3</td>
+      <td>35</td>
+      <td>9</td>
+      <td>500</td>
+      <td>2100</td>
+      <td>735</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td></td>
+      <td>3</td>
+      <td>45</td>
+      <td>10</td>
+      <td>1000</td>
+      <td>2400</td>
+      <td>840</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td></td>
+      <td>3</td>
+      <td>55</td>
+      <td>11</td>
+      <td>2000</td>
+      <td>2700</td>
+      <td>945</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td></td>
+      <td>4</td>
+      <td>65</td>
+      <td>12</td>
+      <td>4000</td>
+      <td>7000</td>
+      <td>2450</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td></td>
+      <td>4</td>
+      <td>75</td>
+      <td>13</td>
+      <td>8000</td>
+      <td>8000</td>
+      <td>2800</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>DX Gold Shield</td>
+      <td>(Rustproof)<br/>Pain Fullness</td>
+      <td>5</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>16000</td>
+      <td>9000</td>
+      <td>3150</td>
+    </tr>
+  </tbody>
+</table>
+
+### Diet Shield
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/diet_shield.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Diet Shield</td>
+      <td rowspan="7">(1/2 Hunger)</td>
+      <td>2</td>
+      <td>15</td>
+      <td>3</td>
+      <td>-</td>
+      <td>5000</td>
+      <td>1750</td>
+      <td rowspan="8">Decrease hunger rate.<br/>(50, 45, 45, 40, 40, 35, 35, 30%)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td></td>
+      <td>3</td>
+      <td>25</td>
+      <td>4</td>
+      <td>1000</td>
+      <td>5500</td>
+      <td>1925</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td></td>
+      <td>4</td>
+      <td>35</td>
+      <td>5</td>
+      <td>2000</td>
+      <td>6000</td>
+      <td>2100</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td></td>
+      <td>5</td>
+      <td>45</td>
+      <td>6</td>
+      <td>4000</td>
+      <td>6500</td>
+      <td>2275</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td></td>
+      <td>6</td>
+      <td>55</td>
+      <td>7</td>
+      <td>7000</td>
+      <td>7000</td>
+      <td>2450</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td></td>
+      <td>7</td>
+      <td>65</td>
+      <td>8</td>
+      <td>11000</td>
+      <td>7500</td>
+      <td>2625</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td></td>
+      <td>8</td>
+      <td>75</td>
+      <td>9</td>
+      <td>16000</td>
+      <td>8000</td>
+      <td>2800</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Surfeit Shield</td>
+      <td>(1/2 Hunger)<br/>HP+20</td>
+      <td>10</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>22000</td>
+      <td>10000</td>
+      <td>3500</td>
+    </tr>
+  </tbody>
+</table>
+
+### Heavy Shield
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/heavy_shield.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Heavy Shield</td>
+      <td rowspan="7">(Hungry)</td>
+      <td>12</td>
+      <td>15</td>
+      <td>7</td>
+      <td>-</td>
+      <td>6000</td>
+      <td>2100</td>
+      <td rowspan="8">Increase hunger rate.<br/>(200%, +20% per level up | L8: 340%)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td></td>
+      <td>15</td>
+      <td>25</td>
+      <td>8</td>
+      <td>500</td>
+      <td>7000</td>
+      <td>2450</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td></td>
+      <td>17</td>
+      <td>35</td>
+      <td>9</td>
+      <td>1000</td>
+      <td>8000</td>
+      <td>2800</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td></td>
+      <td>19</td>
+      <td>45</td>
+      <td>10</td>
+      <td>3000</td>
+      <td>9000</td>
+      <td>3150</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td></td>
+      <td>22</td>
+      <td>55</td>
+      <td>11</td>
+      <td>6000</td>
+      <td>10000</td>
+      <td>3500</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td></td>
+      <td>24</td>
+      <td>65</td>
+      <td>12</td>
+      <td>10000</td>
+      <td>11000</td>
+      <td>3850</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td></td>
+      <td>26</td>
+      <td>75</td>
+      <td>13</td>
+      <td>14000</td>
+      <td>12000</td>
+      <td>4200</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Ultimate Aegis</td>
+      <td>(Hungry)<br/>Unmoving<br/>Anti-Burgle</td>
+      <td>28</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>20000</td>
+      <td>13000</td>
+      <td>4550</td>
+    </tr>
+  </tbody>
+</table>
+
+### Counter Shield
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/counter_shield.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Counter Shield</td>
+      <td rowspan="7">(Counter)</td>
+      <td>3</td>
+      <td>15</td>
+      <td>5</td>
+      <td>-</td>
+      <td>3000</td>
+      <td>1050</td>
+      <td rowspan="8">Reflects a portion of damage<br/>received back at an enemy.<br/><br/>Resonance: <a href="/shiren5/item/bracelets#strength-bracelet">Strength Bracelet</a><br/>(Double counter damage)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td></td>
+      <td>5</td>
+      <td>25</td>
+      <td>6</td>
+      <td>400</td>
+      <td>4000</td>
+      <td>1400</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td></td>
+      <td>7</td>
+      <td>35</td>
+      <td>6</td>
+      <td>800</td>
+      <td>5000</td>
+      <td>1750</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td></td>
+      <td>8</td>
+      <td>45</td>
+      <td>7</td>
+      <td>1600</td>
+      <td>6000</td>
+      <td>2100</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td></td>
+      <td>9</td>
+      <td>55</td>
+      <td>7</td>
+      <td>3200</td>
+      <td>7000</td>
+      <td>2450</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td></td>
+      <td>10</td>
+      <td>65</td>
+      <td>8</td>
+      <td>6400</td>
+      <td>8000</td>
+      <td>2800</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td></td>
+      <td>11</td>
+      <td>75</td>
+      <td>8</td>
+      <td>12800</td>
+      <td>9000</td>
+      <td>3150</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Killer Counter</td>
+      <td>(Counter)<br/>Damage Exp</td>
+      <td>12</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>25600</td>
+      <td>11000</td>
+      <td>3850</td>
+    </tr>
+  </tbody>
+</table>
+
+### Happy Shield
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/happy_shield.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Rune</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Happy Shield</td>
+      <td rowspan="4">(Damage Exp)</td>
+      <td>3</td>
+      <td>15</td>
+      <td>5</td>
+      <td>-</td>
+      <td>3000</td>
+      <td>1050</td>
+      <td rowspan="8">Gain experience points<br/>when you receive damage.<br/><br/>Resonance: <a href="/shiren5/item/bracelets#happy-bracelet">Happy Bracelet</a><br/>(Double bracelet exp gain)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td></td>
+      <td>5</td>
+      <td>25</td>
+      <td>6</td>
+      <td>400</td>
+      <td>4000</td>
+      <td>1400</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td></td>
+      <td>7</td>
+      <td>35</td>
+      <td>6</td>
+      <td>800</td>
+      <td>5000</td>
+      <td>1750</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td></td>
+      <td>8</td>
+      <td>45</td>
+      <td>7</td>
+      <td>1600</td>
+      <td>6000</td>
+      <td>2100</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td></td>
+      <td rowspan="3">(Damage Exp)<br/>HP+5</td>
+      <td>9</td>
+      <td>55</td>
+      <td>7</td>
+      <td>3200</td>
+      <td>7000</td>
+      <td>2450</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td></td>
+      <td>10</td>
+      <td>65</td>
+      <td>8</td>
+      <td>6400</td>
+      <td>8000</td>
+      <td>2800</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td></td>
+      <td>11</td>
+      <td>75</td>
+      <td>8</td>
+      <td>12800</td>
+      <td>9000</td>
+      <td>3150</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Blissful Shield</td>
+      <td>(Damage Exp)<br/>HP+5<br/>Def+3</td>
+      <td>12</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>25600</td>
+      <td>11000</td>
+      <td>3850</td>
     </tr>
   </tbody>
 </table>

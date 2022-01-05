@@ -44,11 +44,11 @@ Ally characters can also appear as wandering NPCs, and can be recruited by talki
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/smith_1.png"/><br/>Smith 1</td>
-    <td>Pay 1000G to increase a selected item's upgrade value by 1.<br/>If you're lucky, upgrade value will be increased by 3 instead.<br/>Select a Fuuma Shield+99 to turn it into a Helix Shield.</td>
+    <td>Pay 1000G to increase a selected item's upgrade value by 1.<br/>If you're lucky, upgrade value will be increased by 3 instead.<br/>Select a Legendary Fuuma+99 to turn it into a Helix Shield.</td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/smith_2.png"/><br/>Smith 2</td>
-    <td>Pay 1000G and deposit a weapon or shield to increase its upgrade value.<br/>He'll return the item to you the next time you meet him, and the upgrade value will<br/>have increased by +7~13. The smith's skill increases each time you place an order,<br/>and after a number of orders, he can turn a Kabura Katana+99 into a Kaburagi.</td>
+    <td>Pay 1000G and deposit a weapon or shield to increase its upgrade value.<br/>He'll return the item to you the next time you meet him, and the upgrade value will<br/>have increased by +7~13. The smith's skill increases each time you place an order,<br/>and after a number of orders, he can turn a S-Class Kabura+99 into a Kaburagi.</td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/upgrader.png"/><br/>Upgrader</td>
@@ -64,7 +64,7 @@ Ally characters can also appear as wandering NPCs, and can be recruited by talki
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/lost_youth.png"/><br/>Lost Youth</td>
-    <td>Can only be found during the night. (He vanishes once it changes to daytime)<br/>Give him any torch and he'll give you a Light Scroll as thanks.<br/></td>
+    <td>Can only be found during the night. (He vanishes once it changes to daytime)<br/>Give him any torch and he'll give you a Navigation Scroll as thanks.<br/></td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/mekky.png"/><br/>Mekky</td>
@@ -148,7 +148,7 @@ Ally characters can also appear as wandering NPCs, and can be recruited by talki
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/inn_girl.png"/><br/>Inn Girl</td>
-    <td>Only appears between 6-12F and 19-20F.<br/>Guide her to Inn of the Wind to unlock the Inn service.</td>
+    <td>Only appears between 6-12F and 19-20F.<br/>Guide her to Inn of the Wind to unlock the inn service.</td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/inn_boy.png"/><br/>Inn Boy</td>

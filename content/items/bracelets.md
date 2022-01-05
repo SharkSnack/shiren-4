@@ -28,7 +28,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 4: The Eye o
   </tr>
   <tr>
     <td class="highlightLightblue">Heal Bracelet</td>
-    <td class="highlightLightblue">Miss Bracelet</td>
+    <td class="highlightLightblue">Bad Aim Bracelet</td>
     <td class="highlightLightblue">Happy Bracelet</td>
     <td class="highlightLightblue">Monster Detector</td>
   </tr>
@@ -87,7 +87,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 4: The Eye o
       <td class="leftText">Raises current and max strength by 3.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">Miss Bracelet</td>
+      <td class="highlightYellow">Bad Aim Bracelet</td>
       <td class="leftText">Arrows and thrown items will always miss.</td>
     </tr>
     <tr>

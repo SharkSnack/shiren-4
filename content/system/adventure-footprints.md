@@ -61,7 +61,7 @@ In-game achievements that automatically update as you play the game.
 |45|Collected all shields|232 total|
 |46|Collected all bracelets|25 total|
 |47|Collected all arrows|10 total|
-|48|Collected all stones|3 total|
+|48|Collected all rocks|3 total|
 |49|Collected all food|10 total|
 |50|Collected all grasses|29 total|
 |51|Collected all scrolls|37 total|

@@ -626,11 +626,11 @@ export const baseStyles = css`
   /* Price Table (Staves, Pots pages)*/
   .priceTable th {
     text-align: center;
-    padding: 2px;
+    padding: 3px;
   }
   .priceTable td {
     text-align: center;
-    padding: 3px;
+    padding: 4px;
   }
   /* Price Table Small (Price Chart page)*/
   .priceTableSmall th {
@@ -648,12 +648,16 @@ export const baseStyles = css`
   }
   .priceTableMedium th {
     text-align: center;
-    padding: 2px;
+    padding: 3px;
   }
   .priceTableMedium td {
     text-align: center;
-    padding: 2px;
+    padding: 3px;
     font-size: 13.5px;
+  }
+  .priceTableName {
+    text-align: left !important;
+    background-color: #f7f7f7;
   }
   .priceTablePots th {
     font-size: 13.5px;

@@ -69,26 +69,26 @@ Locked Bana Powers are represented by a checkmark next to the number.
   </tr>
   <tr>
     <td>Parry Shield</td>
-    <td>Swordsman</td>
+    <td>Kengo</td>
     <td>Knocks a shield away from the target. (1 per monster)</td>
   </tr>
   <tr>
     <td>Parry Weapon</td>
-    <td>Fencer</td>
+    <td>Iai</td>
     <td>Knocks a weapon away from the target. (1 per monster)</td>
   </tr>
   <tr>
     <td>Parry Bracelet</td>
-    <td>Sensei</td>
+    <td>Shihan</td>
     <td>Knocks a bracelet away from the target. (1 per monster)</td>
   </tr>
   <tr>
     <td>Parry Equipment</td>
-    <td>Master</td>
+    <td>Tatsujin</td>
     <td>Knocks a shield, weapon, or bracelet away from the target. (1 per monster)</td>
   </tr>
   <tr>
-    <td>Weed Throw</td>
+    <td>Throw Weeds</td>
     <td>Field Knave type</td>
     <td>Throws Weeds at a target lined up within 10 tiles. (2 damage)</td>
   </tr>
@@ -103,9 +103,9 @@ Locked Bana Powers are represented by a checkmark next to the number.
     <td>Shoot an Iron Arrow at a target lined up within 10 tiles.</td>
   </tr>
   <tr>
-    <td>Knockback Arrow</td>
+    <td>Force Arrow</td>
     <td>Strong Cart</td>
-    <td>Shoot a Knockback Arrow at a target lined up within 10 tiles.</td>
+    <td>Shoot a Force Arrow at a target lined up within 10 tiles.</td>
   </tr>
   <tr>
     <td>Silver Arrow</td>
@@ -124,7 +124,7 @@ Locked Bana Powers are represented by a checkmark next to the number.
   </tr>
   <tr>
     <td>Room Ink Squirt</td>
-    <td>Squid Emperor,<br/>Squid Kaizer</td>
+    <td>Squid Emperor,<br/>Squid Kaiser</td>
     <td>Inflicts Blind status on monsters in the room.</td>
   </tr>
   <tr>
@@ -144,7 +144,7 @@ Locked Bana Powers are represented by a checkmark next to the number.
   </tr>
   <tr>
     <td>Room Hypnosis</td>
-    <td>Ultra Gazer</td>
+    <td>Cash Gazer</td>
     <td>Inflicts Confused status on monsters in the room.</td>
   </tr>
   <tr>
@@ -288,8 +288,8 @@ Locked Bana Powers are represented by a checkmark next to the number.
     <td>40 damage counter attack if hit by an attack after activating. (1 turn)<br/>Effective against Absorbiphants and Gyazas.</td>
   </tr>
   <tr>
-    <td>Thunder Counter</td>
-    <td>Thunderdon</td>
+    <td>Volt Counter</td>
+    <td>Voltdon</td>
     <td>50 damage counter attack if hit by an attack after activating. (1 turn)<br/>Effective against Absorbiphants and Gyazas.</td>
   </tr>
   <tr>
@@ -319,7 +319,7 @@ Locked Bana Powers are represented by a checkmark next to the number.
   </tr>
   <tr>
     <td>Clarity</td>
-    <td>Clarity Bracelet</td>
+    <td>Calm Bracelet</td>
     <td>Cures Confused status from self and allies within a 1 tile radius.</td>
   </tr>
   <tr>
@@ -349,7 +349,7 @@ Locked Bana Powers are represented by a checkmark next to the number.
   </tr>
   <tr>
     <td>Sealer</td>
-    <td>Seal Rod</td>
+    <td>Sealing Keisaku</td>
     <td>Direct attack that occasionally inflicts Sealed status.</td>
   </tr>
   <tr>
@@ -359,7 +359,7 @@ Locked Bana Powers are represented by a checkmark next to the number.
   </tr>
   <tr>
     <td>Blinder</td>
-    <td>Dim Rod</td>
+    <td>Blurry Stick</td>
     <td>Direct attack that occasionally inflicts Blind status.</td>
   </tr>
   <tr>

@@ -27,7 +27,7 @@ The rescuer will be rewarded with an item and can receive a reward letter from t
     <ul>
       <li><a href="#requirements-(request)">Requirements (Request)</a></li>
       <li><a href="#passwords">Passwords</a></li>
-      <li><a href="#adventure-while-waiting">Adventure while waiting</a></li>
+      <li><a href="#interim-adventure">Interim Adventure</a></li>
     </ul>
   </li>
   <li><a href="#rescuing">Rescuing</a>
@@ -39,16 +39,16 @@ The rescuer will be rewarded with an item and can receive a reward letter from t
 
 # Rescue Flow
 
-Most of the rescue process is performed through the main menu.
+Most of the rescue process is performed through the top menu.
 
 <ol>
-  <li><span class="highlightBlue">Requesting Side</span> : Select "Yes" after collapsing → Rescue → Request Rescue → Send Rescue Request</li>
-  <li><span class="highlightPink">Rescuing Side</span> : Rescue → Rescue Someone → Receive Rescue Request</li>
-  <li><span class="highlightPink">Rescuing Side</span> : Play Game → Talk to the Rescuer in Boronga Village and go on the rescue.</li>
-  <li><span class="highlightPink">Rescuing Side</span> : Send the revival spell. Rescue → Rescue Someone → Send Revival Spell</li>
-  <li><span class="highlightBlue">Requesting Side</span> : Receive the revival spell. Rescue → Request Rescue → Receive Revival Spell</li>
-  <li><span class="highlightBlue">Requesting Side</span> : Send a reward letter. Rescue → Request Rescue → Send Reward Letter</li>
-  <li><span class="highlightPink">Rescuing Side</span> : Receive the reward letter. Rescue → Rescue Someone → Receive Reward Letter</li>
+  <li><span class="highlightBlue">Request Side</span> : Select "Yes" after collapsing → Wanderer Rescue → Request Rescue → Send Rescue Request</li>
+  <li><span class="highlightPink">Rescue Side</span> : Wanderer Rescue → Rescue Someone → Receive Rescue Request</li>
+  <li><span class="highlightPink">Rescue Side</span> : Play Game → Talk to the Rescuer in Boronga Village and go on the rescue.</li>
+  <li><span class="highlightPink">Rescue Side</span> : Send the revival spell. Wanderer Rescue → Rescue Someone → Send Revival Spell</li>
+  <li><span class="highlightBlue">Request Side</span> : Receive the revival spell. Wanderer Rescue → Request Rescue → Receive Revival Spell</li>
+  <li><span class="highlightBlue">Request Side</span> : Send a reward letter. Wanderer Rescue → Request Rescue → Send Reward Letter</li>
+  <li><span class="highlightPink">Rescue Side</span> : Receive the reward letter. Wanderer Rescue → Rescue Someone → Receive Reward Letter</li>
 </ol>
 
 ※ Steps 6-7 are usually skipped.
@@ -74,9 +74,9 @@ The password never expires and works offline.
 
 Passwords can also be used to share dungeon seeds that have rare items.<br/>(See <a href="/guides/rescue-passwords">Rescue Passwords</a>)
 
-### Adventure while waiting
+### Interim Adventure
 
-Go on adventures while waiting to be rescued. (Waiting for rescue → Adventure while waiting)
+Go on adventures while waiting to be rescued. (Awaiting Rescue → Interim Adventure)
 
 This can be an excellent way to obtain rare items.
 

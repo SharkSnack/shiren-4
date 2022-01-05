@@ -213,11 +213,11 @@ There are 6 notable overworld areas in the game, and each village has their own 
       <td>300</td>
       <td>Herb</td>
       <td>50</td>
-      <td>Light Scroll</td>
+      <td>Navigation Scroll</td>
       <td>100</td>
     </tr>
     <tr>
-      <td>Copper Blade</td>
+      <td>Copper Edge</td>
       <td>700</td>
       <td>Otogiriso</td>
       <td>100</td>
@@ -233,7 +233,7 @@ There are 6 notable overworld areas in the game, and each village has their own 
       <td>1000</td>
     </tr>
     <tr>
-      <td>Copper Buckler</td>
+      <td>Copper Guard</td>
       <td>740</td>
       <td>Revival Grass</td>
       <td>1000</td>
@@ -286,7 +286,7 @@ There are 6 notable overworld areas in the game, and each village has their own 
       <td>1500+75*N</td>
     </tr>
     <tr>
-      <td>Copper Blade</td>
+      <td>Copper Edge</td>
       <td>700</td>
       <td>Yellow Banana</td>
       <td>100</td>
@@ -310,7 +310,7 @@ There are 6 notable overworld areas in the game, and each village has their own 
       <td>2000+100*N</td>
     </tr>
     <tr>
-      <td>Copper Buckler</td>
+      <td>Copper Guard</td>
       <td>740</td>
       <td>Heal Grass</td>
       <td>200</td>
@@ -344,7 +344,7 @@ There are 6 notable overworld areas in the game, and each village has their own 
     <tr>
       <td>Cleansing Bracelet</td>
       <td>3000</td>
-      <td>Light Scroll</td>
+      <td>Navigation Scroll</td>
       <td>100</td>
       <td>Fear Talisman</td>
       <td>500*N</td>
@@ -657,11 +657,11 @@ There are 6 notable overworld areas in the game, and each village has their own 
       <td>3000</td>
       <td>Otogiriso</td>
       <td>100</td>
-      <td>Light Scroll</td>
+      <td>Navigation Scroll</td>
       <td>100</td>
     </tr>
     <tr>
-      <td>Copper Blade</td>
+      <td>Copper Edge</td>
       <td>700</td>
       <td>Alert Bracelet</td>
       <td>3000</td>
@@ -691,7 +691,7 @@ There are 6 notable overworld areas in the game, and each village has their own 
       <td>1000</td>
     </tr>
     <tr>
-      <td>Copper Buckler</td>
+      <td>Copper Guard</td>
       <td>740</td>
       <td>Strength Bracelet</td>
       <td>2000</td>
@@ -907,7 +907,7 @@ There are 6 notable overworld areas in the game, and each village has their own 
       <td>1100</td>
       <td>Wood Arrow</td>
       <td>10*N</td>
-      <td>Light Scroll</td>
+      <td>Navigation Scroll</td>
       <td>100</td>
     </tr>
     <tr>
@@ -1472,7 +1472,7 @@ There are 6 notable overworld areas in the game, and each village has their own 
       <td>1500+75*N</td>
     </tr>
     <tr>
-      <td>Bladite</td>
+      <td>Meteor Edge</td>
       <td>3000</td>
       <td>Iron Arrow</td>
       <td>30*N</td>
@@ -1492,7 +1492,7 @@ There are 6 notable overworld areas in the game, and each village has their own 
       <td>1000+50*N</td>
     </tr>
     <tr>
-      <td>Targite</td>
+      <td>Meteor Guard</td>
       <td>3200</td>
       <td>Rock</td>
       <td>20*N</td>

@@ -12,11 +12,11 @@ metaDescription: "Details about moves / abilities and unlock conditions for Shir
 
 Necklace moves, also called abilities in Shiren 5, are attacks that can only be used at night.<br/>They are the primary means to deal damage to night monsters, and are first used in<br/>Emerald Terrace after Gonchiki Village during the main story.
 
-Up to 8 moves can be assigned to the necklace, including multiples of the same move.<br/>Wandering NPCs can teach you new moves, and you can swap moves at Boronga Village.<br/>Some moves can only be learned by repeatedly using specific moves.
+Up to 8 moves can be assigned to the necklace, including multiples of the same move.<br/>Wandering NPCs can teach you new moves, and you can swap moves in Boronga Village.<br/>Some moves can only be learned by repeatedly using specific moves.
 
 Moves can only be used one time each floor.<br/>
 However, it's possible to replenish moves by reading a Replenish Scroll,<br/>
-being revived by Revival Grass / Undo Grass, or the cross formation taking effect.
+being revived by Revival Grass / Undo Grass, or the "Cross" formation taking effect.
 
 Attack power of moves increases as Shiren levels up.<br/>
 Most moves deal 2 damage to shopkeepers, but status effects still work on them.
@@ -30,7 +30,7 @@ Most moves deal 2 damage to shopkeepers, but status effects still work on them.
 
 ## Move List
 
-There are a total of 29 moves that Shiren can learn.<br/>Use a Calling Pot and lots of Pot Expand Scrolls to quickly learn moves from NPCs.
+There are a total of 29 moves that Shiren can learn.<br/>Use a Calling Pot and lots of Expand Scrolls to quickly learn moves from NPCs.
 
 <table class="moveTable">
   <tr>
@@ -304,7 +304,7 @@ Formations are special effects that occur based on character positions when a mo
   <tr>
     <td class="centeredText">7</td>
     <td class="highlightYellow">Cross</td>
-    <td>Replenish 3 abilities</td>
+    <td>Replenish 3 moves</td>
   </tr>
   <tr>
     <td class="centeredText">8</td>
@@ -810,7 +810,7 @@ Formations are special effects that occur based on character positions when a mo
 
 <br/>
 
-- Replenishes 3 abilities.
+- Replenishes 3 moves.
 - Pretty much exclusive to Cluster Confusion, but has the highest return.
 - Priority 7 - check the direction Shiren is facing to avoid triggering a higher priority formation.
 
@@ -981,13 +981,13 @@ Formations are special effects that occur based on character positions when a mo
     <td>　</td>
   </tr>
   <tr>
-    <td class="highlightBlack">W</td>
-    <td class="highlightBlack">W</td>
-    <td class="highlightBlack">W</td>
-    <td class="highlightBlack">W</td>
-    <td class="highlightBlack">W</td>
-    <td class="highlightBlack">W</td>
-    <td class="highlightBlack">W</td>
+    <td class="highlightBlack">　</td>
+    <td class="highlightBlack">　</td>
+    <td class="highlightBlack">　</td>
+    <td class="highlightBlack">　</td>
+    <td class="highlightBlack">　</td>
+    <td class="highlightBlack">　</td>
+    <td class="highlightBlack">　</td>
   </tr>
 </table>
 

@@ -250,7 +250,7 @@ Aim to synthesize any type-effective or status inflicting weapons you find.
       <td>Significant help against Hipadiles and Dragons in Devil's Navel.<br/>Lizard Lasher is strong enough to be used as a main weapon too.</td>
     </tr>
     <tr>
-      <td class="highlightGray">Anti-Float</td>
+      <td class="highlightGray">Anti-Floating</td>
       <td>Sky Splitter<br/>Warp Grass</td>
       <td>Effective against Firepuff, Pumphantasm, Blade Bee, Gyadon, Flashbird.<br/>Synthesize Sky Splitter if you find a Synthesis Pot before 19F.<br/>Low priority after 20F, since the only floating enemy left is Pumphantom.</td>
     </tr>
@@ -558,7 +558,7 @@ It's ideal to reach Lv20 for Shiren and Lv3 for equipment before advancing to 11
 - Antidote Grass
 - Desert Scroll
 
-Perform Nigiri Morph Factory using a Foul Morph if you have a torch and poison arrows.<br/>※ You can grill the bananas between 13-18F by having a Traproid create a Landmine.
+Perform Banana Morph Factory using a Foul Morph if you have a torch and poison arrows.<br/>※ You can grill the bananas between 13-18F by having a Traproid create a Landmine.
 
 1. Place important items in a hallway near the stairs room before sunset.
 2. Shoot arrows at a wall or throw rocks on the ground.
@@ -730,7 +730,7 @@ Weapon runes to aim for at this point:
     </tr>
     <tr>
       <td class="highlightLightblue">Low</td>
-      <td>Anti-Float</td>
+      <td>Anti-Floating</td>
       <td>Sky Splitter<br/>Warp Grass</td>
     </tr>
     <tr>
@@ -1136,7 +1136,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>50</td>
       <td>9</td>
       <td>-</td>
-      <td>Swift 1, shoots Knockback Arrows.</td>
+      <td>Swift 1, shoots Gust Arrows.</td>
     </tr>
     <tr>
       <td>13-18</td>
@@ -2515,7 +2515,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Copper Blade</td>
+    <td class="leftText">Copper Edge</td>
     <td>X</td>
     <td></td>
     <td>X</td>
@@ -2635,7 +2635,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Kabura Katana</td>
+    <td class="leftText">Kabura's Blade</td>
     <td></td>
     <td></td>
     <td>X</td>
@@ -2881,7 +2881,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td>X</td>
     <td></td>
     <td></td>
-    <td class="leftText">Bomber Bracelet</td>
+    <td class="leftText">Explosion Bracelet</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3725,7 +3725,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Knockback Arrow</td>
+    <td class="leftText">Gust Arrow</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3745,7 +3745,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Homing Arrow</td>
+    <td class="leftText">True Arrow</td>
     <td></td>
     <td></td>
     <td></td>
