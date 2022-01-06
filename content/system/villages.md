@@ -10,7 +10,7 @@ metaDescription: "Village and overworld area guide for Shiren the Wanderer 4: Th
 
 # Overview
 
-There are 6 notable overworld areas in the game, and each village has their own NPCs and facilities.<br/>
+There are 6 notable overworld areas in the game, and each village has its own NPCs and facilities.<br/>
 ※ Check the individual dungeon pages for information on unlocking dungeons.
 
 <ul class="quickLinksUL">
@@ -23,7 +23,7 @@ There are 6 notable overworld areas in the game, and each village has their own 
     <ul>
       <li><a href="#boronga-shop">Shop</a></li>
       <li><a href="#boronga-bank">Bank</a></li>
-      <li><a href="#boronga-storage">Storage</a></li>
+      <li><a href="#boronga-storehouse">Storehouse</a></li>
       <li><a href="#rescue">Rescue</a></li>
       <li><a href="#novice-house">Novice House</a></li>
       <li><a href="#move-library">Move Library</a></li>
@@ -64,7 +64,7 @@ There are 6 notable overworld areas in the game, and each village has their own 
     <ul>
       <li><a href="#wind-inn">Inn</a></li>
       <li><a href="#wind-shop">Shop</a></li>
-      <li><a href="#wind-storage">Storage</a></li>
+      <li><a href="#wind-storehouse">Storehouse</a></li>
       <li><a href="#wind-purifier">Purifier</a></li>
     </ul>
   </li>
@@ -433,8 +433,8 @@ There are 6 notable overworld areas in the game, and each village has their own 
   </tbody>
 </table>
 
-<div id="boronga-storage" class="facility relativeImage">
-  Storage <img src="../images/other/icon_storage.png"/>
+<div id="boronga-storehouse" class="facility relativeImage">
+  Storehouse <img src="../images/other/icon_storage.png"/>
 </div>
 
 - Deposit and withdraw up to 80 items.
@@ -1567,12 +1567,12 @@ There are 6 notable overworld areas in the game, and each village has their own 
   </tbody>
 </table>
 
-<div id="wind-storage" class="facility relativeImage">
-  Storage <img src="../images/other/icon_storage.png"/>
+<div id="wind-storehouse" class="facility relativeImage">
+  Storehouse <img src="../images/other/icon_storage.png"/>
 </div>
 
 - Unlocked by guiding <a href="/system/npcs#inn-gramps">Inn Gramps</a> to this location.
-- The storage is shared between Boronga Village and Inn of the Wind.
+- The storehouse is shared between Boronga Village and Inn of the Wind.
 - Deposit and withdraw up to 80 items.
     - Use Storage Pots to increase storage space.
     - Unidentified items can't be deposited.

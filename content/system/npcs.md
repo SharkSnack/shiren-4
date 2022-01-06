@@ -21,12 +21,6 @@ Characteristics:
 
 Ally characters can also appear as wandering NPCs, and can be recruited by talking.<br/>NPCs never turn hostile, no matter what actions you take against them.
 
-<ul class="quickLinksUL">
-  <li><a href="#npc-list">NPC List</a></li>
-  <li><a href="#bargain-hunter-items">Bargain Items</a></li>
-  <li><a href="#ateska-fortunes">Ateska Fortunes</a></li>
-</ul>
-
 ## NPC List
 
 <table class="npcTable">

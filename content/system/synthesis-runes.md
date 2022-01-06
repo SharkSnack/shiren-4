@@ -798,7 +798,7 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
 
 ## Priority
 
-This section give a rough idea of rune priority for dungeons that don't allow carry-in items.
+This section gives a rough idea of rune priority for dungeons that don't allow carry-in items.
 
 
 #### Weapon

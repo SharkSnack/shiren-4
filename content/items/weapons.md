@@ -4547,7 +4547,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>100</td>
       <td>35</td>
       <td>1 tile</td>
-      <td rowspan="3">Lights up your surroundings at night.<br/>Dims by 1 stage every 250 turns. (500 if blessed)<br/>Warning at 50 turns remaining before it goes out.<br/><br/>Resonance: <a href="/items/shields#lamp-shield">Lamp Shield</a><br/>(Light up an entire room at night)</td>
+      <td rowspan="3">Lights up your surroundings at night.<br/>Dims by 1 stage every 250 turns. (500 if blessed)<br/>Warning at 50 turns remaining before it goes out.<br/><br/>Resonance: <a href="/items/shields#lamp-shield">Lamp Shield</a><br/>(Light up entire room at night)</td>
     </tr>
     <tr>
       <td>Fine Torch</td>
