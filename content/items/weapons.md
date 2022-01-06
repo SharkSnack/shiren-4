@@ -8,7 +8,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
 
 <table class="itemListCentered">
   <tr>
-    <th colspan="5">Item Book Order</th>
+    <th colspan="6">Item Book Order</th>
   </tr>
   <tr>
     <th>1</th>
@@ -16,6 +16,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
     <th>3</th>
     <th>4</th>
     <th>5</th>
+    <th>1</th>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="#palm-stick">Palm Stick</a></td>
@@ -23,6 +24,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
     <td class="highlightLightblue"><a href="#sealing-keisaku">Sealing Keisaku</a></td>
     <td class="highlightLightblue"><a href="#burning-blade">Burning Blade</a></td>
     <td class="highlightLightblue"><a href="#bargain-blade">Bargain Blade</a></td>
+    <td class="highlightOrange"><a href="#torch">Torch</a></td>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="#dull-gold-edge">Dull Gold Edge</a></td>
@@ -30,6 +32,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
     <td class="highlightLightblue"><a href="#myopic-masher">Myopic Masher</a></td>
     <td class="highlightLightblue"><a href="#dotanuki">Dotanuki</a></td>
     <td class="highlightLightblue"><a href="#sturdy-hammer">Sturdy Hammer</a></td>
+    <td></td>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="#breeze-blade">Breeze Blade</a></td>
@@ -37,6 +40,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
     <td class="highlightLightblue"><a href="#katana">Katana</a></td>
     <td class="highlightLightblue"><a href="#lizard-lasher">Lizard Lasher</a></td>
     <td class="highlightLightblue"><a href="#wonder-pick">Wonder Pick</a></td>
+    <td></td>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="#nap-rattle">Nap Rattle</a></td>
@@ -44,6 +48,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
     <td class="highlightLightblue"><a href="#baffle-axe">Baffle Axe</a></td>
     <td class="highlightLightblue"><a href="#meteor-edge">Meteor Edge</a></td>
     <td class="highlightLightblue"><a href="#true-knife">True Knife</a></td>
+    <td></td>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="#sky-splitter">Sky Splitter</a></td>
@@ -51,6 +56,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
     <td class="highlightLightblue"><a href="#drain-slicer">Drain Slicer</a></td>
     <td class="highlightLightblue"><a href="#red-blade">Red Blade</a></td>
     <td class="highlightLightblue"><a href="#fuuma-sword">Fuuma Sword</a></td>
+    <td></td>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="#rusty-pickaxe">Rusty Pickaxe</a></td>
@@ -58,6 +64,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
     <td class="highlightLightblue"><a href="#crescent-katana">Crescent Katana</a></td>
     <td class="highlightLightblue"><a href="#kabura's-blade">Kabura's Blade</a></td>
     <td class="highlightLightblue"><a href="#kaburagi">Kaburagi</a></td>
+    <td></td>
   </tr>
   <tr>
     <td class="highlightLightblue"><a href="#bright-blade">Bright Blade</a></td>
@@ -65,6 +72,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
     <td class="highlightLightblue"><a href="#beast-fang">Beast Fang</a></td>
     <td class="highlightLightblue"><a href="#shoddy-dirk">Shoddy Dirk</a></td>
     <td class="highlightLightblue"><a href="#kamina's-sword">Kamina's Sword</a></td>
+    <td></td>
   </tr>
 </table>
 
@@ -1442,7 +1450,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>10000</td>
       <td>3500</td>
       <td rowspan="8">-</td>
-      <td rowspan="8">Obtaining:<br/>Upgrade a Storied Katana+99 at<br/>the Monkey Village Blacksmith.<br/><br/>Resonance: <a href="/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)</td>
+      <td rowspan="8">Resonance: <a href="/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)<br/><br/>Obtaining:<br/>Upgrade a Storied Katana+99 at<br/>the Monkey Village Blacksmith.</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1556,7 +1564,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>15000</td>
       <td>5250</td>
       <td rowspan="8">-</td>
-      <td rowspan="8">Obtaining:<br/>Deposit a S-Class Kabura+99 to the<br/>Smith 2 <a href="/system/npcs">NPC</a> after having placed a<br/>number of orders in the past.<br/><br/>Resonance: <a href="/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)</td>
+      <td rowspan="8">Resonance: <a href="/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)<br/><br/>Obtaining:<br/>Upgrade a S-Class Kabura+99 using<br/>the Smith 2 <a href="/system/npcs">NPC</a> after having placed<br/>a number of orders in the past.</td>
     </tr>
     <tr>
       <td>2</td>
@@ -2088,6 +2096,2470 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>16000</td>
       <td>3500</td>
       <td>1225</td>
+    </tr>
+  </tbody>
+</table>
+
+### Old Mallet
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/old_mallet.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Old Mallet</td>
+      <td>5</td>
+      <td>25</td>
+      <td>8</td>
+      <td>-</td>
+      <td>2000</td>
+      <td>700</td>
+      <td rowspan="4">(Trap Breaker)</td>
+      <td rowspan="8">Can destroy traps,<br/>but the weapon might<br/>break afterward.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Plain Mallet</td>
+      <td>6</td>
+      <td>40</td>
+      <td>9</td>
+      <td>200</td>
+      <td>2200</td>
+      <td>770</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Decent Mallet</td>
+      <td>7</td>
+      <td>50</td>
+      <td>10</td>
+      <td>500</td>
+      <td>2400</td>
+      <td>840</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Good Mallet</td>
+      <td>10</td>
+      <td>60</td>
+      <td>11</td>
+      <td>1000</td>
+      <td>2600</td>
+      <td>910</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Fine Mallet</td>
+      <td>10</td>
+      <td>70</td>
+      <td>12</td>
+      <td>2000</td>
+      <td>2800</td>
+      <td>980</td>
+      <td rowspan="4">(Trap Breaker)<br/>Confusing</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Quality Mallet</td>
+      <td>10</td>
+      <td>80</td>
+      <td>13</td>
+      <td>4000</td>
+      <td>3000</td>
+      <td>1050</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Luxury Mallet</td>
+      <td>10</td>
+      <td>90</td>
+      <td>14</td>
+      <td>8000</td>
+      <td>3200</td>
+      <td>1120</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Master's Mallet</td>
+      <td>12</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>16000</td>
+      <td>3500</td>
+      <td>1225</td>
+    </tr>
+  </tbody>
+</table>
+
+### Sky Splitter
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/sky_splitter.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Sky Splitter</td>
+      <td>2</td>
+      <td>25</td>
+      <td>3</td>
+      <td>-</td>
+      <td>7500</td>
+      <td>2625</td>
+      <td rowspan="7">(Anti-Floating)</td>
+      <td rowspan="8">Deal more damage to Floating types.<br/>(150%, +25% per level up | Lv8: 325%)<br/><br/>Families: Crow Tengu, Gyadon, Foly,<br/>Blade Bee, Snacky, Pumphantasm,<br/>Firepuff, Flashbird</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Cloud Cutter</td>
+      <td>3</td>
+      <td>40</td>
+      <td>4</td>
+      <td>500</td>
+      <td>7600</td>
+      <td>2660</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Sky Slicer</td>
+      <td>4</td>
+      <td>50</td>
+      <td>5</td>
+      <td>1000</td>
+      <td>7700</td>
+      <td>2695</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Heaven Hewer</td>
+      <td>7</td>
+      <td>60</td>
+      <td>6</td>
+      <td>2000</td>
+      <td>7800</td>
+      <td>2730</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Cloud Cleaver</td>
+      <td>7</td>
+      <td>70</td>
+      <td>7</td>
+      <td>4000</td>
+      <td>7900</td>
+      <td>2765</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Cirrus Chopper</td>
+      <td>7</td>
+      <td>80</td>
+      <td>8</td>
+      <td>8000</td>
+      <td>8000</td>
+      <td>2800</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Sky Scourge</td>
+      <td>10</td>
+      <td>90</td>
+      <td>9</td>
+      <td>16000</td>
+      <td>8100</td>
+      <td>2835</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Aerial Assault</td>
+      <td>10</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>32000</td>
+      <td>8500</td>
+      <td>2975</td>
+      <td>(Anti-Floating)<br/>Rustproof</td>
+    </tr>
+  </tbody>
+</table>
+
+### Water Cutter
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/water_cutter.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Water Cutter</td>
+      <td>4</td>
+      <td>25</td>
+      <td>5</td>
+      <td>-</td>
+      <td>6500</td>
+      <td>2275</td>
+      <td rowspan="7">(Anti-Aquatic)</td>
+      <td rowspan="8">Deal more damage to Aquatic types.<br/>(150%, +25% per level up | Lv8: 325%)<br/><br/>Families: Squid King, Gyaza, Zalokleft,<br/>Explochin, Bored Kappa, Hopodile,<br/>Slime</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Wave Cutter</td>
+      <td>5</td>
+      <td>40</td>
+      <td>6</td>
+      <td>300</td>
+      <td>6600</td>
+      <td>2310</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Scale Splitter</td>
+      <td>6</td>
+      <td>50</td>
+      <td>6</td>
+      <td>600</td>
+      <td>6700</td>
+      <td>2345</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Shell Splitter</td>
+      <td>7</td>
+      <td>60</td>
+      <td>7</td>
+      <td>1200</td>
+      <td>6800</td>
+      <td>2380</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Sea Snake Blade</td>
+      <td>8</td>
+      <td>70</td>
+      <td>7</td>
+      <td>2400</td>
+      <td>6900</td>
+      <td>2415</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Shark Sword</td>
+      <td>9</td>
+      <td>80</td>
+      <td>8</td>
+      <td>4800</td>
+      <td>7000</td>
+      <td>2450</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Leviathan Sword</td>
+      <td>10</td>
+      <td>90</td>
+      <td>8</td>
+      <td>9600</td>
+      <td>7100</td>
+      <td>2485</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Sea King Sword</td>
+      <td>11</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>19200</td>
+      <td>7500</td>
+      <td>2625</td>
+      <td>(Anti-Aquatic)<br/>Rustproof</td>
+    </tr>
+  </tbody>
+</table>
+
+### Myopic Masher
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/myopic_masher.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Myopic Masher</td>
+      <td>5</td>
+      <td>25</td>
+      <td>5</td>
+      <td>-</td>
+      <td>5500</td>
+      <td>1925</td>
+      <td rowspan="7">(Anti-Cyclops)</td>
+      <td rowspan="8">Deal more damage to Cyclops types.<br/>(150%, +25% per level up | Lv8: 325%)<br/><br/>Resonance: <a href="/items/shields#spry-shield">Spry Shield</a><br/>(Attack and defense +3)<br/><br/>Families: Explochin, Ironhead,<br/>Gazer, Foly</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Myopic Mauler</td>
+      <td>6</td>
+      <td>40</td>
+      <td>6</td>
+      <td>250</td>
+      <td>5600</td>
+      <td>1960</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Myopic Mangler</td>
+      <td>7</td>
+      <td>50</td>
+      <td>7</td>
+      <td>500</td>
+      <td>5700</td>
+      <td>1995</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Myopic Mincer</td>
+      <td>8</td>
+      <td>60</td>
+      <td>8</td>
+      <td>1000</td>
+      <td>5800</td>
+      <td>2030</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Cyclops Cutter</td>
+      <td>9</td>
+      <td>70</td>
+      <td>9</td>
+      <td>2000</td>
+      <td>5900</td>
+      <td>2065</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Cyclops Crusher</td>
+      <td>10</td>
+      <td>80</td>
+      <td>10</td>
+      <td>4000</td>
+      <td>6000</td>
+      <td>2100</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Cyclops Culler</td>
+      <td>11</td>
+      <td>90</td>
+      <td>11</td>
+      <td>8000</td>
+      <td>6100</td>
+      <td>2135</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Cyclopicide</td>
+      <td>12</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>16000</td>
+      <td>6500</td>
+      <td>2275</td>
+      <td>(Anti-Cyclops)<br/>Rustproof</td>
+    </tr>
+  </tbody>
+</table>
+
+### Drain Slicer
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/drain_slicer.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Drain Slicer</td>
+      <td>6</td>
+      <td>25</td>
+      <td>5</td>
+      <td>-</td>
+      <td>4500</td>
+      <td>1575</td>
+      <td rowspan="7">(Anti-Drain)</td>
+      <td rowspan="8">Deal more damage to Drain types.<br/>(150%, +25% per level up | Lv8: 325%)<br/><br/>Families: Scorpion, Spin Polygon,<br/>Absorbiphant</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Drain Slasher</td>
+      <td>7</td>
+      <td>40</td>
+      <td>7</td>
+      <td>300</td>
+      <td>4600</td>
+      <td>1610</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Drain Chopper</td>
+      <td>7</td>
+      <td>50</td>
+      <td>7</td>
+      <td>600</td>
+      <td>4700</td>
+      <td>1645</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Drain Dicer</td>
+      <td>7</td>
+      <td>60</td>
+      <td>8</td>
+      <td>1200</td>
+      <td>4800</td>
+      <td>1680</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Drain Ripper</td>
+      <td>9</td>
+      <td>70</td>
+      <td>8</td>
+      <td>2400</td>
+      <td>4900</td>
+      <td>1715</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Drain Gasher</td>
+      <td>9</td>
+      <td>80</td>
+      <td>10</td>
+      <td>4800</td>
+      <td>5000</td>
+      <td>1750</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Drain Killer</td>
+      <td>9</td>
+      <td>90</td>
+      <td>10</td>
+      <td>9600</td>
+      <td>5100</td>
+      <td>1785</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Drain Buster</td>
+      <td>11</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>19200</td>
+      <td>5500</td>
+      <td>1925</td>
+      <td>(Anti-Drain)<br/>Rustproof</td>
+    </tr>
+  </tbody>
+</table>
+
+### Crescent Katana
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/crescent_katana.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Crescent Katana</td>
+      <td>7</td>
+      <td>25</td>
+      <td>5</td>
+      <td>-</td>
+      <td>2500</td>
+      <td>875</td>
+      <td rowspan="7">(Anti-Bomb)</td>
+      <td rowspan="8">Deal more damage to Bomb types.<br/>(150%, +25% per level up | Lv8: 325%)<br/><br/>Resonance: <a href="/items/shields#blast-shield">Blast Shield</a><br/>(Attack and defense +3)<br/><br/>Families: Explochin, Pop Tank</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Crescent Sword</td>
+      <td>7</td>
+      <td>40</td>
+      <td>5</td>
+      <td>400</td>
+      <td>2600</td>
+      <td>910</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Moon Edge</td>
+      <td>8</td>
+      <td>50</td>
+      <td>6</td>
+      <td>800</td>
+      <td>2700</td>
+      <td>945</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Moon Blade</td>
+      <td>8</td>
+      <td>60</td>
+      <td>6</td>
+      <td>1600</td>
+      <td>2800</td>
+      <td>980</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Moon Katana</td>
+      <td>9</td>
+      <td>70</td>
+      <td>7</td>
+      <td>3200</td>
+      <td>2900</td>
+      <td>1015</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Moon Sword</td>
+      <td>9</td>
+      <td>80</td>
+      <td>7</td>
+      <td>6400</td>
+      <td>3000</td>
+      <td>1050</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Lunar Blade</td>
+      <td>10</td>
+      <td>90</td>
+      <td>7</td>
+      <td>12800</td>
+      <td>3100</td>
+      <td>1085</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Lunar Sword</td>
+      <td>13</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>25600</td>
+      <td>3500</td>
+      <td>1225</td>
+      <td>(Anti-Bomb)<br/>Rustproof</td>
+    </tr>
+  </tbody>
+</table>
+
+### Lizard Lasher
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/lizard_lasher.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Lizard Lasher</td>
+      <td>10</td>
+      <td>25</td>
+      <td>3</td>
+      <td>-</td>
+      <td>3500</td>
+      <td>1225</td>
+      <td rowspan="7">(Anti-Dragon)</td>
+      <td rowspan="8">Deal more damage to Dragon types.<br/>(150%, +25% per level up | Lv8: 325%)<br/><br/>Resonance: <a href="/items/shields#lizard-shield">Lizard Shield</a><br/>(Attack and defense +3)<br/><br/>Families: Dragon, Firepuff, Hopodile</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Lizard Lancer</td>
+      <td>11</td>
+      <td>40</td>
+      <td>4</td>
+      <td>500</td>
+      <td>3600</td>
+      <td>1260</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Serpent Slasher</td>
+      <td>11</td>
+      <td>50</td>
+      <td>5</td>
+      <td>1000</td>
+      <td>3700</td>
+      <td>1295</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Wyrm Slayer</td>
+      <td>12</td>
+      <td>60</td>
+      <td>6</td>
+      <td>2000</td>
+      <td>3800</td>
+      <td>1330</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Drake Sword</td>
+      <td>12</td>
+      <td>70</td>
+      <td>7</td>
+      <td>4000</td>
+      <td>3900</td>
+      <td>1365</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Wyvern Blade</td>
+      <td>13</td>
+      <td>80</td>
+      <td>8</td>
+      <td>8000</td>
+      <td>4000</td>
+      <td>1400</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Dragon Killer</td>
+      <td>13</td>
+      <td>90</td>
+      <td>9</td>
+      <td>16000</td>
+      <td>4100</td>
+      <td>1435</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Dragon's Bane</td>
+      <td>15</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>32000</td>
+      <td>4500</td>
+      <td>1575</td>
+      <td>(Anti-Dragon)<br/>Rustproof</td>
+    </tr>
+  </tbody>
+</table>
+
+### Nap Rattle
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/nap_rattle.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Nap Rattle</td>
+      <td>2</td>
+      <td>25</td>
+      <td>3</td>
+      <td>-</td>
+      <td>7000</td>
+      <td>2450</td>
+      <td rowspan="7">(Sedating)</td>
+      <td rowspan="8">Chance to inflict <a href="/system/status-conditions#asleep">Asleep</a>.<br/>(12%, +2% per level up | Lv8: 26%)<br/><br/>Resonance: <a href="/items/bracelets">Alert Bracelet</a><br/>(Boost sleep chance)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Doze Rattle</td>
+      <td>4</td>
+      <td>40</td>
+      <td>3</td>
+      <td>300</td>
+      <td>7100</td>
+      <td>2485</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Drowse Rattle</td>
+      <td>4</td>
+      <td>50</td>
+      <td>3</td>
+      <td>800</td>
+      <td>7200</td>
+      <td>2520</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Catnap Rattle</td>
+      <td>4</td>
+      <td>60</td>
+      <td>4</td>
+      <td>1600</td>
+      <td>7300</td>
+      <td>2555</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Snooze Rattle</td>
+      <td>6</td>
+      <td>70</td>
+      <td>4</td>
+      <td>3200</td>
+      <td>7400</td>
+      <td>2590</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Sleep Rattle</td>
+      <td>6</td>
+      <td>80</td>
+      <td>5</td>
+      <td>6400</td>
+      <td>7500</td>
+      <td>2625</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Slumber Rattle</td>
+      <td>6</td>
+      <td>90</td>
+      <td>5</td>
+      <td>12800</td>
+      <td>7600</td>
+      <td>2660</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Dream Rattle</td>
+      <td>8</td>
+      <td>99</td>
+      <td>6</td>
+      <td>25600</td>
+      <td>8000</td>
+      <td>2800</td>
+      <td>(Sedating)<br/>Rustproof</td>
+    </tr>
+  </tbody>
+</table>
+
+### Shockuto
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/shockuto.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Shockuto</td>
+      <td>3</td>
+      <td>25</td>
+      <td>3</td>
+      <td>-</td>
+      <td>4000</td>
+      <td>1400</td>
+      <td rowspan="7">(Paralyzing)</td>
+      <td rowspan="8">Chance to inflict <a href="/system/status-conditions#paralyzed">Paralyzed</a>.<br/>(12%, +2% per level up | Lv8: 26%)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Good Shockuto</td>
+      <td>4</td>
+      <td>40</td>
+      <td>3</td>
+      <td>300</td>
+      <td>4100</td>
+      <td>1435</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Fine Shockuto</td>
+      <td>5</td>
+      <td>50</td>
+      <td>3</td>
+      <td>800</td>
+      <td>4200</td>
+      <td>1470</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Disabling Dirk</td>
+      <td>6</td>
+      <td>60</td>
+      <td>4</td>
+      <td>1600</td>
+      <td>4300</td>
+      <td>1505</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Disabling Edge</td>
+      <td>7</td>
+      <td>70</td>
+      <td>4</td>
+      <td>3200</td>
+      <td>4400</td>
+      <td>1540</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Disabling Blade</td>
+      <td>7</td>
+      <td>80</td>
+      <td>5</td>
+      <td>6400</td>
+      <td>4500</td>
+      <td>1575</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Disabling Sword</td>
+      <td>7</td>
+      <td>90</td>
+      <td>5</td>
+      <td>12800</td>
+      <td>4600</td>
+      <td>1610</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>The Paralyzer</td>
+      <td>9</td>
+      <td>99</td>
+      <td>6</td>
+      <td>25600</td>
+      <td>5000</td>
+      <td>1750</td>
+      <td>(Paralyzing)<br/>Rustproof</td>
+    </tr>
+  </tbody>
+</table>
+
+### Blurry Stick
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/blurry_stick.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Blurry Stick</td>
+      <td>4</td>
+      <td>25</td>
+      <td>5</td>
+      <td>-</td>
+      <td>6000</td>
+      <td>2100</td>
+      <td rowspan="7">(Blinding)</td>
+      <td rowspan="8">Chance to inflict <a href="/system/status-conditions#blind">Blind</a>.<br/>(12%→16%, then +2% per level up)<br/>(Lv8: 28%)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Bleary Stick</td>
+      <td>5</td>
+      <td>40</td>
+      <td>7</td>
+      <td>400</td>
+      <td>6100</td>
+      <td>2135</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Dazed Stick</td>
+      <td>5</td>
+      <td>50</td>
+      <td>7</td>
+      <td>900</td>
+      <td>6200</td>
+      <td>2170</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Dim Stick</td>
+      <td>6</td>
+      <td>60</td>
+      <td>9</td>
+      <td>1800</td>
+      <td>6300</td>
+      <td>2205</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Dark Stick</td>
+      <td>6</td>
+      <td>70</td>
+      <td>9</td>
+      <td>3600</td>
+      <td>6400</td>
+      <td>2240</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Stygian Stick</td>
+      <td>7</td>
+      <td>80</td>
+      <td>11</td>
+      <td>7200</td>
+      <td>6500</td>
+      <td>2275</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Typhlosis Stick</td>
+      <td>7</td>
+      <td>90</td>
+      <td>11</td>
+      <td>14400</td>
+      <td>6600</td>
+      <td>2310</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Blind Stick</td>
+      <td>9</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>28800</td>
+      <td>7000</td>
+      <td>2450</td>
+      <td>(Blinding)<br/>Rustproof</td>
+    </tr>
+  </tbody>
+</table>
+
+### Sealing Keisaku
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/sealing_keisaku.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Sealing Keisaku</td>
+      <td>5</td>
+      <td>25</td>
+      <td>5</td>
+      <td>-</td>
+      <td>3300</td>
+      <td>1155</td>
+      <td rowspan="7">(Sealing)</td>
+      <td rowspan="8">Chance to inflict <a href="/system/status-conditions#sealed">Sealed</a>.<br/>(12%→16%, then +2% per level up)<br/>(Lv8: 28%)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Nice Keisaku</td>
+      <td>6</td>
+      <td>40</td>
+      <td>6</td>
+      <td>200</td>
+      <td>3400</td>
+      <td>1190</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Good Keisaku</td>
+      <td>7</td>
+      <td>50</td>
+      <td>7</td>
+      <td>600</td>
+      <td>3500</td>
+      <td>1225</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Fine Keisaku</td>
+      <td>10</td>
+      <td>60</td>
+      <td>8</td>
+      <td>1200</td>
+      <td>3600</td>
+      <td>1260</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Super Keisaku</td>
+      <td>10</td>
+      <td>70</td>
+      <td>9</td>
+      <td>2400</td>
+      <td>3700</td>
+      <td>1295</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Power Keisaku</td>
+      <td>10</td>
+      <td>80</td>
+      <td>10</td>
+      <td>4800</td>
+      <td>3800</td>
+      <td>1330</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Potent Keisaku</td>
+      <td>10</td>
+      <td>90</td>
+      <td>11</td>
+      <td>9600</td>
+      <td>3900</td>
+      <td>1365</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Divine Keisaku</td>
+      <td>11</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>19200</td>
+      <td>4500</td>
+      <td>1575</td>
+      <td>(Sealing)<br/>Rustproof</td>
+    </tr>
+  </tbody>
+</table>
+
+### Baffle Axe
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/baffle_axe.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Baffle Axe</td>
+      <td>6</td>
+      <td>25</td>
+      <td>5</td>
+      <td>-</td>
+      <td>2000</td>
+      <td>700</td>
+      <td rowspan="7">(Confusing)</td>
+      <td rowspan="8">Chance to inflict <a href="/system/status-conditions#confused">Confused</a>.<br/>(12%→16%, then +2% per level up)<br/>(Lv8: 28%)<br/><br/>Resonance: <a href="/items/bracelets">Calm Bracelet</a><br/>(Boost confusion chance)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Good Baffle Axe</td>
+      <td>6</td>
+      <td>40</td>
+      <td>5</td>
+      <td>200</td>
+      <td>2100</td>
+      <td>735</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Nice Baffle Axe</td>
+      <td>8</td>
+      <td>50</td>
+      <td>7</td>
+      <td>600</td>
+      <td>2200</td>
+      <td>770</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Fine Baffle Axe</td>
+      <td>8</td>
+      <td>60</td>
+      <td>7</td>
+      <td>1200</td>
+      <td>2300</td>
+      <td>805</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Big Baffle Axe</td>
+      <td>10</td>
+      <td>70</td>
+      <td>9</td>
+      <td>2400</td>
+      <td>2400</td>
+      <td>840</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Huge Baffle Axe</td>
+      <td>10</td>
+      <td>80</td>
+      <td>9</td>
+      <td>4800</td>
+      <td>2500</td>
+      <td>875</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Rare Baffle Axe</td>
+      <td>12</td>
+      <td>90</td>
+      <td>11</td>
+      <td>9600</td>
+      <td>2600</td>
+      <td>910</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Chaos Axe</td>
+      <td>12</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>19200</td>
+      <td>3000</td>
+      <td>1050</td>
+      <td>(Confusing)<br/>Rustproof</td>
+    </tr>
+  </tbody>
+</table>
+
+### Hatchet
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/hatchet.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Hatchet</td>
+      <td>5</td>
+      <td>10</td>
+      <td>3</td>
+      <td>-</td>
+      <td>5000</td>
+      <td>1750</td>
+      <td rowspan="4">(Critical)</td>
+      <td rowspan="8">Chance to deal a critical hit.<br/>(Untested)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Battle Axe</td>
+      <td>5</td>
+      <td>20</td>
+      <td>3</td>
+      <td>200</td>
+      <td>5100</td>
+      <td>1785</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Fine Battle Axe</td>
+      <td>6</td>
+      <td>30</td>
+      <td>3</td>
+      <td>600</td>
+      <td>5200</td>
+      <td>1820</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Epic Battle Axe</td>
+      <td>6</td>
+      <td>40</td>
+      <td>4</td>
+      <td>1200</td>
+      <td>5300</td>
+      <td>1855</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>War Axe</td>
+      <td>7</td>
+      <td>50</td>
+      <td>4</td>
+      <td>2400</td>
+      <td>5400</td>
+      <td>1890</td>
+      <td rowspan="3">(Critical)<br/>HP+5</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>War Broadaxe</td>
+      <td>7</td>
+      <td>60</td>
+      <td>5</td>
+      <td>4800</td>
+      <td>5500</td>
+      <td>1925</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>War Tomahawk</td>
+      <td>10</td>
+      <td>70</td>
+      <td>5</td>
+      <td>9600</td>
+      <td>5600</td>
+      <td>1960</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>War God's Axe</td>
+      <td>10</td>
+      <td>99</td>
+      <td>6</td>
+      <td>19200</td>
+      <td>6500</td>
+      <td>2275</td>
+      <td>(Critical)<br/>HP+5<br/>Paralyzing</td>
+    </tr>
+  </tbody>
+</table>
+
+### Shoddy Dirk
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/shoddy_dirk.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Shoddy Dirk</td>
+      <td>30</td>
+      <td>30</td>
+      <td>10</td>
+      <td>-</td>
+      <td>3000</td>
+      <td>1050</td>
+      <td rowspan="8">(Degrade)</td>
+      <td rowspan="8">Decrease weapon upgrade value<br/>by 1 every time you hit an enemy.<br/><br/>Resonance: <a href="/items/shields#shoddy-plank">Shoddy Plank</a><br/>(Equipped items won't rust)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Shoddy Dagger</td>
+      <td>31</td>
+      <td>40</td>
+      <td>10</td>
+      <td>1000</td>
+      <td>3200</td>
+      <td>1120</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Shoddy Edge</td>
+      <td>32</td>
+      <td>50</td>
+      <td>10</td>
+      <td>2000</td>
+      <td>3400</td>
+      <td>1190</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Shoddy Blade</td>
+      <td>33</td>
+      <td>60</td>
+      <td>10</td>
+      <td>4000</td>
+      <td>3600</td>
+      <td>1260</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Shoddy Sword</td>
+      <td>34</td>
+      <td>70</td>
+      <td>10</td>
+      <td>8000</td>
+      <td>3800</td>
+      <td>1330</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Disposable Edge</td>
+      <td>35</td>
+      <td>80</td>
+      <td>10</td>
+      <td>16000</td>
+      <td>4000</td>
+      <td>1400</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Disposable Blade</td>
+      <td>36</td>
+      <td>90</td>
+      <td>10</td>
+      <td>24000</td>
+      <td>4200</td>
+      <td>1470</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Worthy Sword</td>
+      <td>37</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>48000</td>
+      <td>5000</td>
+      <td>1750</td>
+    </tr>
+  </tbody>
+</table>
+
+### Breeze Blade
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/breeze_blade.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Breeze Blade</td>
+      <td>2</td>
+      <td>25</td>
+      <td>2</td>
+      <td>-</td>
+      <td>8000</td>
+      <td>2800</td>
+      <td rowspan="7">(Tri-direction)</td>
+      <td rowspan="8">Attack in 3 forward directions.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Gust Gouger</td>
+      <td>3</td>
+      <td>40</td>
+      <td>3</td>
+      <td>400</td>
+      <td>8100</td>
+      <td>2835</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Flurry Flayer</td>
+      <td>4</td>
+      <td>50</td>
+      <td>3</td>
+      <td>800</td>
+      <td>8200</td>
+      <td>2870</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Gale Gutter</td>
+      <td>5</td>
+      <td>60</td>
+      <td>4</td>
+      <td>1600</td>
+      <td>8300</td>
+      <td>2905</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Storm Slicer</td>
+      <td>6</td>
+      <td>70</td>
+      <td>4</td>
+      <td>3200</td>
+      <td>8400</td>
+      <td>2940</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Typhoon Tearer</td>
+      <td>7</td>
+      <td>80</td>
+      <td>5</td>
+      <td>6400</td>
+      <td>8500</td>
+      <td>2975</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Razor Wind</td>
+      <td>8</td>
+      <td>90</td>
+      <td>5</td>
+      <td>12800</td>
+      <td>8600</td>
+      <td>3010</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Deathwind</td>
+      <td>9</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>25600</td>
+      <td>9500</td>
+      <td>3325</td>
+      <td>(Tri-direction)<br/>HP+20</td>
+    </tr>
+  </tbody>
+</table>
+
+### Burning Blade
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/burning_blade.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Burning Blade</td>
+      <td>9</td>
+      <td>25</td>
+      <td>4</td>
+      <td>-</td>
+      <td>10000</td>
+      <td>3500</td>
+      <td rowspan="4">(Flame Shot)</td>
+      <td rowspan="8">Shoot a flame when your HP is full.<br/>(Damage: 8, 10, 12, 14, 16, 18, 21, 25)<br/><br/>Resonance: <a href="/items/shields#swap-shield">Swap Shield</a><br/>(Boost Flame Shot damage)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Burning Sword</td>
+      <td>10</td>
+      <td>40</td>
+      <td>5</td>
+      <td>1000</td>
+      <td>11000</td>
+      <td>3850</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Flame Sword</td>
+      <td>11</td>
+      <td>50</td>
+      <td>6</td>
+      <td>2000</td>
+      <td>12000</td>
+      <td>4200</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Flame Katana</td>
+      <td>12</td>
+      <td>60</td>
+      <td>7</td>
+      <td>4000</td>
+      <td>13000</td>
+      <td>4550</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Fire Sword</td>
+      <td>13</td>
+      <td>70</td>
+      <td>8</td>
+      <td>7000</td>
+      <td>14000</td>
+      <td>4900</td>
+      <td rowspan="3">(Flame Shot)<br/>HP+10</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Fire Saber</td>
+      <td>14</td>
+      <td>80</td>
+      <td>9</td>
+      <td>11000</td>
+      <td>15000</td>
+      <td>5250</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Blazing Sword</td>
+      <td>15</td>
+      <td>90</td>
+      <td>10</td>
+      <td>16000</td>
+      <td>16000</td>
+      <td>5600</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Inferno Katana</td>
+      <td>16</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>22000</td>
+      <td>20000</td>
+      <td>7000</td>
+      <td>(Flame Shot)<br/>HP+10<br/>Charge<br/>Anti-Bomb</td>
+    </tr>
+  </tbody>
+</table>
+
+### Wonder Pick
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/wonder_pick.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Wonder Pick</td>
+      <td>7</td>
+      <td>25</td>
+      <td>3</td>
+      <td>-</td>
+      <td>10000</td>
+      <td>3500</td>
+      <td rowspan="4">(Infinite Dig)</td>
+      <td rowspan="8">Can dig holes in walls,<br/>and will never break.<br/><br/>Resonance: <a href="/items/shields#nirvana-board">Nirvana Board</a><br/>(Max HP +30)<br/><br/>Obtaining:<br/>Platinum Paradise (Shrine)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Wonder Buster</td>
+      <td>8</td>
+      <td>40</td>
+      <td>4</td>
+      <td>1000</td>
+      <td>12000</td>
+      <td>4200</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Wonder Breaker</td>
+      <td>9</td>
+      <td>50</td>
+      <td>5</td>
+      <td>2000</td>
+      <td>14000</td>
+      <td>4900</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Wonder Crusher</td>
+      <td>10</td>
+      <td>60</td>
+      <td>6</td>
+      <td>4000</td>
+      <td>16000</td>
+      <td>5600</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Wonder Smasher</td>
+      <td>11</td>
+      <td>70</td>
+      <td>7</td>
+      <td>8000</td>
+      <td>18000</td>
+      <td>6300</td>
+      <td rowspan="4">(Infinite Dig)<br/>Blinding</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Wonder Masher</td>
+      <td>12</td>
+      <td>80</td>
+      <td>8</td>
+      <td>16000</td>
+      <td>20000</td>
+      <td>7000</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Wonder Ruiner</td>
+      <td>13</td>
+      <td>90</td>
+      <td>9</td>
+      <td>32000</td>
+      <td>22000</td>
+      <td>7700</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Wonder Wrecker</td>
+      <td>14</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>64000</td>
+      <td>25000</td>
+      <td>8750</td>
+    </tr>
+  </tbody>
+</table>
+
+### Sturdy Hammer
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/sturdy_hammer.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Sturdy Hammer</td>
+      <td>7</td>
+      <td>25</td>
+      <td>3</td>
+      <td>-</td>
+      <td>15000</td>
+      <td>5250</td>
+      <td rowspan="4">(Trap Destroyer)</td>
+      <td rowspan="8">Can destroy traps,<br/>and will never break.<br/><br/>Obtaining:<br/>Banana Kingdom<br/>(1st clear, elite shops)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Pristine Hammer</td>
+      <td>7</td>
+      <td>40</td>
+      <td>4</td>
+      <td>1000</td>
+      <td>16000</td>
+      <td>5600</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Good Hammer</td>
+      <td>10</td>
+      <td>50</td>
+      <td>5</td>
+      <td>2000</td>
+      <td>17000</td>
+      <td>5950</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Nice Hammer</td>
+      <td>10</td>
+      <td>60</td>
+      <td>6</td>
+      <td>4000</td>
+      <td>18000</td>
+      <td>6300</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Fine Hammer</td>
+      <td>10</td>
+      <td>70</td>
+      <td>7</td>
+      <td>8000</td>
+      <td>19000</td>
+      <td>6650</td>
+      <td rowspan="4">(Trap Destroyer)<br/>Confusing</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Strong Hammer</td>
+      <td>13</td>
+      <td>80</td>
+      <td>8</td>
+      <td>16000</td>
+      <td>20000</td>
+      <td>7000</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Iron Hammer</td>
+      <td>13</td>
+      <td>90</td>
+      <td>9</td>
+      <td>32000</td>
+      <td>21000</td>
+      <td>7350</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Champion Hammer</td>
+      <td>13</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>64000</td>
+      <td>25000</td>
+      <td>8750</td>
+    </tr>
+  </tbody>
+</table>
+
+### True Knife
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/true_knife.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>True Knife</td>
+      <td>1</td>
+      <td>25</td>
+      <td>10</td>
+      <td>-</td>
+      <td>20000</td>
+      <td>7000</td>
+      <td rowspan="7">(Accurate)</td>
+      <td rowspan="8">Direct attacks always hit.<br/><br/>Resonance: <a href="/items/bracelets">Bind Bracelet</a><br/>(Thrown items always hit)<br/><br/>Obtaining:<br/>Level <a href="/system/allies#borg-mamel">Borg Mamel</a> to Lv100.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>True Edge</td>
+      <td>2</td>
+      <td>40</td>
+      <td>11</td>
+      <td>1000</td>
+      <td>21000</td>
+      <td>7350</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>True Dagger</td>
+      <td>2</td>
+      <td>50</td>
+      <td>12</td>
+      <td>2000</td>
+      <td>22000</td>
+      <td>7700</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>True Blade</td>
+      <td>3</td>
+      <td>60</td>
+      <td>13</td>
+      <td>4000</td>
+      <td>23000</td>
+      <td>8050</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>True Sword</td>
+      <td>3</td>
+      <td>70</td>
+      <td>14</td>
+      <td>8000</td>
+      <td>24000</td>
+      <td>8400</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>True Spatha</td>
+      <td>3</td>
+      <td>80</td>
+      <td>15</td>
+      <td>16000</td>
+      <td>25000</td>
+      <td>8750</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>True Gladius</td>
+      <td>4</td>
+      <td>90</td>
+      <td>16</td>
+      <td>32000</td>
+      <td>26000</td>
+      <td>9100</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Homing Blade</td>
+      <td>5</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>64000</td>
+      <td>30000</td>
+      <td>10500</td>
+      <td>(Accurate)<br/>Critical</td>
+    </tr>
+  </tbody>
+</table>
+
+### Bargain Blade
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/bargain_blade.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Bargain Blade</td>
+      <td>9</td>
+      <td>25</td>
+      <td>6</td>
+      <td>-</td>
+      <td>10000</td>
+      <td>3500</td>
+      <td rowspan="2">(Enriching)</td>
+      <td rowspan="8">Enemies drop Gitan more often.<br/>(Untested)<br/>Shops offer a discount.<br/>(20% off, +5% per level | Lv8: 55%)<br/><br/>Obtaining:<br/>Bargain Hunter <a href="/system/npcs">NPC</a>.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Bargain Sword</td>
+      <td>10</td>
+      <td>40</td>
+      <td>7</td>
+      <td>1000</td>
+      <td>11000</td>
+      <td>3850</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Barter Blade</td>
+      <td>11</td>
+      <td>50</td>
+      <td>8</td>
+      <td>2000</td>
+      <td>12000</td>
+      <td>4200</td>
+      <td rowspan="3">(Enriching)<br/>HP+5</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Barter Sword</td>
+      <td>12</td>
+      <td>60</td>
+      <td>9</td>
+      <td>4000</td>
+      <td>13000</td>
+      <td>4550</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Sale Blade</td>
+      <td>13</td>
+      <td>70</td>
+      <td>10</td>
+      <td>8000</td>
+      <td>14000</td>
+      <td>4900</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Sale Sword</td>
+      <td>14</td>
+      <td>80</td>
+      <td>11</td>
+      <td>16000</td>
+      <td>15000</td>
+      <td>5250</td>
+      <td rowspan="2">(Enriching)<br/>HP+5<br/>HP+10</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Sale Buster</td>
+      <td>15</td>
+      <td>90</td>
+      <td>12</td>
+      <td>32000</td>
+      <td>16000</td>
+      <td>5600</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Clearance Sword</td>
+      <td>16</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>64000</td>
+      <td>20000</td>
+      <td>7000</td>
+      <td>(Enriching)<br/>HP+5<br/>HP+10<br/>HP+15</td>
+    </tr>
+  </tbody>
+</table>
+
+### Kamina's Sword
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/kaminas_sword.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Kamina's Sword</td>
+      <td>25</td>
+      <td>25</td>
+      <td>10</td>
+      <td>-</td>
+      <td>25000</td>
+      <td>8750</td>
+      <td rowspan="7">(Attack Down)</td>
+      <td rowspan="8">Chance to lower target's attack.<br/>(12%, +3% per level | Lv8: 33%)<br/><br/>Resonance: <a href="/items/shields#jaguar's-shield">Jaguar's Shield</a><br/>(Equip 2 bracelets)<br/>+ <a href="/items/bracelets">Bulldog Bracelet</a><br/>(Attack damage +20)<br/>+ <a href="/items/projectiles">Hemoji Arrow</a><br/>(No fullness depletion)<br/><br/>Obtaining:<br/>Trial Road (Shrine)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Sharp Kamina</td>
+      <td>30</td>
+      <td>40</td>
+      <td>11</td>
+      <td>20000</td>
+      <td>26000</td>
+      <td>9100</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Fine Kamina</td>
+      <td>35</td>
+      <td>50</td>
+      <td>12</td>
+      <td>25000</td>
+      <td>27000</td>
+      <td>9450</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Finest Kamina</td>
+      <td>36</td>
+      <td>60</td>
+      <td>13</td>
+      <td>30000</td>
+      <td>28000</td>
+      <td>9800</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Reborn Kamina</td>
+      <td>37</td>
+      <td>70</td>
+      <td>14</td>
+      <td>35000</td>
+      <td>29000</td>
+      <td>10150</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Silent Kamina</td>
+      <td>38</td>
+      <td>80</td>
+      <td>15</td>
+      <td>40000</td>
+      <td>30000</td>
+      <td>10500</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Lunar Kamina</td>
+      <td>39</td>
+      <td>90</td>
+      <td>16</td>
+      <td>45000</td>
+      <td>31000</td>
+      <td>10850</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Divine Kamina</td>
+      <td>40</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>50000</td>
+      <td>35000</td>
+      <td>12250</td>
+      <td>(Attack Down)<br/>Rustproof</td>
+    </tr>
+  </tbody>
+</table>
+
+### Torch
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/weapons/torch.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Name</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Radius</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>Torch</td>
+      <td>100</td>
+      <td>35</td>
+      <td>1 tile</td>
+      <td rowspan="3">Lights up your surroundings at night.<br/>Dims by 1 stage every 250 turns. (500 if blessed)<br/>Warning at 50 turns remaining before it goes out.<br/><br/>Resonance: <a href="/items/shields#lamp-shield">Lamp Shield</a><br/>(Light up an entire room at night)</td>
+    </tr>
+    <tr>
+      <td>Fine Torch</td>
+      <td>200</td>
+      <td>70</td>
+      <td>2 tiles</td>
+    </tr>
+    <tr>
+      <td>Super Torch</td>
+      <td>400</td>
+      <td>140</td>
+      <td>3 tiles</td>
     </tr>
   </tbody>
 </table>

@@ -96,14 +96,14 @@ Traps are listed in Item Book order.
     <td>-</td>
   </tr>
   <tr>
-    <td id="trip-trap">[Trip]</td>
+    <td id="trip-trap"><img src="../images/traps/trip_stone.png"/><br/>Trip</td>
     <td>Deals 2~3 damage and<br/>makes you drop items.<br/>Dropped pots can break.<br/><br/>Balance Staff protects<br/>you from this effect.</td>
     <td>Deals 2~3 damage.<br/><br/>Zaloklefts, Mixers, and<br/>Froggos will drop the<br/>item they're carrying.</td>
     <td>Trap activates.</td>
     <td>Each activation while<br/>carrying Balance Staff<br/>lowers use count by 1.</td>
   </tr>
   <tr>
-    <td id="decay-trap">[Spoil]</td>
+    <td id="decay-trap"><img src="../images/traps/spoil.png"/><br/>Spoil</td>
     <td>Onigiri and peaches not<br/>inside pots instantly rot.<br/><br/>Instantly collapse if you<br/>step on it while you're<br/>an Onigiri.</td>
     <td>Become a Rotten Onigiri.<br/>(No experience points)<br/><br/>Gyazas are immune.<br/>(Receives 2 damage)</td>
     <td>Onigiri and peaches<br/>become rotten.</td>
@@ -159,7 +159,7 @@ Traps are listed in Item Book order.
     <td>-</td>
   </tr>
   <tr>
-    <td id="onigiri-trap">[Banana]</td>
+    <td id="onigiri-trap"><img src="../images/traps/banana.png"/><br/>Banana</td>
     <td>Inflicts Banana.</td>
     <td>Inflicts Banana.<br/><br/>Banana Novice monsters<br/>will be Buffed instead.</td>
     <td>Trap activates.</td>
@@ -173,7 +173,7 @@ Traps are listed in Item Book order.
     <td>See Slow status.</td>
   </tr>
   <tr>
-    <td id="hunger-trap">[Hunger]</td>
+    <td id="hunger-trap"><img src="../images/traps/hunger.png"/><br/>Hunger</td>
     <td>Decreases fullness by 10.</td>
     <td>Inflicts Weakened.<br/><br/>Polygon Spinnas will be<br/>Buffed instead.</td>
     <td>Trap activates.</td>

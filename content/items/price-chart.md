@@ -1291,7 +1291,7 @@ Example: Bladite-1 (Cursed): 0.8 x {3200 x (1 - 0.05)} = 3200 x 0.8 x 0.95 = 320
   </tr>
   <tr>
     <td class="priceTableName">Parry Shield</td>
-    <td class="leftText">Parry</td>
+    <td class="leftText">Redirect</td>
     <td>6</td>
     <td>15</td>
     <td>4</td>

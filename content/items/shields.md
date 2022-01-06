@@ -4,8 +4,6 @@ metaTitle: "Shields - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
-[NOTICE] The Details section of this page is incomplete.
-
 # Shield List
 
 <table class="itemListCentered">
@@ -272,7 +270,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>1/2 Blast</td>
       <td>L8: Rustproof<br/>L8: Anti-Burgle</td>
       <td>77,700</td>
-      <td><a href="/shiren5/item/weapons#crescent-blade">Crescent Blade</a><br/>(Attack and defense +3)</td>
+      <td><a href="/shiren5/item/weapons#crescent-katana">Crescent Katana</a><br/>(Attack and defense +3)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#lock-shield">Lock Shield</a></td>
@@ -437,30 +435,30 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <th>Lv</th>
       <th>Name</th>
-      <th>Rune</th>
       <th>Def</th>
       <th>Max</th>
       <th>Ct</th>
       <th>Exp</th>
       <th>Buy</th>
       <th>Sell</th>
+      <th>Rune</th>
       <th>Info</th>
     </tr>
     <tr>
       <td>1</td>
       <td>Palm Shield</td>
-      <td rowspan="3">-</td>
       <td>2</td>
       <td>10</td>
       <td>5</td>
       <td>-</td>
       <td>360</td>
       <td>126</td>
+      <td rowspan="3">-</td>
       <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#palm-stick">Palm Stick</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
-      <td></td>
+      <td>Good Palm Shield</td>
       <td>4</td>
       <td>20</td>
       <td>6</td>
@@ -470,7 +468,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>3</td>
-      <td></td>
+      <td>Hard Palm Shield</td>
       <td>6</td>
       <td>30</td>
       <td>6</td>
@@ -480,18 +478,18 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>4</td>
-      <td></td>
-      <td rowspan="4">HP+5</td>
+      <td>Nice Palm Shield</td>
       <td>8</td>
       <td>40</td>
       <td>7</td>
       <td>900</td>
       <td>660</td>
       <td>231</td>
+      <td rowspan="4">HP+5</td>
     </tr>
     <tr>
       <td>5</td>
-      <td></td>
+      <td>Wood Shield</td>
       <td>10</td>
       <td>50</td>
       <td>7</td>
@@ -501,7 +499,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>6</td>
-      <td></td>
+      <td>Big Wood Shield</td>
       <td>11</td>
       <td>60</td>
       <td>8</td>
@@ -511,7 +509,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>7</td>
-      <td></td>
+      <td>Hard Wood Shield</td>
       <td>12</td>
       <td>70</td>
       <td>8</td>
@@ -522,13 +520,13 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <td>8</td>
       <td>Demon's Guard</td>
-      <td>HP+5<br/>1/2 Hunger</td>
       <td>15</td>
       <td>99</td>
       <td>∞</td>
       <td>14400</td>
       <td>1300</td>
       <td>455</td>
+      <td>HP+5<br/>1/2 Hunger</td>
     </tr>
   </tbody>
 </table>
@@ -553,30 +551,30 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <th>Lv</th>
       <th>Name</th>
-      <th>Rune</th>
       <th>Def</th>
       <th>Max</th>
       <th>Ct</th>
       <th>Exp</th>
       <th>Buy</th>
       <th>Sell</th>
+      <th>Rune</th>
       <th>Info</th>
     </tr>
     <tr>
       <td>1</td>
       <td>Copper Guard</td>
-      <td rowspan="3">-</td>
       <td>4</td>
       <td>10</td>
       <td>4</td>
       <td>-</td>
       <td>740</td>
       <td>259</td>
+      <td rowspan="3">-</td>
       <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#copper-edge">Copper Edge</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
-      <td></td>
+      <td>Copper Buckler</td>
       <td>5</td>
       <td>20</td>
       <td>5</td>
@@ -586,7 +584,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>3</td>
-      <td></td>
+      <td>Copper Targe</td>
       <td>7</td>
       <td>30</td>
       <td>5</td>
@@ -596,18 +594,18 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>4</td>
-      <td></td>
-      <td rowspan="4">HP+5</td>
+      <td>Copper Shield</td>
       <td>9</td>
       <td>40</td>
       <td>6</td>
       <td>1100</td>
       <td>1100</td>
       <td>385</td>
+      <td rowspan="4">HP+5</td>
     </tr>
     <tr>
       <td>5</td>
-      <td></td>
+      <td>Bronze Buckler</td>
       <td>11</td>
       <td>50</td>
       <td>6</td>
@@ -617,7 +615,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>6</td>
-      <td></td>
+      <td>Bronze Targe</td>
       <td>13</td>
       <td>60</td>
       <td>7</td>
@@ -627,7 +625,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>7</td>
-      <td></td>
+      <td>Bronze Shield</td>
       <td>15</td>
       <td>70</td>
       <td>7</td>
@@ -638,13 +636,13 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <td>8</td>
       <td>Bronze Bulwark</td>
-      <td>HP+5<br/>Rustproof</td>
       <td>18</td>
       <td>99</td>
       <td>∞</td>
       <td>17600</td>
       <td>1700</td>
       <td>595</td>
+      <td>HP+5<br/>Rustproof</td>
     </tr>
   </tbody>
 </table>
@@ -669,30 +667,30 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <th>Lv</th>
       <th>Name</th>
-      <th>Rune</th>
       <th>Def</th>
       <th>Max</th>
       <th>Ct</th>
       <th>Exp</th>
       <th>Buy</th>
       <th>Sell</th>
+      <th>Rune</th>
       <th>Info</th>
     </tr>
     <tr>
       <td>1</td>
       <td>Iron Targe</td>
-      <td rowspan="3">-</td>
       <td>6</td>
       <td>10</td>
       <td>3</td>
       <td>-</td>
       <td>1300</td>
       <td>455</td>
+      <td rowspan="3">-</td>
       <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#katana">Katana</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
-      <td></td>
+      <td>Good Iron Targe</td>
       <td>8</td>
       <td>20</td>
       <td>5</td>
@@ -702,7 +700,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>3</td>
-      <td></td>
+      <td>Nice Iron Targe</td>
       <td>10</td>
       <td>30</td>
       <td>5</td>
@@ -712,18 +710,18 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>4</td>
-      <td></td>
-      <td rowspan="5">HP+5</td>
+      <td>Iron Shield</td>
       <td>12</td>
       <td>40</td>
       <td>7</td>
       <td>1300</td>
       <td>1600</td>
       <td>560</td>
+      <td rowspan="5">HP+10</td>
     </tr>
     <tr>
       <td>5</td>
-      <td></td>
+      <td>Good Iron Shield</td>
       <td>14</td>
       <td>50</td>
       <td>7</td>
@@ -733,7 +731,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>6</td>
-      <td></td>
+      <td>Rare Iron Shield</td>
       <td>16</td>
       <td>60</td>
       <td>8</td>
@@ -743,7 +741,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>7</td>
-      <td></td>
+      <td>Steel Shield</td>
       <td>18</td>
       <td>70</td>
       <td>8</td>
@@ -784,30 +782,30 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <th>Lv</th>
       <th>Name</th>
-      <th>Rune</th>
       <th>Def</th>
       <th>Max</th>
       <th>Ct</th>
       <th>Exp</th>
       <th>Buy</th>
       <th>Sell</th>
+      <th>Rune</th>
       <th>Info</th>
     </tr>
     <tr>
       <td>1</td>
       <td>Clan Shield</td>
-      <td rowspan="3">-</td>
       <td>8</td>
       <td>10</td>
       <td>5</td>
       <td>-</td>
       <td>1800</td>
       <td>630</td>
+      <td rowspan="3">-</td>
       <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#dotanuki">Dotanuki</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
-      <td></td>
+      <td>Mid Clan Shield</td>
       <td>9</td>
       <td>20</td>
       <td>6</td>
@@ -817,7 +815,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>3</td>
-      <td></td>
+      <td>Big Clan Shield</td>
       <td>10</td>
       <td>30</td>
       <td>6</td>
@@ -827,29 +825,29 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>4</td>
-      <td></td>
-      <td>HP+5</td>
+      <td>Tribal Shield</td>
       <td>14</td>
       <td>40</td>
       <td>7</td>
       <td>1400</td>
       <td>2100</td>
       <td>735</td>
+      <td>HP+5</td>
     </tr>
     <tr>
       <td>5</td>
-      <td></td>
-      <td rowspan="4">HP+5<br/>Rustproof</td>
+      <td>Chief's Shield</td>
       <td>15</td>
       <td>50</td>
       <td>7</td>
       <td>2800</td>
       <td>2200</td>
       <td>770</td>
+      <td rowspan="4">HP+5<br/>Rustproof</td>
     </tr>
     <tr>
       <td>6</td>
-      <td></td>
+      <td>Warrior's Shield</td>
       <td>16</td>
       <td>60</td>
       <td>8</td>
@@ -859,7 +857,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>7</td>
-      <td></td>
+      <td>Chieftain Shield</td>
       <td>18</td>
       <td>70</td>
       <td>8</td>
@@ -900,30 +898,30 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <th>Lv</th>
       <th>Name</th>
-      <th>Rune</th>
       <th>Def</th>
       <th>Max</th>
       <th>Ct</th>
       <th>Exp</th>
       <th>Buy</th>
       <th>Sell</th>
+      <th>Rune</th>
       <th>Info</th>
     </tr>
     <tr>
       <td>1</td>
       <td>Beast Shield</td>
-      <td rowspan="3">-</td>
       <td>10</td>
       <td>10</td>
       <td>4</td>
       <td>-</td>
       <td>2400</td>
       <td>840</td>
+      <td rowspan="3">-</td>
       <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#beast-fang">Beast Fang</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
-      <td></td>
+      <td>Fine Beast Shield</td>
       <td>12</td>
       <td>20</td>
       <td>6</td>
@@ -933,7 +931,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>3</td>
-      <td></td>
+      <td>Wild Beast Shield</td>
       <td>14</td>
       <td>30</td>
       <td>6</td>
@@ -943,18 +941,18 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>4</td>
-      <td></td>
-      <td rowspan="4">HP+10</td>
+      <td>Lion Shield</td>
       <td>16</td>
       <td>40</td>
       <td>8</td>
       <td>1600</td>
       <td>2700</td>
       <td>945</td>
+      <td rowspan="4">HP+10</td>
     </tr>
     <tr>
       <td>5</td>
-      <td></td>
+      <td>Good Lion Shield</td>
       <td>18</td>
       <td>50</td>
       <td>8</td>
@@ -964,7 +962,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>6</td>
-      <td></td>
+      <td>Wild Lion Shield</td>
       <td>20</td>
       <td>60</td>
       <td>9</td>
@@ -974,7 +972,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>7</td>
-      <td></td>
+      <td>Feral Lion Shield</td>
       <td>21</td>
       <td>70</td>
       <td>9</td>
@@ -985,13 +983,13 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <td>8</td>
       <td>Beastmaster</td>
-      <td>HP+10<br/>Def+3</td>
       <td>23</td>
       <td>99</td>
       <td>∞</td>
       <td>25600</td>
       <td>3500</td>
       <td>1225</td>
+      <td>HP+10<br/>Def+3</td>
     </tr>
   </tbody>
 </table>
@@ -1004,7 +1002,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <th>Lv1 Description</th>
   </tr>
   <tr>
-    <td><img src="../images/shields/meteor-guard.png"/></td>
+    <td><img src="../images/shields/meteor_guard.png"/></td>
     <td>item_book_description</td>
   </tr>
 </table>
@@ -1016,30 +1014,30 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <th>Lv</th>
       <th>Name</th>
-      <th>Rune</th>
       <th>Def</th>
       <th>Max</th>
       <th>Ct</th>
       <th>Exp</th>
       <th>Buy</th>
       <th>Sell</th>
+      <th>Rune</th>
       <th>Info</th>
     </tr>
     <tr>
       <td>1</td>
       <td>Meteor Guard</td>
-      <td rowspan="3">-</td>
       <td>12</td>
       <td>10</td>
       <td>5</td>
       <td>-</td>
       <td>3200</td>
       <td>1120</td>
+      <td rowspan="3">-</td>
       <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#meteor-edge">Meteor Edge</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
-      <td></td>
+      <td>Meteor Targe</td>
       <td>16</td>
       <td>20</td>
       <td>6</td>
@@ -1049,7 +1047,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>3</td>
-      <td></td>
+      <td>Meteor Shield</td>
       <td>16</td>
       <td>30</td>
       <td>7</td>
@@ -1059,29 +1057,29 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>4</td>
-      <td></td>
-      <td>HP+10</td>
+      <td>Asteroid Guard</td>
       <td>18</td>
       <td>40</td>
       <td>8</td>
       <td>1800</td>
       <td>3500</td>
       <td>1225</td>
+      <td>HP+10</td>
     </tr>
     <tr>
       <td>5</td>
-      <td></td>
-      <td rowspan="3">HP+10<br/>Rustproof</td>
+      <td>Asteroid Shield</td>
       <td>18</td>
       <td>50</td>
       <td>9</td>
       <td>3600</td>
       <td>3600</td>
       <td>1260</td>
+      <td rowspan="3">HP+10<br/>Rustproof</td>
     </tr>
     <tr>
       <td>6</td>
-      <td></td>
+      <td>Comet Guard</td>
       <td>21</td>
       <td>60</td>
       <td>9</td>
@@ -1091,7 +1089,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>7</td>
-      <td></td>
+      <td>Comet Shield</td>
       <td>21</td>
       <td>70</td>
       <td>9</td>
@@ -1102,13 +1100,13 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <td>8</td>
       <td>Galaxy Guard</td>
-      <td>HP+10<br/>Rustproof<br/>Anti-Theft</td>
       <td>25</td>
       <td>99</td>
       <td>∞</td>
       <td>28800</td>
       <td>4500</td>
       <td>1575</td>
+      <td>HP+10<br/>Rustproof<br/>Anti-Theft</td>
     </tr>
   </tbody>
 </table>
@@ -1133,30 +1131,30 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <th>Lv</th>
       <th>Name</th>
-      <th>Rune</th>
       <th>Def</th>
       <th>Max</th>
       <th>Ct</th>
       <th>Exp</th>
       <th>Buy</th>
       <th>Sell</th>
+      <th>Rune</th>
       <th>Info</th>
     </tr>
     <tr>
       <td>1</td>
       <td>Red Shield</td>
-      <td rowspan="2">-</td>
       <td>14</td>
       <td>10</td>
       <td>4</td>
       <td>-</td>
       <td>4800</td>
       <td>1680</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#red-blade">Red Blade</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="2">-</td>
+      <td rowspan="8">Resonance: <a href="/items/weapons#red-blade">Red Blade</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
-      <td></td>
+      <td>Good Red Shield</td>
       <td>16</td>
       <td>20</td>
       <td>5</td>
@@ -1166,18 +1164,18 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>3</td>
-      <td></td>
-      <td rowspan="5">HP+10</td>
+      <td>Fine Red Shield</td>
       <td>17</td>
       <td>30</td>
       <td>6</td>
       <td>1000</td>
       <td>5000</td>
       <td>1750</td>
+      <td rowspan="5">HP+10</td>
     </tr>
     <tr>
       <td>4</td>
-      <td></td>
+      <td>Hard Red Shield</td>
       <td>18</td>
       <td>40</td>
       <td>6</td>
@@ -1187,7 +1185,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>5</td>
-      <td></td>
+      <td>Rare Red Shield</td>
       <td>19</td>
       <td>50</td>
       <td>7</td>
@@ -1197,7 +1195,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>6</td>
-      <td></td>
+      <td>Crimson Shield</td>
       <td>21</td>
       <td>60</td>
       <td>7</td>
@@ -1207,7 +1205,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>7</td>
-      <td></td>
+      <td>Scarlet Shield</td>
       <td>23</td>
       <td>70</td>
       <td>8</td>
@@ -1218,13 +1216,13 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <td>8</td>
       <td>Shugoseki Shield</td>
-      <td>HP+10<br/>1/2 Fire<br/>Anti-Peck</td>
       <td>27</td>
       <td>99</td>
       <td>∞</td>
       <td>32000</td>
       <td>6400</td>
       <td>2240</td>
+      <td>HP+10<br/>1/2 Fire<br/>Anti-Peck</td>
     </tr>
   </tbody>
 </table>
@@ -1249,30 +1247,30 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <th>Lv</th>
       <th>Name</th>
-      <th>Rune</th>
       <th>Def</th>
       <th>Max</th>
       <th>Ct</th>
       <th>Exp</th>
       <th>Buy</th>
       <th>Sell</th>
+      <th>Rune</th>
       <th>Info</th>
     </tr>
     <tr>
       <td>1</td>
       <td>Fuuma Shield</td>
-      <td rowspan="7">-</td>
       <td>16</td>
       <td>10</td>
       <td>3</td>
       <td>-</td>
       <td>8500</td>
       <td>2975</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#kabura's-blade">Kabura's Blade</a><br/>(Attack damage +5)</td>
+      <td rowspan="7">-</td>
+      <td rowspan="8">Resonance: <a href="/items/weapons#kabura's-blade">Kabura's Blade</a><br/>(Attack damage +5)</td>
     </tr>
     <tr>
       <td>2</td>
-      <td></td>
+      <td>Good Fuuma</td>
       <td>17</td>
       <td>20</td>
       <td>4</td>
@@ -1282,7 +1280,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>3</td>
-      <td></td>
+      <td>Nice Fuuma</td>
       <td>18</td>
       <td>30</td>
       <td>5</td>
@@ -1292,7 +1290,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>4</td>
-      <td></td>
+      <td>Fine Fuuma</td>
       <td>19</td>
       <td>40</td>
       <td>6</td>
@@ -1302,7 +1300,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>5</td>
-      <td></td>
+      <td>Rare Fuuma</td>
       <td>20</td>
       <td>50</td>
       <td>7</td>
@@ -1312,7 +1310,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>6</td>
-      <td></td>
+      <td>Strong Fuuma</td>
       <td>23</td>
       <td>60</td>
       <td>9</td>
@@ -1322,7 +1320,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>7</td>
-      <td></td>
+      <td>Epic Fuuma</td>
       <td>26</td>
       <td>70</td>
       <td>11</td>
@@ -1333,13 +1331,13 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <td>8</td>
       <td>Legendary Fuuma</td>
-      <td>Rustproof</td>
       <td>30</td>
       <td>99</td>
       <td>∞</td>
       <td>54400</td>
       <td>11000</td>
       <td>3850</td>
+      <td>Rustproof</td>
     </tr>
   </tbody>
 </table>
@@ -1364,30 +1362,30 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <th>Lv</th>
       <th>Name</th>
-      <th>Rune</th>
       <th>Def</th>
       <th>Max</th>
       <th>Ct</th>
       <th>Exp</th>
       <th>Buy</th>
       <th>Sell</th>
+      <th>Rune</th>
       <th>Info</th>
     </tr>
     <tr>
       <td>1</td>
       <td>Helix Shield</td>
-      <td rowspan="8">-</td>
       <td>25</td>
       <td>10</td>
       <td>∞</td>
       <td>-</td>
       <td>12000</td>
       <td>4200</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#fuuma-sword">Fuuma Sword</a><br/>(Attack damage +10)<br/><br/>Resonance: <a href="/shiren5/item/weapons#kaburagi">Kaburagi</a><br/>(Attack damage +10)</td>
+      <td rowspan="8">-</td>
+      <td rowspan="8">Resonance: <a href="/items/weapons#fuuma-sword">Fuuma Sword</a><br/>(Attack damage +10)<br/><br/>Resonance: <a href="/items/weapons#kaburagi">Kaburagi</a><br/>(Attack damage +10)<br/><br/>Obtaining:<br/>Upgrade a Legendary Fuuma+99<br/>using the Smith 1 <a href="/system/npcs">NPC</a>.</td>
     </tr>
     <tr>
       <td>2</td>
-      <td></td>
+      <td>Nice Helix Shield</td>
       <td>26</td>
       <td>20</td>
       <td>∞</td>
@@ -1397,7 +1395,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>3</td>
-      <td></td>
+      <td>Fine Helix Shield</td>
       <td>27</td>
       <td>30</td>
       <td>∞</td>
@@ -1407,7 +1405,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>4</td>
-      <td></td>
+      <td>Rare Helix Shield</td>
       <td>28</td>
       <td>40</td>
       <td>∞</td>
@@ -1417,7 +1415,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>5</td>
-      <td></td>
+      <td>Epic Helix Shield</td>
       <td>29</td>
       <td>50</td>
       <td>∞</td>
@@ -1427,7 +1425,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>6</td>
-      <td></td>
+      <td>Double Helix</td>
       <td>30</td>
       <td>60</td>
       <td>∞</td>
@@ -1437,7 +1435,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>7</td>
-      <td></td>
+      <td>Super Helix</td>
       <td>31</td>
       <td>70</td>
       <td>∞</td>
@@ -1478,30 +1476,30 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <th>Lv</th>
       <th>Name</th>
-      <th>Rune</th>
       <th>Def</th>
       <th>Max</th>
       <th>Ct</th>
       <th>Exp</th>
       <th>Buy</th>
       <th>Sell</th>
+      <th>Rune</th>
       <th>Info</th>
     </tr>
     <tr>
       <td>1</td>
       <td>Dull Gold Shield</td>
-      <td rowspan="7">(Rustproof)</td>
       <td>2</td>
       <td>15</td>
       <td>7</td>
       <td>-</td>
       <td>1500</td>
       <td>525</td>
-      <td rowspan="8">This shield won't rust.<br/><br/>Resonance: <a href="/shiren5/item/weapons#dull-gold-edge">Dull Gold Edge</a><br/>(Max strength +3)</td>
+      <td rowspan="7">(Rustproof)</td>
+      <td rowspan="8">This shield won't rust.<br/><br/>Resonance: <a href="/items/weapons#dull-gold-edge">Dull Gold Edge</a><br/>(Max strength +3)</td>
     </tr>
     <tr>
       <td>2</td>
-      <td></td>
+      <td>Plain Gold Shield</td>
       <td>2</td>
       <td>25</td>
       <td>8</td>
@@ -1511,7 +1509,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>3</td>
-      <td></td>
+      <td>Shiny Gold Shield</td>
       <td>3</td>
       <td>35</td>
       <td>9</td>
@@ -1521,7 +1519,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>4</td>
-      <td></td>
+      <td>Fine Gold Shield</td>
       <td>3</td>
       <td>45</td>
       <td>10</td>
@@ -1531,7 +1529,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>5</td>
-      <td></td>
+      <td>14K Gold Shield</td>
       <td>3</td>
       <td>55</td>
       <td>11</td>
@@ -1541,7 +1539,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>6</td>
-      <td></td>
+      <td>18K Gold Shield</td>
       <td>4</td>
       <td>65</td>
       <td>12</td>
@@ -1551,7 +1549,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>7</td>
-      <td></td>
+      <td>24K Gold Shield</td>
       <td>4</td>
       <td>75</td>
       <td>13</td>
@@ -1562,13 +1560,13 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <td>8</td>
       <td>DX Gold Shield</td>
-      <td>(Rustproof)<br/>Pain Fullness</td>
       <td>5</td>
       <td>99</td>
       <td>∞</td>
       <td>16000</td>
       <td>9000</td>
       <td>3150</td>
+      <td>(Rustproof)<br/>Pain Fullness</td>
     </tr>
   </tbody>
 </table>
@@ -1593,30 +1591,30 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <th>Lv</th>
       <th>Name</th>
-      <th>Rune</th>
       <th>Def</th>
       <th>Max</th>
       <th>Ct</th>
       <th>Exp</th>
       <th>Buy</th>
       <th>Sell</th>
+      <th>Rune</th>
       <th>Info</th>
     </tr>
     <tr>
       <td>1</td>
       <td>Diet Shield</td>
-      <td rowspan="7">(1/2 Hunger)</td>
       <td>2</td>
       <td>15</td>
       <td>3</td>
       <td>-</td>
       <td>5000</td>
       <td>1750</td>
+      <td rowspan="7">(1/2 Hunger)</td>
       <td rowspan="8">Decrease hunger rate.<br/>(50, 45, 45, 40, 40, 35, 35, 30%)</td>
     </tr>
     <tr>
       <td>2</td>
-      <td></td>
+      <td>Fasting Shield</td>
       <td>3</td>
       <td>25</td>
       <td>4</td>
@@ -1626,7 +1624,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>3</td>
-      <td></td>
+      <td>Content Shield</td>
       <td>4</td>
       <td>35</td>
       <td>5</td>
@@ -1636,7 +1634,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>4</td>
-      <td></td>
+      <td>Satisfied Shield</td>
       <td>5</td>
       <td>45</td>
       <td>6</td>
@@ -1646,7 +1644,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>5</td>
-      <td></td>
+      <td>Satiated Shield</td>
       <td>6</td>
       <td>55</td>
       <td>7</td>
@@ -1656,7 +1654,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>6</td>
-      <td></td>
+      <td>Stuffed Shield</td>
       <td>7</td>
       <td>65</td>
       <td>8</td>
@@ -1666,7 +1664,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>7</td>
-      <td></td>
+      <td>Gratified Shield</td>
       <td>8</td>
       <td>75</td>
       <td>9</td>
@@ -1677,13 +1675,13 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <td>8</td>
       <td>Surfeit Shield</td>
-      <td>(1/2 Hunger)<br/>HP+20</td>
       <td>10</td>
       <td>99</td>
       <td>∞</td>
       <td>22000</td>
       <td>10000</td>
       <td>3500</td>
+      <td>(1/2 Hunger)<br/>HP+20</td>
     </tr>
   </tbody>
 </table>
@@ -1708,30 +1706,30 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <th>Lv</th>
       <th>Name</th>
-      <th>Rune</th>
       <th>Def</th>
       <th>Max</th>
       <th>Ct</th>
       <th>Exp</th>
       <th>Buy</th>
       <th>Sell</th>
+      <th>Rune</th>
       <th>Info</th>
     </tr>
     <tr>
       <td>1</td>
       <td>Heavy Shield</td>
-      <td rowspan="7">(Hungry)</td>
       <td>12</td>
       <td>15</td>
       <td>7</td>
       <td>-</td>
       <td>6000</td>
       <td>2100</td>
-      <td rowspan="8">Increase hunger rate.<br/>(200%, +20% per level up | L8: 340%)</td>
+      <td rowspan="7">(Hungry)</td>
+      <td rowspan="8">Increase hunger rate.<br/>(200%, +20% per level | Lv8: 340%)</td>
     </tr>
     <tr>
       <td>2</td>
-      <td></td>
+      <td>Heavy Aspis</td>
       <td>15</td>
       <td>25</td>
       <td>8</td>
@@ -1741,7 +1739,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>3</td>
-      <td></td>
+      <td>Fine Heavy Aspis</td>
       <td>17</td>
       <td>35</td>
       <td>9</td>
@@ -1751,7 +1749,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>4</td>
-      <td></td>
+      <td>Kite Shield</td>
       <td>19</td>
       <td>45</td>
       <td>10</td>
@@ -1761,7 +1759,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>5</td>
-      <td></td>
+      <td>Good Kite Shield</td>
       <td>22</td>
       <td>55</td>
       <td>11</td>
@@ -1771,7 +1769,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>6</td>
-      <td></td>
+      <td>Heavy Pavise</td>
       <td>24</td>
       <td>65</td>
       <td>12</td>
@@ -1781,7 +1779,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>7</td>
-      <td></td>
+      <td>Tower Shield</td>
       <td>26</td>
       <td>75</td>
       <td>13</td>
@@ -1792,13 +1790,13 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <td>8</td>
       <td>Ultimate Aegis</td>
-      <td>(Hungry)<br/>Unmoving<br/>Anti-Burgle</td>
       <td>28</td>
       <td>99</td>
       <td>∞</td>
       <td>20000</td>
       <td>13000</td>
       <td>4550</td>
+      <td>(Hungry)<br/>Unmoving<br/>Anti-Burgle</td>
     </tr>
   </tbody>
 </table>
@@ -1823,30 +1821,30 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <th>Lv</th>
       <th>Name</th>
-      <th>Rune</th>
       <th>Def</th>
       <th>Max</th>
       <th>Ct</th>
       <th>Exp</th>
       <th>Buy</th>
       <th>Sell</th>
+      <th>Rune</th>
       <th>Info</th>
     </tr>
     <tr>
       <td>1</td>
       <td>Counter Shield</td>
-      <td rowspan="7">(Counter)</td>
       <td>3</td>
       <td>15</td>
       <td>5</td>
       <td>-</td>
       <td>3000</td>
       <td>1050</td>
-      <td rowspan="8">Reflects a portion of damage<br/>received back at an enemy.<br/><br/>Resonance: <a href="/shiren5/item/bracelets#strength-bracelet">Strength Bracelet</a><br/>(Double counter damage)</td>
+      <td rowspan="7">(Counter)</td>
+      <td rowspan="8">Reflects a portion of damage<br/>received back at an enemy.<br/>(Untested)<br/><br/>Resonance: <a href="/items/bracelets">Strength Bracelet</a><br/>(Double counter damage)</td>
     </tr>
     <tr>
       <td>2</td>
-      <td></td>
+      <td>Solid Counter</td>
       <td>5</td>
       <td>25</td>
       <td>6</td>
@@ -1856,7 +1854,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>3</td>
-      <td></td>
+      <td>Fine Counter</td>
       <td>7</td>
       <td>35</td>
       <td>6</td>
@@ -1866,7 +1864,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>4</td>
-      <td></td>
+      <td>Timely Counter</td>
       <td>8</td>
       <td>45</td>
       <td>7</td>
@@ -1876,7 +1874,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>5</td>
-      <td></td>
+      <td>Great Counter</td>
       <td>9</td>
       <td>55</td>
       <td>7</td>
@@ -1886,7 +1884,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>6</td>
-      <td></td>
+      <td>Battle Counter</td>
       <td>10</td>
       <td>65</td>
       <td>8</td>
@@ -1896,7 +1894,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>7</td>
-      <td></td>
+      <td>Mega Counter</td>
       <td>11</td>
       <td>75</td>
       <td>8</td>
@@ -1907,13 +1905,13 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <td>8</td>
       <td>Killer Counter</td>
-      <td>(Counter)<br/>Damage Exp</td>
       <td>12</td>
       <td>99</td>
       <td>∞</td>
       <td>25600</td>
       <td>11000</td>
       <td>3850</td>
+      <td>(Counter)<br/>Damage Exp</td>
     </tr>
   </tbody>
 </table>
@@ -1938,98 +1936,1827 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     <tr>
       <th>Lv</th>
       <th>Name</th>
-      <th>Rune</th>
       <th>Def</th>
       <th>Max</th>
       <th>Ct</th>
       <th>Exp</th>
       <th>Buy</th>
       <th>Sell</th>
+      <th>Rune</th>
       <th>Info</th>
     </tr>
     <tr>
       <td>1</td>
       <td>Happy Shield</td>
-      <td rowspan="4">(Damage Exp)</td>
       <td>3</td>
       <td>15</td>
-      <td>5</td>
+      <td>3</td>
       <td>-</td>
-      <td>3000</td>
-      <td>1050</td>
-      <td rowspan="8">Gain experience points<br/>when you receive damage.<br/><br/>Resonance: <a href="/shiren5/item/bracelets#happy-bracelet">Happy Bracelet</a><br/>(Double bracelet exp gain)</td>
+      <td>8000</td>
+      <td>2800</td>
+      <td rowspan="4">(Damage Exp)</td>
+      <td rowspan="8">Gain experience points<br/>when you receive damage.<br/>(Untested)<br/><br/>Resonance: <a href="/items/bracelets">Happy Bracelet</a><br/>(Double bracelet exp gain)</td>
     </tr>
     <tr>
       <td>2</td>
-      <td></td>
+      <td>Jovial Shield</td>
+      <td>4</td>
+      <td>25</td>
+      <td>3</td>
+      <td>1000</td>
+      <td>9000</td>
+      <td>3150</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Elated Shield</td>
+      <td>4</td>
+      <td>35</td>
+      <td>4</td>
+      <td>2000</td>
+      <td>10000</td>
+      <td>3500</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Gleeful Shield</td>
       <td>5</td>
+      <td>45</td>
+      <td>4</td>
+      <td>4000</td>
+      <td>11000</td>
+      <td>3850</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Joyful Shield</td>
+      <td>5</td>
+      <td>55</td>
+      <td>5</td>
+      <td>7000</td>
+      <td>12000</td>
+      <td>4200</td>
+      <td rowspan="3">(Damage Exp)<br/>HP+5</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Jubilant Shield</td>
+      <td>6</td>
+      <td>65</td>
+      <td>5</td>
+      <td>11000</td>
+      <td>13000</td>
+      <td>4550</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Ecstatic Shield</td>
+      <td>6</td>
+      <td>75</td>
+      <td>6</td>
+      <td>16000</td>
+      <td>14000</td>
+      <td>4900</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Blissful Shield</td>
+      <td>8</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>22000</td>
+      <td>16000</td>
+      <td>5600</td>
+      <td>(Damage Exp)<br/>HP+5<br/>Def+3</td>
+    </tr>
+  </tbody>
+</table>
+
+### Bowl Shield
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/bowl_shield.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Bowl Shield</td>
+      <td>4</td>
+      <td>15</td>
+      <td>5</td>
+      <td>-</td>
+      <td>10000</td>
+      <td>3500</td>
+      <td rowspan="5">(Pain Fullness)</td>
+      <td rowspan="8">Chance to restore fullness by 1<br/>when you receive damage.<br/>(Untested)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Mid Bowl Shield</td>
+      <td>6</td>
       <td>25</td>
       <td>6</td>
-      <td>400</td>
+      <td>1500</td>
+      <td>11000</td>
+      <td>3850</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Big Bowl Shield</td>
+      <td>6</td>
+      <td>35</td>
+      <td>6</td>
+      <td>3000</td>
+      <td>12000</td>
+      <td>4200</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Huge Bowl Shield</td>
+      <td>7</td>
+      <td>45</td>
+      <td>7</td>
+      <td>5500</td>
+      <td>13000</td>
+      <td>4550</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Bowl Aspis</td>
+      <td>7</td>
+      <td>55</td>
+      <td>7</td>
+      <td>9000</td>
+      <td>14000</td>
+      <td>4900</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Large Bowl Aspis</td>
+      <td>9</td>
+      <td>65</td>
+      <td>8</td>
+      <td>13500</td>
+      <td>15000</td>
+      <td>5250</td>
+      <td rowspan="3">(Pain Fullness)<br/>Rustproof</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Fancy Bowl Aspis</td>
+      <td>9</td>
+      <td>75</td>
+      <td>8</td>
+      <td>19000</td>
+      <td>16000</td>
+      <td>5600</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Second Serving</td>
+      <td>10</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>25500</td>
+      <td>18000</td>
+      <td>6300</td>
+    </tr>
+  </tbody>
+</table>
+
+### Spry Shield
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/spry_shield.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Spry Shield</td>
+      <td>2</td>
+      <td>15</td>
+      <td>2</td>
+      <td>-</td>
+      <td>8000</td>
+      <td>2800</td>
+      <td rowspan="4">(Agile)</td>
+      <td rowspan="8">Increases evasion against<br/>monster direct attacks.<br/>(Untested)<br/><br/>Resonance: <a href="/items/weapons#myopic-masher">Myopic Masher</a><br/>(Attack and defense +3)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Fine Spry Shield</td>
+      <td>4</td>
+      <td>25</td>
+      <td>3</td>
+      <td>800</td>
+      <td>9000</td>
+      <td>3150</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Rare Spry Shield</td>
+      <td>5</td>
+      <td>35</td>
+      <td>4</td>
+      <td>1600</td>
+      <td>10000</td>
+      <td>3500</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Agile Shield</td>
+      <td>6</td>
+      <td>45</td>
+      <td>4</td>
+      <td>3200</td>
+      <td>11000</td>
+      <td>3850</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Nice Agile Shield</td>
+      <td>8</td>
+      <td>55</td>
+      <td>5</td>
+      <td>11000</td>
+      <td>12000</td>
+      <td>4200</td>
+      <td rowspan="4">(Agile)<br/>Rustproof</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Nimble Shield</td>
+      <td>8</td>
+      <td>65</td>
+      <td>5</td>
+      <td>12800</td>
+      <td>13000</td>
+      <td>4550</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Evasive Shield</td>
+      <td>9</td>
+      <td>75</td>
+      <td>6</td>
+      <td>25600</td>
+      <td>14000</td>
+      <td>4900</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Hyper Dodger</td>
+      <td>10</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>38400</td>
+      <td>16000</td>
+      <td>5600</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="tableNotes">
+  <p>
+    ※ DS version has a bug where evasion doesn't increase with level ups.
+  </p>
+</div>
+
+### Blast Shield
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/blast_shield.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Blast Shield</td>
+      <td>5</td>
+      <td>15</td>
+      <td>4</td>
+      <td>-</td>
+      <td>6000</td>
+      <td>2100</td>
+      <td rowspan="7">(1/2 Blast)</td>
+      <td rowspan="8">Reduces explosion damage.<br/>(50%, +6% per level up | Lv8: 92%)<br/><br/>Resonance: <a href="/items/weapons#crescent-katana">Crescent Katana</a><br/>(Attack and defense +3)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Nice Blast Shield</td>
+      <td>6</td>
+      <td>25</td>
+      <td>5</td>
+      <td>700</td>
+      <td>7000</td>
+      <td>2450</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Fine Blast Shield</td>
+      <td>7</td>
+      <td>35</td>
+      <td>6</td>
+      <td>1400</td>
+      <td>8000</td>
+      <td>2800</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Blast Blocker</td>
+      <td>8</td>
+      <td>45</td>
+      <td>7</td>
+      <td>2800</td>
+      <td>9000</td>
+      <td>3150</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Blast Barrier</td>
+      <td>9</td>
+      <td>55</td>
+      <td>8</td>
+      <td>5600</td>
+      <td>10000</td>
+      <td>3500</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Blast Bulwark</td>
+      <td>10</td>
+      <td>65</td>
+      <td>9</td>
+      <td>11200</td>
+      <td>11000</td>
+      <td>3850</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Blast Bunker</td>
+      <td>11</td>
+      <td>75</td>
+      <td>10</td>
+      <td>22400</td>
+      <td>12000</td>
+      <td>4200</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Bomb Shelter</td>
+      <td>13</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>33600</td>
+      <td>14000</td>
+      <td>4900</td>
+      <td>(1/2 Blast)<br/>Rustproof<br/>Anti-Burgle</td>
+    </tr>
+  </tbody>
+</table>
+
+### Lock Shield
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/lock_shield.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Lock Shield</td>
+      <td>5</td>
+      <td>15</td>
+      <td>4</td>
+      <td>-</td>
+      <td>2000</td>
+      <td>700</td>
+      <td rowspan="7">(Anti-Theft)</td>
+      <td rowspan="8">Protects your items from<br/>being stolen by monsters.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Padlock Shield</td>
+      <td>6</td>
+      <td>25</td>
+      <td>5</td>
+      <td>500</td>
+      <td>2400</td>
+      <td>840</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Cam Lock Shield</td>
+      <td>7</td>
+      <td>35</td>
+      <td>6</td>
+      <td>1500</td>
+      <td>2800</td>
+      <td>980</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Rim Lock Shield</td>
+      <td>8</td>
+      <td>45</td>
+      <td>7</td>
+      <td>3000</td>
+      <td>3200</td>
+      <td>1120</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Bolt Shield</td>
+      <td>9</td>
+      <td>55</td>
+      <td>8</td>
+      <td>5000</td>
+      <td>3600</td>
+      <td>1260</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Deadbolt Shield</td>
+      <td>10</td>
+      <td>65</td>
+      <td>9</td>
+      <td>7500</td>
       <td>4000</td>
       <td>1400</td>
     </tr>
     <tr>
-      <td>3</td>
-      <td></td>
       <td>7</td>
-      <td>35</td>
+      <td>Gate Shield</td>
+      <td>11</td>
+      <td>75</td>
+      <td>10</td>
+      <td>11000</td>
+      <td>4400</td>
+      <td>1540</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Retina Scan</td>
+      <td>12</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>16000</td>
+      <td>5000</td>
+      <td>1750</td>
+      <td>(Anti-Theft)<br/>1/2 Blast</td>
+    </tr>
+  </tbody>
+</table>
+
+### Safe Shield
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/safe_shield.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Safe Shield</td>
       <td>6</td>
-      <td>800</td>
+      <td>15</td>
+      <td>3</td>
+      <td>-</td>
+      <td>1800</td>
+      <td>630</td>
+      <td rowspan="7">(Anti-Burgle)</td>
+      <td rowspan="8">Protects your Gitan from<br/>being stolen by monsters.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Coffer Shield</td>
+      <td>7</td>
+      <td>25</td>
+      <td>4</td>
+      <td>400</td>
+      <td>2000</td>
+      <td>700</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Lockbox Shield</td>
+      <td>8</td>
+      <td>35</td>
+      <td>5</td>
+      <td>1200</td>
+      <td>2200</td>
+      <td>770</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Coin Box Shield</td>
+      <td>9</td>
+      <td>45</td>
+      <td>6</td>
+      <td>2400</td>
+      <td>2400</td>
+      <td>840</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Cashbox Shield</td>
+      <td>10</td>
+      <td>55</td>
+      <td>7</td>
+      <td>4800</td>
+      <td>2600</td>
+      <td>910</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Bank Shield</td>
+      <td>11</td>
+      <td>65</td>
+      <td>8</td>
+      <td>7200</td>
+      <td>2800</td>
+      <td>980</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Vault Shield</td>
+      <td>12</td>
+      <td>75</td>
+      <td>9</td>
+      <td>12000</td>
+      <td>3000</td>
+      <td>1050</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Fort Knox</td>
+      <td>13</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>16800</td>
+      <td>4000</td>
+      <td>1400</td>
+      <td>(Anti-Burgle)<br/>1/2 Blast</td>
+    </tr>
+  </tbody>
+</table>
+
+### Gyadon Blocker
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/gyadon_blocker.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Gyadon Blocker</td>
+      <td>7</td>
+      <td>15</td>
+      <td>3</td>
+      <td>-</td>
+      <td>4000</td>
+      <td>1400</td>
+      <td rowspan="7">(Anti-Peck)</td>
+      <td rowspan="8">Protects your items from<br/>being pecked by <a href="/system/monsters#gyadon">Gyadons</a>.</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Gyadon Shield</td>
+      <td>8</td>
+      <td>25</td>
+      <td>4</td>
+      <td>700</td>
+      <td>4500</td>
+      <td>1575</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Gyadon Limiter</td>
+      <td>9</td>
+      <td>35</td>
+      <td>5</td>
+      <td>1400</td>
       <td>5000</td>
       <td>1750</td>
     </tr>
     <tr>
       <td>4</td>
-      <td></td>
+      <td>Gyadon Resistor</td>
+      <td>10</td>
+      <td>45</td>
+      <td>6</td>
+      <td>2800</td>
+      <td>5500</td>
+      <td>1925</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Gyadon Stopper</td>
+      <td>11</td>
+      <td>55</td>
+      <td>7</td>
+      <td>5600</td>
+      <td>6000</td>
+      <td>2100</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Gyadon Foiler</td>
+      <td>12</td>
+      <td>65</td>
+      <td>8</td>
+      <td>11200</td>
+      <td>6500</td>
+      <td>2275</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Gyadon Taunter</td>
+      <td>13</td>
+      <td>75</td>
+      <td>9</td>
+      <td>22400</td>
+      <td>7000</td>
+      <td>2450</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Gyagya Gyadon!</td>
+      <td>14</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>33600</td>
+      <td>8000</td>
+      <td>2800</td>
+      <td>(Anti-Peck)<br/>Agile</td>
+    </tr>
+  </tbody>
+</table>
+
+### Lizard Shield
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/lizard_shield.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Lizard Shield</td>
+      <td>10</td>
+      <td>15</td>
+      <td>3</td>
+      <td>-</td>
+      <td>10000</td>
+      <td>3500</td>
+      <td rowspan="7">(1/2 Fire)</td>
+      <td rowspan="8">Reduces fire damage.<br/>(50%, +5% per level up | Lv8: 85%)<br/><br/>Resonance: <a href="/items/weapons#lizard-lasher">Lizard Lasher</a><br/>(Attack and defense +3)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Big Lizard Shield</td>
+      <td>12</td>
+      <td>25</td>
+      <td>4</td>
+      <td>800</td>
+      <td>12000</td>
+      <td>4200</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Serpent Shield</td>
+      <td>12</td>
+      <td>35</td>
+      <td>5</td>
+      <td>1600</td>
+      <td>13000</td>
+      <td>4550</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Wyrm Shield</td>
+      <td>13</td>
+      <td>45</td>
+      <td>6</td>
+      <td>3200</td>
+      <td>15000</td>
+      <td>5250</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Drake Shield</td>
+      <td>13</td>
+      <td>55</td>
+      <td>7</td>
+      <td>6400</td>
+      <td>16000</td>
+      <td>5600</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Wyvern Shield</td>
+      <td>14</td>
+      <td>65</td>
+      <td>8</td>
+      <td>12000</td>
+      <td>17000</td>
+      <td>5950</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Dragon Shield</td>
+      <td>14</td>
+      <td>75</td>
+      <td>9</td>
+      <td>24000</td>
+      <td>18000</td>
+      <td>6300</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Dragonkeeper</td>
+      <td>18</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>36000</td>
+      <td>20000</td>
+      <td>7000</td>
+      <td>(1/2 Fire)<br/>Counter</td>
+    </tr>
+  </tbody>
+</table>
+
+### Steady Shield
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/steady_shield.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Steady Shield</td>
+      <td>4</td>
+      <td>15</td>
+      <td>4</td>
+      <td>-</td>
+      <td>3000</td>
+      <td>1050</td>
+      <td rowspan="7">(Unmoving)</td>
+      <td rowspan="8">Nullifies all movement effects.<br/>(<a href="/system/monsters#fearabbit">Fearabbit</a> ability, etc.)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Bold Shield</td>
+      <td>5</td>
+      <td>25</td>
+      <td>5</td>
+      <td>500</td>
+      <td>4000</td>
+      <td>1400</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Staunch Shield</td>
+      <td>6</td>
+      <td>35</td>
+      <td>6</td>
+      <td>1500</td>
+      <td>5000</td>
+      <td>1750</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Dogged Shield</td>
       <td>8</td>
       <td>45</td>
       <td>7</td>
-      <td>1600</td>
+      <td>3000</td>
       <td>6000</td>
       <td>2100</td>
     </tr>
     <tr>
       <td>5</td>
-      <td></td>
-      <td rowspan="3">(Damage Exp)<br/>HP+5</td>
+      <td>Stout Shield</td>
       <td>9</td>
       <td>55</td>
-      <td>7</td>
-      <td>3200</td>
+      <td>8</td>
+      <td>5000</td>
       <td>7000</td>
       <td>2450</td>
     </tr>
     <tr>
       <td>6</td>
-      <td></td>
+      <td>Resolute Shield</td>
       <td>10</td>
       <td>65</td>
-      <td>8</td>
-      <td>6400</td>
+      <td>9</td>
+      <td>7500</td>
       <td>8000</td>
       <td>2800</td>
     </tr>
     <tr>
       <td>7</td>
-      <td></td>
+      <td>Valiant Shield</td>
       <td>11</td>
       <td>75</td>
-      <td>8</td>
-      <td>12800</td>
+      <td>10</td>
+      <td>11000</td>
       <td>9000</td>
       <td>3150</td>
     </tr>
     <tr>
       <td>8</td>
-      <td>Blissful Shield</td>
-      <td>(Damage Exp)<br/>HP+5<br/>Def+3</td>
+      <td>Stalwart Shield</td>
       <td>12</td>
       <td>99</td>
       <td>∞</td>
-      <td>25600</td>
+      <td>16000</td>
       <td>11000</td>
       <td>3850</td>
+      <td>(Unmoving)<br/>Counter</td>
+    </tr>
+  </tbody>
+</table>
+
+### Gazer Guard
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/gazer_guard.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Gazer Guard</td>
+      <td>6</td>
+      <td>15</td>
+      <td>4</td>
+      <td>-</td>
+      <td>10000</td>
+      <td>3500</td>
+      <td rowspan="7">(Anti-Hypno)</td>
+      <td rowspan="8">Protects against hypnosis.<br/>(<a href="/system/monsters#gazer">Gazer</a> special attacks)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Gazer Buckler</td>
+      <td>6</td>
+      <td>25</td>
+      <td>5</td>
+      <td>1000</td>
+      <td>11000</td>
+      <td>3850</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Gazer Shield</td>
+      <td>7</td>
+      <td>35</td>
+      <td>5</td>
+      <td>2000</td>
+      <td>12000</td>
+      <td>4200</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Gazer Blocker</td>
+      <td>7</td>
+      <td>45</td>
+      <td>6</td>
+      <td>4000</td>
+      <td>13000</td>
+      <td>4550</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Gazer Denier</td>
+      <td>8</td>
+      <td>55</td>
+      <td>6</td>
+      <td>7000</td>
+      <td>14000</td>
+      <td>4900</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Gazer Stopper</td>
+      <td>8</td>
+      <td>65</td>
+      <td>7</td>
+      <td>11000</td>
+      <td>15000</td>
+      <td>5250</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Gazer Taunter</td>
+      <td>9</td>
+      <td>75</td>
+      <td>7</td>
+      <td>16000</td>
+      <td>16000</td>
+      <td>5600</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Gazer Gazer!</td>
+      <td>10</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>22000</td>
+      <td>18000</td>
+      <td>6300</td>
+      <td>(Anti-Hypno)<br/>Agile</td>
+    </tr>
+  </tbody>
+</table>
+
+### Swap Shield
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/swap_shield.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Swap Shield</td>
+      <td>7</td>
+      <td>15</td>
+      <td>5</td>
+      <td>-</td>
+      <td>6000</td>
+      <td>2100</td>
+      <td rowspan="7">(Magic Damage)</td>
+      <td rowspan="8">Receive fixed damage instead of the<br/>effect when hit by a magic bullet.<br/>(Untested)<br/><br/>Resonance: <a href="/items/weapons#burning-blade">Burning Blade</a><br/>(Boost Flame Shot damage)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Nice Swap Shield</td>
+      <td>8</td>
+      <td>25</td>
+      <td>6</td>
+      <td>1500</td>
+      <td>7000</td>
+      <td>2450</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Fine Swap Shield</td>
+      <td>8</td>
+      <td>35</td>
+      <td>6</td>
+      <td>3000</td>
+      <td>8000</td>
+      <td>2800</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Rare Swap Shield</td>
+      <td>9</td>
+      <td>45</td>
+      <td>7</td>
+      <td>5500</td>
+      <td>9000</td>
+      <td>3150</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Prism Shield</td>
+      <td>9</td>
+      <td>55</td>
+      <td>7</td>
+      <td>9000</td>
+      <td>10000</td>
+      <td>3500</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Fine Prism Shield</td>
+      <td>10</td>
+      <td>65</td>
+      <td>8</td>
+      <td>13500</td>
+      <td>11000</td>
+      <td>3850</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Prismagic Shield</td>
+      <td>10</td>
+      <td>75</td>
+      <td>8</td>
+      <td>19000</td>
+      <td>12000</td>
+      <td>4200</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Mega Prismagic</td>
+      <td>11</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>25500</td>
+      <td>15000</td>
+      <td>5250</td>
+      <td>(Magic Damage)<br/>HP+10<br/>Def+3</td>
+    </tr>
+  </tbody>
+</table>
+
+### Shoddy Plank
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/shoddy_plank.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Shoddy Plank</td>
+      <td>30</td>
+      <td>15</td>
+      <td>12</td>
+      <td>-</td>
+      <td>4000</td>
+      <td>1400</td>
+      <td rowspan="8">(Degrade)</td>
+      <td rowspan="8">Decrease shield upgrade value<br/>by 1 every time you get hit.<br/><br/>Resonance: <a href="/items/weapons#shoddy-dirk">Shoddy Dirk</a><br/>(Equipped items won't rust)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Shoddy Guard</td>
+      <td>31</td>
+      <td>25</td>
+      <td>12</td>
+      <td>1500</td>
+      <td>4500</td>
+      <td>1575</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Shoddy Targe</td>
+      <td>32</td>
+      <td>35</td>
+      <td>12</td>
+      <td>2500</td>
+      <td>5000</td>
+      <td>1750</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Shoddy Shield</td>
+      <td>33</td>
+      <td>45</td>
+      <td>12</td>
+      <td>4500</td>
+      <td>5500</td>
+      <td>1925</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Shoddy Aspis</td>
+      <td>34</td>
+      <td>55</td>
+      <td>12</td>
+      <td>8500</td>
+      <td>6000</td>
+      <td>2100</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Disposable Targe</td>
+      <td>35</td>
+      <td>65</td>
+      <td>12</td>
+      <td>17000</td>
+      <td>6500</td>
+      <td>2275</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Disposable Aspis</td>
+      <td>36</td>
+      <td>75</td>
+      <td>12</td>
+      <td>26000</td>
+      <td>7000</td>
+      <td>2450</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Worthy Shield</td>
+      <td>37</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>52000</td>
+      <td>8000</td>
+      <td>2800</td>
+    </tr>
+  </tbody>
+</table>
+
+### Lamp Shield
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/lamp_shield.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Lamp Shield</td>
+      <td>4</td>
+      <td>15</td>
+      <td>2</td>
+      <td>-</td>
+      <td>1500</td>
+      <td>525</td>
+      <td rowspan="8">-</td>
+      <td rowspan="8">Burn items to create light in a 1 tile radius.<br/>Light from the shield lasts 200 turns.<br/>(This ability cannot be synthesized)<br/><br/>Resonance: <a href="/items/weapons#torch">Torch</a><br/>(Light up entire room at night)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Light Shield</td>
+      <td>4</td>
+      <td>25</td>
+      <td>2</td>
+      <td>300</td>
+      <td>1600</td>
+      <td>560</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Lantern Shield</td>
+      <td>5</td>
+      <td>35</td>
+      <td>3</td>
+      <td>900</td>
+      <td>1700</td>
+      <td>595</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Sizzle Shield</td>
+      <td>5</td>
+      <td>45</td>
+      <td>3</td>
+      <td>1800</td>
+      <td>1800</td>
+      <td>630</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Flare Shield</td>
+      <td>6</td>
+      <td>55</td>
+      <td>4</td>
+      <td>3600</td>
+      <td>1900</td>
+      <td>665</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Scorch Shield</td>
+      <td>6</td>
+      <td>65</td>
+      <td>4</td>
+      <td>7200</td>
+      <td>2000</td>
+      <td>700</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Flame Shield</td>
+      <td>7</td>
+      <td>75</td>
+      <td>5</td>
+      <td>14400</td>
+      <td>2100</td>
+      <td>735</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Blaze Shield</td>
+      <td>8</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>28800</td>
+      <td>2500</td>
+      <td>875</td>
+    </tr>
+  </tbody>
+</table>
+
+### Parry Shield
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/parry_shield.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Parry Shield</td>
+      <td>6</td>
+      <td>15</td>
+      <td>4</td>
+      <td>-</td>
+      <td>9000</td>
+      <td>3150</td>
+      <td rowspan="7">(Redirect)</td>
+      <td rowspan="8">Chance to redirect enemy direct<br/>attacks to adjacent creatures.<br/>(Untested)<br/><br/>Obtaining:<br/>Static Forest (Clear)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Fair Parry Shield</td>
+      <td>7</td>
+      <td>25</td>
+      <td>5</td>
+      <td>1000</td>
+      <td>10000</td>
+      <td>3500</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Fine Parry Shield</td>
+      <td>8</td>
+      <td>35</td>
+      <td>6</td>
+      <td>2000</td>
+      <td>11000</td>
+      <td>3850</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Epic Parry Shield</td>
+      <td>9</td>
+      <td>45</td>
+      <td>7</td>
+      <td>4000</td>
+      <td>12000</td>
+      <td>4200</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Parry Ace</td>
+      <td>10</td>
+      <td>55</td>
+      <td>8</td>
+      <td>8000</td>
+      <td>13000</td>
+      <td>4550</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Parry Adept</td>
+      <td>11</td>
+      <td>65</td>
+      <td>9</td>
+      <td>16000</td>
+      <td>14000</td>
+      <td>4900</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Parry Master</td>
+      <td>12</td>
+      <td>75</td>
+      <td>10</td>
+      <td>32000</td>
+      <td>15000</td>
+      <td>5250</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Untouchable</td>
+      <td>13</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>64000</td>
+      <td>17000</td>
+      <td>5950</td>
+      <td>(Redirect)<br/>Counter<br/>Unmoving</td>
+    </tr>
+  </tbody>
+</table>
+
+### Nirvana Board
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/nirvana_board.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Nirvana Board</td>
+      <td>7</td>
+      <td>15</td>
+      <td>4</td>
+      <td>-</td>
+      <td>14000</td>
+      <td>4900</td>
+      <td rowspan="7">(Hungerless)</td>
+      <td rowspan="8">Sets max fullness to 1,<br/>fullness depletion stops.<br/><br/>Resonance: <a href="/items/weapons#wonder-pick">Wonder Pick</a><br/>(Max HP +30)<br/><br/>Obtaining:<br/>Jaguar's Hunting Forest (Clear)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Nirvana Guard</td>
+      <td>8</td>
+      <td>25</td>
+      <td>5</td>
+      <td>1000</td>
+      <td>16000</td>
+      <td>5600</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Nirvana Targe</td>
+      <td>9</td>
+      <td>35</td>
+      <td>6</td>
+      <td>2000</td>
+      <td>18000</td>
+      <td>6300</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Nirvana Shield</td>
+      <td>10</td>
+      <td>45</td>
+      <td>7</td>
+      <td>4000</td>
+      <td>20000</td>
+      <td>7000</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Nirvana Aspis</td>
+      <td>11</td>
+      <td>55</td>
+      <td>8</td>
+      <td>8000</td>
+      <td>22000</td>
+      <td>7700</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Nirvana Aegis</td>
+      <td>12</td>
+      <td>65</td>
+      <td>9</td>
+      <td>16000</td>
+      <td>24000</td>
+      <td>8400</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Super Nirvana</td>
+      <td>13</td>
+      <td>75</td>
+      <td>10</td>
+      <td>32000</td>
+      <td>26000</td>
+      <td>9100</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Endless Nirvana</td>
+      <td>14</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>64000</td>
+      <td>30000</td>
+      <td>10500</td>
+      <td>(Hungerless)<br/>Rustproof<br/>Damage Exp</td>
+    </tr>
+  </tbody>
+</table>
+
+### Jaguar's Shield
+
+<table class="itemDetailsTable">
+  <tr>
+    <th>Image</th>
+    <th>Lv1 Description</th>
+  </tr>
+  <tr>
+    <td><img src="../images/shields/jaguars_shield.png"/></td>
+    <td>item_book_description</td>
+  </tr>
+</table>
+
+<br/>
+
+<table class="itemDetailsTable">
+  <tbody>
+    <tr>
+      <th>Lv</th>
+      <th>Name</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Ct</th>
+      <th>Exp</th>
+      <th>Buy</th>
+      <th>Sell</th>
+      <th>Rune</th>
+      <th>Info</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Jaguar's Shield</td>
+      <td>30</td>
+      <td>15</td>
+      <td>11</td>
+      <td>-</td>
+      <td>25000</td>
+      <td>8750</td>
+      <td rowspan="7">(Status Counter)</td>
+      <td rowspan="8">Chance to counter with knockback,<br/>confusion, or lightning damage.<br/>(Untested)<br/><br/>Resonance: <a href="/items/weapons#kamina's-sword">Kamina's Sword</a><br/>(Equip 2 bracelets)<br/>+ <a href="/items/bracelets">Bulldog Bracelet</a><br/>(Attack damage +20)<br/>+ <a href="/items/projectiles">Hemoji Arrow</a><br/>(No fullness depletion)<br/><br/>Obtaining:<br/>Bayside Monster Cave (Clear)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Sturdy Jaguar</td>
+      <td>31</td>
+      <td>25</td>
+      <td>12</td>
+      <td>20000</td>
+      <td>26000</td>
+      <td>9100</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Fine Jaguar</td>
+      <td>32</td>
+      <td>35</td>
+      <td>13</td>
+      <td>25000</td>
+      <td>27000</td>
+      <td>9450</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Finest Jaguar</td>
+      <td>33</td>
+      <td>45</td>
+      <td>14</td>
+      <td>30000</td>
+      <td>28000</td>
+      <td>9800</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Reborn Jaguar</td>
+      <td>34</td>
+      <td>55</td>
+      <td>15</td>
+      <td>35000</td>
+      <td>29000</td>
+      <td>10150</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Fierce Jaguar</td>
+      <td>35</td>
+      <td>65</td>
+      <td>16</td>
+      <td>40000</td>
+      <td>30000</td>
+      <td>10500</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Lunar Jaguar</td>
+      <td>36</td>
+      <td>75</td>
+      <td>17</td>
+      <td>45000</td>
+      <td>31000</td>
+      <td>10850</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Divine Jaguar</td>
+      <td>40</td>
+      <td>99</td>
+      <td>∞</td>
+      <td>50000</td>
+      <td>35000</td>
+      <td>12250</td>
+      <td>(Status Counter)<br/>Counter<br/>Anti-Hypno</td>
     </tr>
   </tbody>
 </table>

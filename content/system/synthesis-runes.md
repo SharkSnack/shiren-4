@@ -407,7 +407,7 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
     <td>May restore fullness by 1 when hit</td>
   </tr>
   <tr>
-    <td class="highlightYellow">Parry</td>
+    <td class="highlightYellow">Redirect</td>
     <td class="highlightLightblue">Parry Shield</td>
     <td></td>
     <td></td>
@@ -742,7 +742,7 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
       <td>Chance to evade attack</td>
     </tr>
     <tr>
-      <td class="highlightYellow">Parry</td>
+      <td class="highlightYellow">Redirect</td>
       <td class="highlightLightblue">Parry Shield</td>
       <td></td>
       <td></td>

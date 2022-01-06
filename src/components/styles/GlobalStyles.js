@@ -774,11 +774,11 @@ export const baseStyles = css`
   }
   .monsterTableNdubba {
     color: white;
-    background-color: #467395;
+    background-color: #a69262;
   }
   .monsterTableManeater {
     color: white;
-    background-color: #3d4353;
+    background-color: #6c2020;
   }
   .monsterTableSmall th {
     padding: 2px;

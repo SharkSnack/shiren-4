@@ -266,7 +266,7 @@ metaDescription: "Complete scroll details for Shiren the Wanderer 4: The Eye of 
       <td class="highlightYellow">Lost Scroll</td>
       <td rowspan="3">3000</td>
       <td rowspan="3">1050</td>
-      <td>Apathy</td>
+      <td>Bored</td>
       <td class="leftText">Makes you forget the current floor's layout.</td>
     </tr>
     <tr>
