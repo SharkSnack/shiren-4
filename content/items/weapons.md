@@ -3864,7 +3864,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>10000</td>
       <td>3500</td>
       <td rowspan="4">(Flame Shot)</td>
-      <td rowspan="8">Shoot a flame when your HP is full.<br/>(Damage: 8, 10, 12, 14, 16, 18, 21, 25)<br/><br/>Resonance: <a href="/items/shields#swap-shield">Swap Shield</a><br/>(Boost Flame Shot damage)</td>
+      <td rowspan="8">Shoot a flame when your HP is full.<br/>(Damage: 8, 10, 12, 14, 16, 18, 21, 25)<br/><br/>Resonance: <a href="/items/shields#swap-shield">Swap Shield</a><br/>(Boost Flame Shot damage | Lv8: 30)</td>
     </tr>
     <tr>
       <td>2</td>

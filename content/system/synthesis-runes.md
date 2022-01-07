@@ -19,7 +19,7 @@ There are 3 ways to add runes to equipment:
 
 Generally runes make your adventure easier, but some are a double-edged sword<br/>or have an outright negative effect, so some care is needed.
 
-Unwanted runes can be erased at the Gonchiki Village and Monkey Village blacksmiths.
+Unwanted runes can be erased by the blacksmith in Gonchiki Village or Monkey Village.
 
 Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
 
@@ -224,7 +224,7 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
     <td class="highlightLightblue">Bargain Blade</td>
     <td></td>
     <td></td>
-    <td>Higher chance for enemies drop Gitan,<br/>shops offer a discount</td>
+    <td>Higher chance for enemies drop Gitan,<br/>shops offer a 20% discount</td>
   </tr>
   <tr>
     <td class="highlightYellow">HP+5</td>
@@ -273,14 +273,14 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
     <td></td>
     <td class="highlightLightblue">Happy Grass</td>
     <td class="highlightLightblue">Dotanuki L8</td>
-    <td>Increases weapon base attack by 3</td>
+    <td>Increase weapon base attack by 3</td>
   </tr>
   <tr>
     <td class="highlightYellow">Atk+8</td>
     <td></td>
     <td class="highlightLightblue">Angel Seed</td>
     <td></td>
-    <td>Increases weapon base attack by 8</td>
+    <td>Increase weapon base attack by 8</td>
   </tr>
   <tr>
     <td class="highlightYellow">Quick Hitting</td>
@@ -556,15 +556,15 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
     <tr>
       <td class="highlightYellow">Flame Shot</td>
       <td class="highlightLightblue">Burning Blade</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>Flame damage</td>
+      <td>8</td>
+      <td>10</td>
+      <td>12</td>
+      <td>14</td>
+      <td>16</td>
+      <td>18</td>
+      <td>21</td>
+      <td>25</td>
+      <td>Flame damage<br/>L8 + Resonance: 30</td>
     </tr>
     <tr>
       <td class="highlightYellow">Critical</td>
@@ -718,7 +718,7 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
     <tr>
       <td class="highlightYellow">Magic Damage</td>
       <td class="highlightLightblue">Swap Shield</td>
-      <td></td>
+      <td>10</td>
       <td></td>
       <td></td>
       <td></td>

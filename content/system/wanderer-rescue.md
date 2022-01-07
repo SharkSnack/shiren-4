@@ -81,6 +81,7 @@ Go on adventures while waiting to be rescued. (Awaiting Rescue → Interim Adven
 This can be an excellent way to obtain rare items.
 
 - You can only enter dungeons you've been to before, and only as deep as your personal best depth.
+- If you enter the same dungeon you collapsed in, you can only go as deep as the floor you collapsed on.
 - You can't request a rescue if you collapse.
 
 # Rescuing

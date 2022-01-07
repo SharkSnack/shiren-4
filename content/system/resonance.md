@@ -133,7 +133,7 @@ When a resonance effect activates, a message is displayed in the scrolling messa
     <td class="highlightGray"><a href="/shiren-5/items/shields#swap-shield">Swap Shield</a></td>
     <td></td>
     <td></td>
-    <td>Boost flame damage by 1 level</td>
+    <td>Boost flame damage by 1 level<br/>・L8 + Resonance: 30 damage</td>
   </tr>
   <tr>
     <td class="highlightYellow"><a href="/shiren-5/items/weapons#wonder-pick">Wonder Pick</a></td>
