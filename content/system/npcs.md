@@ -4,10 +4,6 @@ metaTitle: "NPCs - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Complete NPC details for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
-<div class="pageTopImage screenshot">
-  <p>[Image]</p>
-</div>
-
 ## Overview
 
 Characters that can be found wandering around inside dungeons.<br/>

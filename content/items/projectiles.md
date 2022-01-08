@@ -166,7 +166,7 @@ metaDescription: "Complete projectile details for Shiren the Wanderer 4: The Eye
       <td>-</td>
       <td>90</td>
       <td>31</td>
-      <td class="leftText">Defeats the target in a single hit, but has low accuracy.</td>
+      <td class="leftText">Defeats the target in a single hit, but low accuracy (12%).</td>
     </tr>
     <tr>
       <td class="highlightYellow">Drain Arrow</td>

@@ -97,8 +97,8 @@ Max HP won't increase when they're at full HP.
 
 ### Millie
 
-<div class="relativeImage allyImage">
-  <img src="../images/ally/millie.png"/>
+<div class="relativeImage">
+  <img src="../images/ally/millie_sprite.png"/>
 </div>
 
 #### Description
@@ -129,8 +129,8 @@ She's extremely powerful during the day, but requires care at night.
 
 ### Edna
 
-<div class="relativeImage allyImage">
-  <img src="../images/ally/edna.png"/>
+<div class="relativeImage">
+  <img src="../images/ally/edna_sprite.png"/>
 </div>
 
 #### Description
@@ -166,8 +166,8 @@ There's a small event when you take her to Ruins of Laferriere 15F.
 
 ### Galwin
 
-<div class="relativeImage allyImage">
-  <img src="../images/ally/galwin.png"/>
+<div class="relativeImage">
+  <img src="../images/ally/galwin_sprite.png"/>
 </div>
 
 #### Description
@@ -198,8 +198,8 @@ His aggressive AI and tendency to disappear during an adventure makes him<br/>ra
 
 ### Saruma Brothers
 
-<div class="relativeImage allyImage">
-  <img src="../images/ally/saruma.jpg"/>
+<div class="relativeImage">
+  <img src="../images/ally/ichiro_sprite.png"/> <img src="../images/ally/jiro_sprite.png"/> <img src="../images/ally/saburo_sprite.png"/>
 </div>
 
 #### Description
@@ -241,8 +241,8 @@ Only 1 monkey can join your adventure at a time.
 
 ### Banana Prince
 
-<div class="relativeImage allyImage">
-  <img src="../images/ally/banana.png"/>
+<div class="relativeImage">
+  <img src="../images/ally/banana_sprite.png"/>
 </div>
 
 #### Description
@@ -282,7 +282,7 @@ He's essentially a blue mage character that can learn monster special attacks,<b
 ### Borg Mamel
 
 <div class="relativeImage">
-  <img src="../images/ally/borg_mamel.png"/>
+  <img src="../images/ally/borg_sprite.png"/>
 </div>
 
 #### Description

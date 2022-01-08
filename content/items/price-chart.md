@@ -34,7 +34,7 @@ metaDescription: "Item price chart for Shiren the Wanderer 4: The Eye of God and
 #### Price formula
 
 Floor[ <span class="highlightGreen">[1, 1.1(blessed), or 0.8(cursed/sealed)]</span> x <span class="highlightPink">Floor[{</span><span class="highlightBlue">base price</span><span class="highlightPink"> x</span><span class="highlightYellow"> (1 + upgrade value/uses/capacity x 0.05) </span><span class="highlightPink">}]</span> ]<br/>
-Example: Bladite-1 (Cursed): 0.8 x {3200 x (1 - 0.05)} = 3200 x 0.8 x 0.95 = 3200 x 0.76 = 2432<br/>
+Example: Meteor Guard-1 (Cursed): 0.8 x {3200 x (1 - 0.05)} = 3200 x 0.8 x 0.95 = 3200 x 0.76 = 2432<br/>
 ※ Floor means truncate decimals. (Example: 5.54 → 5)
 
 ## Scrolls / Bracelets / Grass / Talismans
@@ -809,7 +809,7 @@ Example: Bladite-1 (Cursed): 0.8 x {3200 x (1 - 0.05)} = 3200 x 0.8 x 0.95 = 320
     <td>700</td>
   </tr>
   <tr>
-    <td class="priceTableName">Bladite</td>
+    <td class="priceTableName">Meteor Edge</td>
     <td class="leftText">-</td>
     <td>12</td>
     <td>10</td>
@@ -851,7 +851,7 @@ Example: Bladite-1 (Cursed): 0.8 x {3200 x (1 - 0.05)} = 3200 x 0.8 x 0.95 = 320
     <td>7400</td>
     <td>2590</td>
     <td class="tableDivider"></td>
-    <td class="priceTableName">Seal Rod</td>
+    <td class="priceTableName">Sealing Keisaku</td>
     <td class="leftText">Sealing</td>
     <td>5</td>
     <td>25</td>
@@ -896,7 +896,7 @@ Example: Bladite-1 (Cursed): 0.8 x {3200 x (1 - 0.05)} = 3200 x 0.8 x 0.95 = 320
   <tr>
     <td colspan="7" class="highlightYellow">Type-Effective Weapons</td>
     <td class="tableDivider"></td>
-    <td class="priceTableName">Dim Rod</td>
+    <td class="priceTableName">Blurry Stick</td>
     <td class="leftText">Blinding</td>
     <td>4</td>
     <td>25</td>
@@ -905,7 +905,7 @@ Example: Bladite-1 (Cursed): 0.8 x {3200 x (1 - 0.05)} = 3200 x 0.8 x 0.95 = 320
     <td>2100</td>
   </tr>
   <tr>
-    <td class="priceTableName">Crescent Blade</td>
+    <td class="priceTableName">Crescent Katana</td>
     <td class="leftText">Anti-Bomb</td>
     <td>7</td>
     <td>25</td>
@@ -939,7 +939,7 @@ Example: Bladite-1 (Cursed): 0.8 x {3200 x (1 - 0.05)} = 3200 x 0.8 x 0.95 = 320
     <td>2800</td>
   </tr>
   <tr>
-    <td class="priceTableName">Drain Dagger</td>
+    <td class="priceTableName">Drain Slicer</td>
     <td class="leftText">Anti-Drain</td>
     <td>6</td>
     <td>25</td>
@@ -1072,7 +1072,7 @@ Example: Bladite-1 (Cursed): 0.8 x {3200 x (1 - 0.05)} = 3200 x 0.8 x 0.95 = 320
     <td>525</td>
   </tr>
   <tr>
-    <td class="priceTableName">Copper Buckler</td>
+    <td class="priceTableName">Copper Guard</td>
     <td class="leftText">-</td>
     <td>4</td>
     <td>10</td>
@@ -1140,7 +1140,7 @@ Example: Bladite-1 (Cursed): 0.8 x {3200 x (1 - 0.05)} = 3200 x 0.8 x 0.95 = 320
     <td>1750</td>
   </tr>
   <tr>
-    <td class="priceTableName">Targite</td>
+    <td class="priceTableName">Meteor Guard</td>
     <td class="leftText">-</td>
     <td>12</td>
     <td>10</td>
@@ -1250,7 +1250,7 @@ Example: Bladite-1 (Cursed): 0.8 x {3200 x (1 - 0.05)} = 3200 x 0.8 x 0.95 = 320
     <td class="tableDivider"></td>
   </tr>
   <tr>
-    <td class="priceTableName">Gyadon Guard</td>
+    <td class="priceTableName">Gyadon Blocker</td>
     <td class="leftText">Anti-Peck</td>
     <td>7</td>
     <td>15</td>

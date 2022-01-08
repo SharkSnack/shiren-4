@@ -5,7 +5,7 @@ metaDescription: "List of equipment resonance effects for Shiren the Wanderer 4:
 ---
 
 <div id="resonanceImage" class="pageTopImage">
-  <p>[Image]</p>
+  <img src="../images/other/resonance.png"/>
 </div>
 
 Resonance is a special effect that occurs when you equip specific combinations of items at the same time.

@@ -4,7 +4,7 @@ metaTitle: "Synthesis Runes - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Complete list of runes for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 <div class="pageTopImage screenshot">
-  <p>[Image]</p>
+  <img src="../images/other/synthesis.png"/>
 </div>
 
 ## Overview

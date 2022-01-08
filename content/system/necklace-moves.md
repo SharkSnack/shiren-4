@@ -5,7 +5,7 @@ metaDescription: "Details about moves / abilities and unlock conditions for Shir
 ---
 
 <div class="pageTopImage screenshot">
-  <img src="../images/other/moves.png"/>
+  <img src="../images/other/sticky_shot.png"/>
 </div>
 
 ## Overview
