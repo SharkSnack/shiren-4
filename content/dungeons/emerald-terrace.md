@@ -202,7 +202,7 @@ Linger on floors and hunt monsters to level equipment early game.<br/>
       <td>Fast growth and gains an additional rune slot at Lv2.</td>
     </tr>
     <tr>
-      <td class="highlightGray">Bladite</td>
+      <td class="highlightGray">Meteor Edge</td>
       <td class="centeredText">12</td>
       <td class="centeredText">4</td>
       <td>Very solid 16 attack and 6 rune slots at Lv2.<br/>However, attack and rune slots won't increase again until Lv5.</td>
@@ -231,12 +231,12 @@ Aim to synthesize any type-effective or status inflicting weapons you find.
   <tbody>
     <tr>
       <td class="highlightGray">Anti-Aquatic</td>
-      <td>Water Cutter<br/>Evaporate Scroll</td>
+      <td>Water Cutter<br/>Desert Scroll</td>
       <td>Effective against Gyaza, Hopodile, Zalokleft, Slime, Explochin, etc.<br/>Synthesize Water Cutter right away if you find a Synthesis Pot before 21F.<br/>Low priority after 23F, since the major aquatic threats are gone.</td>
     </tr>
     <tr>
       <td class="highlightGray">Anti-Drain</td>
-      <td>Drain Dagger<br/>Antidote Grass</td>
+      <td>Drain Slicer<br/>Antidote Grass</td>
       <td>Needed to quickly defeat troublesome Absorbiphant monsters,<br/>and also helps against Scorpion monsters.</td>
     </tr>
     <tr>
@@ -302,7 +302,7 @@ Linger on floors and hunt monsters to level equipment early game.
       <td>Defense increases by 2 per level up, and rune slots increases to 6 at Lv2.</td>
     </tr>
     <tr>
-      <td class="highlightGray">Targite</td>
+      <td class="highlightGray">Meteor Guard</td>
       <td class="centeredText">12</td>
       <td class="centeredText">5</td>
       <td>Very solid 16 defense and 6 rune slots at Lv2.</td>
@@ -530,7 +530,7 @@ If you're attempting a single adventure clear, you need to be skilled enough to 
 Walk along the edges of rooms between 3-5F in search of wood arrow and poison arrow traps,<br/>
 and collect arrows from them by throwing rocks or other items onto the trap.<br/>
 Hunt Froggos to gain enough money to purchase items, rest at the inn, and hone equipment in Gonchiki Village.<br/>
-The inn fully replenishes your HP, fullness, and strength for 500 Gitan, so don't worry about losing strength.<br/>Place pots near the exit so that they don't break from stepping on a Trip Trap.<br/>Pots don't break even if they're thrown by Bored Kappa, so they're safe.
+The inn fully replenishes your HP, fullness, and strength for 500 Gitan, so don't worry about losing strength.<br/>Place pots near the exit so that they don't break from stepping on a Trip Stone.<br/>Pots don't break when they're thrown by Bored Kappa, so they're safe.
 
 ### Gonchiki Village
 
@@ -629,7 +629,7 @@ Step in place near the stairs at night after checking every room, and defeat nig
 
 Rush stairs between 13-18F, 21-25F, and 27-36F.
 
-Dark Villeaters are extremely dangerous if you don't have a Super Torch or Monster Detector,<br/>since they approach at double speed if they're in the same room as Shiren.
+Dark Villeaters are extremely dangerous if you don't have a Super Torch or Monster Detector,<br/>since they approach at double speed if they're in the same room as Shiren.<br/>※ Maneater monsters inflict Afraid status instead of Paralyzed in this game.
 
 ### Monkey Village
 
@@ -648,16 +648,16 @@ Upgrade your shield at the blacksmith, and buy items from the shop.
 
 Daytime-only.<br/>
 Enemy attack power starts to get ridiculous from this point.<br/>
-Swordsman has high attack and HP, and can knock your equipped shield away.<br/>
-Dagger Bee's special deals x2.0 damage and inflicts Confusion.<br/>
+Kengo has high attack and HP, and can knock your equipped shield away.<br/>
+Dagger Bee's special deals x2.0 damage and inflicts Confused status.<br/>
 Sr. Yanpii hits like a wrecking ball, and its tackle deals damage and knockback.<br/>
-Gyadon can pluck a staff and reduce its remaining uses to 0.
+Gyadon can peck a staff and reduce its remaining uses to 0.
 
-Floating monsters rush toward you at the start, so it's easy to get surrounded.<br/>Fight Swordsman with your back against a wall so that your shield doesn't fly off a cliff.<br/>Despite these dangers, be sure to check each room for items instead of rushing the exit.<br/>If there's a Sr. Yanpii with an aura, level it up and defeat it to gain lots of experience points.<br/>Protect staves from Gyadon by inserting them into Storage Pots.
+Floating monsters rush toward you at the start, so it's easy to get surrounded.<br/>Fight Kengo with your back against a wall so that your shield doesn't fly off a cliff.<br/>Despite these dangers, be sure to check each room for items instead of rushing to the exit.<br/>If there's a Sr. Yanpii with an aura, level it up and defeat it to gain lots of experience points.<br/>Protect staves from Gyadon by inserting them into Storage Pots.
 
 ⭐︎ <span class="orangeText">For those that can't deal with night</span> ⭐︎
 
-Linger on these floors and hunt monsters to level up.<br/>This is basically the last area where you can fight during the daytime if you can't deal with night.<br/>Be careful of Swordsman while checking rooms, and then step in place near the exit and hunt until the wind blows.<br/>Hide behind a wall or object while waiting so that you don't get tackled by Sr. Yanpii right away,<br/>and use arrows to soften it enough so that it can be defeated in one hit.
+Linger on these floors and hunt monsters to level up.<br/>This is basically the last area where you can fight during the daytime if you can't deal with night.<br/>Be careful of Kengo while checking rooms, and then step in place near the exit and hunt until the wind blows.<br/>Hide behind a wall or object while waiting so that you don't get tackled by Sr. Yanpii right away,<br/>and use arrows to soften it enough so that it can be defeated in one hit.
 
 ### Lave Field (21-23F)
 
@@ -679,7 +679,7 @@ but otherwise consider rushing stairs instead of lingering very long.<br/>Lava e
 </div>
 
 The Purifier can remove curses and seals from items for 1500G if needed.<br/>
-Lost NPCs must be guided to this location to unlock the item shop, inn, and storage.
+Lost [NPCs](/system/npcs) must be guided to this location to unlock the item shop, inn, and storehouse.
 
 ### Devil's Navel (24-26F)
 
@@ -690,7 +690,7 @@ Lost NPCs must be guided to this location to unlock the item shop, inn, and stor
 Daytime-only.<br/>
 Consider rushing stairs on 24-25F if you feel good about your current level and stock of items.<br/>Super Gazers and Cursisters can destroy items, so don't let them act if they're adjacent.<br/>Dragons and Hipadiles hit incredibly hard and have high HP, so use items to deal with them.<br/>N'mach (24-36F) disguises itself as an item and doesn't reveal itself until you try to use it,<br/>so don't trust scrolls and grass you pick up from 24F onward.
 
-Mixers (26-27F) appear, so synthesize equipment and combine staves.<br/>Prioritize the Anti-Dragon and 1/2 Fire runes to make it a bit easier to linger.<br/>If you have extra slots, synthesize runes that increase max HP for upcoming boss fights,<br/>which include HP+20 (Life Grass), HP+15 (Heal Grass), HP+10 (Otogiriso), and HP+5 (Herb).
+Mixers (26-27F) appear, so synthesize equipment and combine staves.<br/>Prioritize the <span class="greenText">Anti-Dragon</span> and <span class="greenText">1/2 Fire</span> runes to make it a bit easier to linger.<br/>If you have extra slots, synthesize runes that increase max HP for upcoming boss fights,<br/>which include <span class="greenText">HP+20</span> (Life Grass), <span class="greenText">HP+15</span> (Heal Grass), <span class="greenText">HP+10</span> (Otogiriso), and <span class="greenText">HP+5</span> (Herb).
 
 Weapon runes to aim for at this point:
 
@@ -711,7 +711,7 @@ Weapon runes to aim for at this point:
     <tr>
       <td class="highlightOrange">High</td>
       <td>Anti-Drain</td>
-      <td>Drain Dagger<br/>Antidote Grass</td>
+      <td>Drain Slicer<br/>Antidote Grass</td>
     </tr>
     <tr>
       <td class="highlightYellow">Mid</td>
@@ -726,7 +726,7 @@ Weapon runes to aim for at this point:
     <tr>
       <td class="highlightYellow">Mid</td>
       <td>Anti-Aquatic</td>
-      <td>Water Cutter<br/>Evaporate Scroll</td>
+      <td>Water Cutter<br/>Desert Scroll</td>
     </tr>
     <tr>
       <td class="highlightLightblue">Low</td>
@@ -835,7 +835,7 @@ Boss Moves:
 
 The boss moves at double speed, cures status conditions in 1 turn, ignores Sanctuary Scroll,<br/>only takes 2 damage from thrown Gitan, and its tackle can close distances if you try to step away.<br/>It doesn't have high HP for a boss, but you won't defeat it by trading direct attacks unless your level,<br/>weapon, and shield are outstanding.
 
-The boss fight occurs during daytime, so abilities can't be used - you need to use items.<br/>Status conditions aren't very effective even if the boss isn't immune to it, since it'll be cured quickly.<br/>However, they become viable if you boost Shiren's action speed by eating Swift Grass.
+The boss fight occurs during daytime, so necklace moves can't be used - you need to use items.<br/>Status conditions aren't very effective even if the boss isn't immune to it, since it'll be cured quickly.<br/>However, they become viable if you boost Shiren's action speed by eating Swift Grass.
 
 Some strategies:
 
@@ -844,7 +844,7 @@ Some strategies:
 - Swift Grass + Power Up Grass + healing items
     - Trade hits after boosting your speed and attack power. Requires lots of healing items.
 - Empathy Staff + healing items
-    - Deal damage using Empathy status, healing as needed.<br/>The boss will cure Empathy status, so prepare at least 5 uses worth to be safe.
+    - Deal damage using Empathetic status, healing as needed.<br/>The boss will cure Empathetic status, so prepare at least 5 uses worth to be safe.
 
 ### Gold Palace (31-36F)
 
@@ -1217,7 +1217,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     </tr>
     <tr>
       <td>19-20</td>
-      <td>Swordsman</td>
+      <td>Kengo</td>
       <td>58</td>
       <td>32</td>
       <td>16</td>
@@ -1732,7 +1732,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     </tr>
     <tr>
       <td>13-18</td>
-      <td>Shady Slime</td>
+      <td>Vile Slime</td>
       <td>23</td>
       <td>14</td>
       <td>1</td>
@@ -1864,7 +1864,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     </tr>
     <tr>
       <td>34-36</td>
-      <td>Shady Grime</td>
+      <td>Vile Grime</td>
       <td>41</td>
       <td>22</td>
       <td>2</td>
@@ -2113,7 +2113,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <th>13</th>
       <td>Evil PolySpinna</td>
       <td>Evil Porky</td>
-      <td>Shady Slime</td>
+      <td>Vile Slime</td>
       <td class="highlightGray"></td>
       <td rowspan="6" class="monsterTableNdubba">2</td>
       <td rowspan="6" class="monsterTableManeater">2</td>
@@ -2128,7 +2128,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <th>14</th>
       <td>Evil PolySpinna</td>
       <td>Evil Porky</td>
-      <td>Shady Slime</td>
+      <td>Vile Slime</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -2141,7 +2141,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <th>15</th>
       <td>Evil PolySpinna</td>
       <td>Evil Porky</td>
-      <td>Shady Slime</td>
+      <td>Vile Slime</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -2154,7 +2154,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <th>16</th>
       <td>Evil PolySpinna</td>
       <td>Evil Porky</td>
-      <td>Shady Slime</td>
+      <td>Vile Slime</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -2167,7 +2167,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <th>17</th>
       <td>Evil PolySpinna</td>
       <td>Evil Porky</td>
-      <td>Shady Slime</td>
+      <td>Vile Slime</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -2180,7 +2180,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <th>18</th>
       <td>Evil PolySpinna</td>
       <td>Evil Porky</td>
-      <td>Shady Slime</td>
+      <td>Vile Slime</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -2192,7 +2192,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>Flamepuff</td>
       <td>Gyadon</td>
       <td>Dagger Bee</td>
-      <td>Swordsman</td>
+      <td>Kengo</td>
       <th>19</th>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -2207,7 +2207,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>Flamepuff</td>
       <td>Gyadon</td>
       <td>Dagger Bee</td>
-      <td>Swordsman</td>
+      <td>Kengo</td>
       <th>20</th>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -2419,7 +2419,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>Tiger Hurler</td>
       <td>Porkchop</td>
       <th>34</th>
-      <td>Shady Grime</td>
+      <td>Vile Grime</td>
       <td>Dark Beanie</td>
       <td>Foul Boss</td>
       <td class="highlightGray"></td>
@@ -2432,7 +2432,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>Tiger Hurler</td>
       <td>Porkchop</td>
       <th>35</th>
-      <td>Shady Grime</td>
+      <td>Vile Grime</td>
       <td>Dark Beanie</td>
       <td>Foul Boss</td>
       <td class="highlightGray"></td>
@@ -2445,7 +2445,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>Tiger Hurler</td>
       <td>Porkchop</td>
       <th>36</th>
-      <td>Shady Grime</td>
+      <td>Vile Grime</td>
       <td>Dark Beanie</td>
       <td>Foul Boss</td>
       <td class="highlightGray"></td>
@@ -2507,7 +2507,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td>X</td>
     <td></td>
     <td>X</td>
-    <td class="leftText">Light Scroll</td>
+    <td class="leftText">Navigation Scroll</td>
     <td>X</td>
     <td></td>
     <td>X</td>
@@ -2595,7 +2595,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Bladite</td>
+    <td class="leftText">Meteor Edge</td>
     <td></td>
     <td></td>
     <td>X</td>
@@ -2675,7 +2675,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Rusty Mattock</td>
+    <td class="leftText">Rusty Pick</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2687,7 +2687,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td></td>
-    <td class="leftText">Expulsion Scroll</td>
+    <td class="leftText">Eradicate Scroll</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2767,7 +2767,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td></td>
-    <td class="leftText">Pot Expand Scroll</td>
+    <td class="leftText">Pot God Scroll</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2887,7 +2887,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td></td>
-    <td class="leftText">Muzzle Scroll</td>
+    <td class="leftText">Muzzled Scroll</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2895,7 +2895,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Seal Rod</td>
+    <td class="leftText">Sealing Keisaku</td>
     <td></td>
     <td>X</td>
     <td></td>
@@ -2935,7 +2935,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Dim Rod</td>
+    <td class="leftText">Blurry Stick</td>
     <td></td>
     <td>X</td>
     <td>X</td>
@@ -2947,7 +2947,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
     <td></td>
     <td></td>
-    <td class="leftText">Monster Scroll</td>
+    <td class="leftText">Mon House Scroll</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2955,7 +2955,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Crescent Blade</td>
+    <td class="leftText">Crescent Katana</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -3030,7 +3030,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Drain Dagger</td>
+    <td class="leftText">Drain Slicer</td>
     <td></td>
     <td></td>
     <td>X</td>
@@ -3042,7 +3042,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td>X</td>
     <td></td>
     <td></td>
-    <td class="leftText">Attract Scroll</td>
+    <td class="leftText">Attraction Scroll</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3125,7 +3125,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Copper Buckler</td>
+    <td class="leftText">Copper Guard</td>
     <td></td>
     <td></td>
     <td>X</td>
@@ -3200,7 +3200,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <th>E</th>
   </tr>
   <tr>
-    <td class="leftText">Targite</td>
+    <td class="leftText">Meteor Guard</td>
     <td></td>
     <td>X</td>
     <td>X</td>
@@ -3546,7 +3546,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td>X</td>
     <td>X</td>
     <td></td>
-    <td class="leftText">Blinding Grass</td>
+    <td class="leftText">Blind Grass</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3560,7 +3560,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td>X</td>
   </tr>
   <tr>
-    <td class="leftText">Gyadon Guard</td>
+    <td class="leftText">Gyadon Blocker</td>
     <td>X</td>
     <td>X</td>
     <td>X</td>
@@ -3725,7 +3725,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Gust Arrow</td>
+    <td class="leftText">Force Arrow</td>
     <td></td>
     <td></td>
     <td></td>

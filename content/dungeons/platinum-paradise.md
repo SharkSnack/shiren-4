@@ -1,24 +1,25 @@
 ---
 title: "Platinum Paradise"
 metaTitle: "Platinum Paradise - Shiren the Wanderer 4: The Eye of God Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invasion!"
+metaDescription: "Platinum Paradise dungeon guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
+
 # Items
 
-- F = Floor, Daytime monster drop
-- S = Shiny Object (yellow), Peddler
+- F = Floor, Monster (day)
+- S = Shop, Monster (night), Maneater, Shiny Object (yellow), Peddler
 - P = Presto Pot
-- Z = Zalokleft drop
-- E = Shiny Object (yellow, blue)
+- Z = Zalokleft
+- E = Elite Shop, Shiny Object (blue)
 
 <br/>
 
 <table class="dungeonItemTable">
   <tr>
     <th colspan="6" class="highlightGreen">Weapon</th>
-    <th rowspan="81"></th>
+    <th rowspan="82"></th>
     <th colspan="6" class="highlightGreen">Bracelet</th>
-    <th rowspan="81"></th>
+    <th rowspan="82"></th>
     <th colspan="6" class="highlightGreen">Scroll</th>
   </tr>
   <tr>
@@ -54,7 +55,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
     <td></td>
     <td></td>
-    <td class="leftText">Light Scroll</td>
+    <td class="leftText">Navigation Scroll</td>
     <td></td>
     <td></td>
     <td></td>
@@ -62,7 +63,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Copper Blade</td>
+    <td class="leftText">Copper Edge</td>
     <td></td>
     <td></td>
     <td></td>
@@ -142,13 +143,13 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Bladite</td>
+    <td class="leftText">Meteor Edge</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td class="leftText">Antidote Bracelet</td>
+    <td class="leftText">Cleansing Bracelet</td>
     <td></td>
     <td></td>
     <td></td>
@@ -222,7 +223,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Rusty Mattock</td>
+    <td class="leftText">Rusty Pick</td>
     <td></td>
     <td></td>
     <td></td>
@@ -234,7 +235,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
     <td></td>
     <td></td>
-    <td class="leftText">Expulsion Scroll</td>
+    <td class="leftText">Eradicate Scroll</td>
     <td></td>
     <td></td>
     <td></td>
@@ -314,7 +315,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
     <td></td>
     <td></td>
-    <td class="leftText">Pot Expand Scroll</td>
+    <td class="leftText">Pot God Scroll</td>
     <td></td>
     <td></td>
     <td></td>
@@ -428,13 +429,13 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
     <td></td>
     <td></td>
-    <td class="leftText">Bomber Bracelet</td>
+    <td class="leftText">Explosion Bracelet</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td class="leftText">Muzzle Scroll</td>
+    <td class="leftText">Muzzled Scroll</td>
     <td></td>
     <td></td>
     <td></td>
@@ -442,7 +443,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Seal Rod</td>
+    <td class="leftText">Sealing Keisaku</td>
     <td></td>
     <td></td>
     <td></td>
@@ -468,7 +469,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
     <td></td>
     <td></td>
-    <td class="leftText">Monster Caller</td>
+    <td class="leftText">Monster Summoner</td>
     <td></td>
     <td></td>
     <td></td>
@@ -482,7 +483,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Dim Rod</td>
+    <td class="leftText">Blurry Stick</td>
     <td></td>
     <td></td>
     <td></td>
@@ -494,7 +495,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
     <td></td>
     <td></td>
-    <td class="leftText">Monster Scroll</td>
+    <td class="leftText">Mon House Scroll</td>
     <td></td>
     <td></td>
     <td></td>
@@ -502,7 +503,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Crescent Arm</td>
+    <td class="leftText">Crescent Katana</td>
     <td></td>
     <td></td>
     <td></td>
@@ -549,7 +550,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <th>P</th>
     <th>Z</th>
     <th>E</th>
-    <td class="leftText">Evaporate Scroll</td>
+    <td class="leftText">Desert Scroll</td>
     <td></td>
     <td></td>
     <td></td>
@@ -577,7 +578,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Drain Dagger</td>
+    <td class="leftText">Drain Slicer</td>
     <td></td>
     <td></td>
     <td></td>
@@ -589,7 +590,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
     <td></td>
     <td></td>
-    <td class="leftText">Attract Scroll</td>
+    <td class="leftText">Attraction Scroll</td>
     <td></td>
     <td></td>
     <td></td>
@@ -597,7 +598,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Lizard Lopper</td>
+    <td class="leftText">Lizard Lasher</td>
     <td></td>
     <td></td>
     <td></td>
@@ -672,7 +673,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Copper Buckler</td>
+    <td class="leftText">Copper Guard</td>
     <td></td>
     <td></td>
     <td></td>
@@ -747,7 +748,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <th>E</th>
   </tr>
   <tr>
-    <td class="leftText">Targite</td>
+    <td class="leftText">Meteor Guard</td>
     <td></td>
     <td></td>
     <td></td>
@@ -939,7 +940,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
     <td></td>
     <td></td>
-    <td class="leftText">Void Pot</td>
+    <td class="leftText">Black Hole Pot</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1093,7 +1094,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
     <td></td>
     <td></td>
-    <td class="leftText">Blinding Grass</td>
+    <td class="leftText">Blind Grass</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1107,7 +1108,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Gyadon Guard</td>
+    <td class="leftText">Gyadon Blocker</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1272,7 +1273,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Knockback Arrow</td>
+    <td class="leftText">Force Arrow</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1292,7 +1293,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Homing Arrow</td>
+    <td class="leftText">True Arrow</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1522,8 +1523,8 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
   </tr>
   <tr>
-    <td rowspan="3" colspan="6" class="highlightGray"></td>
-    <td rowspan="3" colspan="6" class="highlightGray"></td>
+    <td rowspan="4" colspan="6" class="highlightGray"></td>
+    <td rowspan="4" colspan="6" class="highlightGray"></td>
     <td class="leftText">Yellow Banana</td>
     <td></td>
     <td></td>
@@ -1547,4 +1548,14 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 2: Oni Invas
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td class="leftText">Chocolate Banana</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
+
+※ If you find an item that isn't listed, please feel free to add it to the table.

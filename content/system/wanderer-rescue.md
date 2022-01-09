@@ -1,7 +1,7 @@
 ---
 title: "Wanderer Rescue"
 metaTitle: "Wanderer Rescue - Shiren the Wanderer 4: The Eye of God Wiki"
-metaDescription: "Wanderer rescue guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
+metaDescription: "Wanderer Rescue guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
 <div class="pageTopImage screenshot">

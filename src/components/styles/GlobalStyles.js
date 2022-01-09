@@ -1291,6 +1291,13 @@ export const baseStyles = css`
     padding-top: 5px;
     position: relative !important;
   }
+  .dungeonPageTopImage {
+    display: flex;
+  }
+  .dungeonPageTopImage img {
+    padding-top: 5px;
+    position: relative !important;
+  }
   .statusTable img {
     position: relative !important;
   }
@@ -1322,6 +1329,10 @@ export const baseStyles = css`
   }
   .smallScreenshot {
     width: 240px;
+    height: auto;
+  }
+  .twoScreenshots {
+    width: 680px;
     height: auto;
   }
   .allyImage {

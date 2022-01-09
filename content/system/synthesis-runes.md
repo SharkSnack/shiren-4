@@ -1,7 +1,7 @@
 ---
-title: "Runes"
+title: "Synthesis Runes"
 metaTitle: "Synthesis Runes - Shiren the Wanderer 4: The Eye of God Wiki"
-metaDescription: "Complete list of runes for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
+metaDescription: "Complete list of synthesis runes for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 <div class="pageTopImage screenshot">
   <img src="../images/other/synthesis.png"/>

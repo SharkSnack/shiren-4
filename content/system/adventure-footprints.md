@@ -1,5 +1,5 @@
 ---
-title: "Footprints"
+title: "Adventure Footprints"
 metaTitle: "Adventure Footprints - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "List of Adventure Footprints for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---

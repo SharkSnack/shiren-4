@@ -1,5 +1,5 @@
 ---
-title: "Other"
+title: "Other Items"
 metaTitle: "Other Items - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Complete other item details for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
