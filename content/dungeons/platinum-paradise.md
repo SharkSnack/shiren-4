@@ -4,6 +4,10 @@ metaTitle: "Platinum Paradise - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Platinum Paradise dungeon guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
+<div class="pageTopImage screenshot">
+  <img src="../images/dungeons/platinum_paradise.png"/>
+</div>
+
 # Items
 
 - F = Floor, Monster (day)

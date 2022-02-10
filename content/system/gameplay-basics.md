@@ -12,7 +12,7 @@ This page provides information for Shiren 4's various gameplay systems and mecha
   <li><a href="#shiren">Shiren</a>
     <ul>
       <li><a href="#fullness">Fullness</a></li>
-      <li><a href="#necklace-moves">Necklace Moves</a></li>
+      <li><a href="#necklace-abilities">Necklace Abilities</a></li>
       <li><a href="#status-conditions">Status Conditions</a></li>
       <li><a href="#hp-regeneration">HP Regeneration</a></li>
       <li><a href="#damage-calculation">Damage Calculation</a></li>
@@ -71,10 +71,10 @@ Bananas ripen in the order of Green Banana → Yellow Banana → Ripe Banana →
   <img src="../images/other/food.png"/>
 </div>
 
-### Necklace Moves
+### Necklace Abilities
 
 Special attacks that can only be used at night.<br/>
-→ [Necklace Moves](/system/necklace-moves)
+→ [Necklace Abilities](/system/necklace-abilities)
 
 <div class="relativeImage smallScreenshot">
   <img src="../images/other/sticky_shot.png"/>
@@ -188,7 +188,7 @@ Notes:
 
 Weapons and shields earn growth experience points when you defeat enemies using direct attacks.<br/>For the sake of keeping the term short, this site refers to it as skill points.
 
-※ You don't earn skill points if you defeat enemies using projectiles, moves, magic bullets, etc.
+※ You don't earn skill points if you defeat enemies using projectiles, abilities, magic bullets, etc.
 
 <div class="relativeImage smallScreenshot">
   <img src="../images/other/katana_level_2.png"/>
@@ -450,9 +450,9 @@ When it changes from:
 
 Night:
 
-- Direct attacks only deal 1 damage to night monsters, so use [Necklace Moves](/system/necklace-moves) to defeat them.
-    - Up to 8 moves can be assigned. (Talk to the Librarian in Boronga Village to edit)
-    - Once a move is used, it can't be used again until you change floors.
+- Direct attacks only deal 1 damage to night monsters, so use [Necklace Abilities](/system/necklace-abilities) to defeat them.
+    - Up to 8 abilities can be assigned. (Talk to the Librarian in Boronga Village to edit)
+    - Once an ability is used, it can't be used again until you change floors.
     - Special effects from items like staves and scrolls are effective.
     - Fixed damage attacks like Dragon Grass also only deal 1 damage.
         - However, Empathetic status is effective.
@@ -466,7 +466,7 @@ Night:
 
 Day:
 
-- Direct attacks deal damage like normal to day monsters, and moves cannot be used.
+- Direct attacks deal damage like normal to day monsters, and abilities cannot be used.
 
 ### Monsters
 

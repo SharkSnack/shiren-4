@@ -4,6 +4,10 @@ metaTitle: "Entrancing Lane - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Entrancing Lane dungeon guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
+<div class="pageTopImage dungeonPageImage2">
+  <img src="../images/dungeons/entrancing_lane.png"/><img src="../images/dungeons/entrancing_lane_2.png"/>
+</div>
+
 # Items
 
 - F = Floor, Monster (day)

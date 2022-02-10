@@ -55,6 +55,10 @@ If you're new to Shiren, or aren't up for the challenge, it's best to stock up o
     <td>3</td>
   </tr>
   <tr>
+    <th>Unidentified</th>
+    <td colspan="3">Weapons, shields, bracelets</td>
+  </tr>
+  <tr>
     <th>Shops</th>
     <td>Regular, Elite</td>
     <th>Monster Houses</th>
@@ -74,13 +78,15 @@ If you're new to Shiren, or aren't up for the challenge, it's best to stock up o
   </tr>
   <tr>
     <th>Ominous aura</th>
-    <td>500 turns<br/>(Certain floors)</td>
+    <td>Yes (500 turns)<br/>Certain floors only</td>
     <th>Wind of Kron</th>
     <td>1st: 1700<br/>4th: 2000</td>
   </tr>
   <tr>
-    <th>Unidentified</th>
-    <td colspan="3">Weapons, shields, bracelets</td>
+    <th>Clear Icon</th>
+    <td></td>
+    <th>Reward</th>
+    <td>None</td>
   </tr>
 </table>
 
@@ -467,11 +473,11 @@ Runes:
   </tbody>
 </table>
 
-### Moves
+### Abilities
 
-Night monsters can be one-shot by most moves until Devil's Navel,<br/>but some like Dark Ricebadger and Evil Sky Dragon require A rank or higher moves.
+Night monsters can be one-shot by most abilities until Devil's Navel,<br/>but some like Dark Ricebadger and Evil Sky Dragon require A rank or higher abilities.
 
-Recommended Moves:
+Recommended Abilities:
 
 <table class="dungeonTable">
   <thead>
@@ -490,7 +496,7 @@ Recommended Moves:
     <tr>
       <td class="highlightGray">Sticky Shot</td>
       <td>A (70)</td>
-      <td>Default move. Strong against blue aura monsters.</td>
+      <td>Default ability. Strong against blue aura monsters.</td>
     </tr>
     <tr>
       <td class="highlightGray">Room Cyclone</td>
@@ -549,7 +555,7 @@ Buy all bananas, torches, and Storage Pots that are in stock.<br/>If a Lamp Shie
 First area to feature a day and night cycle.<br/>
 Level up a Ricebear (6-8F) to Ricebadger using items like Fear or Berserk talismans,<br/>and then defeat it using direct attacks after inflicting a status condition to level up equipment.<br/>Monsters with auras provide x2.0 experience points, and use a Growth Seed if you have one.<br/>※ Unlike Shiren 5, talismans other than Seal Talisman don't remove auras in this game.
 
-Hunt Zaloklefts (8-10F) for item drops.<br/>Intentionally get hit by Firepuff (6-8F)'s special attack to grill bananas.<br/>Step in place near the stairs at night after checking every room, and defeat night monsters<br/>for experience points and item drops until you've used up all moves before advancing.<br/>Foul Morphs (8-10F) occasionally drop blessed Spoiled Bananas, which can be grilled.
+Hunt Zaloklefts (8-10F) for item drops.<br/>Intentionally get hit by Firepuff (6-8F)'s special attack to grill bananas.<br/>Step in place near the stairs at night after checking every room, and defeat night monsters<br/>for experience points and item drops until you've used up all abilities before advancing.<br/>Foul Morphs (8-10F) occasionally drop blessed Spoiled Bananas, which can be grilled.
 
 It's ideal to reach Lv20 for Shiren and Lv3 for equipment before advancing to 11F.<br/>If you have Storage Pots, try to save the following to synthesize on 26-27F:
 
@@ -623,7 +629,7 @@ Things start to get a bit difficult from this area onward without a Heal Bracele
 
 Fearabbits attract you and other monsters to itself, so you can end up surrounded right away.<br/>This area has large rooms, so they can be a big problem - use items like Fear Scroll if you get surrounded.<br/>Porky's special deals 20 damage, so use items instead of approaching with direct attacks to keep your HP up.<br/>N'twyn spawns both during the day and at night, so don't try to pick up items when your HP is low.<br/>Have a Traproid create a Landmine to grill bananas if desired.
 
-Step in place near the stairs at night after checking every room, and defeat night monsters<br/>for experience points and item drops until you've used up all moves before advancing.<br/>If you have a Replenish Scroll, linger until Dark Villeaters appear and hunt them for items.<br/>It's also possible to refresh moves using Revival Grass or Undo Grass, but it's a gamble<br/>whether or not you'll obtain an item that's worth the trade.<br/>Don't fight Villeaters during the day.
+Step in place near the stairs at night after checking every room, and defeat night monsters<br/>for experience points and item drops until you've used up all abilities before advancing.<br/>If you have a Replenish Scroll, linger until Dark Villeaters appear and hunt them for items.<br/>It's also possible to refresh abilities using Revival Grass or Undo Grass, but it's a gamble<br/>whether or not you'll obtain an item that's worth the trade.<br/>Don't fight Villeaters during the day.
 
 ⭐︎ <span class="orangeText">For those that can't deal with night</span> ⭐︎
 
@@ -657,7 +663,7 @@ Floating monsters rush toward you at the start, so it's easy to get surrounded.<
 
 ⭐︎ <span class="orangeText">For those that can't deal with night</span> ⭐︎
 
-Linger on these floors and hunt monsters to level up.<br/>This is basically the last area where you can fight during the daytime if you can't deal with night.<br/>Be careful of Kengo while checking rooms, and then step in place near the exit and hunt until the wind blows.<br/>Hide behind a wall or object while waiting so that you don't get tackled by Sr. Yanpii right away,<br/>and use arrows to soften it enough so that it can be defeated in one hit.
+Linger on these floors and hunt monsters to level up.<br/>This is basically the last area where you can fight during daytime if you can't deal with night.<br/>Be careful of Kengo while checking rooms, and then step in place near the exit and hunt until the wind blows.<br/>Hide behind a wall or object while waiting so that you don't get tackled by Sr. Yanpii right away,<br/>and use arrows to soften it enough so that it can be defeated in one hit.
 
 ### Lave Field (21-23F)
 
@@ -794,7 +800,7 @@ The day and night cycle returns starting on 27F, so finish synthesizing on 26F.<
 
 Mixers continue to appear on 27F, so finish synthesizing if you didn't do so on 26F.<br/>MC Mage's magic bullet effect is randomly selected from confusion, blind, transient, and 20 damage.<br/>If a Kappa Pest is standing on an item, swing a Transient Staff or wait until night to claim the item.<br/>Grimes lower weapon or shield upgrade value by 2 and can multiply, so unequip your equipment.<br/>Continue to hunt Lime Zaloklefts (24-30F) for item drops if possible.<br/>Remember, you want to save Seal Staff for the final boss.
 
-Dark Ricebadgers and Evil Sky Dragons can't be one-shot with B rank moves at night.<br/>Evil Sky Dragon's special attack deals 50 fire damage from anywhere in the room, so stay in hallways.<br/>That said, Evil Sky Dragons provide 1500 experience points, so try to defeat any that you see.
+Dark Ricebadgers and Evil Sky Dragons can't be one-shot with B rank abilities at night.<br/>Evil Sky Dragon's special attack deals 50 fire damage from anywhere in the room, so stay in hallways.<br/>That said, Evil Sky Dragons provide 1500 experience points, so try to defeat any that you see.
 
 ⭐︎ <span class="orangeText">For those that can't deal with night</span> ⭐︎
 
@@ -835,7 +841,7 @@ Boss Moves:
 
 The boss moves at double speed, cures status conditions in 1 turn, ignores Sanctuary Scroll,<br/>only takes 2 damage from thrown Gitan, and its tackle can close distances if you try to step away.<br/>It doesn't have high HP for a boss, but you won't defeat it by trading direct attacks unless your level,<br/>weapon, and shield are outstanding.
 
-The boss fight occurs during daytime, so necklace moves can't be used - you need to use items.<br/>Status conditions aren't very effective even if the boss isn't immune to it, since it'll be cured quickly.<br/>However, they become viable if you boost Shiren's action speed by eating Swift Grass.
+The boss fight occurs during daytime, so necklace abilities can't be used - you need to use items.<br/>Status conditions aren't very effective even if the boss isn't immune to it, since it'll be cured quickly.<br/>However, they become viable if you boost Shiren's action speed by eating Swift Grass.
 
 Some strategies:
 
@@ -1900,11 +1906,10 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
 
 # Monster Table
 
-- F = Floor
-- <span class="monsterTableNdubba">N</span> = N'dubba level
-- <span class="monsterTableManeater">M</span> = Maneater level
+- N = N'dubba <span class="monsterTableNdubba">Lv1</span> <span class="monsterTableNtwyn">Lv2</span> <span class="monsterTableNmach">Lv3</span> <span class="monsterTableNdup">Lv4</span>
+- M = Maneater <span class="monsterTableManeater">Lv1</span> <span class="monsterTableVilleater">Lv2</span> <span class="monsterTableMounteater">Lv3</span> <span class="monsterTableIsleater">Lv4</span>
 
-<br/>
+Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlightUseful">Useful</span> <span class="highlightItem">Destroys Items</span> <span class="highlightOffense">High Offense</span> <span class="highlightDanger">Dangerous</span> <span class="highlightExtreme">Very Dangerous</span>
 
 <table class="monsterTable">
   <thead>
@@ -2115,8 +2120,8 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>Evil Porky</td>
       <td>Vile Slime</td>
       <td class="highlightGray"></td>
-      <td rowspan="6" class="monsterTableNdubba">2</td>
-      <td rowspan="6" class="monsterTableManeater">2</td>
+      <td rowspan="6" class="monsterTableNtwyn">2</td>
+      <td rowspan="6" class="monsterTableVilleater">2</td>
     </tr>
     <tr>
       <td class="highlightGray"></td>
@@ -2276,7 +2281,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
-      <td rowspan="3" class="monsterTableNdubba">3</td>
+      <td rowspan="3" class="monsterTableNmach">3</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -2322,7 +2327,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>Dark Traproid</td>
       <td>Evil Sky Dragon</td>
       <td>Dark Demon Scorp</td>
-      <td rowspan="4" class="monsterTableNdubba">3</td>
+      <td rowspan="4" class="monsterTableNmach">3</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -2382,8 +2387,8 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
       <td>Dark Cursister</td>
       <td>Bad Lime Zalokleft</td>
       <td class="highlightGray"></td>
-      <td rowspan="6" class="monsterTableNdubba">3</td>
-      <td rowspan="6" class="monsterTableManeater">2</td>
+      <td rowspan="6" class="monsterTableNmach">3</td>
+      <td rowspan="6" class="monsterTableVilleater">2</td>
     </tr>
     <tr>
       <td class="highlightGray"></td>
@@ -4010,7 +4015,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
   </tr>
 </table>
 
-※ If you find an item that isn't listed, please feel free to add it to the table.
+※ Item Table is incomplete. If you find a drop that isn't listed, please add it to the table.
 
 # Traps
 

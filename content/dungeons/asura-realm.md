@@ -4,6 +4,10 @@ metaTitle: "Asura Realm - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
+<div class="pageTopImage screenshot">
+  <img src="../images/dungeons/asura_realm.png"/>
+</div>
+
 # Items
 
 - F = Floor, Monster (day)

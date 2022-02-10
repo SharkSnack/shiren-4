@@ -4,6 +4,10 @@ metaTitle: "Shrine of Night Adventures - Shiren the Wanderer 4: The Eye of God W
 metaDescription: "Shrine of Night Adventures guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
+<div class="pageTopImage screenshot">
+  <img src="../images/dungeons/shrine_of_night_adventures.png"/>
+</div>
+
 # Items
 
 - F = Floor, Monster (day)

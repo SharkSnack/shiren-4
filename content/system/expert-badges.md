@@ -36,7 +36,7 @@ Each section on this page assumes you're attempting <span class="orangeText">one
       <li><a href="#level-99">Level 99</a></li>
       <li><a href="#999,999-gitan">999,999 Gitan</a></li>
       <li><a href="#3-allies">3 Allies</a></li>
-      <li><a href="#no-moves">No Moves</a></li>
+      <li><a href="#no-abilities">No Abilities</a></li>
       <li><a href="#no-direct-attacks">No Direct Attacks</a></li>
     </ul>
   </li>
@@ -47,7 +47,7 @@ Each section on this page assumes you're attempting <span class="orangeText">one
 Platinum Paradise is the easiest dungeon to obtain badges in outside of the 2 dungeon-specific challenges:
 
 - Clear without synthesizing! (Bayside Monster Cave)
-- Clear without using moves! (Entrancing Lane)
+- Clear without using abilities! (Entrancing Lane)
 
 #### Cautions
 
@@ -176,11 +176,11 @@ Withdraw 999,999 Gitan from your bank account and clear a dungeon that allows ca
 
 Level up your allies to Lv10 beforehand, and prepare an assortment of powerful items.<br/>Recruit allies at the Tavern in Boronga Village, or while progressing through Emerald Terrace.<br/>Use Monster Detector + Transient Staff to locate the stairs and rush through the dungeon.<br/>Bring lots of Blank Scrolls and don't hesitate to use Eradicate Scroll, etc. if an ally is in danger.<br/>Throw Extinction Scrolls at Pop Tank monsters, Archdragons, Abyssal Dragons.<br/>Easiest in Platinum Paradise or Cave of Endless Night.
 
-### No Moves
+### No Abilities
 
 |Challenge|In-Game Description|
 |-|-|
-|Clear without using moves!|Clear a dungeon without using moves!<br/>Try for it in <span class="orangeText">Entrancing Lane</span>!|
+|Clear without using abilities!|Clear a dungeon without using abilities!<br/>Try for it in <span class="orangeText">Entrancing Lane</span>!|
 
 The start of the run is tricky, but otherwise it mostly plays out the same.<br/>
 Corner a Rare Snacky (8 HP) in a room at night and punch it in hopes of obtaining a blessed Blank Scroll.<br/>Blessed Gitan deals 10 damage to night monsters, so it can one-shot a Rare Snacky.<br/>After that, use the blessed Suction Scroll loop technique to progress through the dungeon,<br/>and read Navigation Scrolls to rush stairs from about mid ~ late game.

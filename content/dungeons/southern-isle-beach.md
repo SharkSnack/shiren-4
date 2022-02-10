@@ -4,7 +4,7 @@ metaTitle: "Southern Isle Beach - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Southern Isle Beach / tutorial dungeon guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
-<div class="dungeonPageTopImage twoScreenshots">
+<div class="pageTopImage dungeonPageImage2">
   <img src="../images/dungeons/southern_isle.png"/> <img src="../images/dungeons/southern_isle_2.png"/>
 </div>
 

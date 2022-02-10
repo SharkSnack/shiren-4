@@ -4,6 +4,10 @@ metaTitle: "Banana Kingdom - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Banana Kingdom dungeon guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
+<div class="pageTopImage dungeonPageImage2">
+  <img src="../images/dungeons/banana_kingdom.png"/><img src="../images/dungeons/banana_kingdom_2.png"/>
+</div>
+
 # Items
 
 - F = Floor, Monster (day)

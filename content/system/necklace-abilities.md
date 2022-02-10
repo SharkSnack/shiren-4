@@ -1,7 +1,7 @@
 ---
-title: "Necklace Moves"
-metaTitle: "Necklace Moves - Shiren the Wanderer 4: The Eye of God Wiki"
-metaDescription: "Details about moves / abilities and unlock conditions for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
+title: "Necklace Abilities"
+metaTitle: "Necklace Abilities - Shiren the Wanderer 4: The Eye of God Wiki"
+metaDescription: "Details about abilities and unlock conditions for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
 <div class="pageTopImage screenshot">
@@ -10,29 +10,29 @@ metaDescription: "Details about moves / abilities and unlock conditions for Shir
 
 ## Overview
 
-Necklace moves, also called abilities in Shiren 5, are attacks that can only be used at night.<br/>They are the primary means to deal damage to night monsters, and are first used in<br/>Emerald Terrace after Gonchiki Village during the main story.
+Necklace abilities are attacks that can only be used at night.<br/>They are the primary means to deal damage to night monsters, and are first used in<br/>Emerald Terrace after Gonchiki Village during the main story.
 
-Up to 8 moves can be assigned to the necklace, including multiples of the same move.<br/>Wandering NPCs can teach you new moves, and you can swap moves in Boronga Village.<br/>Some moves can only be learned by repeatedly using specific moves.
+Up to 8 abilities can be assigned to the necklace, including multiples of the same ability.<br/>Wandering NPCs can teach you new abilities, and you can swap abilities in Boronga Village.<br/>Some abilities can only be learned by repeatedly using specific abilities.
 
-Moves can only be used one time each floor.<br/>
-However, it's possible to replenish moves by reading a Replenish Scroll,<br/>
+Abilities can only be used one time each floor.<br/>
+However, it's possible to refresh abilities by reading a Replenish Scroll,<br/>
 being revived by Revival Grass / Undo Grass, or the "Cross" formation taking effect.
 
-Attack power of moves increases as Shiren levels up.<br/>
-Most moves deal 2 damage to shopkeepers, but status effects still work on them.
+Attack power of abilities increases as Shiren levels up.<br/>
+Most abilities deal 2 damage to shopkeepers, but status effects still work on them.
 
 <ul class="quickLinksUL">
-  <li><a href="#move-list">Move List</a></li>
+  <li><a href="#ability-list">Ability List</a></li>
   <li><a href="#how-to-learn">How to Learn</a></li>
   <li><a href="#formations">Formations</a></li>
   <li><a href="#sets">Sets</a></li>
 </ul>
 
-## Move List
+## Ability List
 
-There are a total of 29 moves that Shiren can learn.<br/>Use a Calling Pot and lots of Expand Scrolls to quickly learn moves from NPCs.
+There are a total of 29 abilities that Shiren can learn.<br/>Use a Calling Pot and lots of Expand Scrolls to quickly learn abilities from NPCs.
 
-<table class="moveTable">
+<table class="abilityTable">
   <tr>
     <th>Name</th>
     <th>Power</th>
@@ -48,7 +48,7 @@ There are a total of 29 moves that Shiren can learn.<br/>Use a Calling Pot and l
   <tr>
     <td>Sticky Shot</td>
     <td>A (70)</td>
-    <td>Default move</td>
+    <td>Default ability</td>
     <td>Shoot a damaging bullet in a straight line, then paralyzes.<br/>Weaker than Kaboom Bullet, but nice against blue aura monsters.</td>
   </tr>
   <tr>
@@ -157,7 +157,7 @@ There are a total of 29 moves that Shiren can learn.<br/>Use a Calling Pot and l
     <td>Darkroom</td>
     <td>C (25)</td>
     <td>Derived from<br/>Room Cyclone</td>
-    <td>Damages all targets in the room, and then inflicts Blind status.<br/>Closest move to Pot Party (Shiren 5).</td>
+    <td>Damages all targets in the room, and then inflicts Blind status.<br/>Closest ability to Pot Party (Shiren 5).</td>
   </tr>
   <tr>
     <td>Slowing Blast</td>
@@ -263,7 +263,7 @@ There are a total of 29 moves that Shiren can learn.<br/>Use a Calling Pot and l
 
 ## Formations
 
-Formations are special effects that occur based on character positions when a move is used.<br/>When multiple formation conditions are met, the higher priority formation is chosen.
+Formations are special effects that occur based on character positions when an ability is used.<br/>When multiple formation conditions are met, the higher priority formation is chosen.
 
 <table class="">
   <tr>
@@ -304,7 +304,7 @@ Formations are special effects that occur based on character positions when a mo
   <tr>
     <td class="centeredText">7</td>
     <td class="highlightYellow">Cross</td>
-    <td>Replenish 3 moves</td>
+    <td>Refresh 3 abilities</td>
   </tr>
   <tr>
     <td class="centeredText">8</td>
@@ -370,7 +370,7 @@ Formations are special effects that occur based on character positions when a mo
 
 <br/>
 
-- Doubles the move's power.
+- Doubles the ability's power.
 - Highest priority, and activates no matter what direction you're facing.
 - You really have to aim for it to ever see it activate.
 
@@ -720,7 +720,7 @@ Formations are special effects that occur based on character positions when a mo
 
 - Cures negative status conditions.
 - Priority 6, and Shiren must be facing the line of enemies.
-- Often accidentally triggered in place of Cross formation. (Move Replenish)
+- Often accidentally triggered in place of Cross formation. (Ability Refresh)
 
 #### Cross
 
@@ -810,7 +810,7 @@ Formations are special effects that occur based on character positions when a mo
 
 <br/>
 
-- Replenishes 3 moves.
+- Refreshes 3 abilities.
 - Pretty much exclusive to Cluster Confusion, but has the highest return.
 - Priority 7 - check the direction Shiren is facing to avoid triggering a higher priority formation.
 
@@ -993,21 +993,21 @@ Formations are special effects that occur based on character positions when a mo
 
 <br/>
 
-- Boosts power of move by 20%.
+- Boosts power of ability by 20%.
 - Priority 9, and there must be a water or air tile behind Shiren.
 
 ## Sets
 
-This section provides recommendations for move sets.<br/>Most moves in Shiren 4 are too weak to make use of, so sets look similar.
+This section provides recommendations for ability sets.<br/>Most abilities in Shiren 4 are too weak to make use of, so sets look similar.
 
-The idea is to choose moves based on the purposes you want to have on hand,<br/>
-and then fill the remaining slots with attack type moves.
+The idea is to choose abilities based on the purposes you want to have on hand,<br/>
+and then fill the remaining slots with attack type abilities.
 
 <table>
   <thead>
     <tr>
       <th>Purpose</th>
-      <th>Move</th>
+      <th>Ability</th>
       <th>Item Equivalent</th>
     </tr>
   </thead>
@@ -1029,7 +1029,7 @@ and then fill the remaining slots with attack type moves.
     </tr>
     <tr>
       <td>Attacking (Floor)</td>
-      <td class="highlightYellow">Cluster Confusion + Room Cyclone<br/>Cluster Confusion + "Disable Room" move<br/>Last Stand (Requires Revival Grass)</td>
+      <td class="highlightYellow">Cluster Confusion + Room Cyclone<br/>Cluster Confusion + "Disable Room" ability<br/>Last Stand (Requires Revival Grass)</td>
       <td>Night-Day Scroll</td>
     </tr>
     <tr>

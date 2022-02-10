@@ -774,11 +774,35 @@ export const baseStyles = css`
   }
   .monsterTableNdubba {
     color: white;
-    background-color: #a69262;
+    background-color: #bb976a;
+  }
+  .monsterTableNtwyn {
+    color: white;
+    background-color: #99bfab;
+  }
+  .monsterTableNmach {
+    color: white;
+    background-color: #aaaaa0;
+  }
+  .monsterTableNdup {
+    color: white;
+    background-color: #cece7e;
   }
   .monsterTableManeater {
     color: white;
-    background-color: #6c2020;
+    background-color: #b94c45;
+  }
+  .monsterTableVilleater {
+    color: white;
+    background-color: #d9c656;
+  }
+  .monsterTableMounteater {
+    color: white;
+    background-color: #349c53;
+  }
+  .monsterTableIsleater {
+    color: white;
+    background-color: #4d45cb;
   }
   .monsterTableSmall th {
     padding: 2px;
@@ -812,10 +836,10 @@ export const baseStyles = css`
   #monsterList td {
     text-align: center;
   }
-  .moveTable th {
+  .abilityTable th {
     text-align: center;
   }
-  .moveTable td:first-of-type {
+  .abilityTable td:first-of-type {
     background-color: #ffffe4;
   }
   .itemTable th {
@@ -1117,6 +1141,24 @@ export const baseStyles = css`
   .highlightNight {
     background-color: #ebf8ff !important;
   }
+  .highlightFarming {
+    background-color: #c3ecff !important
+  }
+  .highlightUseful {
+    background-color: #aeffda !important
+  }
+  .highlightItem {
+    background-color: #ddc4ec !important
+  }
+  .highlightOffense {
+    background-color: #fff09f !important
+  }
+  .highlightDanger {
+    background-color: #ffd0f4 !important
+  }
+  .highlightExtreme {
+    background-color: #ffb1b1 !important
+  }
   .itemPageImage {
     background-color: #555;
   }
@@ -1204,7 +1246,7 @@ export const baseStyles = css`
   }
   .dungeonPageImage2 {
     display: flex;
-    width: 480px !important;
+    width: 670px !important;
     height: auto;
   }
   .dungeonPageImage2 img {

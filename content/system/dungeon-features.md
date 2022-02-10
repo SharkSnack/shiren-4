@@ -33,7 +33,7 @@ This page offers explanations for dungeon features and gimmicks.
 
 #### Regular Shop
 
-Shops are rooms containing a single shopkeep and merchandise for sale.<br/>
+Shops are rooms containing a single shopkeeper and merchandise for sale.<br/>
 The ground is covered in carpet, and there are no traps inside the room.<br/>
 It's possible to create Pit Traps by breaking a Black Hole Pot.<br/>Zalokleft Pot is nullified while standing on a carpeted tile.
 
@@ -41,30 +41,30 @@ It's possible to create Pit Traps by breaking a Black Hole Pot.<br/>Zalokleft Po
   <img src="../images/other/shop.png"/>
 </div>
 
-The shopkeep can tag an item if you talk to him while not having picked up any merchandise.<br/>※ Shopkeeps cannot identify merchandise using an Identify Scroll in this game.
+The shopkeeper can tag an item if you talk to him while not having picked up any merchandise.<br/>※ Shopkeepers cannot identify merchandise using an Identify Scroll in this game.
 
 - Place a Tag
     - Costs 2000 Gitan.
     - Nice way to take home rare items in dungeons that don't allow carry-in items.
 
-Disguised N'dubba monsters can be sold to the shopkeep.<br/>
-However, if you then reveal their disguise, the shopkeep will ask for payment.
+Disguised N'dubba monsters can be sold to the shopkeeper.<br/>
+However, if you then reveal their disguise, the shopkeeper will ask for payment.
 
-Shopkeeps won't attack monsters even if they get hit by them.<br/>
-Shopkeeps warp to you if you're about to leave the shop while carrying merchandise,<br/>but won't warp if you're standing diagonal to the entrance.<br/>He'll ask for payment every turn in this position.
+Shopkeepers won't attack monsters even if they get hit by them.<br/>
+Shopkeepers warp to you if you're about to leave the shop while carrying merchandise,<br/>but won't warp if you're standing diagonal to the entrance.<br/>He'll ask for payment every turn in this position.
 
 #### Elite Shop
 
-Shop hidden inside a wall and guarded by a shopkeep at the end of a hallway.<br/>
+Shop hidden inside a wall and guarded by a shopkeeper at the end of a hallway.<br/>
 An Invitation is needed to be granted entry.<br/>
 There are fewer items for sale, which are usually much higher in quality.<br/>
-Like regular shops, the shopkeep can tag equipment.
+Like regular shops, the shopkeeper can tag equipment.
 
 <div class="relativeImage screenshot">
   <img src="../images/other/shop_elite.gif"/>
 </div>
 
-Invitation is a scroll, so it can be written on a Blank Scroll after you've read it once.<br/>The Invitation is consumed when it's shown to the shopkeep, but it can be reused if it was blessed.
+Invitation is a scroll, so it can be written on a Blank Scroll after you've read it once.<br/>The Invitation is consumed when it's shown to the shopkeeper, but it can be reused if it was blessed.
 
 The shop can be revealed by punching the wall, and doing so won't trigger Thief Mode.<br/>However, if you step inside the shop without being granted entry, Thief Mode will be triggered.<br/>Unlike regular shops, an elite shop won't join together with other rooms if you expand it.
 
@@ -88,7 +88,7 @@ Shop featuring a mini-game where you either obtain a rare item or fall into a Pi
 Other Pick-A-Choice Shop Notes:
 
 - The walls of the shop can't be destroyed.
-- It's possible to switch positions with the shopkeep.
+- It's possible to switch positions with the shopkeeper.
 - The launch pads and Pit Traps inside the shop always activate.
     - Even if you have a Trapper Bracelet equipped.
 - End points are hidden each time you play.
@@ -97,7 +97,7 @@ Other Pick-A-Choice Shop Notes:
 
 - Price tag is removed if a Mixer eats the item, or if the item is thrown outside the shop.
     - This means merchandise can be synthesized using Mixers.
-    - The shopkeep still requires payment for said items.
+    - The shopkeeper still requires payment for said items.
 - Won't transform into a different item if inserted into a Presto Pot.
     - Sale Pot and Banana Scroll are effective.
 - Won't be synthesized if inserted into a Synthesis Pot.
@@ -113,11 +113,11 @@ The item table for dungeons is split into the following categories:
 - Elite shops, Pick-A-Choice shops, shiny object (blue)
 - Presto Pot
 - Zalokleft drops
-- Candy drops, rescue reward
+- Mealy drops, rescue reward
 
-#### Shopkeep
+#### Shopkeeper
 
-Shopkeeps turn hostile if you deal damage, hit them with an item or magic bullet, etc.<br/>The dot representing the shopkeep on the map changes from yellow to red.<br/>You cannot talk to a hostile shopkeep, so you have to either fight or run.
+Shopkeepers turn hostile if you deal damage, hit them with an item or magic bullet, etc.<br/>The dot representing the shopkeeper on the map changes from yellow to red.<br/>You cannot talk to a hostile shopkeeper, so you have to either fight or run.
 
 Their anger subsides once they've defeated you, unless Thief Mode is active.<br/>(So if you revive using Revival Grass, you can talk to them again)
 
@@ -127,15 +127,15 @@ They have special dialogue if you talk while they're wandering around outside th
 
 Occurs when you exit a shop without paying for merchandise, or if you enter an elite shop<br/>without showing an Invitation.
 
-- All enemies on the current floor change into shopkeeps.
-- New shopkeeps are immediately generated until the 20 character limit is reached.
-- Enemy spawn cycle speeds up. (1 shopkeep every 5 turns)
+- All enemies on the current floor change into shopkeepers.
+- New shopkeepers are immediately generated until the 20 character limit is reached.
+- Enemy spawn cycle speeds up. (1 shopkeeper every 5 turns)
 - Monsters that were on water, air, or wall tiles will warp to a room.
 - Monster house turns into an enforcer house. (Special monster house)
 
-Hostile Shopkeeps:
+Hostile Shopkeepers:
 
-- Status conditions are effective, including necklace moves like Darkroom.
+- Status conditions are effective, including necklace abilities like Darkroom.
     - Three Screams can be used to one-shot them in this game.
 - Ignore Sanctuary Scrolls.
 - Receive damage from thrown Gitan like normal. (Unlike Maneaters)
@@ -241,7 +241,7 @@ Unlike past games, early floor special monster houses only contain Lv1\~2 monste
   </tr>
   <tr>
     <td>Enforcers</td>
-    <td>Shopkeep<br/>※ Read a Mon House Scroll while in Thief Mode.</td>
+    <td>Shopkeeper<br/>※ Read a Mon House Scroll while in Thief Mode.</td>
   </tr>
 </table>
 

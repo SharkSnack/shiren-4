@@ -4,6 +4,10 @@ metaTitle: "Statue Cave - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Statue Cave guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
+<div class="pageTopImage dungeonPageImage2">
+  <img src="../images/dungeons/statue_cave.png"/><img src="../images/dungeons/statue_cave_2.png"/>
+</div>
+
 # Items
 
 - F = Floor, Monster (day)

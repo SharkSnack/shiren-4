@@ -4,6 +4,10 @@ metaTitle: "Cave of Endless Night - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Cave of Endless Night dungeon guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
+<div class="pageTopImage dungeonPageImage2">
+  <img src="../images/dungeons/endless_night.png"/><img src="../images/dungeons/endless_night_2.png"/>
+</div>
+
 # Items
 
 - F = Floor, Monster (day)

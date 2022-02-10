@@ -4,6 +4,10 @@ metaTitle: "Grass and Scroll Cave - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Grass and Scroll Cave dungeon guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
+<div class="pageTopImage screenshot">
+  <img src="../images/dungeons/grass_scroll_cave.png"/>
+</div>
+
 # Items
 
 - F = Floor, Monster (day)

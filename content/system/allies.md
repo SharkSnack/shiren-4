@@ -154,10 +154,10 @@ She's very reliable at night, but requires care during daytime.
     - Effect is randomly selected from attack up, defense up, or swift.
     - Attack up and defense up last for the duration of the floor.
     - Only casts support magic 1 time per floor.
-- Uses an exclusive move called Light Arrow at night.
+- Uses an exclusive ability called Light Arrow at night.
     - Power: B (45) - Deals around 50 damage.
-    - The move has piercing properties, and has infinite range in a straight line.
-    - She won't use the move if an ally is in-between her and the target.
+    - The ability has piercing properties, and has infinite range in a straight line.
+    - She won't use the ability if an ally is in-between her and the target.
 - Uses direct attacks during the day, but doesn't deal much damage.
 
 #### Sidequest
@@ -237,7 +237,7 @@ Only 1 monkey can join your adventure at a time.
         - Can't be used to duplicate items or level up Borg Mamel.
         - Can hit Shiren, but always misses other ally characters.
     - Use a scroll or staff. (Excluding selection-based scrolls)
-    - Use a necklace move. (Always fails, so it's pointless)
+    - Use a necklace ability. (Always fails, so it's pointless)
 
 ### Banana Prince
 

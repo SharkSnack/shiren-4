@@ -4,6 +4,10 @@ metaTitle: "Jaguar's Hunting Forest - Shiren the Wanderer 4: The Eye of God Wiki
 metaDescription: "Jaguar's Hunting Forest dungeon guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
+<div class="pageTopImage dungeonPageImage2">
+  <img src="../images/dungeons/jaguars_forest.png"/><img src="../images/dungeons/jaguars_forest_2.png"/>
+</div>
+
 # Items
 
 - F = Floor, Monster (day)

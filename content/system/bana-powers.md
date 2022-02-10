@@ -31,7 +31,7 @@ Locked Bana Powers are represented by a checkmark next to the number.
 
 # Bana Power List
 
-<table class="moveTable">
+<table class="abilityTable">
   <tr>
     <th>Name</th>
     <th>Learning</th>
@@ -391,7 +391,7 @@ Locked Bana Powers are represented by a checkmark next to the number.
 
 #### Unused Bana Powers
 
-<table class="moveTable">
+<table class="abilityTable">
   <tr>
     <th>Name</th>
     <th>Description</th>

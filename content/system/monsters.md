@@ -73,7 +73,7 @@ Monster Book Order
     <td class="highlightGray"><a href="#traproid">Traproid</a></td>
     <td class="highlightYellow"><a href="#gyaza">Gyaza</a></td>
     <td class="highlightGray"><a href="#crow-tengu">Crow Tengu</a></td>
-    <td class="highlightYellow"><a href="#shopkeep">Shopkeep</a></td>
+    <td class="highlightYellow"><a href="#shopkeeper">Shopkeeper</a></td>
   </tr>
   <tr>
     <td class="highlightYellow"><a href="#squid-king">Squid King</a></td>
@@ -282,7 +282,7 @@ Element Order
     <td>600</td>
     <td>140</td>
     <td>4%</td>
-    <td>Necklace moves deal full damage like any other monster.</td>
+    <td>Necklace abilities deal full damage like any other monster.</td>
   </tr>
   <tr>
     <td class="highlightNight">4</td>
@@ -4266,7 +4266,7 @@ Element Order
     <td>40</td>
     <td>4%</td>
     <td rowspan="4">Aquatic<br/>Random</td>
-    <td rowspan="4">Same as daytime abilities.<br/>Necklace moves are effective.</td>
+    <td rowspan="4">Same as daytime abilities.<br/>Necklace abilities are effective.</td>
   </tr>
   <tr>
     <td class="highlightNight">2</td>
@@ -4939,7 +4939,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>Munchy</td>
+    <td>Crunchy</td>
     <td>20</td>
     <td>9</td>
     <td>32</td>
@@ -4950,7 +4950,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>Mealy</td>
+    <td>Munchy</td>
     <td>33</td>
     <td>15</td>
     <td>40</td>
@@ -4960,14 +4960,14 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>Candy</td>
+    <td>Mealy</td>
     <td>48</td>
     <td>28</td>
     <td>55</td>
     <td>200</td>
     <td>65</td>
     <td>100%</td>
-    <td>Same as Snacky, but drops a Candy table item.</td>
+    <td>Same as Snacky, but drops a Mealy table item.</td>
   </tr>
   <tr>
     <th>Lv</th>
@@ -4995,7 +4995,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>Rare Munchy</td>
+    <td>Rare Crunchy</td>
     <td>20</td>
     <td>11</td>
     <td>2</td>
@@ -5005,7 +5005,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>Rare Mealy</td>
+    <td>Rare Munchy</td>
     <td>35</td>
     <td>18</td>
     <td>3</td>
@@ -5015,7 +5015,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>Rare Candy</td>
+    <td>Rare Mealy</td>
     <td>49</td>
     <td>26</td>
     <td>4</td>

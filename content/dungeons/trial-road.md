@@ -4,6 +4,10 @@ metaTitle: "Trial Road - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Trial Road dungeon guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
+<div class="pageTopImage dungeonPageImage2">
+  <img src="../images/dungeons/trial_road.png"/><img src="../images/dungeons/trial_road_2.png"/>
+</div>
+
 # Items
 
 - F = Floor, Monster (day)

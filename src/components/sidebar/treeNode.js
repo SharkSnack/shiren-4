@@ -26,14 +26,16 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
   // crappy hardcoded fix to change sidebar item order and titles
   if (hasChildren) {
     switch (items[0].label) {
-      case 'book-completion': // guides
+      case 'beginner-guide': // guides
         items[0] = { items:[], label: 'faq', title: 'FAQ', url: '/guides/faq'};
-        items[1] = { items:[], label: 'tips-and-tricks', title: 'Tips and Tricks', url: '/guides/tips-and-tricks'};
-        items[2] = { items:[], label: 'identifying', title: 'Identifying', url: '/guides/identifying'};
-        items[3] = { items:[], label: 'stealing', title: 'Stealing', url: '/guides/stealing'};
-        items[4] = { items:[], label: 'book-completion', title: 'Book Completion', url: '/guides/book-completion'};
-        items[5] = { items:[], label: 'rescue-passwords', title: 'Rescue Passwords', url: '/guides/rescue-passwords'};
-        items[6] = { items:[], label: 'speedrunning', title: 'Speedrunning', url: '/guides/speedrunning'};
+        items[1] = { items:[], label: 'beginner-guide', title: 'Beginner Guide', url: '/guides/beginner-guide'};
+        items[2] = { items:[], label: 'postgame-guide', title: 'Postgame Guide', url: '/guides/postgame-guide'};
+        items[3] = { items:[], label: 'tips-and-tricks', title: 'Tips and Tricks', url: '/guides/tips-and-tricks'};
+        items[4] = { items:[], label: 'identifying-items', title: 'Identifying Items', url: '/guides/identifying-items'};
+        items[5] = { items:[], label: 'stealing', title: 'Stealing', url: '/guides/stealing'};
+        items[6] = { items:[], label: 'book-completion', title: 'Book Completion', url: '/guides/book-completion'};
+        items[7] = { items:[], label: 'rescue-passwords', title: 'Rescue Passwords', url: '/guides/rescue-passwords'};
+        items[8] = { items:[], label: 'speedrunning', title: 'Speedrunning', url: '/guides/speedrunning'};
         break;
       case 'bracelets': // items
         items[0] = { items:[], label: 'price-chart', title: 'Price Chart', url: '/items/price-chart'};
@@ -54,7 +56,7 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[1] = { items:[], label: 'dungeon-features', title: 'Dungeon Features', url: '/system/dungeon-features'};
         items[2] = { items:[], label: 'resonance', title: 'Resonance', url: '/system/resonance'};
         items[3] = { items:[], label: 'synthesis-runes', title: 'Runes', url: '/system/synthesis-runes'};
-        items[4] = { items:[], label: 'necklace-moves', title: 'Necklace Moves', url: '/system/necklace-moves'};
+        items[4] = { items:[], label: 'necklace-abilities', title: 'Abilities', url: '/system/necklace-abilities'};
         items[5] = { items:[], label: 'bana-powers', title: 'Bana Powers', url: '/system/bana-powers'};
         items[6] = { items:[], label: 'monsters', title: 'Monsters', url: '/system/monsters'};
         items[7] = { items:[], label: 'traps', title: 'Traps', url: '/system/traps'};

@@ -108,4 +108,108 @@ There are a total of 36 topics.
 
 # Possible Rewards
 
-[Item table]
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Weapon</th>
+      <th>Shield</th>
+      <th>Bracelet / Food</th>
+      <th>Grass</th>
+      <th>Scroll</th>
+      <th>Staff / Pot</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Palm Stick</td>
+      <td>Palm Shield</td>
+      <td>Cleansing Bracelet</td>
+      <td>Herb</td>
+      <td>Navigation Scroll</td>
+      <td>Paralysis Staff</td>
+    </tr>
+    <tr>
+      <td>Copper Edge</td>
+      <td>Copper Guard</td>
+      <td>Calm Bracelet</td>
+      <td>Otogiriso</td>
+      <td>Air Slash Scroll</td>
+      <td>Transient Staff</td>
+    </tr>
+    <tr>
+      <td>Katana</td>
+      <td>Iron Targe</td>
+      <td>Alert Bracelet</td>
+      <td>Dragon Grass</td>
+      <td>Confusion Scroll</td>
+      <td>Pinning Staff</td>
+    </tr>
+    <tr>
+      <td>Beast Fang</td>
+      <td>Clan Shield</td>
+      <td>Strength Bracelet</td>
+      <td>Swift Grass</td>
+      <td>Heaven Scroll</td>
+      <td>Swap Staff</td>
+    </tr>
+    <tr>
+      <td>Dotanuki</td>
+      <td>Beast Shield</td>
+      <td>Pierce Bracelet</td>
+      <td>Antidote Grass</td>
+      <td>Earth Scroll</td>
+      <td>Lightning Staff</td>
+    </tr>
+    <tr>
+      <td>Lizard Lasher</td>
+      <td>Diet Shield</td>
+      <td>Happy Bracelet</td>
+      <td>Growth Seed</td>
+      <td>Plating Scroll</td>
+      <td>Knockback Staff</td>
+    </tr>
+    <tr>
+      <td>Drain Slicer</td>
+      <td>Lock Shield</td>
+      <td>Green Banana</td>
+      <td>Power Up Grass</td>
+      <td>Fear Scroll</td>
+      <td>Mage Staff</td>
+    </tr>
+    <tr>
+      <td>Myopic Masher</td>
+      <td>Safe Shield</td>
+      <td>Yellow Banana</td>
+      <td>Expand Seed</td>
+      <td>Identify Scroll</td>
+      <td>Slow Staff</td>
+    </tr>
+    <tr>
+      <td>Dull Gold Edge</td>
+      <td>Dull Gold Shield</td>
+      <td rowspan="4" class="highlightGray"></td>
+      <td>Warp Grass</td>
+      <td>Purify Scroll</td>
+      <td>Empathy Staff</td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="highlightGray"></td>
+      <td>Counter Shield</td>
+      <td>Revival Grass</td>
+      <td>Slumber Scroll</td>
+      <td>Seal Staff</td>
+    </tr>
+    <tr>
+      <td>Heavy Shield</td>
+      <td>Undo Grass</td>
+      <td>Medicine Scroll</td>
+      <td>Storage Pot</td>
+    </tr>
+    <tr>
+      <td class="highlightGray"></td>
+      <td>Sight Grass</td>
+      <td>Fixer Scroll</td>
+      <td class="highlightGray"></td>
+    </tr>
+  </tbody>
+</table>

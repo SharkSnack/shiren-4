@@ -4,6 +4,10 @@ metaTitle: "Mystery Mall - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Mystery Shopping Mall dungeon guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
+<div class="pageTopImage screenshot">
+  <img src="../images/dungeons/mystery_mall.png"/>
+</div>
+
 # Items
 
 - F = Floor, Monster (day)

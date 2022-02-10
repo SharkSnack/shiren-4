@@ -4,6 +4,10 @@ metaTitle: "Trap Zone - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Trap Zone dungeon guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
+<div class="pageTopImage dungeonPageImage2">
+  <img src="../images/dungeons/trap_zone.png"/><img src="../images/dungeons/trap_zone_2.png"/>
+</div>
+
 # Items
 
 - F = Floor, Monster (day)

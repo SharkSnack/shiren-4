@@ -252,7 +252,7 @@ Key: <span class="highlightBlue">Positive</span>, <span class="highlightPink">Ne
   <tr>
     <th id="sealed" rowspan="3" class="highlightPink">Sealed</th>
     <td>Shiren</td>
-    <td>Unable to eat, read, use moves, use staves, or talk. (20 turns)</td>
+    <td>Unable to eat, read, use abilities, use staves, or talk. (20 turns)</td>
     <td>Seal Staff, MC Wizard,<br/>Seal Talisman</td>
   </tr>
   <tr>
@@ -281,7 +281,7 @@ Key: <span class="highlightBlue">Positive</span>, <span class="highlightPink">Ne
   <tr>
     <th id="banana" rowspan="3" class="highlightPink">Banana</th>
     <td>Shiren</td>
-    <td>Transforms into a banana. (10 turns)<br/>Attack and defense set to 0, and equipment effects nullified.<br/>Can't use items, moves, ascend or descend stairs.<br/>Collapse if you get hit by fire or explosion damage,<br/>or if you step on a Spoil Trap or land on a water tile.</td>
+    <td>Transforms into a banana. (10 turns)<br/>Attack and defense set to 0, and equipment effects nullified.<br/>Can't use items, abilities, ascend or descend stairs.<br/>Collapse if you get hit by fire or explosion damage,<br/>or if you step on a Spoil Trap or land on a water tile.</td>
     <td rowspan="3">Banana Trap,<br/>Banana Boss,<br/>Banana Master,<br/>MC Sorceror</td>
   </tr>
   <tr>
@@ -354,7 +354,7 @@ Key: <span class="highlightBlue">Positive</span>, <span class="highlightPink">Ne
   <tr>
     <th id="muzzled" class="highlightPink">Muzzled</th>
     <td>Shiren</td>
-    <td>Unable to eat, read, use moves, or talk.<br/>Wears off when you change floors.</td>
+    <td>Unable to eat, read, use abilities, or talk.<br/>Wears off when you change floors.</td>
     <td>Muzzled Scroll</td>
   </tr>
   <tr>
@@ -397,7 +397,7 @@ Key: <span class="highlightBlue">Positive</span>, <span class="highlightPink">Ne
   <tr>
     <th id="potted" class="highlightPink">Potted</th>
     <td>Shiren</td>
-    <td>Hand is stuck in a pot, and your weapon is unequipped.<br/>Unable to pick up or use items, and can't use moves.<br/>Wears off when you change floors, or step on a Strip Trap.<br/>Chance to break free when you attack or get hit by enemies.</td>
+    <td>Hand is stuck in a pot, and your weapon is unequipped.<br/>Unable to pick up or use items, and can't use abilities.<br/>Wears off when you change floors, or step on a Strip Trap.<br/>Chance to break free when you attack or get hit by enemies.</td>
     <td>Sticky Pot</td>
   </tr>
   <tr>

@@ -46,7 +46,7 @@ Ally characters can also appear as wandering NPCs, and can be recruited by talki
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/peddler.png"/><br/>Peddler</td>
-    <td>Lets you purchase and sell items on the spot.<br/>Doesn't drop anything or trigger Thief Mode if defeated.<br/>Talks about opening his own store when you first talk to him, and after he does so,<br/>a blue shopkeep replaces him as the Peddler NPC.</td>
+    <td>Lets you purchase and sell items on the spot.<br/>Doesn't drop anything or trigger Thief Mode if defeated.<br/>Talks about opening his own store when you first talk to him, and after he does so,<br/>a blue shopkeeper replaces him as the Peddler NPC.</td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/torch_girl.png"/><br/>Torch Girl</td>
@@ -118,7 +118,7 @@ Ally characters can also appear as wandering NPCs, and can be recruited by talki
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/refresher.png"/><br/>Refresher</td>
-    <td>Pay 300G to refresh all necklace moves.</td>
+    <td>Pay 300G to refresh all necklace abilities.</td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/tamo.png"/><br/>Tamo</td>
@@ -126,15 +126,15 @@ Ally characters can also appear as wandering NPCs, and can be recruited by talki
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/apprentice.png"/><br/>Apprentice</td>
-    <td>Teaches you a new necklace move. (Selected randomly)<br/>・Cluster Confusion<br/>・Bi-Direction Bind<br/>・Circle Wave</td>
+    <td>Teaches you a new necklace ability. (Selected randomly)<br/>・Cluster Confusion<br/>・Bi-Direction Bind<br/>・Circle Wave</td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/tradesman.png"/><br/>Tradesman</td>
-    <td>Teaches you a new necklace move. (Selected randomly)<br/>・Billiards Blast<br/>・8-Way Boom Bullet<br/>・Piercing Blast<br/>・Draining Circle</td>
+    <td>Teaches you a new necklace ability. (Selected randomly)<br/>・Billiards Blast<br/>・8-Way Boom Bullet<br/>・Piercing Blast<br/>・Draining Circle</td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/master.png"/><br/>Master</td>
-    <td>Teaches you a new necklace move. (Selected randomly)<br/>・Room Shockwave<br/>・Piercing Cross Blast<br/>・Dazing Circle<br/>・8-Way Slumber Shot<br/>・8-Way Piercing Blast</td>
+    <td>Teaches you a new necklace ability. (Selected randomly)<br/>・Room Shockwave<br/>・Piercing Cross Blast<br/>・Dazing Circle<br/>・8-Way Slumber Shot<br/>・8-Way Piercing Blast</td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/inn_girl.png"/><br/>Inn Girl</td>

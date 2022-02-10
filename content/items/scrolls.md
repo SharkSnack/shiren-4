@@ -100,7 +100,7 @@ metaDescription: "Complete scroll details for Shiren the Wanderer 4: The Eye of 
       <td rowspan="3">10</td>
       <td rowspan="3">3</td>
       <td>-</td>
-      <td class="leftText">Show it to an elite store Shopkeep to be granted entry. No effect if read.</td>
+      <td class="leftText">Show it to an elite store Shopkeeper to be granted entry. No effect if read.</td>
     </tr>
     <tr>
       <td class="highlightYellow">Wet Scroll</td>
@@ -235,7 +235,7 @@ metaDescription: "Complete scroll details for Shiren the Wanderer 4: The Eye of 
     <tr>
       <td class="highlightYellow">Replenish Scroll</td>
       <td>-</td>
-      <td class="leftText">Makes all previously used necklace moves usable.</td>
+      <td class="leftText">Makes all previously used necklace abilities usable.</td>
     </tr>
     <tr>
       <td class="highlightYellow">Dispel Aura Scroll</td>
@@ -277,7 +277,7 @@ metaDescription: "Complete scroll details for Shiren the Wanderer 4: The Eye of 
     <tr>
       <td class="highlightYellow">Sanctuary Scroll</td>
       <td>-</td>
-      <td class="leftText">No effect if read, and sticks to the ground when placed.<br/>Standing on this scroll stops adjacent monsters from attacking you directly.<br/>If a second Sanctuary Scroll is placed, the first one vanishes.<br/>Vanishes if you step onto it again after having stepped off of it.<br/>You can pick it up and reuse it only if the scroll was blessed.<br/>Effective against Maneaters, but not against Shopkeeps.</td>
+      <td class="leftText">No effect if read, and sticks to the ground when placed.<br/>Standing on this scroll stops adjacent monsters from attacking you directly.<br/>If a second Sanctuary Scroll is placed, the first one vanishes.<br/>Vanishes if you step onto it again after having stepped off of it.<br/>You can pick it up and reuse it only if the scroll was blessed.<br/>Effective against Maneaters, but not against Shopkeepers.</td>
     </tr>
     <tr>
       <td class="highlightYellow">Blank Scroll</td>

@@ -26,7 +26,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
       <li><a href="#boronga-storehouse">Storehouse</a></li>
       <li><a href="#rescue">Rescue</a></li>
       <li><a href="#novice-house">Novice House</a></li>
-      <li><a href="#move-library">Move Library</a></li>
+      <li><a href="#ability-library">Ability Library</a></li>
       <li><a href="#boronga-purifier">Purifier</a></li>
       <li><a href="#boronga-warehouse">Warehouse</a></li>
       <li><a href="#pot-breaker">Pot Breaker</a></li>
@@ -188,7 +188,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
   Shop <img src="../images/other/icon_shop.png"/>
 </div>
 
-- The shopkeep can tag equipment for 3000 Gitan after you reach Gonchiki Village.
+- The shopkeeper can tag equipment for 3000 Gitan after you reach Gonchiki Village.
 - 8 items are randomly selected from the following:
 
 <br/>
@@ -462,8 +462,8 @@ There are 6 notable overworld areas in the game, and each village has its own NP
 - Removes curses and seals from all items not in pots for 500 Gitan.
     - Purified items will occasionally be blessed.
 
-<div id="move-library" class="facility relativeImage">
-  Move Library <img src="../images/other/icon_library.png"/>
+<div id="ability-library" class="facility relativeImage">
+  Ability Library <img src="../images/other/icon_library.png"/>
 </div>
 
 - Organize <a href="/system/necklace-abilities">Necklace Abilities</a>.
@@ -850,7 +850,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
   Shop <img src="../images/other/icon_shop.png"/>
 </div>
 
-- The shopkeep can tag equipment for 3000 Gitan.
+- The shopkeeper can tag equipment for 3000 Gitan.
 - 8 items are randomly selected from the following:
 
 <br/>
@@ -1138,7 +1138,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
   Shop <img src="../images/other/icon_shop.png"/>
 </div>
 
-- The shopkeep can tag equipment for 3000 Gitan.
+- The shopkeeper can tag equipment for 3000 Gitan.
 - 8 items are randomly selected from the following:
 
 <br/>
@@ -1407,7 +1407,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
 </div>
 
 - Unlocked by guiding <a href="/system/npcs#inn-boy">Inn Boy</a> to this location.
-- The shopkeep can tag equipment for 3000 Gitan.
+- The shopkeeper can tag equipment for 3000 Gitan.
 - 8 items are randomly selected from the following:
 
 <br/>

@@ -72,4 +72,4 @@ In-game achievements that automatically update as you play the game.
 |56|Completed the Monster Book|366 total|
 |57|Pick-A-Choice wins N|-|
 |58|Pick-A-Choice losses N|-|
-|59|Learned N moves|29 total|
+|59|Learned N abilities|29 total|
