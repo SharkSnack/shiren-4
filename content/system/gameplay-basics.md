@@ -420,7 +420,7 @@ List of map patterns used in the game.<br/>
 Information about Monster Houses.<br/>
 → <a href="/system/dungeon-features#monster-house">Monster House</a>
 
-<div class="relativeImage screenshot">
+<div class="relativeImage smallScreenshot">
   <img src="../images/other/monster_house.png"/>
 </div>
 

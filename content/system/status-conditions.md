@@ -19,7 +19,8 @@ For information about auras, check the [Gameplay Basics](/system/gameplay-basics
 
 #### Shiren
 
-- Negative statuses can be removed by items like <span class="orangeText">Fixer Scroll</span> or <span class="orangeText">Medicine Scroll</span>.<br/>(<span class="orangeText">Heal Pot</span>, <span class="orangeText">Heal Grass</span>, and <span class="orangeText">Otogiriso</span> can also cure some negative statuses)
+- Negative statuses can be removed by items like <span class="orangeText">Fixer Scroll</span> or <span class="orangeText">Medicine Scroll</span>.
+    - <span class="orangeText">Heal Pot</span>, <span class="orangeText">Heal Grass</span>, and <span class="orangeText">Otogiriso</span> can also cure some negative statuses.
 - You can check your current status from the menu. (Other → Current Status)
 - Most status conditions wear off after a number of turns, or when you change floors.
 - Being revived by Revival Grass or Undo Grass will remove all status conditions.

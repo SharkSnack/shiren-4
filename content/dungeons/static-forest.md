@@ -4,7 +4,7 @@ metaTitle: "Static Forest - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Static Forest dungeon guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
-<div class="pageTopImage dungeonPageImage2">
+<div class="dungeonPageTopImage2">
   <img src="../images/dungeons/static_forest.png"/><img src="../images/dungeons/static_forest_2.png"/>
 </div>
 

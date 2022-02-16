@@ -4,7 +4,7 @@ metaTitle: "Bayside Monster Cave - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Bayside Monster Cave dungeon guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
-<div class="pageTopImage dungeonPageImage2">
+<div class="dungeonPageTopImage2">
   <img src="../images/dungeons/bayside_cave.png"/><img src="../images/dungeons/bayside_cave_2.png"/>
 </div>
 
@@ -68,13 +68,13 @@ metaDescription: "Bayside Monster Cave dungeon guide for Shiren the Wanderer 4: 
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td></td>
+    <td class="clearIcon"><img src="../images/other/clear_bayside.png"/></td>
     <th>Clear Bonus</th>
     <td>40,000,000</td>
   </tr>
   <tr>
     <th>Reward</th>
-    <td colspan="3">Jaguar's Shield --- Only if it's not in a storehouse or warehouse.</td>
+    <td colspan="3">Jaguar's Shield --- Only if it's not in storehouse or warehouse.</td>
   </tr>
 </table>
 
@@ -556,7 +556,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>43</th>
       <td class="highlightOffense">Killer Gyaza</td>
       <td class="highlightItem">Ooze</td>
-      <td class="highlightExtreme">Imbibiphant</td>
+      <td class="highlightExtreme">Spongiderm</td>
       <td class="highlightOffense">Nuttie</td>
       <td class="highlightExtreme">Rally Ham</td>
       <td>Falcon Tengu</td>
@@ -567,7 +567,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>44</th>
       <td class="highlightOffense">Killer Gyaza</td>
       <td class="highlightItem">Ooze</td>
-      <td class="highlightExtreme">Imbibiphant</td>
+      <td class="highlightExtreme">Spongiderm</td>
       <td class="highlightOffense">Katana Bee</td>
       <td class="highlightExtreme">Rally Ham</td>
       <td class="highlightGray"></td>
@@ -578,7 +578,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>45</th>
       <td class="highlightOffense">Killer Gyaza</td>
       <td class="highlightItem">Ooze</td>
-      <td class="highlightExtreme">Imbibiphant</td>
+      <td class="highlightExtreme">Spongiderm</td>
       <td class="highlightOffense">Katana Bee</td>
       <td class="highlightExtreme">Rally Ham</td>
       <td class="highlightGray"></td>
@@ -666,7 +666,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>53</th>
       <td>Tiger Chucker</td>
-      <td class="highlightExtreme">Erupchin</td>
+      <td class="highlightExtreme">Fulminachin</td>
       <td class="highlightItem">Curse Mom</td>
       <td>Sing Polygon</td>
       <td class="highlightOffense">Eligagan</td>
@@ -677,7 +677,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>54</th>
       <td class="highlightDanger">Banana Boss</td>
-      <td class="highlightExtreme">Erupchin</td>
+      <td class="highlightExtreme">Fulminachin</td>
       <td class="highlightOffense">Oingodile</td>
       <td class="highlightExtreme">MC Wizard</td>
       <td class="highlightOffense">Eligagan</td>
@@ -688,7 +688,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>55</th>
       <td class="highlightDanger">Banana Boss</td>
-      <td class="highlightExtreme">Erupchin</td>
+      <td class="highlightExtreme">Fulminachin</td>
       <td class="highlightOffense">Oingodile</td>
       <td class="highlightExtreme">MC Wizard</td>
       <td class="highlightOffense">Eligagan</td>
@@ -988,7 +988,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>84</th>
-      <td class="highlightDanger">Osmosiphant</td>
+      <td class="highlightDanger">Osmammoth</td>
       <td class="highlightExtreme">Archdragon</td>
       <td class="highlightOffense">Eligagon</td>
       <td class="highlightDanger">Kappa Troll</td>
@@ -999,7 +999,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>85</th>
-      <td class="highlightDanger">Osmosiphant</td>
+      <td class="highlightDanger">Osmammoth</td>
       <td class="highlightExtreme">Archdragon</td>
       <td class="highlightOffense">Eligagon</td>
       <td class="highlightDanger">Tiger Ace</td>
@@ -1010,7 +1010,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>86</th>
-      <td class="highlightDanger">Osmosiphant</td>
+      <td class="highlightDanger">Osmammoth</td>
       <td class="highlightExtreme">Archdragon</td>
       <td class="highlightExtreme">Porkgon</td>
       <td class="highlightDanger">Tiger Ace</td>

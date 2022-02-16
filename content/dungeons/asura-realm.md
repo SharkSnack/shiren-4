@@ -8,6 +8,1284 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
   <img src="../images/dungeons/asura_realm.png"/>
 </div>
 
+[Introduction]
+
+<ul class="quickLinksUL">
+  <li><a href="#overview">Overview</a></li>
+  <li><a href="#strategy">Strategy</a></li>
+  <li><a href="#monsters">Monsters</a></li>
+  <li><a href="#items">Items</a></li>
+  <li><a href="#traps">Traps</a></li>
+</ul>
+
+# Overview
+
+<table class="dungeonOverview">
+  <tr>
+    <th>Unlock</th>
+    <td class="highlightYellow">Go to Novice House after clearing the main story.</td>
+  </tr>
+  <tr>
+    <th>Entrance</th>
+    <td class="highlightYellow">Boronga Village (Girl in Novice House)</td>
+  </tr>
+</table>
+
+<table class="dungeonTable">
+  <tr>
+    <th>Floors</th>
+    <td>99F</td>
+    <th>Day / Night</th>
+    <td>Day</td>
+  </tr>
+  <tr>
+    <th>Bring Items</th>
+    <td>No</td>
+    <th>Allies</th>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th>Unidentified</th>
+    <td colspan="3">All categories</td>
+  </tr>
+  <tr>
+    <th>Shops</th>
+    <td>Regular, Elite</td>
+    <th>Monster Houses</th>
+    <td>Regular, Special, Sudden</td>
+  </tr>
+  <tr>
+    <th>Initial Enemies</th>
+    <td></td>
+    <th>Spawn Rate</th>
+    <td>30</td>
+  </tr>
+  <tr>
+    <th>Ominous aura</th>
+    <td>Yes (1200 turns)</td>
+    <th>Wind of Kron</th>
+    <td>1st: 1200 / 4th: 1500</td>
+  </tr>
+  <tr>
+    <th>Clear Icon</th>
+    <td class="clearIcon"><img src="../images/other/clear_asura.png"/></td>
+    <th>Clear Bonus</th>
+    <td>100,000,000</td>
+  </tr>
+  <tr>
+    <th>Reward</th>
+    <td colspan="3">Worthy Sword</td>
+  </tr>
+</table>
+
+# Strategy
+
+[Quick Links]
+
+[Content]
+
+# Monsters
+
+- N = N'dubba <span class="monsterTableNdubba">Lv1</span> <span class="monsterTableNtwyn">Lv2</span> <span class="monsterTableNmach">Lv3</span> <span class="monsterTableNdup">Lv4</span>
+- M = Maneater <span class="monsterTableManeater">Lv1</span> <span class="monsterTableVilleater">Lv2</span> <span class="monsterTableMounteater">Lv3</span> <span class="monsterTableIsleater">Lv4</span>
+
+Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlightUseful">Useful</span> <span class="highlightItem">Destroys Items</span> <span class="highlightOffense">High Offense</span> <span class="highlightDanger">Dangerous</span> <span class="highlightExtreme">Very Dangerous</span>
+
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th>F</th>
+      <th colspan="8">Day</th>
+      <th>N</th>
+      <th>M</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td>Mamel</td>
+      <td>Seedie</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td rowspan="9" class="monsterTableManeater">1</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Mamel</td>
+      <td>Seedie</td>
+      <td>Chintala</td>
+      <td>Pit Mamel</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Hopodile</td>
+      <td>Seedie</td>
+      <td>Chintala</td>
+      <td>Pit Mamel</td>
+      <td>Squid King</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Hopodile</td>
+      <td>Blade Bee</td>
+      <td>Chintala</td>
+      <td>Pit Mamel</td>
+      <td>Squid King</td>
+      <td>Banana Novice</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Hopodile</td>
+      <td>Blade Bee</td>
+      <td>Boy Cart</td>
+      <td class="highlightGray"></td>
+      <td>Squid King</td>
+      <td>Banana Novice</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Absorbiphant</td>
+      <td>Blade Bee</td>
+      <td>Boy Cart</td>
+      <td class="highlightGray"></td>
+      <td>Field Knave</td>
+      <td>Banana Novice</td>
+      <td>Firepuff</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Absorbiphant</td>
+      <td>Blade Bee</td>
+      <td>Boy Cart<br/>Cross Cart</td>
+      <td>Ironhead</td>
+      <td>Field Knave</td>
+      <td>Banana Novice</td>
+      <td>Firepuff</td>
+      <td>Slime</td>
+      <td rowspan="3" class="monsterTableNdubba">1</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Absorbiphant</td>
+      <td>Blade Bee</td>
+      <td>Cross Cart</td>
+      <td>Ironhead</td>
+      <td>Cheer Ham</td>
+      <td>Snacky</td>
+      <td>Firepuff</td>
+      <td>Slime</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>Mutaikon</td>
+      <td>Blade Bee</td>
+      <td>Cross Cart<br/>Strong Cart</td>
+      <td>Ironhead</td>
+      <td>Cheer Ham</td>
+      <td>Snacky</td>
+      <td>Crow Tengu</td>
+      <td>Foly</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange">Flamepuff</td>
+      <td class="highlightOrange">Squid Lord</td>
+      <td class="highlightOrange">Spin Polygon</td>
+      <td class="highlightOrange">Dagger Bee</td>
+      <td class="highlightOrange">Beanie</td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>Mutaikon</td>
+      <td>Yanpii</td>
+      <td>Strong Cart</td>
+      <td>Ironhead</td>
+      <td>Explochin</td>
+      <td>Scorpion</td>
+      <td>Crow Tengu</td>
+      <td>Foly</td>
+      <td class="monsterTableNdubba">1</td>
+      <td rowspan="9" class="monsterTableVilleater">2</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>Mutaikon</td>
+      <td>Yanpii</td>
+      <td>Mixer</td>
+      <td>Porky</td>
+      <td>Explochin</td>
+      <td>Scorpion</td>
+      <td>Crow Tengu</td>
+      <td>Foly</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>Floaty</td>
+      <td>Yanpii</td>
+      <td>Mixer</td>
+      <td>Porky</td>
+      <td>Explochin</td>
+      <td>Scorpion</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>Floaty</td>
+      <td>Yanpii</td>
+      <td>Mixer</td>
+      <td>Porky</td>
+      <td>Gyadon</td>
+      <td>Scorpion</td>
+      <td>Curse Girl</td>
+      <td>Pierce Cart</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>Floaty</td>
+      <td>Yanpii</td>
+      <td>Zapdon</td>
+      <td>Porky</td>
+      <td>Gyadon</td>
+      <td>Spin Polygon</td>
+      <td>Curse Girl</td>
+      <td>Pierce Cart</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>Flash Bird</td>
+      <td>Dagger Bee</td>
+      <td>Zapdon</td>
+      <td>Porky</td>
+      <td>Gyadon</td>
+      <td>Spin Polygon</td>
+      <td>Curse Girl</td>
+      <td>Pierce Cart</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>Flash Bird</td>
+      <td>Dagger Bee</td>
+      <td>Zapdon</td>
+      <td>Froggucci</td>
+      <td>Flamepuff</td>
+      <td>Spin Polygon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>Flash Bird</td>
+      <td>Dagger Bee</td>
+      <td>Zapdon</td>
+      <td>Froggucci</td>
+      <td>Flamepuff</td>
+      <td class="highlightGray"></td>
+      <td>Squid Lord</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>Beanie</td>
+      <td>Dagger Bee</td>
+      <td>Go Ham</td>
+      <td>Froggucci</td>
+      <td>Flamepuff</td>
+      <td class="highlightGray"></td>
+      <td>Squid Lord</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange">Mixermon</td>
+      <td class="highlightOrange">MC Mage</td>
+      <td class="highlightOrange">Banana Morph</td>
+      <td class="highlightOrange">Pumphantom</td>
+      <td class="highlightOrange">Chainhead</td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>Beanie</td>
+      <td>Gyaza</td>
+      <td>Go Ham</td>
+      <td>Sr. Yanpii</td>
+      <td class="highlightGray"></td>
+      <td>Dragon</td>
+      <td>Pop Tank</td>
+      <td class="highlightGray"></td>
+      <td rowspan="3" class="monsterTableNtwyn">2</td>
+      <td rowspan="5" class="monsterTableVilleater">2</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>Beanie</td>
+      <td>Gyaza</td>
+      <td>Go Ham</td>
+      <td>Sr. Yanpii</td>
+      <td>Kappa Pest</td>
+      <td>Dragon</td>
+      <td>Pop Tank</td>
+      <td>Big Chintala</td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>Beanie</td>
+      <td>Gyaza</td>
+      <td class="highlightGray"></td>
+      <td>Sr. Yanpii</td>
+      <td>Kappa Pest</td>
+      <td>Dragon</td>
+      <td>Curse Sister</td>
+      <td>Big Chintala</td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td class="highlightGray"></td>
+      <td>Gyaza</td>
+      <td>Grime</td>
+      <td>Sr. Yanpii</td>
+      <td>Kappa Pest</td>
+      <td>Dragon</td>
+      <td>Curse Sister</td>
+      <td>Big Chintala</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>Eligan</td>
+      <td>Gyaza</td>
+      <td>Grime</td>
+      <td>Concusschin</td>
+      <td>Mixermon</td>
+      <td>Dragon</td>
+      <td>Curse Sister</td>
+      <td>Big Chintala</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td>Eligan</td>
+      <td>Gyaza</td>
+      <td>Grime</td>
+      <td>Concusschin</td>
+      <td>Mixermon</td>
+      <td>MC Mage</td>
+      <td class="highlightGray"></td>
+      <td>Big Chintala</td>
+      <td class="highlightGray"></td>
+      <td rowspan="4" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>Eligan</td>
+      <td>Banana Morph</td>
+      <td>Grime</td>
+      <td>Concusschin</td>
+      <td>Mixermon</td>
+      <td>MC Mage</td>
+      <td>Glare Bird</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>28</th>
+      <td>Eligan</td>
+      <td>Banana Morph</td>
+      <td class="highlightGray"></td>
+      <td>Concusschin</td>
+      <td>Pumphantom</td>
+      <td>MC Mage</td>
+      <td>Glare Bird</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>29</th>
+      <td>Eligan</td>
+      <td>Banana Morph</td>
+      <td>Chainhead</td>
+      <td>Demon Scorp</td>
+      <td>Pumphantom</td>
+      <td>MC Mage</td>
+      <td>Glare Bird</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>30</th>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange">Nuttie</td>
+      <td class="highlightOrange">Blazepuff</td>
+      <td class="highlightOrange">Lt. Yanpii</td>
+      <td class="highlightOrange">Gyairas</td>
+      <td class="highlightOrange">Falcon Tengu</td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+    </tr>
+    <tr>
+      <th>31</th>
+      <td>Digestiphant</td>
+      <td>Grampa Tank</td>
+      <td>Chainhead</td>
+      <td>Demon Scorp</td>
+      <td>Pumphantom</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Super Gazer</td>
+      <td rowspan="9" class="monsterTableNmach">3</td>
+      <td rowspan="9" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <th>32</th>
+      <td>Digestiphant</td>
+      <td>Grampa Tank</td>
+      <td>Chainhead</td>
+      <td>Demon Scorp</td>
+      <td>Pumphantom</td>
+      <td>Dance Polygon</td>
+      <td>Tiger Hurler</td>
+      <td>Super Gazer</td>
+    </tr>
+    <tr>
+      <th>33</th>
+      <td>Digestiphant</td>
+      <td>Grampa Tank</td>
+      <td>Chainhead</td>
+      <td>Demon Scorp</td>
+      <td>Voltdon</td>
+      <td>Dance Polygon</td>
+      <td>Tiger Hurler</td>
+      <td>Super Gazer</td>
+    </tr>
+    <tr>
+      <th>34</th>
+      <td>Digestiphant</td>
+      <td>Grampa Tank</td>
+      <td>Porkchop</td>
+      <td class="highlightGray"></td>
+      <td>Voltdon</td>
+      <td>Dance Polygon</td>
+      <td>Tiger Hurler</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>35</th>
+      <td>Digestiphant</td>
+      <td>Grampa Tank</td>
+      <td>Porkchop</td>
+      <td class="highlightGray"></td>
+      <td>Voltdon</td>
+      <td>Dance Polygon</td>
+      <td>Tiger Hurler</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>36</th>
+      <td>Steamroid</td>
+      <td>Gyairas</td>
+      <td>Porkchop</td>
+      <td class="highlightGray"></td>
+      <td>Voltdon</td>
+      <td>Scarabbit</td>
+      <td>Falcon Tengu</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>37</th>
+      <td>Steamroid</td>
+      <td>Gyairas</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Voltdon</td>
+      <td>Scarabbit</td>
+      <td>Falcon Tengu</td>
+      <td>Crunchy</td>
+    </tr>
+    <tr>
+      <th>38</th>
+      <td>Steamroid</td>
+      <td>Gyairas</td>
+      <td>Nuttie</td>
+      <td>Blazepuff</td>
+      <td class="highlightGray"></td>
+      <td>Scarabbit</td>
+      <td>Falcon Tengu</td>
+      <td>Crunchy</td>
+    </tr>
+    <tr>
+      <th>39</th>
+      <td>Steamroid</td>
+      <td>Gyairas</td>
+      <td>Nuttie</td>
+      <td>Blazepuff</td>
+      <td>Poofy</td>
+      <td>Lt. Yanpii</td>
+      <td>Falcon Tengu</td>
+      <td>Crunchy</td>
+    </tr>
+    <tr>
+      <th>40</th>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange">Mixergon</td>
+      <td class="highlightOrange">Ricebadger</td>
+      <td class="highlightOrange">Squid Emperor</td>
+      <td class="highlightOrange">Curse Mom</td>
+      <td class="highlightOrange">Tiger Chucker</td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+    </tr>
+    <tr>
+      <th>41</th>
+      <td>Ooze</td>
+      <td>Killer Gyaza</td>
+      <td>Nuttie</td>
+      <td>Blazepuff</td>
+      <td>Poofy</td>
+      <td>Lt. Yanpii</td>
+      <td>Falcon Tengu</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td rowspan="9" class="monsterTableMounteater">3</td>
+    </tr>
+    <tr>
+      <th>42</th>
+      <td>Ooze</td>
+      <td>Killer Gyaza</td>
+      <td>Nuttie</td>
+      <td>Rally Ham</td>
+      <td>Poofy</td>
+      <td>Lt. Yanpii</td>
+      <td>Falcon Tengu</td>
+      <td>Katana Bee</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>43</th>
+      <td>Ooze</td>
+      <td>Killer Gyaza</td>
+      <td>Nuttie</td>
+      <td>Rally Ham</td>
+      <td>Spongiderm</td>
+      <td>Lt. Yanpii</td>
+      <td>Falcon Tengu</td>
+      <td>Katana Bee</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>44</th>
+      <td>Ooze</td>
+      <td>Killer Gyaza</td>
+      <td class="highlightGray"></td>
+      <td>Rally Ham</td>
+      <td>Spongiderm</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Katana Bee</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>45</th>
+      <td>Ooze</td>
+      <td>Killer Gyaza</td>
+      <td class="highlightGray"></td>
+      <td>Rally Ham</td>
+      <td>Spongiderm</td>
+      <td>Ricebadger</td>
+      <td class="highlightGray"></td>
+      <td>Katana Bee</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>46</th>
+      <td>Ooze</td>
+      <td>Killer Gyaza</td>
+      <td class="highlightGray"></td>
+      <td>Rally Ham</td>
+      <td>Spongiderm</td>
+      <td>Ricebadger</td>
+      <td>Froggon</td>
+      <td>Katana Bee</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>47</th>
+      <td>Ooze</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Mixergon</td>
+      <td class="highlightGray"></td>
+      <td>Ricebadger</td>
+      <td>Froggon</td>
+      <td>Katana Bee</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>48</th>
+      <td>Ooze</td>
+      <td class="highlightGray"></td>
+      <td>Squid Emperor</td>
+      <td>Mixergon</td>
+      <td class="highlightGray"></td>
+      <td>Ricebadger</td>
+      <td>Froggon</td>
+      <td>Katana Bee</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>49</th>
+      <td>Ooze</td>
+      <td>Sky Dragon</td>
+      <td>Squid Emperor</td>
+      <td>Mixergon</td>
+      <td class="highlightGray"></td>
+      <td>Ricebadger</td>
+      <td class="highlightGray"></td>
+      <td>Katana Bee</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>50</th>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange">Gigahead</td>
+      <td class="highlightOrange">Oingodile</td>
+      <td class="highlightOrange">Blazepuff</td>
+      <td class="highlightOrange">Stun Scorp</td>
+      <td class="highlightOrange">Hyper Gazer</td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+    </tr>
+    <tr>
+      <th>51</th>
+      <td>Curse Mom</td>
+      <td>Sky Dragon</td>
+      <td>Squid Emperor</td>
+      <td>Tiger Chucker</td>
+      <td>Sing Polygon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td rowspan="9" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <th>52</th>
+      <td>Curse Mom</td>
+      <td>Sky Dragon</td>
+      <td>Eligagan</td>
+      <td>Tiger Chucker</td>
+      <td>Sing Polygon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>53</th>
+      <td>Curse Mom</td>
+      <td>Sky Dragon</td>
+      <td>Eligagan</td>
+      <td>Tiger Chucker</td>
+      <td>Sing Polygon</td>
+      <td>Banana Boss</td>
+      <td>MC Wizard</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>54</th>
+      <td>Oingodile</td>
+      <td>Fulminachin</td>
+      <td>Eligagan</td>
+      <td class="highlightGray"></td>
+      <td>Sing Polygon</td>
+      <td>Banana Boss</td>
+      <td>MC Wizard</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>55</th>
+      <td>Oingodile</td>
+      <td>Fulminachin</td>
+      <td>Eligagan</td>
+      <td class="highlightGray"></td>
+      <td>Item Knave</td>
+      <td>Banana Boss</td>
+      <td>MC Wizard</td>
+      <td>Mealy</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>56</th>
+      <td>Oingodile</td>
+      <td>Fulminachin</td>
+      <td>Eligagan</td>
+      <td>Vexing Kappa</td>
+      <td>Item Knave</td>
+      <td>Banana Boss</td>
+      <td>MC Wizard</td>
+      <td>Mealy</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>57</th>
+      <td>Oingodile</td>
+      <td class="highlightGray"></td>
+      <td>Eligagan</td>
+      <td>Vexing Kappa</td>
+      <td>Item Knave</td>
+      <td>Banana Boss</td>
+      <td>MC Wizard</td>
+      <td>Porkton</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>58</th>
+      <td>Oingodile</td>
+      <td>Gigahead</td>
+      <td>Eligagan</td>
+      <td>Vexing Kappa</td>
+      <td>Item Knave</td>
+      <td class="highlightGray"></td>
+      <td>Pyrepuff</td>
+      <td>Porkton</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>59</th>
+      <td>Oingodile</td>
+      <td>Gigahead</td>
+      <td class="highlightGray"></td>
+      <td>Vexing Kappa</td>
+      <td>Item Knave</td>
+      <td>Hyper Gazer</td>
+      <td>Pyrepuff</td>
+      <td>Porkton</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>60</th>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange">Mixerdon</td>
+      <td class="highlightOrange">Sludge</td>
+      <td class="highlightOrange">Soybeanie</td>
+      <td class="highlightOrange">Pumpanshee</td>
+      <td class="highlightOrange">Zanbeeto</td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+    </tr>
+    <tr>
+      <th>61</th>
+      <td class="highlightGray"></td>
+      <td>Gigahead</td>
+      <td>Horrabbit</td>
+      <td>Stun Scorp</td>
+      <td>Twinkle Bird</td>
+      <td>Hyper Gazer</td>
+      <td>Pyrepuff</td>
+      <td class="highlightGray"></td>
+      <td rowspan="9" class="monsterTableNdup">4</td>
+      <td rowspan="9" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <th>62</th>
+      <td>Dozikon</td>
+      <td>Gigahead</td>
+      <td>Horrabbit</td>
+      <td>Stun Scorp</td>
+      <td>Twinkle Bird</td>
+      <td>Hyper Gazer</td>
+      <td>Pyrepuff</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>63</th>
+      <td>Dozikon</td>
+      <td>Gigahead</td>
+      <td>Horrabbit</td>
+      <td>Stun Scorp</td>
+      <td>Twinkle Bird</td>
+      <td>Hyper Gazer</td>
+      <td>Jouncy</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>64</th>
+      <td>Dozikon</td>
+      <td>Gigahead</td>
+      <td class="highlightGray"></td>
+      <td>Stun Scorp</td>
+      <td>Twinkle Bird</td>
+      <td class="highlightGray"></td>
+      <td>Jouncy</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>65</th>
+      <td>Dozikon</td>
+      <td>Ornery Tank</td>
+      <td>Iron Zalokleft</td>
+      <td>Stun Scorp</td>
+      <td>Twinkle Bird</td>
+      <td class="highlightGray"></td>
+      <td>Jouncy</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>66</th>
+      <td>Dozikon</td>
+      <td>Ornery Tank</td>
+      <td>Iron Zalokleft</td>
+      <td>Gyandora</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Jouncy</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>67</th>
+      <td>Pumpanshee</td>
+      <td>Ornery Tank</td>
+      <td>Iron Zalokleft</td>
+      <td>Gyandora</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Jouncy</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>68</th>
+      <td>Pumpanshee</td>
+      <td>Mixerdon</td>
+      <td class="highlightGray"></td>
+      <td>Gyandora</td>
+      <td class="highlightGray"></td>
+      <td>Soybeanie</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>69</th>
+      <td>Pumpanshee</td>
+      <td>Mixerdon</td>
+      <td class="highlightGray"></td>
+      <td>Gyandora</td>
+      <td>Boss Yanpii</td>
+      <td>Soybeanie</td>
+      <td>Zanbeeto</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>70</th>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange">MC Sorcerer</td>
+      <td class="highlightOrange">Eligagon</td>
+      <td class="highlightOrange">Huge Chintala</td>
+      <td class="highlightOrange">Detonachin</td>
+      <td class="highlightOrange">Curse Gramma</td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+    </tr>
+    <tr>
+      <th>71</th>
+      <td class="highlightGray"></td>
+      <td>Sludge</td>
+      <td class="highlightGray"></td>
+      <td>Gyandora</td>
+      <td>Boss Yanpii</td>
+      <td>Soybeanie</td>
+      <td>Zanbeeto</td>
+      <td class="highlightGray"></td>
+      <td rowspan="9" class="monsterTableNdup">4</td>
+      <td rowspan="9" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <th>72</th>
+      <td>Eagle Tengu</td>
+      <td>Sludge</td>
+      <td>Spirit Ham</td>
+      <td>Hell Gyaza</td>
+      <td>Boss Yanpii</td>
+      <td>Soybeanie</td>
+      <td>Zanbeeto</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>73</th>
+      <td>Eagle Tengu</td>
+      <td>Sludge</td>
+      <td>Spirit Ham</td>
+      <td>Hell Gyaza</td>
+      <td>Boss Yanpii</td>
+      <td class="highlightGray"></td>
+      <td>Zanbeeto</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>74</th>
+      <td>Eagle Tengu</td>
+      <td>Sludge</td>
+      <td>Spirit Ham</td>
+      <td>Hell Gyaza</td>
+      <td>Ricepanda</td>
+      <td class="highlightGray"></td>
+      <td>Zanbeeto</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>75</th>
+      <td>Eagle Tengu</td>
+      <td>Sludge</td>
+      <td>Spirit Ham</td>
+      <td>Hell Gyaza</td>
+      <td>Ricepanda</td>
+      <td class="highlightGray"></td>
+      <td>MC Sorcerer</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>76</th>
+      <td class="highlightGray"></td>
+      <td>Sludge</td>
+      <td>Spirit Ham</td>
+      <td>Hell Gyaza</td>
+      <td>Ricepanda</td>
+      <td class="highlightGray"></td>
+      <td>MC Sorcerer</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>77</th>
+      <td class="highlightGray"></td>
+      <td>Sludge</td>
+      <td>Detonachin</td>
+      <td>Hell Gyaza</td>
+      <td>Ricepanda</td>
+      <td class="highlightGray"></td>
+      <td>MC Sorcerer</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>78</th>
+      <td class="highlightGray"></td>
+      <td>Sludge</td>
+      <td>Detonachin</td>
+      <td>Hell Gyaza</td>
+      <td>Ricepanda</td>
+      <td class="highlightGray"></td>
+      <td>MC Sorcerer</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>79</th>
+      <td class="highlightGray"></td>
+      <td>Sludge</td>
+      <td>Detonachin</td>
+      <td>Hell Gyaza</td>
+      <td>Curse Gramma</td>
+      <td>Eligagon</td>
+      <td>MC Sorcerer</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>80</th>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange">Gitan Mamel</td>
+      <td class="highlightOrange">Boingodile</td>
+      <td class="highlightOrange">Mosh Polygon</td>
+      <td class="highlightOrange">Pumptergeist</td>
+      <td class="highlightOrange">Blight Scorp</td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+    </tr>
+    <tr>
+      <th>81</th>
+      <td class="highlightGray"></td>
+      <td>Shihan</td>
+      <td>Detonachin</td>
+      <td class="highlightGray"></td>
+      <td>Curse Gramma</td>
+      <td>Eligagon</td>
+      <td>Huge Chintala</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td rowspan="9" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <th>82</th>
+      <td>Archdragon</td>
+      <td>Shihan</td>
+      <td>Kappa Troll</td>
+      <td class="highlightGray"></td>
+      <td>Curse Gramma</td>
+      <td>Eligagon</td>
+      <td>Huge Chintala</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>83</th>
+      <td>Archdragon</td>
+      <td>Shihan</td>
+      <td>Kappa Troll</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Eligagon</td>
+      <td>Huge Chintala</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>84</th>
+      <td>Archdragon</td>
+      <td class="highlightGray"></td>
+      <td>Kappa Troll</td>
+      <td>Flashdon</td>
+      <td>Osmammoth</td>
+      <td>Eligagon</td>
+      <td>Huge Chintala</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>85</th>
+      <td>Archdragon</td>
+      <td>Tiger Ace</td>
+      <td class="highlightGray"></td>
+      <td>Flashdon</td>
+      <td>Osmammoth</td>
+      <td>Eligagon</td>
+      <td>Huge Chintala</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>86</th>
+      <td>Archdragon</td>
+      <td>Tiger Ace</td>
+      <td class="highlightGray"></td>
+      <td>Flashdon</td>
+      <td>Osmammoth</td>
+      <td>Porkgon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>87</th>
+      <td>Archdragon</td>
+      <td>Tiger Ace</td>
+      <td>Gitan Mamel</td>
+      <td>Flashdon</td>
+      <td class="highlightGray"></td>
+      <td>Porkgon</td>
+      <td>Banana Master</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>88</th>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Gitan Mamel</td>
+      <td>Flashdon</td>
+      <td>Pumptergeist</td>
+      <td>Porkgon</td>
+      <td>Banana Master</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>89</th>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td>Gitan Mamel</td>
+      <td>Flashdon</td>
+      <td>Pumptergeist</td>
+      <td>Porkgon</td>
+      <td>Banana Master</td>
+      <td>Blight Scorp</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>90</th>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange">Doom Gyaza</td>
+      <td class="highlightOrange">Ricegrizzly</td>
+      <td class="highlightOrange">Gyandoron</td>
+      <td class="highlightOrange">Elizgagon</td>
+      <td class="highlightOrange">Cyberoid</td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+      <td class="highlightOrange"></td>
+    </tr>
+    <tr>
+      <th>91</th>
+      <td>Mesmerikon</td>
+      <td>Shine Bird</td>
+      <td>Gitan Mamel</td>
+      <td class="highlightGray"></td>
+      <td>Pumptergeist</td>
+      <td>Boingodile</td>
+      <td class="highlightGray"></td>
+      <td>Blight Scorp</td>
+      <td class="highlightGray"></td>
+      <td rowspan="9" class="monsterTableIsleater">4</td>
+    </tr>
+    <tr>
+      <th>92</th>
+      <td>Mesmerikon</td>
+      <td>Shine Bird</td>
+      <td>Gitan Mamel</td>
+      <td class="highlightGray"></td>
+      <td>Pumptergeist</td>
+      <td>Boingodile</td>
+      <td class="highlightGray"></td>
+      <td>Blight Scorp</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>93</th>
+      <td>Mesmerikon</td>
+      <td>Shine Bird</td>
+      <td>Gitan Mamel</td>
+      <td>Honcho Knave</td>
+      <td>Pumptergeist</td>
+      <td>Boingodile</td>
+      <td class="highlightGray"></td>
+      <td>Blight Scorp</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>94</th>
+      <td>Mesmerikon</td>
+      <td>Shine Bird</td>
+      <td>Deathead</td>
+      <td>Honcho Knave</td>
+      <td>Cranky Tank</td>
+      <td>Boingodile</td>
+      <td class="highlightGray"></td>
+      <td>Blight Scorp</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>95</th>
+      <td>Mesmerikon</td>
+      <td>Shine Bird</td>
+      <td>Deathead</td>
+      <td>Honcho Knave</td>
+      <td>Cranky Tank</td>
+      <td>Boingodile</td>
+      <td>Mosh Polygon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>96</th>
+      <td>Cash Gazer</td>
+      <td>Shine Bird</td>
+      <td>Deathead</td>
+      <td>Honcho Knave</td>
+      <td>Cranky Tank</td>
+      <td class="highlightGray"></td>
+      <td>Mosh Polygon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>97</th>
+      <td>Cash Gazer</td>
+      <td>Shine Bird</td>
+      <td>Deathead</td>
+      <td>Honcho Knave</td>
+      <td>Cranky Tank</td>
+      <td class="highlightGray"></td>
+      <td>Mosh Polygon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>98</th>
+      <td>Cash Gazer</td>
+      <td>Shine Bird</td>
+      <td>Deathead</td>
+      <td>Honcho Knave</td>
+      <td>Cranky Tank</td>
+      <td class="highlightGray"></td>
+      <td>Mosh Polygon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>99</th>
+      <td>Cash Gazer</td>
+      <td>Shine Bird</td>
+      <td>Deathead</td>
+      <td>Honcho Knave</td>
+      <td>Cranky Tank</td>
+      <td class="highlightGray"></td>
+      <td>Mosh Polygon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+  </tbody>
+</table>
+
+※ Monster Table might be incomplete. If you find a monster that isn't listed, please add it to the table.
+
 # Items
 
 - F = Floor, Monster (day)
@@ -21,9 +1299,9 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
 <table class="dungeonItemTable">
   <tr>
     <th colspan="6" class="highlightGreen">Weapon</th>
-    <th rowspan="82"></th>
+    <th rowspan="83"></th>
     <th colspan="6" class="highlightGreen">Bracelet</th>
-    <th rowspan="82"></th>
+    <th rowspan="83"></th>
     <th colspan="6" class="highlightGreen">Scroll</th>
   </tr>
   <tr>
@@ -68,19 +1346,19 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
   </tr>
   <tr>
     <td class="leftText">Copper Edge</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Heal Bracelet</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Purify Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -94,13 +1372,13 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Calm Bracelet</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Identify Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -108,7 +1386,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
   </tr>
   <tr>
     <td class="leftText">Beast Fang</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -120,7 +1398,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Heaven Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -128,13 +1406,13 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
   </tr>
   <tr>
     <td class="leftText">Dotanuki</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Alert Bracelet</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -149,12 +1427,12 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
   <tr>
     <td class="leftText">Meteor Edge</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Cleansing Bracelet</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -168,19 +1446,19 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
   </tr>
   <tr>
     <td class="leftText">Red Blade</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Staunch Bracelet</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Confusion Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -195,12 +1473,12 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td class="leftText">Strength Bracelet</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Slumber Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -208,7 +1486,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
   </tr>
   <tr>
     <td class="leftText">Rusty Pickaxe</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -220,7 +1498,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Air Slash Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -260,7 +1538,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Fear Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -280,7 +1558,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Trap Erase Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -321,7 +1599,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td class="leftText">Pot God Scroll</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -340,7 +1618,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Medicine Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -394,7 +1672,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Trap Bracelet</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -434,13 +1712,13 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Explosion Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Muzzled Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -460,7 +1738,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Grounded Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -508,7 +1786,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
   </tr>
   <tr>
     <td class="leftText">Crescent Katana</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -520,7 +1798,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Trap Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -535,7 +1813,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <th colspan="6" class="highlightGreen">Grass</th>
     <td class="leftText">Lost Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -555,7 +1833,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <th>Z</th>
     <th>E</th>
     <td class="leftText">Desert Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -584,18 +1862,18 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
   <tr>
     <td class="leftText">Drain Slicer</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Herb</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Attraction Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -604,18 +1882,18 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
   <tr>
     <td class="leftText">Lizard Lasher</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Otogiriso</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Suction Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -624,8 +1902,8 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
   <tr>
     <th colspan="6" class="highlightGreen">Shield</th>
     <td class="leftText">Heal Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -644,7 +1922,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <th>Z</th>
     <th>E</th>
     <td class="leftText">Life Grass</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -691,14 +1969,14 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td class="leftText">Invitation</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Iron Targe</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -740,7 +2018,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td class="leftText">Unlucky Seed</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -753,7 +2031,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
   </tr>
   <tr>
     <td class="leftText">Meteor Guard</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -765,7 +2043,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Storage Pot</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -774,7 +2052,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
   <tr>
     <td class="leftText">Red Shield</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -785,8 +2063,8 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Synthesis Pot</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -799,13 +2077,13 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Strength Grass</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Identify Pot</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -833,20 +2111,20 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
   </tr>
   <tr>
     <td class="leftText">Heavy Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Swift Grass</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Degrade Pot</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -859,14 +2137,14 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Dizzy Grass</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Purify Pot</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -880,7 +2158,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td class="leftText">Sleep Grass</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -939,7 +2217,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Warp Grass</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -959,7 +2237,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Sight Grass</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -979,7 +2257,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Dragon Grass</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -999,13 +2277,13 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Power Up Grass</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Hide Pot</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1189,7 +2467,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Transient Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1244,7 +2522,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Knockback Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1264,8 +2542,8 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Seal Staff</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1331,7 +2609,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td class="leftText">Miss Talisman</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1344,14 +2622,14 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Pinning Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Fear Talisman</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1359,12 +2637,12 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
   <tr>
     <td class="leftText">Rock</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Swift Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1379,13 +2657,13 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
   <tr>
     <td class="leftText">Porky Rock</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Slow Staff</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1419,7 +2697,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
   <tr>
     <th colspan="6" class="highlightGreen">Other</th>
     <td class="leftText">Unlucky Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1439,14 +2717,14 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <th>Z</th>
     <th>E</th>
     <td class="leftText">Trap Erase Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Rage Talisman</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1460,7 +2738,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td class="leftText">Mage Staff</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1479,7 +2757,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Ordinary Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1520,18 +2798,18 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
     <td class="leftText">Green Banana</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td rowspan="4" colspan="6" class="highlightGray"></td>
-    <td rowspan="4" colspan="6" class="highlightGray"></td>
+    <td rowspan="5" colspan="6" class="highlightGray"></td>
+    <td rowspan="5" colspan="6" class="highlightGray"></td>
     <td class="leftText">Yellow Banana</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1547,7 +2825,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
   <tr>
     <td class="leftText">Grilled Banana</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1560,6 +2838,18 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td class="leftText">Spoiled Banana</td>
+    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
-※ If you find an item that isn't listed, please feel free to add it to the table.
+※ Item Table is incomplete. If you find a drop that isn't listed, please add it to the table.
+
+# Traps
+
+[Trap Table]

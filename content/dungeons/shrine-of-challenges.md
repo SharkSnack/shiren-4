@@ -10,18 +10,42 @@ metaDescription: "Shrine of Challenges guide for Shiren the Wanderer 4: The Eye 
 
 Optional tutorials on how to play the game.
 
-You'll receive a random item each time you complete a topic for the first time,<br/>and an [Adventure Footprints](/system/adventure-footprints) entry will update as you clear topics.
+Completion rewards:
+
+- Receive a random item each time you clear a topic for the first time.
+- An [Adventure Footprints](/system/adventure-footprints) entry will update as you clear topics.
 
 # Overview
+
+<table class="dungeonOverview">
+  <tr>
+    <th>Unlock</th>
+    <td class="highlightYellow">Reach Boronga Village.</td>
+  </tr>
+  <tr>
+    <th>Entrance</th>
+    <td class="highlightYellow">Boronga Village (Girl in Novice House)</td>
+  </tr>
+</table>
 
 <table class="dungeonTable">
   <tr>
     <th>Topics</th>
     <td>36</td>
+    <th>Day / Night</th>
+    <td>Varies</td>
   </tr>
   <tr>
     <th>Bring Items</th>
     <td>No</td>
+    <th>Allies</th>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th>Clear Icon</th>
+    <td>None</td>
+    <th>Reward</th>
+    <td>1 random item (1st clear)</td>
   </tr>
 </table>
 
@@ -213,3 +237,5 @@ There are a total of 36 topics.
     </tr>
   </tbody>
 </table>
+
+※ Reward Table is incomplete. If you receive an item that isn't listed, please add it to the table.

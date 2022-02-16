@@ -37,7 +37,7 @@ If you're new to Shiren, or aren't up for the challenge, it's best to stock up o
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow">Boronga Village (East)</td>
+    <td class="highlightYellow">Boronga Village (East exit)</td>
   </tr>
 </table>
 
@@ -52,7 +52,7 @@ If you're new to Shiren, or aren't up for the challenge, it's best to stock up o
     <th>Bring Items</th>
     <td>Yes</td>
     <th>Allies</th>
-    <td>3</td>
+    <td>Yes</td>
   </tr>
   <tr>
     <th>Unidentified</th>
@@ -84,9 +84,13 @@ If you're new to Shiren, or aren't up for the challenge, it's best to stock up o
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td></td>
+    <td class="clearIcon"><img src="../images/other/clear_story.png"/></td>
+    <th>Clear Bonus</th>
+    <td>10,000,000</td>
+  </tr>
+  <tr>
     <th>Reward</th>
-    <td>None</td>
+    <td colspan="3">None</td>
   </tr>
 </table>
 
@@ -106,7 +110,7 @@ If you're new to Shiren, or aren't up for the challenge, it's best to stock up o
   <tbody>
     <tr>
       <td class="highlightGray">Grasslands</td>
-      <td></td>
+      <td>5</td>
       <td>30</td>
       <td>(20)</td>
     </tr>
@@ -118,13 +122,13 @@ If you're new to Shiren, or aren't up for the challenge, it's best to stock up o
     </tr>
     <tr>
       <td class="highlightGray">Rocky Stretch</td>
-      <td>8</td>
+      <td>5~8</td>
       <td>30</td>
       <td>20</td>
     </tr>
     <tr>
       <td class="highlightGray">Snake Hole</td>
-      <td>7~8</td>
+      <td>6~8</td>
       <td>30</td>
       <td>20</td>
     </tr>
@@ -136,7 +140,7 @@ If you're new to Shiren, or aren't up for the challenge, it's best to stock up o
     </tr>
     <tr>
       <td class="highlightGray">Ruins of Laferriere</td>
-      <td></td>
+      <td>8~9</td>
       <td>25</td>
       <td>15</td>
     </tr>
@@ -148,19 +152,19 @@ If you're new to Shiren, or aren't up for the challenge, it's best to stock up o
     </tr>
     <tr>
       <td class="highlightGray">Lava Field</td>
-      <td></td>
+      <td>7~8</td>
       <td>30</td>
       <td>(20)</td>
     </tr>
     <tr>
       <td class="highlightGray">Devil's Navel</td>
-      <td>8~10</td>
+      <td>6~10</td>
       <td>25</td>
       <td>20</td>
     </tr>
     <tr>
       <td class="highlightGray">Gold Palace</td>
-      <td>9~10</td>
+      <td>8~11</td>
       <td>25</td>
       <td>15</td>
     </tr>
@@ -175,7 +179,7 @@ If you're new to Shiren, or aren't up for the challenge, it's best to stock up o
 
 #### Weapon
 
-Main weapon:
+##### Main weapon
 
 Linger on floors and hunt monsters to level equipment early game.<br/>
 
@@ -222,7 +226,7 @@ Linger on floors and hunt monsters to level equipment early game.<br/>
   </tbody>
 </table>
 
-Runes:
+##### Runes
 
 Aim to synthesize any type-effective or status inflicting weapons you find.
 
@@ -275,7 +279,7 @@ Aim to synthesize any type-effective or status inflicting weapons you find.
 
 #### Shield
 
-Main Shield:
+##### Main Shield
 
 Linger on floors and hunt monsters to level equipment early game.
 
@@ -334,7 +338,7 @@ Linger on floors and hunt monsters to level equipment early game.
   </tbody>
 </table>
 
-Runes:
+##### Runes
 
 <table class="dungeonTable">
   <thead>
@@ -1909,554 +1913,593 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
 - N = N'dubba <span class="monsterTableNdubba">Lv1</span> <span class="monsterTableNtwyn">Lv2</span> <span class="monsterTableNmach">Lv3</span> <span class="monsterTableNdup">Lv4</span>
 - M = Maneater <span class="monsterTableManeater">Lv1</span> <span class="monsterTableVilleater">Lv2</span> <span class="monsterTableMounteater">Lv3</span> <span class="monsterTableIsleater">Lv4</span>
 
-Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlightUseful">Useful</span> <span class="highlightItem">Destroys Items</span> <span class="highlightOffense">High Offense</span> <span class="highlightDanger">Dangerous</span> <span class="highlightExtreme">Very Dangerous</span>
+Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPurple">Night</span>
 
 <table class="monsterTable">
   <thead>
     <tr>
-      <th colspan="6">Day</th>
       <th>F</th>
-      <th colspan="4">Night</th>
+      <th colspan="6">Monsters</th>
       <th>N</th>
       <th>M</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td>Seedie</td>
-      <td>Mamel</td>
       <th>1</th>
+      <td class="monsterDay">Mamel</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
+      <td class="monsterDay">Seedie</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td>Chintala</td>
-      <td>Pit Mamel</td>
-      <td>Seedie</td>
-      <td>Mamel</td>
       <th>2</th>
+      <td class="monsterDay">Mamel</td>
       <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
+      <td class="monsterDay">Chintala</td>
+      <td class="monsterDay">Pit Mamel</td>
+      <td class="monsterDay">Seedie</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>Bored Kappa</td>
-      <td>Hopodile</td>
-      <td>Chintala</td>
-      <td>Pit Mamel</td>
-      <td>Seedie</td>
-      <td>Froggo</td>
       <th>3</th>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
+      <td class="monsterDay">Bored Kappa</td>
+      <td class="monsterDay">Hopodile</td>
+      <td class="monsterDay">Chintala</td>
+      <td class="monsterDay">Pit Mamel</td>
+      <td class="monsterDay">Seedie</td>
+      <td class="monsterDay">Froggo</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>Bored Kappa</td>
-      <td>Hopodile</td>
-      <td class="highlightGray"></td>
-      <td>Pit Mamel</td>
-      <td>Squid King</td>
-      <td>Froggo</td>
       <th>4</th>
+      <td class="monsterDay">Bored Kappa</td>
+      <td class="monsterDay">Hopodile</td>
       <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
+      <td class="monsterDay">Pit Mamel</td>
+      <td class="monsterDay">Squid King</td>
+      <td class="monsterDay">Froggo</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>Bored Kappa</td>
-      <td>Hopodile</td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td>Squid King</td>
-      <td>Froggo</td>
       <th>5</th>
+      <td class="monsterDay">Bored Kappa</td>
+      <td class="monsterDay">Hopodile</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
+      <td class="monsterDay">Squid King</td>
+      <td class="monsterDay">Froggo</td>
       <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="monsterTableVillage">Gonchiki Village</td>
+    </tr>
+    <tr>
+      <th rowspan="2">6</th>
+      <td class="highlightGray"></td>
+      <td class="monsterDay">Blade Bee</td>
+      <td class="monsterDay">Firepuff</td>
+      <td class="monsterDay">Ricebear</td>
+      <td class="monsterDay">Squid King</td>
+      <td class="monsterDay">Froggo</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Bored Kappa</td>
+      <td class="monsterNight">Evil Chintala</td>
+      <td class="monsterNight">Snide Froggo</td>
+      <td class="monsterNight">Evil Firepuff</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">7</th>
+      <td class="highlightGray"></td>
+      <td class="monsterDay">Blade Bee</td>
+      <td class="monsterDay">Firepuff</td>
+      <td class="monsterDay">Ricebear</td>
+      <td class="monsterDay">DJ Mage</td>
+      <td class="monsterDay">Froggo</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Bored Kappa</td>
+      <td class="monsterNight">Evil Chintala</td>
+      <td class="monsterNight">Snide Froggo</td>
+      <td class="monsterNight">Evil Firepuff</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">8</th>
+      <td class="monsterDay">Curse Girl</td>
+      <td class="monsterDay">Slime</td>
+      <td class="monsterDay">Firepuff</td>
+      <td class="monsterDay">Ricebear</td>
+      <td class="monsterDay">DJ Mage</td>
+      <td class="monsterDay">Zalokleft</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Hopodile</td>
+      <td class="monsterNight">Dark Boy Cart</td>
+      <td class="monsterNight">Foul Morph</td>
+      <td class="monsterNight">Evil Firepuff</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">9</th>
+      <td class="monsterDay">Curse Girl</td>
+      <td class="monsterDay">Slime</td>
+      <td class="highlightGray"></td>
+      <td class="monsterDay">Mid Chintala</td>
+      <td class="monsterDay">DJ Mage</td>
+      <td class="monsterDay">Zalokleft</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Hopodile</td>
+      <td class="monsterNight">Dark Boy Cart</td>
+      <td class="monsterNight">Foul Morph</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td colspan="13" class="monsterTableVillage">Gonchiki Village</td>
+      <th rowspan="2">10</th>
+      <td class="monsterDay">Curse Girl</td>
+      <td class="monsterDay">Slime</td>
+      <td class="monsterDay">Absorbiphant</td>
+      <td class="monsterDay">Mid Chintala</td>
+      <td class="monsterDay">Scorpion</td>
+      <td class="monsterDay">Zalokleft</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="highlightGray"></td>
-      <td>Blade Bee</td>
-      <td>Firepuff</td>
-      <td>Ricebear</td>
-      <td>Squid King</td>
-      <td>Froggo</td>
-      <th>6</th>
-      <td>Dark Bored Kappa</td>
-      <td>Evil Chintala</td>
-      <td>Snide Froggo</td>
-      <td>Evil Firepuff</td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-    </tr>
-    <tr>
-      <td class="highlightGray"></td>
-      <td>Blade Bee</td>
-      <td>Firepuff</td>
-      <td>Ricebear</td>
-      <td>DJ Mage</td>
-      <td>Froggo</td>
-      <th>7</th>
-      <td>Dark Bored Kappa</td>
-      <td>Evil Chintala</td>
-      <td>Snide Froggo</td>
-      <td>Evil Firepuff</td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-    </tr>
-    <tr>
-      <td>Curse Girl</td>
-      <td>Slime</td>
-      <td>Firepuff</td>
-      <td>Ricebear</td>
-      <td>DJ Mage</td>
-      <td>Zalokleft</td>
-      <th>8</th>
-      <td>Evil Hopodile</td>
-      <td>Dark Boy Cart</td>
-      <td>Foul Morph</td>
-      <td>Evil Firepuff</td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-    </tr>
-    <tr>
-      <td>Curse Girl</td>
-      <td>Slime</td>
-      <td class="highlightGray"></td>
-      <td>Mid Chintala</td>
-      <td>DJ Mage</td>
-      <td>Zalokleft</td>
-      <th>9</th>
-      <td>Evil Hopodile</td>
-      <td>Dark Boy Cart</td>
-      <td>Foul Morph</td>
+      <td class="monsterNight">Evil Hopodile</td>
+      <td class="monsterNight">Dark Boy Cart</td>
+      <td class="monsterNight">Foul Morph</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>Curse Girl</td>
-      <td>Slime</td>
-      <td>Absorbiphant</td>
-      <td>Mid Chintala</td>
-      <td>Scorpion</td>
-      <td>Zalokleft</td>
-      <th>10</th>
-      <td>Evil Hopodile</td>
-      <td>Dark Boy Cart</td>
-      <td>Foul Morph</td>
+      <th rowspan="2">11</th>
+      <td class="highlightGray"></td>
+      <td class="monsterDay">Strong Cart</td>
+      <td class="monsterDay">Absorbiphant</td>
+      <td class="monsterDay">Mid Chintala</td>
+      <td class="monsterDay">Scorpion</td>
+      <td class="monsterDay">Tiger Tosser</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Gazer</td>
+      <td class="monsterNight">Dark Pit Mamel</td>
+      <td class="monsterNight">Dark Absorbiphant</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
+      <th rowspan="2">12</th>
       <td class="highlightGray"></td>
-      <td>Strong Cart</td>
-      <td>Absorbiphant</td>
-      <td>Mid Chintala</td>
-      <td>Scorpion</td>
-      <td>Tiger Tosser</td>
-      <th>11</th>
-      <td>Evil Gazer</td>
-      <td>Dark Pit Mamel</td>
-      <td>Dark Absorbiphant</td>
+      <td class="monsterDay">Strong Cart</td>
+      <td class="monsterDay">Absorbiphant</td>
+      <td class="highlightGray"></td>
+      <td class="monsterDay">Scorpion</td>
+      <td class="monsterDay">Tiger Tosser</td>
+      <td rowspan="2" class="highlightGray"></td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Gazer</td>
+      <td class="monsterNight">Dark Pit Mamel</td>
+      <td class="monsterNight">Dark Absorbiphant</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
+      <td colspan="9" class="monsterTableVillage">Rakutata Village</td>
+    </tr>
+    <tr>
+      <th rowspan="2">13</th>
+      <td class="monsterDay">Traproid</td>
+      <td class="monsterDay">Porky</td>
+      <td class="monsterDay">Pumphantasm</td>
+      <td class="monsterDay">Fearabbit</td>
       <td class="highlightGray"></td>
-      <td>Strong Cart</td>
-      <td>Absorbiphant</td>
       <td class="highlightGray"></td>
-      <td>Scorpion</td>
-      <td>Tiger Tosser</td>
-      <th>12</th>
-      <td>Evil Gazer</td>
-      <td>Dark Pit Mamel</td>
-      <td>Dark Absorbiphant</td>
+      <td rowspan="12" class="monsterTableNtwyn">2</td>
+      <td rowspan="12" class="monsterTableVilleater">2</td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Spin Polygon</td>
+      <td class="monsterNight">Evil Porky</td>
+      <td class="monsterNight">Vile Slime</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td colspan="13" class="monsterTableVillage">Rakutata Village</td>
-    </tr>
-    <tr>
+      <th rowspan="2">14</th>
+      <td class="monsterDay">Traproid</td>
+      <td class="monsterDay">Porky</td>
+      <td class="monsterDay">Pumphantasm</td>
+      <td class="monsterDay">Fearabbit</td>
       <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td>Traproid</td>
-      <td>Porky</td>
-      <td>Pumphantasm</td>
-      <td>Fearabbit</td>
-      <th>13</th>
-      <td>Evil PolySpinna</td>
-      <td>Evil Porky</td>
-      <td>Vile Slime</td>
-      <td class="highlightGray"></td>
-      <td rowspan="6" class="monsterTableNtwyn">2</td>
-      <td rowspan="6" class="monsterTableVilleater">2</td>
-    </tr>
-    <tr>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td>Traproid</td>
-      <td>Porky</td>
-      <td>Pumphantasm</td>
-      <td>Fearabbit</td>
-      <th>14</th>
-      <td>Evil PolySpinna</td>
-      <td>Evil Porky</td>
-      <td>Vile Slime</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
+      <td class="monsterNight">Evil Spin Polygon</td>
+      <td class="monsterNight">Evil Porky</td>
+      <td class="monsterNight">Vile Slime</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
-      <td>Traproid</td>
-      <td>Porky</td>
-      <td>Pumphantasm</td>
-      <td>Fearabbit</td>
-      <th>15</th>
-      <td>Evil PolySpinna</td>
-      <td>Evil Porky</td>
-      <td>Vile Slime</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
+      <th rowspan="2">15</th>
+      <td class="monsterDay">Traproid</td>
+      <td class="monsterDay">Porky</td>
+      <td class="monsterDay">Pumphantasm</td>
+      <td class="monsterDay">Fearabbit</td>
       <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td>Traproid</td>
-      <td>Porky</td>
-      <td>Pumphantasm</td>
-      <td>Fearabbit</td>
-      <th>16</th>
-      <td>Evil PolySpinna</td>
-      <td>Evil Porky</td>
-      <td>Vile Slime</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
+      <td class="monsterNight">Evil Spin Polygon</td>
+      <td class="monsterNight">Evil Porky</td>
+      <td class="monsterNight">Vile Slime</td>
       <td class="highlightGray"></td>
-      <td>Pot Knave</td>
-      <td>Traproid</td>
-      <td>Porky</td>
-      <td>Pumphantasm</td>
-      <td>Fearabbit</td>
-      <th>17</th>
-      <td>Evil PolySpinna</td>
-      <td>Evil Porky</td>
-      <td>Vile Slime</td>
+      <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
+      <th rowspan="2">16</th>
+      <td class="monsterDay">Traproid</td>
+      <td class="monsterDay">Porky</td>
+      <td class="monsterDay">Pumphantasm</td>
+      <td class="monsterDay">Fearabbit</td>
       <td class="highlightGray"></td>
-      <td>Pot Knave</td>
-      <td>Traproid</td>
-      <td>Porky</td>
-      <td>Pumphantasm</td>
-      <td>Fearabbit</td>
-      <th>18</th>
-      <td>Evil PolySpinna</td>
-      <td>Evil Porky</td>
-      <td>Vile Slime</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td colspan="13" class="monsterTableVillage">Monkey Village</td>
+      <td class="monsterNight">Evil Spin Polygon</td>
+      <td class="monsterNight">Evil Porky</td>
+      <td class="monsterNight">Vile Slime</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>Froggucci</td>
-      <td>Sr. Yanpii</td>
-      <td>Flamepuff</td>
-      <td>Gyadon</td>
-      <td>Dagger Bee</td>
-      <td>Kengo</td>
+      <th rowspan="2">17</th>
+      <td class="monsterDay">Traproid</td>
+      <td class="monsterDay">Porky</td>
+      <td class="monsterDay">Pumphantasm</td>
+      <td class="monsterDay">Fearabbit</td>
+      <td class="monsterDay">Pot Knave</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Spin Polygon</td>
+      <td class="monsterNight">Evil Porky</td>
+      <td class="monsterNight">Vile Slime</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">18</th>
+      <td class="monsterDay">Traproid</td>
+      <td class="monsterDay">Porky</td>
+      <td class="monsterDay">Pumphantasm</td>
+      <td class="monsterDay">Fearabbit</td>
+      <td class="monsterDay">Pot Knave</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Spin Polygon</td>
+      <td class="monsterNight">Evil Porky</td>
+      <td class="monsterNight">Vile Slime</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="monsterTableVillage">Monkey Village</td>
+    </tr>
+    <tr>
       <th>19</th>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
+      <td class="monsterDay">Froggucci</td>
+      <td class="monsterDay">Sr. Yanpii</td>
+      <td class="monsterDay">Flamepuff</td>
+      <td class="monsterDay">Gyadon</td>
+      <td class="monsterDay">Dagger Bee</td>
+      <td class="monsterDay">Kengo</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>Froggucci</td>
-      <td>Sr. Yanpii</td>
-      <td>Flamepuff</td>
-      <td>Gyadon</td>
-      <td>Dagger Bee</td>
-      <td>Kengo</td>
       <th>20</th>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
+      <td class="monsterDay">Froggucci</td>
+      <td class="monsterDay">Sr. Yanpii</td>
+      <td class="monsterDay">Flamepuff</td>
+      <td class="monsterDay">Gyadon</td>
+      <td class="monsterDay">Dagger Bee</td>
+      <td class="monsterDay">Kengo</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>Froggucci</td>
-      <td>Gyaza</td>
-      <td>Banana Morph</td>
-      <td>Flashbird</td>
-      <td>Concusschin</td>
-      <td>Go Ham</td>
       <th>21</th>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
+      <td class="monsterDay">Froggucci</td>
+      <td class="monsterDay">Gyaza</td>
+      <td class="monsterDay">Banana Morph</td>
+      <td class="monsterDay">Flash Bird</td>
+      <td class="monsterDay">Concusschin</td>
+      <td class="monsterDay">Go Ham</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>Froggucci</td>
-      <td>Gyaza</td>
-      <td>Banana Morph</td>
-      <td>Flashbird</td>
-      <td>Concusschin</td>
-      <td>Go Ham</td>
       <th>22</th>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
+      <td class="monsterDay">Froggucci</td>
+      <td class="monsterDay">Gyaza</td>
+      <td class="monsterDay">Banana Morph</td>
+      <td class="monsterDay">Flash Bird</td>
+      <td class="monsterDay">Concusschin</td>
+      <td class="monsterDay">Go Ham</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>Froggucci</td>
-      <td>Gyaza</td>
-      <td>Banana Morph</td>
-      <td>Flashbird</td>
-      <td>Concusschin</td>
-      <td>Go Ham</td>
       <th>23</th>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
+      <td class="monsterDay">Froggucci</td>
+      <td class="monsterDay">Gyaza</td>
+      <td class="monsterDay">Banana Morph</td>
+      <td class="monsterDay">Flash Bird</td>
+      <td class="monsterDay">Concusschin</td>
+      <td class="monsterDay">Go Ham</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td colspan="13" class="monsterTableVillage">Inn of the Wind</td>
+      <td colspan="9" class="monsterTableVillage">Inn of the Wind</td>
     </tr>
     <tr>
-      <td class="highlightGray"></td>
-      <td>Hipadile</td>
-      <td>Dragon</td>
-      <td>Super Gazer</td>
-      <td>Cursister</td>
-      <td>Lime Zalokleft</td>
       <th>24</th>
       <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
+      <td class="monsterDay">Hipadile</td>
+      <td class="monsterDay">Dragon</td>
+      <td class="monsterDay">Super Gazer</td>
+      <td class="monsterDay">Curse Sister</td>
+      <td class="monsterDay">Lime Zalokleft</td>
       <td rowspan="3" class="monsterTableNmach">3</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="highlightGray"></td>
-      <td>Hipadile</td>
-      <td>Dragon</td>
-      <td>Super Gazer</td>
-      <td>Cursister</td>
-      <td>Lime Zalokleft</td>
       <th>25</th>
       <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
+      <td class="monsterDay">Hipadile</td>
+      <td class="monsterDay">Dragon</td>
+      <td class="monsterDay">Super Gazer</td>
+      <td class="monsterDay">Curse Sister</td>
+      <td class="monsterDay">Lime Zalokleft</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td>Mixer</td>
-      <td>Hipadile</td>
-      <td>Dragon</td>
-      <td>Super Gazer</td>
-      <td>Cursister</td>
-      <td>Lime Zalokleft</td>
       <th>26</th>
+      <td class="monsterDay">Mixer</td>
+      <td class="monsterDay">Hipadile</td>
+      <td class="monsterDay">Dragon</td>
+      <td class="monsterDay">Super Gazer</td>
+      <td class="monsterDay">Curse Sister</td>
+      <td class="monsterDay">Lime Zalokleft</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="monsterTableVillage">Devil's Navel Halfway Point</td>
+    </tr>
+    <tr>
+      <th rowspan="2">27</th>
+      <td class="monsterDay">Mixer</td>
+      <td class="monsterDay">Grime</td>
+      <td class="monsterDay">Kappa Pest</td>
+      <td class="monsterDay">Pumphantom</td>
+      <td class="monsterDay">MC Mage</td>
+      <td class="monsterDay">Lime Zalokleft</td>
+      <td rowspan="8" class="monsterTableNmach">3</td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Ricebadger</td>
+      <td class="monsterNight">Dark Traproid</td>
+      <td class="monsterNight">Evil Sky Dragon</td>
+      <td class="monsterNight">Dark Demon Scorp</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">28</th>
+      <td class="highlightGray"></td>
+      <td class="monsterDay">Grime</td>
+      <td class="monsterDay">Kappa Pest</td>
+      <td class="monsterDay">Pumphantom</td>
+      <td class="monsterDay">MC Mage</td>
+      <td class="monsterDay">Lime Zalokleft</td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Ricebadger</td>
+      <td class="monsterNight">Dark Traproid</td>
+      <td class="monsterNight">Evil Sky Dragon</td>
+      <td class="monsterNight">Dark Demon Scorp</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">29</th>
+      <td class="highlightGray"></td>
+      <td class="monsterDay">Grime</td>
+      <td class="monsterDay">Kappa Pest</td>
+      <td class="monsterDay">Pumphantom</td>
+      <td class="monsterDay">MC Mage</td>
+      <td class="monsterDay">Lime Zalokleft</td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Ricebadger</td>
+      <td class="monsterNight">Dark Traproid</td>
+      <td class="monsterNight">Evil Sky Dragon</td>
+      <td class="monsterNight">Dark Demon Scorp</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">30</th>
+      <td class="highlightGray"></td>
+      <td class="monsterDay">Grime</td>
+      <td class="monsterDay">Kappa Pest</td>
+      <td class="monsterDay">Pumphantom</td>
+      <td class="monsterDay">MC Mage</td>
+      <td class="monsterDay">Lime Zalokleft</td>
+      <td rowspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Ricebadger</td>
+      <td class="monsterNight">Dark Traproid</td>
+      <td class="monsterNight">Evil Sky Dragon</td>
+      <td class="monsterNight">Dark Demon Scorp</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="highlightOrange">Mid Boss</td>
+    </tr>
+    <tr>
+      <th rowspan="2">31</th>
+      <td class="monsterDay">Eligan</td>
+      <td class="monsterDay">Digestiphant</td>
+      <td class="monsterDay">Demon Scorp</td>
+      <td class="monsterDay">Chainhead</td>
+      <td class="monsterDay">Grampa Tank</td>
+      <td class="highlightGray"></td>
+      <td rowspan="12" class="monsterTableNmach">3</td>
+      <td rowspan="12" class="monsterTableVilleater">2</td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Snide Froggucci</td>
+      <td class="monsterNight">Dark Curse Sister</td>
+      <td class="monsterNight">Bad Lime Zalokleft</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td colspan="13" class="monsterTableVillage">Devil's Navel Halfway Point</td>
-    </tr>
-    <tr>
-      <td>Mixer</td>
-      <td>Grime</td>
-      <td>Kappa Pest</td>
-      <td>Pumphantom</td>
-      <td>MC Mage</td>
-      <td>Lime Zalokleft</td>
-      <th>27</th>
-      <td>Dark Ricebadger</td>
-      <td>Dark Traproid</td>
-      <td>Evil Sky Dragon</td>
-      <td>Dark Demon Scorp</td>
-      <td rowspan="4" class="monsterTableNmach">3</td>
+      <th rowspan="2">32</th>
+      <td class="monsterDay">Eligan</td>
+      <td class="monsterDay">Digestiphant</td>
+      <td class="monsterDay">Demon Scorp</td>
+      <td class="monsterDay">Chainhead</td>
+      <td class="monsterDay">Grampa Tank</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
+      <td class="monsterNight">Snide Froggucci</td>
+      <td class="monsterNight">Dark Curse Sister</td>
+      <td class="monsterNight">Bad Lime Zalokleft</td>
       <td class="highlightGray"></td>
-      <td>Grime</td>
-      <td>Kappa Pest</td>
-      <td>Pumphantom</td>
-      <td>MC Mage</td>
-      <td>Lime Zalokleft</td>
-      <th>28</th>
-      <td>Dark Ricebadger</td>
-      <td>Dark Traproid</td>
-      <td>Evil Sky Dragon</td>
-      <td>Dark Demon Scorp</td>
+      <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="highlightGray"></td>
-      <td>Grime</td>
-      <td>Kappa Pest</td>
-      <td>Pumphantom</td>
-      <td>MC Mage</td>
-      <td>Lime Zalokleft</td>
-      <th>29</th>
-      <td>Dark Ricebadger</td>
-      <td>Dark Traproid</td>
-      <td>Evil Sky Dragon</td>
-      <td>Dark Demon Scorp</td>
+      <th rowspan="2">33</th>
+      <td class="monsterDay">Eligan</td>
+      <td class="monsterDay">Digestiphant</td>
+      <td class="monsterDay">Demon Scorp</td>
+      <td class="monsterDay">Chainhead</td>
+      <td class="monsterDay">Grampa Tank</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
+      <td class="monsterNight">Snide Froggucci</td>
+      <td class="monsterNight">Dark Curse Sister</td>
+      <td class="monsterNight">Bad Lime Zalokleft</td>
       <td class="highlightGray"></td>
-      <td>Grime</td>
-      <td>Kappa Pest</td>
-      <td>Pumphantom</td>
-      <td>MC Mage</td>
-      <td>Lime Zalokleft</td>
-      <th>30</th>
-      <td>Dark Ricebadger</td>
-      <td>Dark Traproid</td>
-      <td>Evil Sky Dragon</td>
-      <td>Dark Demon Scorp</td>
+      <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td colspan="13" class="highlightOrange">Mid Boss</td>
-    </tr>
-    <tr>
-      <td class="highlightGray"></td>
-      <td>Eligan</td>
-      <td>Digestiphant</td>
-      <td>Demon Scorp</td>
-      <td>Chainhead</td>
-      <td>Grampa Tank</td>
-      <th>31</th>
-      <td>Snide Froggucci</td>
-      <td>Dark Cursister</td>
-      <td>Bad Lime Zalokleft</td>
-      <td class="highlightGray"></td>
-      <td rowspan="6" class="monsterTableNmach">3</td>
-      <td rowspan="6" class="monsterTableVilleater">2</td>
-    </tr>
-    <tr>
-      <td class="highlightGray"></td>
-      <td>Eligan</td>
-      <td>Digestiphant</td>
-      <td>Demon Scorp</td>
-      <td>Chainhead</td>
-      <td>Grampa Tank</td>
-      <th>32</th>
-      <td>Snide Froggucci</td>
-      <td>Dark Cursister</td>
-      <td>Bad Lime Zalokleft</td>
+      <th rowspan="2">34</th>
+      <td class="monsterDay">Eligan</td>
+      <td class="monsterDay">Digestiphant</td>
+      <td class="monsterDay">Cave Mamel</td>
+      <td class="monsterDay">Tiger Hurler</td>
+      <td class="monsterDay">Porkchop</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
+      <td class="monsterNight">Vile Grime</td>
+      <td class="monsterNight">Dark Beanie</td>
+      <td class="monsterNight">Foul Boss</td>
       <td class="highlightGray"></td>
-      <td>Eligan</td>
-      <td>Digestiphant</td>
-      <td>Demon Scorp</td>
-      <td>Chainhead</td>
-      <td>Grampa Tank</td>
-      <th>33</th>
-      <td>Snide Froggucci</td>
-      <td>Dark Cursister</td>
-      <td>Bad Lime Zalokleft</td>
+      <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="highlightGray"></td>
-      <td>Eligan</td>
-      <td>Digestiphant</td>
-      <td>Cave Mamel</td>
-      <td>Tiger Hurler</td>
-      <td>Porkchop</td>
-      <th>34</th>
-      <td>Vile Grime</td>
-      <td>Dark Beanie</td>
-      <td>Foul Boss</td>
+      <th rowspan="2">35</th>
+      <td class="monsterDay">Eligan</td>
+      <td class="monsterDay">Digestiphant</td>
+      <td class="monsterDay">Cave Mamel</td>
+      <td class="monsterDay">Tiger Hurler</td>
+      <td class="monsterDay">Porkchop</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
+      <td class="monsterNight">Vile Grime</td>
+      <td class="monsterNight">Dark Beanie</td>
+      <td class="monsterNight">Foul Boss</td>
       <td class="highlightGray"></td>
-      <td>Eligan</td>
-      <td>Digestiphant</td>
-      <td>Cave Mamel</td>
-      <td>Tiger Hurler</td>
-      <td>Porkchop</td>
-      <th>35</th>
-      <td>Vile Grime</td>
-      <td>Dark Beanie</td>
-      <td>Foul Boss</td>
+      <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="highlightGray"></td>
-      <td>Eligan</td>
-      <td>Digestiphant</td>
-      <td>Cave Mamel</td>
-      <td>Tiger Hurler</td>
-      <td>Porkchop</td>
-      <th>36</th>
-      <td>Vile Grime</td>
-      <td>Dark Beanie</td>
-      <td>Foul Boss</td>
+      <th rowspan="2">36</th>
+      <td class="monsterDay">Eligan</td>
+      <td class="monsterDay">Digestiphant</td>
+      <td class="monsterDay">Cave Mamel</td>
+      <td class="monsterDay">Tiger Hurler</td>
+      <td class="monsterDay">Porkchop</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td colspan="13" class="highlightOrange">Final Boss</td>
+      <td class="monsterNight">Vile Grime</td>
+      <td class="monsterNight">Dark Beanie</td>
+      <td class="monsterNight">Foul Boss</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="highlightOrange">Final Boss</td>
     </tr>
   </tbody>
 </table>

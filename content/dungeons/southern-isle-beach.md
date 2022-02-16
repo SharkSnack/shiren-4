@@ -4,7 +4,7 @@ metaTitle: "Southern Isle Beach - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Southern Isle Beach / tutorial dungeon guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
-<div class="pageTopImage dungeonPageImage2">
+<div class="dungeonPageTopImage2">
   <img src="../images/dungeons/southern_isle.png"/> <img src="../images/dungeons/southern_isle_2.png"/>
 </div>
 
@@ -21,7 +21,7 @@ Once cleared, you can only return to this dungeon by going on an [Interim Advent
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow">Beach (East)</td>
+    <td class="highlightYellow">Beach (East exit)</td>
   </tr>
 </table>
 
@@ -43,6 +43,12 @@ Once cleared, you can only return to this dungeon by going on an [Interim Advent
     <td>0</td>
     <th>Unidentified</th>
     <td colspan="3">None</td>
+  </tr>
+  <tr>
+    <th>Clear Icon</th>
+    <td>None</td>
+    <th>Reward</th>
+    <td>None</td>
   </tr>
 </table>
 
@@ -75,7 +81,7 @@ Once cleared, you can only return to this dungeon by going on an [Interim Advent
       <td>Mascot monster of the Shiren series.</td>
     </tr>
     <tr>
-      <td>2, 3</td>
+      <td>2-3</td>
       <td>Seedie</td>
       <td>6</td>
       <td>3</td>

@@ -756,7 +756,7 @@ export const baseStyles = css`
     background-color: #fffff6;
   }
   .monsterNight {
-    background-color: #f8fbff;
+    background-color: #edf4ff;
   }
   .monsterTable th {
     text-align: center;
@@ -766,8 +766,9 @@ export const baseStyles = css`
     text-align: center;
     padding-left: 2.5px;
     padding-right: 2.5px;
-    padding-top: 4px;
-    padding-bottom: 4px;
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+    font-size: 13.5px;
   }
   .monsterTableVillage {
     background-color: #e5f7ff;
@@ -929,6 +930,9 @@ export const baseStyles = css`
   }
   .itemDetailsTable img {
     position: relative !important;
+  }
+  .clearIcon {
+    padding: 0px !important;
   }
   .npcTable th {
     font-weight: normal;
@@ -1212,6 +1216,42 @@ export const baseStyles = css`
   .purpleText2 {
     color: #a256bd;
   }
+  .farmingDay {
+    color: #0076df;
+  }
+  .farmingNight {
+    color: #006cdf;
+  }
+  .usefulDay {
+    color: #299b5b;
+  }
+  .usefulNight {
+    color: #059300;
+  }
+  .itemDay {
+    color: #8b3ed9;
+  }
+  .itemNight {
+    color: #70008e;
+  }
+  .strongDay {
+    color: #bf911c;
+  }
+  .strongNight {
+    color: goldenrod;
+  }
+  .dangerDay {
+    color: #f063a9;
+  }
+  .dangerNight {
+    color: #c14d86;
+  }
+  .extremeDay {
+    color: #e32a2a;
+  }
+  .extremeNight {
+    color: #d51818;
+  }
   .centeredText {
     text-align: center;
   }
@@ -1246,7 +1286,7 @@ export const baseStyles = css`
   }
   .dungeonPageImage2 {
     display: flex;
-    width: 670px !important;
+    width: 480px !important;
     height: auto;
   }
   .dungeonPageImage2 img {
@@ -1337,6 +1377,14 @@ export const baseStyles = css`
     display: flex;
   }
   .dungeonPageTopImage img {
+    padding-top: 5px;
+    position: relative !important;
+  }
+  .dungeonPageTopImage2 {
+    display: flex;
+    max-width: 680px;
+  }
+  .dungeonPageTopImage2 img {
     padding-top: 5px;
     position: relative !important;
   }
@@ -1504,6 +1552,8 @@ export const baseStyles = css`
     line-height: 1.5;
     margin-bottom: 8px;
     margin-top: 12px;
+    border-left: 10px solid #def7da;
+    padding-left: 6px;
   }
 
   .heading5 {
@@ -1512,6 +1562,8 @@ export const baseStyles = css`
     line-height: 1.5;
     margin-bottom: 8px;
     margin-top: 12px;
+    border-left: 5px solid #def7da;
+    padding-left: 4px;
   }
 
   .heading6 {

@@ -8,6 +8,106 @@ metaDescription: "Mystery Shopping Mall dungeon guide for Shiren the Wanderer 4:
   <img src="../images/dungeons/mystery_mall.png"/>
 </div>
 
+[Introduction]
+
+<ul class="quickLinksUL">
+  <li><a href="#overview">Overview</a></li>
+  <li><a href="#strategy">Strategy</a></li>
+  <li><a href="#monsters">Monsters</a></li>
+  <li><a href="#items">Items</a></li>
+  <li><a href="#traps">Traps</a></li>
+</ul>
+
+# Overview
+
+<table class="dungeonOverview">
+  <tr>
+    <th>Unlock</th>
+    <td class="highlightYellow">Go to Novice House after clearing the main story.</td>
+  </tr>
+  <tr>
+    <th>Entrance</th>
+    <td class="highlightYellow">Boronga Village (Shady Man in Novice House)</td>
+  </tr>
+</table>
+
+<table class="dungeonTable">
+  <tr>
+    <th>Floors</th>
+    <td>50F</td>
+    <th>Day / Night</th>
+    <td>Day</td>
+  </tr>
+  <tr>
+    <th>Bring Items</th>
+    <td>No</td>
+    <th>Allies</th>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th>Unidentified</th>
+    <td colspan="3">All categories</td>
+  </tr>
+  <tr>
+    <th>Shops</th>
+    <td>Regular, Elite</td>
+    <th>Monster Houses</th>
+    <td>Regular, Special, Sudden</td>
+  </tr>
+  <tr>
+    <th>Initial Enemies</th>
+    <td></td>
+    <th>Spawn Rate</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Ominous aura</th>
+    <td>No</td>
+    <th>Wind of Kron</th>
+    <td>1st:  / 4th: </td>
+  </tr>
+  <tr>
+    <th>Clear Icon</th>
+    <td class="clearIcon"><img src="../images/other/clear_mystery.png"/></td>
+    <th>Clear Bonus</th>
+    <td>30,000,000</td>
+  </tr>
+  <tr>
+    <th>Reward</th>
+    <td colspan="3">Clearance Sword</td>
+  </tr>
+</table>
+
+# Strategy
+
+[Quick Links]
+
+[Content]
+
+# Monsters
+
+Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlightUseful">Useful</span> <span class="highlightItem">Destroys Items</span> <span class="highlightOffense">High Offense</span> <span class="highlightDanger">Dangerous</span> <span class="highlightExtreme">Very Dangerous</span>
+
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th>F</th>
+      <th colspan="6">Day</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+  </tbody>
+</table>
+
 # Items
 
 - F = Floor, Monster (day)
@@ -1562,4 +1662,8 @@ metaDescription: "Mystery Shopping Mall dungeon guide for Shiren the Wanderer 4:
   </tr>
 </table>
 
-※ If you find an item that isn't listed, please feel free to add it to the table.
+※ Item Table is incomplete. If you find a drop that isn't listed, please add it to the table.
+
+# Traps
+
+[Trap Table]
