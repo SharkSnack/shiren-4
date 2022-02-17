@@ -88,6 +88,8 @@ metaDescription: "Cave of Endless Night dungeon guide for Shiren the Wanderer 4:
 
 # Monsters
 
+See [Monsters](/system/monsters) for individual monster details.
+
 Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlightUseful">Useful</span> <span class="highlightOffense">Caution</span> <span class="highlightDanger">Dangerous</span> <span class="highlightExtreme">Very Dangerous</span>
 
 <table class="monsterTable">

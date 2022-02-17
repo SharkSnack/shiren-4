@@ -86,6 +86,8 @@ metaDescription: "Trap Zone dungeon guide for Shiren the Wanderer 4: The Eye of 
 
 # Monsters
 
+See [Monsters](/system/monsters) for individual monster details.
+
 Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlightUseful">Useful</span> <span class="highlightItem">Destroys Items</span> <span class="highlightOffense">High Offense</span> <span class="highlightDanger">Dangerous</span> <span class="highlightExtreme">Very Dangerous</span>
 
 <table class="monsterTable">

@@ -100,7 +100,7 @@ metaDescription: "Complete scroll details for Shiren the Wanderer 4: The Eye of 
       <td rowspan="3">10</td>
       <td rowspan="3">3</td>
       <td>-</td>
-      <td class="leftText">Show it to an elite store Shopkeeper to be granted entry. No effect if read.</td>
+      <td class="leftText">Show it to an elite shop Shopkeeper to be granted entry. No effect if read.</td>
     </tr>
     <tr>
       <td class="highlightYellow">Wet Scroll</td>

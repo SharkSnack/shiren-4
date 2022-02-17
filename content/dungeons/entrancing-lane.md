@@ -52,7 +52,7 @@ metaDescription: "Entrancing Lane dungeon guide for Shiren the Wanderer 4: The E
     <th>Shops</th>
     <td>Regular, Elite,<br/>Pick-A-Choice</td>
     <th>Monster Houses</th>
-    <td></td>
+    <td>Regular</td>
   </tr>
   <tr>
     <th>Initial Enemies</th>
@@ -62,9 +62,9 @@ metaDescription: "Entrancing Lane dungeon guide for Shiren the Wanderer 4: The E
   </tr>
   <tr>
     <th>Day Turns</th>
-    <td>60</td>
+    <td>60 (53)</td>
     <th>Night Turns</th>
-    <td>68</td>
+    <td>68 (60)</td>
   </tr>
   <tr>
     <th>Ominous aura</th>
@@ -93,6 +93,8 @@ metaDescription: "Entrancing Lane dungeon guide for Shiren the Wanderer 4: The E
 [Content]
 
 # Monsters
+
+See [Monsters](/system/monsters) for individual monster details.
 
 - N = N'dubba <span class="monsterTableNdubba">Lv1</span> <span class="monsterTableNtwyn">Lv2</span> <span class="monsterTableNmach">Lv3</span> <span class="monsterTableNdup">Lv4</span>
 - M = Maneater <span class="monsterTableManeater">Lv1</span> <span class="monsterTableVilleater">Lv2</span> <span class="monsterTableMounteater">Lv3</span> <span class="monsterTableIsleater">Lv4</span>

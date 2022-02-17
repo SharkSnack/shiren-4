@@ -4,8 +4,8 @@ metaTitle: "Mystery Mall - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "Mystery Shopping Mall dungeon guide for Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
-<div class="pageTopImage screenshot">
-  <img src="../images/dungeons/mystery_mall.png"/>
+<div class="dungeonPageTopImage2">
+  <img src="../images/dungeons/statue_cave.png"/><img src="../images/dungeons/mystery_mall.png"/>
 </div>
 
 [Introduction]
@@ -52,19 +52,19 @@ metaDescription: "Mystery Shopping Mall dungeon guide for Shiren the Wanderer 4:
     <th>Shops</th>
     <td>Regular, Elite</td>
     <th>Monster Houses</th>
-    <td>Regular, Special, Sudden</td>
+    <td>Regular, Sudden</td>
   </tr>
   <tr>
     <th>Initial Enemies</th>
-    <td></td>
+    <td>6~12</td>
     <th>Spawn Rate</th>
-    <td></td>
+    <td>30</td>
   </tr>
   <tr>
     <th>Ominous aura</th>
     <td>No</td>
     <th>Wind of Kron</th>
-    <td>1st:  / 4th: </td>
+    <td>1st: 900 / 4th: 1200</td>
   </tr>
   <tr>
     <th>Clear Icon</th>
@@ -86,22 +86,617 @@ metaDescription: "Mystery Shopping Mall dungeon guide for Shiren the Wanderer 4:
 
 # Monsters
 
+See [Monsters](/system/monsters) for individual monster details.
+
+Floor Colors: <span class="highlightShop">Shop</span>
+
 Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlightUseful">Useful</span> <span class="highlightItem">Destroys Items</span> <span class="highlightOffense">High Offense</span> <span class="highlightDanger">Dangerous</span> <span class="highlightExtreme">Very Dangerous</span>
 
 <table class="monsterTable">
   <thead>
     <tr>
       <th>F</th>
-      <th colspan="6">Day</th>
+      <th colspan="9">Monsters</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th>1</th>
-      <td></td>
-      <td></td>
-      <td></td>
+      <th class="highlightShop">1</th>
+      <td class="">Mamel</td>
+      <td class="">Seedie</td>
+      <td class="">Chintala</td>
       <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th class="highlightShop">2</th>
+      <td class="">Mamel</td>
+      <td class="">Seedie</td>
+      <td class="">Chintala</td>
+      <td class="">Pit Mamel</td>
+      <td class="">Bored Kappa</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th class="highlightShop">3</th>
+      <td class="">Froggo</td>
+      <td class="">Seedie</td>
+      <td class="">Chintala</td>
+      <td class="">Pit Mamel</td>
+      <td class="">Bored Kappa</td>
+      <td class="">Banana Novice</td>
+      <td class="">Crow Tengu</td>
+      <td class="">Cheer Ham</td>
+      <td class="">DJ Mage</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td class="">Froggo</td>
+      <td class="">Blade Bee</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="">Bored Kappa</td>
+      <td class="">Banana Novice</td>
+      <td class="">Crow Tengu</td>
+      <td class="">Cheer Ham</td>
+      <td class="">Boy Cart</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td class="">Froggo</td>
+      <td class="">Blade Bee</td>
+      <td class="">Ricebear</td>
+      <td class="">Firepuff</td>
+      <td class="highlightGray"></td>
+      <td class="">Banana Novice</td>
+      <td class="">Crow Tengu</td>
+      <td class="">Cheer Ham</td>
+      <td class="">DJ Mage</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td class="">Froggo</td>
+      <td class="">Blade Bee</td>
+      <td class="">Ricebear</td>
+      <td class="highlightGray"></td>
+      <td class="">Ironhead</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="">Cheer Ham</td>
+      <td class="">Boy Cart</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td class="">Froggo</td>
+      <td class="">Gazer</td>
+      <td class="">Ricebear</td>
+      <td class="">Firepuff</td>
+      <td class="">Ironhead</td>
+      <td class="">Tiger Tosser</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="">DJ Mage</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td class="">Absorbiphant</td>
+      <td class="">Gazer</td>
+      <td class="">Ricebear</td>
+      <td class="highlightGray"></td>
+      <td class="">Ironhead</td>
+      <td class="">Tiger Tosser</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td class="">Absorbiphant</td>
+      <td class="">Gazer</td>
+      <td class="">Explochin</td>
+      <td class="">Floaty</td>
+      <td class="">Ironhead</td>
+      <td class="">Tiger Tosser</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th class="highlightShop">10</th>
+      <td class="">Absorbiphant</td>
+      <td class="">Mixer</td>
+      <td class="">Explochin</td>
+      <td class="">Floaty</td>
+      <td class="">Porky</td>
+      <td class="">Tiger Tosser</td>
+      <td class="">Pumphantasm</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td class="">Zapdon</td>
+      <td class="">Mixer</td>
+      <td class="">Explochin</td>
+      <td class="">Floaty</td>
+      <td class="">Porky</td>
+      <td class="highlightGray"></td>
+      <td class="">Pumphantasm</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td class="">Zapdon</td>
+      <td class="">Mixer</td>
+      <td class="">Spin Polygon</td>
+      <td class="">Floaty</td>
+      <td class="">Porky</td>
+      <td class="highlightGray"></td>
+      <td class="">Pumphantasm</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td class="">Zapdon</td>
+      <td class="">Gyadon</td>
+      <td class="">Spin Polygon</td>
+      <td class="">Strong Cart</td>
+      <td class="">Porky</td>
+      <td class="highlightGray"></td>
+      <td class="">Pumphantasm</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td class="">Squid Lord</td>
+      <td class="">Gyadon</td>
+      <td class="">Spin Polygon</td>
+      <td class="">Mutaikon</td>
+      <td class="">Flamepuff</td>
+      <td class="highlightGray"></td>
+      <td class="">Pumphantasm</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td class="">Squid Lord</td>
+      <td class="">Gyadon</td>
+      <td class="">Dagger Bee</td>
+      <td class="">Strong Cart</td>
+      <td class="">Flamepuff</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td class="">Squid Lord</td>
+      <td class="highlightGray"></td>
+      <td class="">Dagger Bee</td>
+      <td class="">Mutaikon</td>
+      <td class="">Flamepuff</td>
+      <td class="">Beanie</td>
+      <td class="">Digestiphant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td class="">Squid Lord</td>
+      <td class="">Zalokleft</td>
+      <td class="">Dagger Bee</td>
+      <td class="">Glare Bird</td>
+      <td class="highlightGray"></td>
+      <td class="">Beanie</td>
+      <td class="">Digestiphant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td class="">Kengo</td>
+      <td class="">Zalokleft</td>
+      <td class="">Dagger Bee</td>
+      <td class="">Glare Bird</td>
+      <td class="">Big Chintala</td>
+      <td class="">Beanie</td>
+      <td class="">Digestiphant</td>
+      <td class="">Go Ham</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td class="">Kengo</td>
+      <td class="">Zalokleft</td>
+      <td class="">Demon Scorp</td>
+      <td class="">Glare Bird</td>
+      <td class="">Big Chintala</td>
+      <td class="">Beanie</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th class="highlightShop">20</th>
+      <td class="">Kengo</td>
+      <td class="">Mixermon</td>
+      <td class="">Demon Scorp</td>
+      <td class="highlightGray"></td>
+      <td class="">Big Chintala</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="">Go Ham</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td class="">Kengo</td>
+      <td class="">Mixermon</td>
+      <td class="">Demon Scorp</td>
+      <td class="">Super Gazer</td>
+      <td class="">Big Chintala</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td class="">Hipadile</td>
+      <td class="">Mixermon</td>
+      <td class="">Curse Sister</td>
+      <td class="">Super Gazer</td>
+      <td class="">Big Chintala</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="">Go Ham</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td class="">Hipadile</td>
+      <td class="">Kappa Pest</td>
+      <td class="">Curse Sister</td>
+      <td class="">Super Gazer</td>
+      <td class="">Big Chintala</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td class="">Hipadile</td>
+      <td class="">Kappa Pest</td>
+      <td class="">Curse Sister</td>
+      <td class="">Concusschin</td>
+      <td class="">Eligan</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td class="">Hipadile</td>
+      <td class="">Kappa Pest</td>
+      <td class="">MC Mage</td>
+      <td class="">Concusschin</td>
+      <td class="">Eligan</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td class="">Dragon</td>
+      <td class="">Kappa Pest</td>
+      <td class="">Grime</td>
+      <td class="">Concusschin</td>
+      <td class="">Eligan</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td class="">Dragon</td>
+      <td class="">Kappa Pest</td>
+      <td class="">MC Mage</td>
+      <td class="">Scarabbit</td>
+      <td class="">Eligan</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>28</th>
+      <td class="">Dragon</td>
+      <td class="">Kappa Pest</td>
+      <td class="">Grime</td>
+      <td class="">Scarabbit</td>
+      <td class="">Eligan</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>29</th>
+      <td class="">Dragon</td>
+      <td class="">Chainhead</td>
+      <td class="">MC Mage</td>
+      <td class="">Scarabbit</td>
+      <td class="">Eligan</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th class="highlightShop">30</th>
+      <td class="">Grampa Tank</td>
+      <td class="">Chainhead</td>
+      <td class="">Grime</td>
+      <td class="">Dazikon</td>
+      <td class="">Dance Polygon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>31</th>
+      <td class="">Grampa Tank</td>
+      <td class="">Chainhead</td>
+      <td class="">Spongiderm</td>
+      <td class="">Dazikon</td>
+      <td class="">Dance Polygon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>32</th>
+      <td class="">Grampa Tank</td>
+      <td class="">Chainhead</td>
+      <td class="">Spongiderm</td>
+      <td class="">Dazikon</td>
+      <td class="">Dance Polygon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>33</th>
+      <td class="">Voltdon</td>
+      <td class="">Chainhead</td>
+      <td class="">Spongiderm</td>
+      <td class="">Dazikon</td>
+      <td class="">Tiger Hurler</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>34</th>
+      <td class="">Voltdon</td>
+      <td class="">Chainhead</td>
+      <td class="">Pumphantom</td>
+      <td class="">Banana Morph</td>
+      <td class="">Tiger Hurler</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>35</th>
+      <td class="">Voltdon</td>
+      <td class="">Steamroid</td>
+      <td class="">Pumphantom</td>
+      <td class="">Banana Morph</td>
+      <td class="">Tiger Hurler</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>36</th>
+      <td class="">Ricebadger</td>
+      <td class="">Steamroid</td>
+      <td class="">Pumphantom</td>
+      <td class="">Banana Morph</td>
+      <td class="">Gyairas</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>37</th>
+      <td class="">Ricebadger</td>
+      <td class="">Steamroid</td>
+      <td class="">Pumphantom</td>
+      <td class="">Squid Emperor</td>
+      <td class="">Gyairas</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>38</th>
+      <td class="">Ricebadger</td>
+      <td class="">Steamroid</td>
+      <td class="">Pumphantom</td>
+      <td class="">Squid Emperor</td>
+      <td class="">Gyairas</td>
+      <td class="">Rally Ham</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>39</th>
+      <td class="">Ricebadger</td>
+      <td class="">Steamroid</td>
+      <td class="">Pumphantom</td>
+      <td class="">Squid Emperor</td>
+      <td class="">Gyairas</td>
+      <td class="">Rally Ham</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th class="highlightShop">40</th>
+      <td class="">Ricebadger</td>
+      <td class="">Steamroid</td>
+      <td class="">Nuttie</td>
+      <td class="">Jouncy</td>
+      <td class="">Gyairas</td>
+      <td class="">Rally Ham</td>
+      <td class="">Eagle Tengu</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>41</th>
+      <td class="">Iai</td>
+      <td class="">Ooze</td>
+      <td class="">Nuttie</td>
+      <td class="">Jouncy</td>
+      <td class="">Gyairas</td>
+      <td class="highlightGray"></td>
+      <td class="">Eagle Tengu</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>42</th>
+      <td class="">Iai</td>
+      <td class="">Ooze</td>
+      <td class="">Nuttie</td>
+      <td class="">Jouncy</td>
+      <td class="">Fulminachin</td>
+      <td class="highlightGray"></td>
+      <td class="">Eagle Tengu</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>43</th>
+      <td class="">Iai</td>
+      <td class="">Ooze</td>
+      <td class="">Nuttie</td>
+      <td class="">Jouncy</td>
+      <td class="">Fulminachin</td>
+      <td class="highlightGray"></td>
+      <td class="">Eagle Tengu</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>44</th>
+      <td class="">Sky Dragon</td>
+      <td class="highlightGray"></td>
+      <td class="">Nuttie</td>
+      <td class="">Jouncy</td>
+      <td class="">Fulminachin</td>
+      <td class="highlightGray"></td>
+      <td class="">Eagle Tengu</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>45</th>
+      <td class="">Sky Dragon</td>
+      <td class="">Horrabbit</td>
+      <td class="">Hipadile</td>
+      <td class="">Lt. Yanpii</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>46</th>
+      <td class="">Sky Dragon</td>
+      <td class="">Horrabbit</td>
+      <td class="">Hipadile</td>
+      <td class="">Lt. Yanpii</td>
+      <td class="">Curse Mom</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>47</th>
+      <td class="">Eligagon</td>
+      <td class="">Horrabbit</td>
+      <td class="">Hipadile</td>
+      <td class="">Lt. Yanpii</td>
+      <td class="">Curse Mom</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>48</th>
+      <td class="">Eligagon</td>
+      <td class="">Horrabbit</td>
+      <td class="">Hell Gyaza</td>
+      <td class="">Ornery Tank</td>
+      <td class="">Curse Mom</td>
+      <td class="">Hyper Gazer</td>
+      <td class="">Tiger Ace</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>49</th>
+      <td class="">Eligagon</td>
+      <td class="">Horrabbit</td>
+      <td class="">Hell Gyaza</td>
+      <td class="">Ornery Tank</td>
+      <td class="highlightGray"></td>
+      <td class="">Hyper Gazer</td>
+      <td class="">Tiger Ace</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>50</th>
+      <td class="">Eligagon</td>
+      <td class="">Horrabbit</td>
+      <td class="">Hell Gyaza</td>
+      <td class="">Ornery Tank</td>
+      <td class="highlightGray"></td>
+      <td class="">Hyper Gazer</td>
+      <td class="">Tiger Ace</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -111,7 +706,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
 # Items
 
 - F = Floor, Monster (day)
-- S = Shop, Monster (night), Maneater, Shiny Object (yellow), Peddler
+- S = Shop, Shiny Object (yellow)
 - P = Presto Pot
 - Z = Zalokleft
 - E = Elite Shop, Shiny Object (blue)
@@ -189,19 +784,19 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Katana</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Calm Bracelet</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Identify Scroll</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -209,7 +804,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Beast Fang</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -221,7 +816,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Heaven Scroll</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -235,7 +830,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Alert Bracelet</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -255,7 +850,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Cleansing Bracelet</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -281,7 +876,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Confusion Scroll</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -295,7 +890,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Strength Bracelet</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -321,7 +916,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Air Slash Scroll</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -352,7 +947,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Wall Clip Bracelet</td>
     <td></td>
     <td></td>
@@ -361,9 +956,9 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Fear Scroll</td>
     <td></td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -381,7 +976,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Trap Erase Scroll</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -409,7 +1004,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Bright Blade</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -421,7 +1016,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Pot God Scroll</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -441,7 +1036,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Medicine Scroll</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -492,7 +1087,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Trap Bracelet</td>
     <td></td>
     <td></td>
@@ -504,7 +1099,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Baffle Axe</td>
@@ -521,7 +1116,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Banana Scroll</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -598,7 +1193,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Mon House Scroll</td>
     <td></td>
     <td></td>
@@ -618,7 +1213,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Trap Scroll</td>
     <td></td>
     <td></td>
@@ -644,7 +1239,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Sky Splitter</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -679,7 +1274,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Drain Slicer</td>
@@ -690,7 +1285,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Herb</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -710,7 +1305,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Otogiriso</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -725,13 +1320,13 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <th colspan="6" class="highlightGreen">Shield</th>
     <td class="leftText">Heal Grass</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Dispel Aura Scroll</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -745,7 +1340,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <th>E</th>
     <td class="leftText">Life Grass</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -791,7 +1386,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Invitation</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -799,7 +1394,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Iron Targe</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -834,7 +1429,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Beast Shield</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -866,7 +1461,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Storage Pot</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -880,13 +1475,13 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Antidote Grass</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Synthesis Pot</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -900,13 +1495,13 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Strength Grass</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Identify Pot</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -940,7 +1535,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Swift Grass</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -994,7 +1589,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Spry Shield</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1006,7 +1601,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Blessing Pot</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1034,13 +1629,13 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Blast Shield</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Warp Grass</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1060,9 +1655,9 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Sight Grass</td>
     <td></td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Sale Pot</td>
     <td></td>
@@ -1074,19 +1669,19 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Steady Shield</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Dragon Grass</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Presto Pot</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1106,7 +1701,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Hide Pot</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1126,7 +1721,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Sticky Pot</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1143,10 +1738,10 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">4-2-8 Pot</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1166,7 +1761,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Sturdy Pot</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1186,7 +1781,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Ordinary Pot</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1200,13 +1795,13 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Blind Grass</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Heal Pot</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1241,7 +1836,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <th colspan="6" class="highlightGreen">Staff</th>
     <td class="leftText">Monster Pot</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1270,7 +1865,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <th>E</th>
     <td class="leftText">Empathy Staff</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1296,7 +1891,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Chocolate Pot</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1310,7 +1905,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Paralysis Staff</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1330,7 +1925,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Swap Staff</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1345,7 +1940,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Knockback Staff</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1411,7 +2006,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Dizzy Talisman</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1445,13 +2040,13 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Pinning Staff</td>
     <td></td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Fear Talisman</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1459,13 +2054,13 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Rock</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Swift Staff</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1485,7 +2080,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Slow Staff</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1595,7 +2190,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Lightning Staff</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1608,7 +2203,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   </tr>
   <tr>
     <td class="leftText">Gitan</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1621,7 +2216,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Green Banana</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1631,7 +2226,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td rowspan="4" colspan="6" class="highlightGray"></td>
     <td class="leftText">Yellow Banana</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1639,7 +2234,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Ripe Banana</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>

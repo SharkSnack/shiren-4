@@ -94,6 +94,8 @@ metaDescription: "Banana Kingdom dungeon guide for Shiren the Wanderer 4: The Ey
 
 # Monsters
 
+See [Monsters](/system/monsters) for individual monster details.
+
 Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Night</span>
 
 <table class="monsterTable">

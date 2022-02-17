@@ -1146,22 +1146,37 @@ export const baseStyles = css`
     background-color: #ebf8ff !important;
   }
   .highlightFarming {
-    background-color: #c3ecff !important
+    background-color: #c3ecff !important;
   }
   .highlightUseful {
-    background-color: #aeffda !important
+    background-color: #aeffda !important;
   }
   .highlightItem {
-    background-color: #ddc4ec !important
+    background-color: #ddc4ec !important;
   }
   .highlightOffense {
-    background-color: #fff09f !important
+    background-color: #fff09f !important;
   }
   .highlightDanger {
-    background-color: #ffd0f4 !important
+    background-color: #ffd0f4 !important;
   }
   .highlightExtreme {
-    background-color: #ffb1b1 !important
+    background-color: #ffb1b1 !important;
+  }
+  .highlightWater {
+    background-color: #3366ff !important;
+    color: white;
+  }
+  .highlightLava {
+    background-color: #e33f3f !important;
+    color: white;
+  }
+  .highlightNoWalls {
+    background-color: lightsteelblue !important;
+    color: white;
+  }
+  .highlightShop {
+    background-color: #fffac5 !important;
   }
   .itemPageImage {
     background-color: #555;

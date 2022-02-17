@@ -112,23 +112,21 @@ There are a total of 36 topics.
   <tr>
     <td>The power of money</td>
     <td>Zalokleft, I choose you!</td>
-    <td>Another light source*</td>
+    <td>Another light source※</td>
   </tr>
   <tr>
     <td>Tips for fleeing</td>
     <td>1 stone, how many birds?</td>
-    <td>Can't read in the dark*</td>
+    <td>Can't read in the dark※</td>
   </tr>
   <tr>
     <td>Don't stand in front of it</td>
     <td>If it fills your stomach...</td>
-    <td>When night turns to day*</td>
+    <td>When night turns to day※</td>
   </tr>
 </table>
 
-<div class="tableNotes">
-  <p>* Available after clearing Shrine of Night Adventures.</p>
-</div>
+※ Available after clearing Shrine of Night Adventures.
 
 # Possible Rewards
 

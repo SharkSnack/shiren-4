@@ -56,21 +56,21 @@ metaDescription: "Grass and Scroll Cave dungeon guide for Shiren the Wanderer 4:
   </tr>
   <tr>
     <th>Initial Enemies</th>
-    <td></td>
+    <td>7~10</td>
     <th>Spawn Rate</th>
-    <td></td>
+    <td>30 day / 20 night</td>
   </tr>
   <tr>
     <th>Day Turns</th>
-    <td> ()</td>
+    <td>968 (852)</td>
     <th>Night Turns</th>
-    <td> ()</td>
+    <td>587 (517)</td>
   </tr>
   <tr>
     <th>Ominous aura</th>
     <td>No</td>
     <th>Wind of Kron</th>
-    <td>1st: / 4th: </td>
+    <td>1st: 1200 / 4th: 1500</td>
   </tr>
   <tr>
     <th>Clear Icon</th>
@@ -94,33 +94,1501 @@ metaDescription: "Grass and Scroll Cave dungeon guide for Shiren the Wanderer 4:
 
 # Monsters
 
-- M = Maneater <span class="monsterTableManeater">Lv1</span> <span class="monsterTableVilleater">Lv2</span> <span class="monsterTableMounteater">Lv3</span> <span class="monsterTableIsleater">Lv4</span>
+See [Monsters](/system/monsters) for individual monster details.
 
-Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Night</span>
+Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Night</span> <span class="farmingDay">Farming</span> <span class="usefulDay">Useful</span> <span class="itemDay">Destroys Items</span> <span class="dangerDay">Dangerous</span> <span class="extremeDay">Very Dangerous</span>
 
 <table class="monsterTable">
   <thead>
     <tr>
       <th>F</th>
-      <th colspan="6">Monsters</th>
+      <th colspan="5">Monsters</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th rowspan="2">1</th>
-      <td class="monsterDay"></td>
-      <td class="monsterDay"></td>
-      <td class="monsterDay"></td>
+      <td class="monsterDay">Mamel</td>
+      <td class="highlightGray"></td>
+      <td class="monsterDay">Seedie</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Banana Novice</td>
+      <td class="monsterNight">Dark Seedie</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight"></td>
-      <td class="monsterNight"></td>
-      <td class="monsterNight"></td>
+      <th rowspan="2">2</th>
+      <td class="monsterDay">Mamel</td>
+      <td class="monsterDay">Chintala</td>
+      <td class="monsterDay">Seedie</td>
+      <td class="highlightGray"></td>
+      <td class="monsterDay">Pit Mamel</td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Foul Novice</td>
+      <td class="monsterNight">Dark Seedie</td>
+      <td class="monsterNight">Dark Blade Bee</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">3</th>
+      <td class="monsterDay">Hopodile</td>
+      <td class="monsterDay">Chintala</td>
+      <td class="monsterDay">Seedie</td>
+      <td class="highlightGray"></td>
+      <td class="monsterDay">Pit Mamel</td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Foul Novice</td>
+      <td class="monsterNight">Dark Seedie</td>
+      <td class="monsterNight">Dark Blade Bee</td>
+      <td class="monsterNight">Dark Mamel</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">4</th>
+      <td class="monsterDay">Hopodile</td>
+      <td class="monsterDay">Chintala</td>
+      <td class="monsterDay">Squid King</td>
+      <td class="monsterDay">Banana Novice</td>
+      <td class="monsterDay">Pit Mamel</td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Mutaikon</td>
+      <td class="monsterNight">Dark Seedie</td>
+      <td class="monsterNight">Dark Blade Bee</td>
+      <td class="monsterNight">Dark Mamel</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">5</th>
+      <td class="monsterDay">Hopodile</td>
+      <td class="monsterDay">Chintala</td>
+      <td class="monsterDay">Squid King</td>
+      <td class="monsterDay">Banana Novice</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Mutaikon</td>
+      <td class="monsterNight">Evil Chintala</td>
+      <td class="monsterNight">Dark Blade Bee</td>
+      <td class="monsterNight">Dark Mamel</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">6</th>
+      <td class="monsterDay">Hopodile</td>
+      <td class="monsterDay">Firepuff</td>
+      <td class="monsterDay">Squid King</td>
+      <td class="monsterDay">Banana Novice</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Mutaikon</td>
+      <td class="monsterNight">Evil Chintala</td>
+      <td class="monsterNight">Dark Squid King</td>
+      <td class="monsterNight">Dark Mamel</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">7</th>
+      <td class="monsterDay">Blade Bee</td>
+      <td class="monsterDay">Firepuff</td>
+      <td class="monsterDay">Squid King</td>
+      <td class="monsterDay">Banana Novice</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Mutaikon</td>
+      <td class="monsterNight">Evil Chintala</td>
+      <td class="monsterNight">Dark Squid King</td>
+      <td class="monsterNight">Evil Hopodile</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">8</th>
+      <td class="monsterDay">Blade Bee</td>
+      <td class="monsterDay">Firepuff</td>
+      <td class="itemDay monsterDay">Curse Girl</td>
+      <td class="monsterDay">Ricebear</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Gazer</td>
+      <td class="monsterNight">Evil Chintala</td>
+      <td class="monsterNight">Dark Squid King</td>
+      <td class="monsterNight">Evil Hopodile</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">9</th>
+      <td class="monsterDay">Blade Bee</td>
+      <td class="monsterDay">Firepuff</td>
+      <td class="itemDay monsterDay">Curse Girl</td>
+      <td class="monsterDay">Ricebear</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Gazer</td>
+      <td class="monsterNight">Dark Boy Cart</td>
+      <td class="monsterNight">Dark Squid King</td>
+      <td class="monsterNight">Evil Hopodile</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">10</th>
+      <td class="monsterDay">Blade Bee</td>
+      <td class="monsterDay">Cheer Ham</td>
+      <td class="itemDay monsterDay">Curse Girl</td>
+      <td class="monsterDay">Ricebear</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Gazer</td>
+      <td class="monsterNight">Dark Boy Cart</td>
+      <td class="dangerNight monsterNight">Dark Absorbiphant</td>
+      <td class="monsterNight">Evil Hopodile</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">11</th>
+      <td class="monsterDay">Scorpion</td>
+      <td class="monsterDay">Cheer Ham</td>
+      <td class="itemDay monsterDay">Curse Girl</td>
+      <td class="monsterDay">Ricebear</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Gazer</td>
+      <td class="monsterNight">Dark Boy Cart</td>
+      <td class="dangerNight monsterNight">Dark Absorbiphant</td>
+      <td class="monsterNight">Dark Eligan</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">12</th>
+      <td class="monsterDay">Scorpion</td>
+      <td class="monsterDay">Cheer Ham</td>
+      <td class="monsterDay">Tiger Tosser</td>
+      <td class="monsterDay">Yanpii</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Pit Mamel</td>
+      <td class="monsterNight">Dark Boy Cart</td>
+      <td class="dangerNight monsterNight">Dark Absorbiphant</td>
+      <td class="monsterNight">Dark Eligan</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">13</th>
+      <td class="monsterDay">Scorpion</td>
+      <td class="monsterDay">Cheer Ham</td>
+      <td class="monsterDay">Tiger Tosser</td>
+      <td class="monsterDay">Yanpii</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Pit Mamel</td>
+      <td class="monsterNight">Dark Zapdon</td>
+      <td class="dangerNight monsterNight">Dark Absorbiphant</td>
+      <td class="monsterNight">Dark Eligan</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">14</th>
+      <td class="monsterDay">Scorpion</td>
+      <td class="monsterDay">Mutaikon</td>
+      <td class="monsterDay">Tiger Tosser</td>
+      <td class="monsterDay">Yanpii</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Pit Mamel</td>
+      <td class="monsterNight">Dark Zapdon</td>
+      <td class="monsterNight">Dark Sr. Yanpii</td>
+      <td class="monsterNight">Dark Eligan</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">15</th>
+      <td class="extremeDay monsterDay">Pumphantasm</td>
+      <td class="monsterDay">Mutaikon</td>
+      <td class="monsterDay">Tiger Tosser</td>
+      <td class="monsterDay">Yanpii</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Pit Mamel</td>
+      <td class="monsterNight">Dark Zapdon</td>
+      <td class="monsterNight">Dark Sr. Yanpii</td>
+      <td class="monsterNight">Dark DJ Mage</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">16</th>
+      <td class="extremeDay monsterDay">Pumphantasm</td>
+      <td class="monsterDay">Mutaikon</td>
+      <td class="monsterDay">Gyadon</td>
+      <td class="dangerDay monsterDay">Spin Polygon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Gyaza</td>
+      <td class="monsterNight">Dark Zapdon</td>
+      <td class="monsterNight">Dark Sr. Yanpii</td>
+      <td class="monsterNight">Dark DJ Mage</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">17</th>
+      <td class="extremeDay monsterDay">Pumphantasm</td>
+      <td class="monsterDay">Mutaikon</td>
+      <td class="monsterDay">Gyadon</td>
+      <td class="dangerDay monsterDay">Spin Polygon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Gyaza</td>
+      <td class="monsterNight">Dark Curse Girl</td>
+      <td class="monsterNight">Dark Sr. Yanpii</td>
+      <td class="monsterNight">Dark DJ Mage</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">18</th>
+      <td class="extremeDay monsterDay">Pumphantasm</td>
+      <td class="monsterDay">Dagger Bee</td>
+      <td class="monsterDay">Gyadon</td>
+      <td class="dangerDay monsterDay">Spin Polygon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Gyaza</td>
+      <td class="monsterNight">Dark Curse Girl</td>
+      <td class="monsterNight">Dark Pop Tank</td>
+      <td class="monsterNight">Dark DJ Mage</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">19</th>
+      <td class="monsterDay">Kengo</td>
+      <td class="monsterDay">Dagger Bee</td>
+      <td class="monsterDay">Gyadon</td>
+      <td class="dangerDay monsterDay">Spin Polygon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Gyaza</td>
+      <td class="monsterNight">Dark Curse Girl</td>
+      <td class="monsterNight">Dark Pop Tank</td>
+      <td class="monsterNight">Vile Pumphantasm</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">20</th>
+      <td class="monsterDay">Kengo</td>
+      <td class="monsterDay">Dagger Bee</td>
+      <td class="monsterDay">Flamepuff</td>
+      <td class="monsterDay">Squid Lord</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Traproid</td>
+      <td class="monsterNight">Dark Curse Girl</td>
+      <td class="monsterNight">Dark Pop Tank</td>
+      <td class="monsterNight">Vile Pumphantasm</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">21</th>
+      <td class="monsterDay">Kengo</td>
+      <td class="monsterDay">Dagger Bee</td>
+      <td class="monsterDay">Flamepuff</td>
+      <td class="monsterDay">Squid Lord</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Traproid</td>
+      <td class="usefulNight monsterNight">Dark Mixer</td>
+      <td class="monsterNight">Dark Pop Tank</td>
+      <td class="monsterNight">Vile Pumphantasm</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">22</th>
+      <td class="monsterDay">Kengo</td>
+      <td class="monsterDay">Go Ham</td>
+      <td class="monsterDay">Flamepuff</td>
+      <td class="monsterDay">Squid Lord</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Traproid</td>
+      <td class="usefulNight monsterNight">Dark Mixer</td>
+      <td class="farmingNight monsterNight">Bad Lime Zalokleft</td>
+      <td class="monsterNight">Vile Pumphantasm</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">23</th>
+      <td class="monsterDay">Mid Chintala</td>
+      <td class="monsterDay">Go Ham</td>
+      <td class="monsterDay">Flamepuff</td>
+      <td class="monsterDay">Squid Lord</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Traproid</td>
+      <td class="usefulNight monsterNight">Dark Mixer</td>
+      <td class="farmingNight monsterNight">Bad Lime Zalokleft</td>
+      <td class="monsterNight">Evil Dance Polygon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">24</th>
+      <td class="monsterDay">Mid Chintala</td>
+      <td class="monsterDay">Go Ham</td>
+      <td class="monsterDay">Hipadile</td>
+      <td class="monsterDay">Zalokleft</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Super Gazer</td>
+      <td class="usefulNight monsterNight">Dark Mixer</td>
+      <td class="farmingNight monsterNight">Bad Lime Zalokleft</td>
+      <td class="monsterNight">Evil Dance Polygon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">25</th>
+      <td class="monsterDay">Mid Chintala</td>
+      <td class="monsterDay">Go Ham</td>
+      <td class="monsterDay">Hipadile</td>
+      <td class="monsterDay">Zalokleft</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Super Gazer</td>
+      <td class="usefulNight monsterNight">Dark Mixer</td>
+      <td class="farmingNight monsterNight">Bad Lime Zalokleft</td>
+      <td class="monsterNight">Evil Dance Polygon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">26</th>
+      <td class="monsterDay">Mid Chintala</td>
+      <td class="itemDay monsterDay">Curse Sister</td>
+      <td class="monsterDay">Hipadile</td>
+      <td class="monsterDay">Zalokleft</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Super Gazer</td>
+      <td class="monsterNight">Evil Hipadile</td>
+      <td class="farmingNight monsterNight">Bad Lime Zalokleft</td>
+      <td class="monsterNight">Evil Dance Polygon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">27</th>
+      <td class="usefulDay monsterDay">Concusschin</td>
+      <td class="itemDay monsterDay">Curse Sister</td>
+      <td class="monsterDay">Hipadile</td>
+      <td class="monsterDay">Zalokleft</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Super Gazer</td>
+      <td class="monsterNight">Evil Hipadile</td>
+      <td class="monsterNight">Dark Squid Lord</td>
+      <td class="monsterNight">Evil Dance Polygon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">28</th>
+      <td class="usefulDay monsterDay">Concusschin</td>
+      <td class="itemDay monsterDay">Curse Sister</td>
+      <td class="dangerDay monsterDay">Super Gazer</td>
+      <td class="monsterDay">Eligan</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Super Gazer</td>
+      <td class="monsterNight">Evil Hipadile</td>
+      <td class="monsterNight">Dark Squid Lord</td>
+      <td class="monsterNight">Dark Hurler</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">29</th>
+      <td class="usefulDay monsterDay">Concusschin</td>
+      <td class="itemDay monsterDay">Curse Sister</td>
+      <td class="dangerDay monsterDay">Super Gazer</td>
+      <td class="monsterDay">Eligan</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Ricebadger</td>
+      <td class="monsterNight">Evil Hipadile</td>
+      <td class="monsterNight">Dark Squid Lord</td>
+      <td class="monsterNight">Dark Hurler</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">30</th>
+      <td class="usefulDay monsterDay">Concusschin</td>
+      <td class="extremeDay monsterDay">Pumphantom</td>
+      <td class="dangerDay monsterDay">Super Gazer</td>
+      <td class="monsterDay">Eligan</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Ricebadger</td>
+      <td class="monsterNight">Evil Hipadile</td>
+      <td class="monsterNight">Dark Squid Lord</td>
+      <td class="monsterNight">Dark Hurler</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">31</th>
+      <td class="monsterDay">Banana Morph</td>
+      <td class="extremeDay monsterDay">Pumphantom</td>
+      <td class="dangerDay monsterDay">Super Gazer</td>
+      <td class="monsterDay">Eligan</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Ricebadger</td>
+      <td class="monsterNight">Dark Beanie</td>
+      <td class="monsterNight">Dark Squid Lord</td>
+      <td class="monsterNight">Dark Hurler</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">32</th>
+      <td class="monsterDay">Banana Morph</td>
+      <td class="extremeDay monsterDay">Pumphantom</td>
+      <td class="monsterDay">Chainhead</td>
+      <td class="monsterDay">Glare Bird</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Ricebadger</td>
+      <td class="monsterNight">Dark Beanie</td>
+      <td class="monsterNight">Dark Eligagan</td>
+      <td class="monsterNight">Dark Hurler</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">33</th>
+      <td class="monsterDay">Banana Morph</td>
+      <td class="extremeDay monsterDay">Pumphantom</td>
+      <td class="monsterDay">Chainhead</td>
+      <td class="monsterDay">Glare Bird</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Ricebadger</td>
+      <td class="monsterNight">Dark Beanie</td>
+      <td class="monsterNight">Dark Eligagan</td>
+      <td class="dangerNight monsterNight">Dark Grampa Tank</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">34</th>
+      <td class="monsterDay">Banana Morph</td>
+      <td class="extremeDay monsterDay">Pumphantom</td>
+      <td class="monsterDay">Chainhead</td>
+      <td class="monsterDay">Glare Bird</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Dagger Bee</td>
+      <td class="monsterNight">Dark Beanie</td>
+      <td class="monsterNight">Dark Eligagan</td>
+      <td class="dangerNight monsterNight">Dark Grampa Tank</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">35</th>
+      <td class="monsterDay">Banana Morph</td>
+      <td class="monsterDay">Voltdon</td>
+      <td class="monsterDay">Chainhead</td>
+      <td class="monsterDay">Glare Bird</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Dagger Bee</td>
+      <td class="monsterNight">Dark Beanie</td>
+      <td class="monsterNight">Dark Eligagan</td>
+      <td class="dangerNight monsterNight">Dark Grampa Tank</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">36</th>
+      <td class="monsterDay">Dance Polygon</td>
+      <td class="monsterDay">Voltdon</td>
+      <td class="monsterDay">Chainhead</td>
+      <td class="monsterDay">Glare Bird</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Dagger Bee</td>
+      <td class="monsterNight">Evil Flamepuff</td>
+      <td class="monsterNight">Dark Eligagan</td>
+      <td class="dangerNight monsterNight">Dark Grampa Tank</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">37</th>
+      <td class="monsterDay">Dance Polygon</td>
+      <td class="monsterDay">Voltdon</td>
+      <td class="monsterDay">Cave Mamel</td>
+      <td class="monsterDay">Tiger Hurler</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Dagger Bee</td>
+      <td class="monsterNight">Evil Flamepuff</td>
+      <td class="dangerNight monsterNight">Dark Digestiphant</td>
+      <td class="dangerNight monsterNight">Dark Grampa Tank</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">38</th>
+      <td class="monsterDay">Dance Polygon</td>
+      <td class="monsterDay">Voltdon</td>
+      <td class="monsterDay">Cave Mamel</td>
+      <td class="monsterDay">Tiger Hurler</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Dagger Bee</td>
+      <td class="monsterNight">Evil Flamepuff</td>
+      <td class="dangerNight monsterNight">Dark Digestiphant</td>
+      <td class="monsterNight">Dark Sr. Yanpii</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">39</th>
+      <td class="monsterDay">Dance Polygon</td>
+      <td class="monsterDay">Voltdon</td>
+      <td class="monsterDay">Cave Mamel</td>
+      <td class="monsterDay">Tiger Hurler</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="dangerNight monsterNight">Dark MC Mage</td>
+      <td class="monsterNight">Evil Flamepuff</td>
+      <td class="dangerNight monsterNight">Dark Digestiphant</td>
+      <td class="monsterNight">Dark Sr. Yanpii</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">40</th>
+      <td class="monsterDay">Dance Polygon</td>
+      <td class="monsterDay">Blazepuff</td>
+      <td class="monsterDay">Cave Mamel</td>
+      <td class="monsterDay">Tiger Hurler</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="dangerNight monsterNight">Dark MC Mage</td>
+      <td class="monsterNight">Evil Flamepuff</td>
+      <td class="dangerNight monsterNight">Dark Digestiphant</td>
+      <td class="monsterNight">Dark Sr. Yanpii</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">41</th>
+      <td class="itemDay monsterDay">Gyairas</td>
+      <td class="monsterDay">Blazepuff</td>
+      <td class="monsterDay">Cave Mamel</td>
+      <td class="monsterDay">Tiger Hurler</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="dangerNight monsterNight">Dark MC Mage</td>
+      <td class="monsterNight">Foul Boss</td>
+      <td class="dangerNight monsterNight">Dark Digestiphant</td>
+      <td class="monsterNight">Dark Sr. Yanpii</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">42</th>
+      <td class="itemDay monsterDay">Gyairas</td>
+      <td class="monsterDay">Blazepuff</td>
+      <td class="extremeDay monsterDay">Scarabbit</td>
+      <td class="monsterDay">Nuttie</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="dangerNight monsterNight">Dark MC Mage</td>
+      <td class="monsterNight">Foul Boss</td>
+      <td class="monsterNight">Mean Go Ham</td>
+      <td class="monsterNight">Dark Sr. Yanpii</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">43</th>
+      <td class="itemDay monsterDay">Gyairas</td>
+      <td class="monsterDay">Blazepuff</td>
+      <td class="extremeDay monsterDay">Scarabbit</td>
+      <td class="monsterDay">Nuttie</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="dangerNight monsterNight">Dark MC Mage</td>
+      <td class="monsterNight">Foul Boss</td>
+      <td class="monsterNight">Mean Go Ham</td>
+      <td class="monsterNight">Vile Demon Scorp</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">44</th>
+      <td class="itemDay monsterDay">Gyairas</td>
+      <td class="monsterDay">Blazepuff</td>
+      <td class="extremeDay monsterDay">Scarabbit</td>
+      <td class="monsterDay">Nuttie</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Glare Bird</td>
+      <td class="monsterNight">Foul Boss</td>
+      <td class="monsterNight">Mean Go Ham</td>
+      <td class="monsterNight">Vile Demon Scorp</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">45</th>
+      <td class="itemDay monsterDay">Gyairas</td>
+      <td class="monsterDay">Falcon Tengu</td>
+      <td class="extremeDay monsterDay">Scarabbit</td>
+      <td class="monsterDay">Nuttie</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Glare Bird</td>
+      <td class="monsterNight">Foul Boss</td>
+      <td class="monsterNight">Mean Go Ham</td>
+      <td class="monsterNight">Vile Demon Scorp</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">46</th>
+      <td class="monsterDay">Iai</td>
+      <td class="monsterDay">Falcon Tengu</td>
+      <td class="extremeDay monsterDay">Scarabbit</td>
+      <td class="monsterDay">Nuttie</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Glare Bird</td>
+      <td class="dangerNight monsterNight">Dark Scarabbit</td>
+      <td class="monsterNight">Mean Go Ham</td>
+      <td class="monsterNight">Vile Demon Scorp</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">47</th>
+      <td class="monsterDay">Iai</td>
+      <td class="monsterDay">Falcon Tengu</td>
+      <td class="monsterDay">Rally Ham</td>
+      <td class="monsterDay">Lt. Yanpii</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Glare Bird</td>
+      <td class="dangerNight monsterNight">Dark Scarabbit</td>
+      <td class="monsterNight">Evil Oingodile</td>
+      <td class="monsterNight">Vile Demon Scorp</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">48</th>
+      <td class="monsterDay">Iai</td>
+      <td class="monsterDay">Falcon Tengu</td>
+      <td class="monsterDay">Rally Ham</td>
+      <td class="monsterDay">Lt. Yanpii</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Glare Bird</td>
+      <td class="dangerNight monsterNight">Dark Scarabbit</td>
+      <td class="monsterNight">Evil Oingodile</td>
+      <td class="monsterNight">Dark Ricepanda</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">49</th>
+      <td class="monsterDay">Iai</td>
+      <td class="monsterDay">Falcon Tengu</td>
+      <td class="monsterDay">Rally Ham</td>
+      <td class="monsterDay">Lt. Yanpii</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Sing Polygon</td>
+      <td class="dangerNight monsterNight">Dark Scarabbit</td>
+      <td class="monsterNight">Evil Oingodile</td>
+      <td class="monsterNight">Dark Ricepanda</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">50</th>
+      <td class="monsterDay">Iai</td>
+      <td class="monsterDay">Katana Bee</td>
+      <td class="monsterDay">Rally Ham</td>
+      <td class="monsterDay">Lt. Yanpii</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Sing Polygon</td>
+      <td class="dangerNight monsterNight">Dark Scarabbit</td>
+      <td class="monsterNight">Evil Oingodile</td>
+      <td class="monsterNight">Dark Ricepanda</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">51</th>
+      <td class="dangerDay monsterDay">Squid Emperor</td>
+      <td class="monsterDay">Katana Bee</td>
+      <td class="monsterDay">Rally Ham</td>
+      <td class="monsterDay">Lt. Yanpii</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Sing Polygon</td>
+      <td class="monsterNight">Dark Steamroid</td>
+      <td class="monsterNight">Evil Oingodile</td>
+      <td class="monsterNight">Dark Ricepanda</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">52</th>
+      <td class="dangerDay monsterDay">Squid Emperor</td>
+      <td class="monsterDay">Katana Bee</td>
+      <td class="itemDay monsterDay">Curse Mom</td>
+      <td class="monsterDay">Ricebadger</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Sing Polygon</td>
+      <td class="monsterNight">Dark Steamroid</td>
+      <td class="monsterNight">Vile Pumphantom</td>
+      <td class="monsterNight">Dark Ricepanda</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">53</th>
+      <td class="dangerDay monsterDay">Squid Emperor</td>
+      <td class="monsterDay">Katana Bee</td>
+      <td class="itemDay monsterDay">Curse Mom</td>
+      <td class="monsterDay">Ricebadger</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Sing Polygon</td>
+      <td class="monsterNight">Dark Steamroid</td>
+      <td class="monsterNight">Vile Pumphantom</td>
+      <td class="monsterNight">Evil Big Chintala</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">54</th>
+      <td class="dangerDay monsterDay">Squid Emperor</td>
+      <td class="monsterDay">Katana Bee</td>
+      <td class="itemDay monsterDay">Curse Mom</td>
+      <td class="monsterDay">Ricebadger</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Hyper Gazer</td>
+      <td class="monsterNight">Dark Steamroid</td>
+      <td class="monsterNight">Vile Pumphantom</td>
+      <td class="monsterNight">Evil Big Chintala</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">55</th>
+      <td class="dangerDay monsterDay">Squid Emperor</td>
+      <td class="monsterDay">Tiger Chucker</td>
+      <td class="itemDay monsterDay">Curse Mom</td>
+      <td class="monsterDay">Ricebadger</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Hyper Gazer</td>
+      <td class="monsterNight">Dark Steamroid</td>
+      <td class="monsterNight">Vile Pumphantom</td>
+      <td class="monsterNight">Evil Big Chintala</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">56</th>
+      <td class="monsterDay">Eligagan</td>
+      <td class="monsterDay">Tiger Chucker</td>
+      <td class="itemDay monsterDay">Curse Mom</td>
+      <td class="monsterDay">Ricebadger</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Hyper Gazer</td>
+      <td class="monsterNight">Dark Curse Mom</td>
+      <td class="monsterNight">Vile Pumphantom</td>
+      <td class="monsterNight">Evil Big Chintala</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">57</th>
+      <td class="monsterDay">Eligagan</td>
+      <td class="monsterDay">Tiger Chucker</td>
+      <td class="dangerDay monsterDay">Banana Boss</td>
+      <td class="dangerDay monsterDay">Sing Polygon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Hyper Gazer</td>
+      <td class="monsterNight">Dark Curse Mom</td>
+      <td class="monsterNight">Evil Blazepuff</td>
+      <td class="monsterNight">Evil Big Chintala</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">58</th>
+      <td class="monsterDay">Eligagan</td>
+      <td class="monsterDay">Tiger Chucker</td>
+      <td class="dangerDay monsterDay">Banana Boss</td>
+      <td class="dangerDay monsterDay">Sing Polygon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Hyper Gazer</td>
+      <td class="monsterNight">Dark Curse Mom</td>
+      <td class="monsterNight">Evil Blazepuff</td>
+      <td class="monsterNight">Evil Killer Gyaza</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">59</th>
+      <td class="monsterDay">Eligagan</td>
+      <td class="monsterDay">Tiger Chucker</td>
+      <td class="dangerDay monsterDay">Banana Boss</td>
+      <td class="dangerDay monsterDay">Sing Polygon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="dangerNight monsterNight">Dark Spongiderm</td>
+      <td class="monsterNight">Dark Curse Mom</td>
+      <td class="monsterNight">Evil Blazepuff</td>
+      <td class="monsterNight">Evil Killer Gyaza</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">60</th>
+      <td class="monsterDay">Eligagan</td>
+      <td class="usefulDay monsterDay">Fulminachin</td>
+      <td class="dangerDay monsterDay">Banana Boss</td>
+      <td class="dangerDay monsterDay">Sing Polygon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="dangerNight monsterNight">Dark Spongiderm</td>
+      <td class="monsterNight">Dark Curse Mom</td>
+      <td class="monsterNight">Evil Blazepuff</td>
+      <td class="monsterNight">Evil Killer Gyaza</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">61</th>
+      <td class="monsterDay">Oingodile</td>
+      <td class="usefulDay monsterDay">Fulminachin</td>
+      <td class="dangerDay monsterDay">Banana Boss</td>
+      <td class="dangerDay monsterDay">Sing Polygon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="dangerNight monsterNight">Dark Spongiderm</td>
+      <td class="extremeNight monsterNight">Dark MC Wizard</td>
+      <td class="monsterNight">Evil Blazepuff</td>
+      <td class="monsterNight">Evil Killer Gyaza</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">62</th>
+      <td class="monsterDay">Oingodile</td>
+      <td class="usefulDay monsterDay">Fulminachin</td>
+      <td class="monsterDay">Pyrepuff</td>
+      <td class="dangerDay monsterDay">Hyper Gazer</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="dangerNight monsterNight">Dark Spongiderm</td>
+      <td class="extremeNight monsterNight">Dark MC Wizard</td>
+      <td class="monsterNight">Dark Gigahead</td>
+      <td class="monsterNight">Evil Killer Gyaza</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">63</th>
+      <td class="monsterDay">Oingodile</td>
+      <td class="usefulDay monsterDay">Fulminachin</td>
+      <td class="monsterDay">Pyrepuff</td>
+      <td class="dangerDay monsterDay">Hyper Gazer</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="dangerNight monsterNight">Dark Spongiderm</td>
+      <td class="extremeNight monsterNight">Dark MC Wizard</td>
+      <td class="monsterNight">Dark Gigahead</td>
+      <td class="monsterNight">Evil Shihan</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">64</th>
+      <td class="monsterDay">Oingodile</td>
+      <td class="usefulDay monsterDay">Fulminachin</td>
+      <td class="monsterDay">Pyrepuff</td>
+      <td class="dangerDay monsterDay">Hyper Gazer</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Nuttie</td>
+      <td class="extremeNight monsterNight">Dark MC Wizard</td>
+      <td class="monsterNight">Dark Gigahead</td>
+      <td class="monsterNight">Evil Shihan</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">65</th>
+      <td class="monsterDay">Oingodile</td>
+      <td class="monsterDay">Stun Scorp</td>
+      <td class="monsterDay">Pyrepuff</td>
+      <td class="dangerDay monsterDay">Hyper Gazer</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Nuttie</td>
+      <td class="extremeNight monsterNight">Dark MC Wizard</td>
+      <td class="monsterNight">Dark Gigahead</td>
+      <td class="monsterNight">Evil Shihan</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">66</th>
+      <td class="monsterDay">Iron Zalokleft</td>
+      <td class="monsterDay">Stun Scorp</td>
+      <td class="monsterDay">Pyrepuff</td>
+      <td class="dangerDay monsterDay">Hyper Gazer</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Nuttie</td>
+      <td class="monsterNight">Dark Lt. Yanpii</td>
+      <td class="monsterNight">Dark Gigahead</td>
+      <td class="monsterNight">Evil Shihan</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">67</th>
+      <td class="monsterDay">Iron Zalokleft</td>
+      <td class="monsterDay">Stun Scorp</td>
+      <td class="monsterDay">Gigahead</td>
+      <td class="usefulDay monsterDay">Jouncy</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Nuttie</td>
+      <td class="monsterNight">Dark Lt. Yanpii</td>
+      <td class="usefulNight monsterNight">Dark Mixergon</td>
+      <td class="monsterNight">Evil Shihan</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">68</th>
+      <td class="monsterDay">Iron Zalokleft</td>
+      <td class="monsterDay">Stun Scorp</td>
+      <td class="monsterDay">Gigahead</td>
+      <td class="usefulDay monsterDay">Jouncy</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Nuttie</td>
+      <td class="monsterNight">Dark Lt. Yanpii</td>
+      <td class="usefulNight monsterNight">Dark Mixergon</td>
+      <td class="monsterNight">Mean Rally Ham</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">69</th>
+      <td class="monsterDay">Iron Zalokleft</td>
+      <td class="monsterDay">Stun Scorp</td>
+      <td class="monsterDay">Gigahead</td>
+      <td class="usefulDay monsterDay">Jouncy</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Ricegrizzly</td>
+      <td class="monsterNight">Dark Lt. Yanpii</td>
+      <td class="usefulNight monsterNight">Dark Mixergon</td>
+      <td class="monsterNight">Mean Rally Ham</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">70</th>
+      <td class="monsterDay">Iron Zalokleft</td>
+      <td class="monsterDay">Gyandora</td>
+      <td class="monsterDay">Gigahead</td>
+      <td class="usefulDay monsterDay">Jouncy</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Ricegrizzly</td>
+      <td class="monsterNight">Dark Lt. Yanpii</td>
+      <td class="usefulNight monsterNight">Dark Mixergon</td>
+      <td class="monsterNight">Mean Rally Ham</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">71</th>
+      <td class="extremeDay monsterDay">Pumpanshee</td>
+      <td class="monsterDay">Gyandora</td>
+      <td class="monsterDay">Gigahead</td>
+      <td class="usefulDay monsterDay">Jouncy</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Ricegrizzly</td>
+      <td class="dangerNight monsterNight">Evil Fulminachin</td>
+      <td class="usefulNight monsterNight">Dark Mixergon</td>
+      <td class="monsterNight">Mean Rally Ham</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">72</th>
+      <td class="extremeDay monsterDay">Pumpanshee</td>
+      <td class="monsterDay">Gyandora</td>
+      <td class="monsterDay">Zanbeeto</td>
+      <td class="monsterDay">Eagle Tengu</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Ricegrizzly</td>
+      <td class="dangerNight monsterNight">Evil Fulminachin</td>
+      <td class="monsterNight">Dark Flashdon</td>
+      <td class="monsterNight">Mean Rally Ham</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">73</th>
+      <td class="extremeDay monsterDay">Pumpanshee</td>
+      <td class="monsterDay">Gyandora</td>
+      <td class="monsterDay">Zanbeeto</td>
+      <td class="monsterDay">Eagle Tengu</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Ricegrizzly</td>
+      <td class="dangerNight monsterNight">Evil Fulminachin</td>
+      <td class="monsterNight">Dark Flashdon</td>
+      <td class="monsterNight">Vile Pumpanshee</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">74</th>
+      <td class="extremeDay monsterDay">Pumpanshee</td>
+      <td class="monsterDay">Gyandora</td>
+      <td class="monsterDay">Zanbeeto</td>
+      <td class="monsterDay">Eagle Tengu</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Huge Chintala</td>
+      <td class="dangerNight monsterNight">Evil Fulminachin</td>
+      <td class="monsterNight">Dark Flashdon</td>
+      <td class="monsterNight">Vile Pumpanshee</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">75</th>
+      <td class="extremeDay monsterDay">Pumpanshee</td>
+      <td class="monsterDay">Boss Yanpii</td>
+      <td class="monsterDay">Zanbeeto</td>
+      <td class="monsterDay">Eagle Tengu</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Huge Chintala</td>
+      <td class="dangerNight monsterNight">Evil Fulminachin</td>
+      <td class="monsterNight">Dark Flashdon</td>
+      <td class="monsterNight">Vile Pumpanshee</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">76</th>
+      <td class="monsterDay">Soybeanie</td>
+      <td class="monsterDay">Boss Yanpii</td>
+      <td class="monsterDay">Zanbeeto</td>
+      <td class="monsterDay">Eagle Tengu</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Huge Chintala</td>
+      <td class="monsterNight">Wild Gyandora</td>
+      <td class="monsterNight">Dark Flashdon</td>
+      <td class="monsterNight">Vile Pumpanshee</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">77</th>
+      <td class="monsterDay">Soybeanie</td>
+      <td class="monsterDay">Boss Yanpii</td>
+      <td class="monsterDay">Ricepanda</td>
+      <td class="monsterDay">Spirit Ham</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Huge Chintala</td>
+      <td class="monsterNight">Wild Gyandora</td>
+      <td class="monsterNight">Dark Ace</td>
+      <td class="monsterNight">Vile Pumpanshee</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">78</th>
+      <td class="monsterDay">Soybeanie</td>
+      <td class="monsterDay">Boss Yanpii</td>
+      <td class="monsterDay">Ricepanda</td>
+      <td class="monsterDay">Spirit Ham</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Huge Chintala</td>
+      <td class="monsterNight">Wild Gyandora</td>
+      <td class="monsterNight">Dark Ace</td>
+      <td class="monsterNight">Dark Curse Gramma</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">79</th>
+      <td class="monsterDay">Soybeanie</td>
+      <td class="monsterDay">Boss Yanpii</td>
+      <td class="monsterDay">Ricepanda</td>
+      <td class="monsterDay">Spirit Ham</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Hell Gyaza</td>
+      <td class="monsterNight">Wild Gyandora</td>
+      <td class="monsterNight">Dark Ace</td>
+      <td class="monsterNight">Dark Curse Gramma</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">80</th>
+      <td class="monsterDay">Soybeanie</td>
+      <td class="usefulDay monsterDay">Detonachin</td>
+      <td class="monsterDay">Ricepanda</td>
+      <td class="monsterDay">Spirit Ham</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Hell Gyaza</td>
+      <td class="monsterNight">Wild Gyandora</td>
+      <td class="monsterNight">Dark Ace</td>
+      <td class="monsterNight">Dark Curse Gramma</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">81</th>
+      <td class="monsterDay">Eligagon</td>
+      <td class="usefulDay monsterDay">Detonachin</td>
+      <td class="monsterDay">Ricepanda</td>
+      <td class="monsterDay">Spirit Ham</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Hell Gyaza</td>
+      <td class="monsterNight">Dark Electroid</td>
+      <td class="monsterNight">Dark Ace</td>
+      <td class="monsterNight">Dark Curse Gramma</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">82</th>
+      <td class="monsterDay">Eligagon</td>
+      <td class="usefulDay monsterDay">Detonachin</td>
+      <td class="monsterDay">Huge Chintala</td>
+      <td class="itemDay monsterDay">Curse Gramma</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Hell Gyaza</td>
+      <td class="monsterNight">Dark Electroid</td>
+      <td class="monsterNight">Evil Pyrepuff</td>
+      <td class="monsterNight">Dark Curse Gramma</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">83</th>
+      <td class="monsterDay">Eligagon</td>
+      <td class="usefulDay monsterDay">Detonachin</td>
+      <td class="monsterDay">Huge Chintala</td>
+      <td class="itemDay monsterDay">Curse Gramma</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Evil Hell Gyaza</td>
+      <td class="monsterNight">Dark Electroid</td>
+      <td class="monsterNight">Evil Pyrepuff</td>
+      <td class="extremeNight monsterNight">Dark MC Sorcerer</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">84</th>
+      <td class="monsterDay">Eligagon</td>
+      <td class="usefulDay monsterDay">Detonachin</td>
+      <td class="monsterDay">Huge Chintala</td>
+      <td class="itemDay monsterDay">Curse Gramma</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Zanbeeto</td>
+      <td class="monsterNight">Dark Electroid</td>
+      <td class="monsterNight">Evil Pyrepuff</td>
+      <td class="extremeNight monsterNight">Dark MC Sorcerer</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">85</th>
+      <td class="monsterDay">Eligagon</td>
+      <td class="monsterDay">Shihan</td>
+      <td class="monsterDay">Huge Chintala</td>
+      <td class="itemDay monsterDay">Curse Gramma</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Zanbeeto</td>
+      <td class="monsterNight">Dark Electroid</td>
+      <td class="monsterNight">Evil Pyrepuff</td>
+      <td class="extremeNight monsterNight">Dark MC Sorcerer</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">86</th>
+      <td class="monsterDay">Tiger Ace</td>
+      <td class="monsterDay">Shihan</td>
+      <td class="monsterDay">Huge Chintala</td>
+      <td class="itemDay monsterDay">Curse Gramma</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Zanbeeto</td>
+      <td class="dangerNight monsterNight">Dark Shine Bird</td>
+      <td class="monsterNight">Evil Pyrepuff</td>
+      <td class="extremeNight monsterNight">Dark MC Sorcerer</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">87</th>
+      <td class="monsterDay">Tiger Ace</td>
+      <td class="monsterDay">Shihan</td>
+      <td class="monsterDay">Flashdon</td>
+      <td class="dangerDay monsterDay">Banana Master</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Zanbeeto</td>
+      <td class="dangerNight monsterNight">Dark Shine Bird</td>
+      <td class="monsterNight">Evil Mosh Polygon</td>
+      <td class="extremeNight monsterNight">Dark MC Sorcerer</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">88</th>
+      <td class="monsterDay">Tiger Ace</td>
+      <td class="monsterDay">Shihan</td>
+      <td class="monsterDay">Flashdon</td>
+      <td class="dangerDay monsterDay">Banana Master</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Zanbeeto</td>
+      <td class="dangerNight monsterNight">Dark Shine Bird</td>
+      <td class="monsterNight">Evil Mosh Polygon</td>
+      <td class="monsterNight">Evil Tatsujin</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">89</th>
+      <td class="monsterDay">Tiger Ace</td>
+      <td class="monsterDay">Shihan</td>
+      <td class="monsterDay">Flashdon</td>
+      <td class="dangerDay monsterDay">Banana Master</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Elizgagon</td>
+      <td class="dangerNight monsterNight">Dark Shine Bird</td>
+      <td class="monsterNight">Evil Mosh Polygon</td>
+      <td class="monsterNight">Evil Tatsujin</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">90</th>
+      <td class="monsterDay">Tiger Ace</td>
+      <td class="extremeDay monsterDay">Pumptergeist</td>
+      <td class="monsterDay">Flashdon</td>
+      <td class="dangerDay monsterDay">Banana Master</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Elizgagon</td>
+      <td class="dangerNight monsterNight">Dark Shine Bird</td>
+      <td class="monsterNight">Evil Mosh Polygon</td>
+      <td class="monsterNight">Evil Tatsujin</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">91</th>
+      <td class="usefulDay monsterDay">Bouncy</td>
+      <td class="extremeDay monsterDay">Pumptergeist</td>
+      <td class="monsterDay">Flashdon</td>
+      <td class="dangerDay monsterDay">Banana Master</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Elizgagon</td>
+      <td class="monsterNight">Vile Blight Scorp</td>
+      <td class="monsterNight">Evil Mosh Polygon</td>
+      <td class="monsterNight">Evil Tatsujin</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">92</th>
+      <td class="usefulDay monsterDay">Bouncy</td>
+      <td class="extremeDay monsterDay">Pumptergeist</td>
+      <td class="monsterDay">Blight Scorp</td>
+      <td class="monsterDay">Boingodile</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Elizgagon</td>
+      <td class="monsterNight">Vile Blight Scorp</td>
+      <td class="dangerNight monsterNight">Dark Osmammoth</td>
+      <td class="monsterNight">Evil Tatsujin</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">93</th>
+      <td class="usefulDay monsterDay">Bouncy</td>
+      <td class="extremeDay monsterDay">Pumptergeist</td>
+      <td class="monsterDay">Blight Scorp</td>
+      <td class="monsterDay">Boingodile</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Dark Elizgagon</td>
+      <td class="monsterNight">Vile Blight Scorp</td>
+      <td class="dangerNight monsterNight">Dark Osmammoth</td>
+      <td class="usefulNight monsterNight">Dark Mixerdon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">94</th>
+      <td class="usefulDay monsterDay">Bouncy</td>
+      <td class="extremeDay monsterDay">Pumptergeist</td>
+      <td class="monsterDay">Blight Scorp</td>
+      <td class="monsterDay">Boingodile</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Foul Master</td>
+      <td class="monsterNight">Vile Blight Scorp</td>
+      <td class="dangerNight monsterNight">Dark Osmammoth</td>
+      <td class="usefulNight monsterNight">Dark Mixerdon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">95</th>
+      <td class="usefulDay monsterDay">Bouncy</td>
+      <td class="monsterDay">Shine Bird</td>
+      <td class="monsterDay">Blight Scorp</td>
+      <td class="monsterDay">Boingodile</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Foul Master</td>
+      <td class="monsterNight">Vile Blight Scorp</td>
+      <td class="dangerNight monsterNight">Dark Osmammoth</td>
+      <td class="usefulNight monsterNight">Dark Mixerdon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">96</th>
+      <td class="monsterDay">Deathead</td>
+      <td class="monsterDay">Shine Bird</td>
+      <td class="monsterDay">Blight Scorp</td>
+      <td class="monsterDay">Boingodile</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Foul Master</td>
+      <td class="monsterNight">Wild Gyandoron</td>
+      <td class="dangerNight monsterNight">Dark Osmammoth</td>
+      <td class="usefulNight monsterNight">Dark Mixerdon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">97</th>
+      <td class="monsterDay">Deathead</td>
+      <td class="monsterDay">Shine Bird</td>
+      <td class="dangerDay monsterDay">Squid Kaiser</td>
+      <td class="dangerDay monsterDay">Mosh Polygon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Foul Master</td>
+      <td class="monsterNight">Wild Gyandoron</td>
+      <td class="dangerNight monsterNight">Dark Squid Kaiser</td>
+      <td class="usefulNight monsterNight">Dark Mixerdon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">98</th>
+      <td class="monsterDay">Deathead</td>
+      <td class="monsterDay">Shine Bird</td>
+      <td class="dangerDay monsterDay">Squid Kaiser</td>
+      <td class="dangerDay monsterDay">Mosh Polygon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Foul Master</td>
+      <td class="monsterNight">Wild Gyandoron</td>
+      <td class="dangerNight monsterNight">Dark Squid Kaiser</td>
+      <td class="monsterNight">Mean Spirit Ham</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th rowspan="2">99</th>
+      <td class="monsterDay">Deathead</td>
+      <td class="monsterDay">Shine Bird</td>
+      <td class="dangerDay monsterDay">Squid Kaiser</td>
+      <td class="dangerDay monsterDay">Mosh Polygon</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td class="monsterNight">Foul Master</td>
+      <td class="monsterNight">Wild Gyandoron</td>
+      <td class="dangerNight monsterNight">Dark Squid Kaiser</td>
+      <td class="monsterNight">Mean Spirit Ham</td>
       <td class="highlightGray"></td>
     </tr>
   </tbody>
@@ -129,7 +1597,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
 # Items
 
 - F = Floor, Monster (day)
-- S = Shop, Monster (night), Maneater, Shiny Object (yellow), Peddler
+- S = Shop, Monster (night), Shiny Object (yellow)
 - P = Presto Pot
 - Z = Zalokleft
 - E = Elite Shop, Shiny Object (blue)
@@ -539,7 +2007,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td class="leftText">Banana Scroll</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -674,7 +2142,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <th>E</th>
     <td class="leftText">Desert Scroll</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -728,7 +2196,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td class="leftText">Otogiriso</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -769,7 +2237,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td class="leftText">Night-Day Scroll</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -998,7 +2466,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td class="leftText">Sleep Grass</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1078,7 +2546,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td class="leftText">Sight Grass</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>

@@ -56,21 +56,21 @@ metaDescription: "Ceiling Cave dungeon guide for Shiren the Wanderer 4: The Eye 
   </tr>
   <tr>
     <th>Initial Enemies</th>
-    <td></td>
+    <td>7~10</td>
     <th>Spawn Rate</th>
-    <td></td>
+    <td>30 day / 20 night</td>
   </tr>
   <tr>
     <th>Day Turns</th>
-    <td> ()</td>
+    <td>610 (537)</td>
     <th>Night Turns</th>
-    <td> ()</td>
+    <td>368 (324)</td>
   </tr>
   <tr>
     <th>Ominous aura</th>
-    <td>Yes ()</td>
+    <td>Yes (1500 turns)</td>
     <th>Wind of Kron</th>
-    <td>1st: / 4th: </td>
+    <td>1st: 1700 / 4th: 2000</td>
   </tr>
   <tr>
     <th>Clear Icon</th>
@@ -93,6 +93,8 @@ metaDescription: "Ceiling Cave dungeon guide for Shiren the Wanderer 4: The Eye 
 [Content]
 
 # Monsters
+
+See [Monsters](/system/monsters) for individual monster details.
 
 - N = N'dubba <span class="monsterTableNdubba">Lv1</span> <span class="monsterTableNtwyn">Lv2</span> <span class="monsterTableNmach">Lv3</span> <span class="monsterTableNdup">Lv4</span>
 - M = Maneater <span class="monsterTableManeater">Lv1</span> <span class="monsterTableVilleater">Lv2</span> <span class="monsterTableMounteater">Lv3</span> <span class="monsterTableIsleater">Lv4</span>
@@ -2838,7 +2840,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td class="leftText">Presto Pot</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>

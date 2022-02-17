@@ -12,7 +12,7 @@ Optional tutorial for night gameplay.
 
 Completion rewards:
 
-- Receive a [necklace ability](/system/necklace-abilities) called Last Stand.
+- Learn a [necklace ability](/system/necklace-abilities) called Last Stand.
 - 3 new topics added to [Shrine of Challenges](/dungeons/shrine-of-challenges).
 - [Adventure Footprints](/system/adventure-footprints) entry unlocked.<br/>
 

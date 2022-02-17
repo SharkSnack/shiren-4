@@ -86,6 +86,8 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
 
 # Monsters
 
+See [Monsters](/system/monsters) for individual monster details.
+
 - N = N'dubba <span class="monsterTableNdubba">Lv1</span> <span class="monsterTableNtwyn">Lv2</span> <span class="monsterTableNmach">Lv3</span> <span class="monsterTableNdup">Lv4</span>
 - M = Maneater <span class="monsterTableManeater">Lv1</span> <span class="monsterTableVilleater">Lv2</span> <span class="monsterTableMounteater">Lv3</span> <span class="monsterTableIsleater">Lv4</span>
 

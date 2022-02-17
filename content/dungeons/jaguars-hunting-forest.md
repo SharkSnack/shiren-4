@@ -92,6 +92,8 @@ metaDescription: "Jaguar's Hunting Forest dungeon guide for Shiren the Wanderer 
 
 # Monsters
 
+See [Monsters](/system/monsters) for individual monster details.
+
 - M = Maneater <span class="monsterTableManeater">Lv1</span> <span class="monsterTableVilleater">Lv2</span> <span class="monsterTableMounteater">Lv3</span> <span class="monsterTableIsleater">Lv4</span>
 
 Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Night</span>
