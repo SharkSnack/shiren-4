@@ -115,7 +115,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Banana Novice</td>
+      <td class="monsterNight">Foul Novice</td>
       <td class="monsterNight">Dark Seedie</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -216,7 +216,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="monsterDay">Blade Bee</td>
       <td class="monsterDay">Firepuff</td>
       <td class="itemDay monsterDay">Curse Girl</td>
-      <td class="monsterDay">Ricebear</td>
+      <td class="monsterDay">Kumonigiri</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -231,7 +231,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="monsterDay">Blade Bee</td>
       <td class="monsterDay">Firepuff</td>
       <td class="itemDay monsterDay">Curse Girl</td>
-      <td class="monsterDay">Ricebear</td>
+      <td class="monsterDay">Kumonigiri</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -246,7 +246,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="monsterDay">Blade Bee</td>
       <td class="monsterDay">Cheer Ham</td>
       <td class="itemDay monsterDay">Curse Girl</td>
-      <td class="monsterDay">Ricebear</td>
+      <td class="monsterDay">Kumonigiri</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -261,7 +261,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="monsterDay">Scorpion</td>
       <td class="monsterDay">Cheer Ham</td>
       <td class="itemDay monsterDay">Curse Girl</td>
-      <td class="monsterDay">Ricebear</td>
+      <td class="monsterDay">Kumonigiri</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -356,7 +356,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     </tr>
     <tr>
       <td class="monsterNight">Evil Gyaza</td>
-      <td class="monsterNight">Dark Curse Girl</td>
+      <td class="monsterNight">Foul Curse Girl</td>
       <td class="monsterNight">Dark Sr. Yanpii</td>
       <td class="monsterNight">Dark DJ Mage</td>
       <td class="highlightGray"></td>
@@ -371,7 +371,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     </tr>
     <tr>
       <td class="monsterNight">Evil Gyaza</td>
-      <td class="monsterNight">Dark Curse Girl</td>
+      <td class="monsterNight">Foul Curse Girl</td>
       <td class="monsterNight">Dark Pop Tank</td>
       <td class="monsterNight">Dark DJ Mage</td>
       <td class="highlightGray"></td>
@@ -386,7 +386,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     </tr>
     <tr>
       <td class="monsterNight">Evil Gyaza</td>
-      <td class="monsterNight">Dark Curse Girl</td>
+      <td class="monsterNight">Foul Curse Girl</td>
       <td class="monsterNight">Dark Pop Tank</td>
       <td class="monsterNight">Vile Pumphantasm</td>
       <td class="highlightGray"></td>
@@ -401,7 +401,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     </tr>
     <tr>
       <td class="monsterNight">Dark Traproid</td>
-      <td class="monsterNight">Dark Curse Girl</td>
+      <td class="monsterNight">Foul Curse Girl</td>
       <td class="monsterNight">Dark Pop Tank</td>
       <td class="monsterNight">Vile Pumphantasm</td>
       <td class="highlightGray"></td>
@@ -535,7 +535,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Ricebadger</td>
+      <td class="monsterNight">Dark Pandanigiri</td>
       <td class="monsterNight">Evil Hipadile</td>
       <td class="monsterNight">Dark Squid Lord</td>
       <td class="monsterNight">Dark Hurler</td>
@@ -550,7 +550,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Ricebadger</td>
+      <td class="monsterNight">Dark Pandanigiri</td>
       <td class="monsterNight">Evil Hipadile</td>
       <td class="monsterNight">Dark Squid Lord</td>
       <td class="monsterNight">Dark Hurler</td>
@@ -565,7 +565,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Ricebadger</td>
+      <td class="monsterNight">Dark Pandanigiri</td>
       <td class="monsterNight">Dark Beanie</td>
       <td class="monsterNight">Dark Squid Lord</td>
       <td class="monsterNight">Dark Hurler</td>
@@ -580,7 +580,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Ricebadger</td>
+      <td class="monsterNight">Dark Pandanigiri</td>
       <td class="monsterNight">Dark Beanie</td>
       <td class="monsterNight">Dark Eligagan</td>
       <td class="monsterNight">Dark Hurler</td>
@@ -595,7 +595,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Ricebadger</td>
+      <td class="monsterNight">Dark Pandanigiri</td>
       <td class="monsterNight">Dark Beanie</td>
       <td class="monsterNight">Dark Eligagan</td>
       <td class="dangerNight monsterNight">Dark Grampa Tank</td>
@@ -823,7 +823,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="monsterNight">Dark Glare Bird</td>
       <td class="dangerNight monsterNight">Dark Scarabbit</td>
       <td class="monsterNight">Evil Oingodile</td>
-      <td class="monsterNight">Dark Ricepanda</td>
+      <td class="monsterNight">Dark Onigirizzly</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -838,7 +838,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="monsterNight">Evil Sing Polygon</td>
       <td class="dangerNight monsterNight">Dark Scarabbit</td>
       <td class="monsterNight">Evil Oingodile</td>
-      <td class="monsterNight">Dark Ricepanda</td>
+      <td class="monsterNight">Dark Onigirizzly</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -853,7 +853,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="monsterNight">Evil Sing Polygon</td>
       <td class="dangerNight monsterNight">Dark Scarabbit</td>
       <td class="monsterNight">Evil Oingodile</td>
-      <td class="monsterNight">Dark Ricepanda</td>
+      <td class="monsterNight">Dark Onigirizzly</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -868,7 +868,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="monsterNight">Evil Sing Polygon</td>
       <td class="monsterNight">Dark Steamroid</td>
       <td class="monsterNight">Evil Oingodile</td>
-      <td class="monsterNight">Dark Ricepanda</td>
+      <td class="monsterNight">Dark Onigirizzly</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -876,14 +876,14 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="dangerDay monsterDay">Squid Emperor</td>
       <td class="monsterDay">Katana Bee</td>
       <td class="itemDay monsterDay">Curse Mom</td>
-      <td class="monsterDay">Ricebadger</td>
+      <td class="monsterDay">Pandanigiri</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
       <td class="monsterNight">Evil Sing Polygon</td>
       <td class="monsterNight">Dark Steamroid</td>
       <td class="monsterNight">Vile Pumphantom</td>
-      <td class="monsterNight">Dark Ricepanda</td>
+      <td class="monsterNight">Dark Onigirizzly</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -891,7 +891,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="dangerDay monsterDay">Squid Emperor</td>
       <td class="monsterDay">Katana Bee</td>
       <td class="itemDay monsterDay">Curse Mom</td>
-      <td class="monsterDay">Ricebadger</td>
+      <td class="monsterDay">Pandanigiri</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -906,7 +906,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="dangerDay monsterDay">Squid Emperor</td>
       <td class="monsterDay">Katana Bee</td>
       <td class="itemDay monsterDay">Curse Mom</td>
-      <td class="monsterDay">Ricebadger</td>
+      <td class="monsterDay">Pandanigiri</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -921,7 +921,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="dangerDay monsterDay">Squid Emperor</td>
       <td class="monsterDay">Tiger Chucker</td>
       <td class="itemDay monsterDay">Curse Mom</td>
-      <td class="monsterDay">Ricebadger</td>
+      <td class="monsterDay">Pandanigiri</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -936,12 +936,12 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="monsterDay">Eligagan</td>
       <td class="monsterDay">Tiger Chucker</td>
       <td class="itemDay monsterDay">Curse Mom</td>
-      <td class="monsterDay">Ricebadger</td>
+      <td class="monsterDay">Pandanigiri</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
       <td class="monsterNight">Evil Hyper Gazer</td>
-      <td class="monsterNight">Dark Curse Mom</td>
+      <td class="monsterNight">Foul Curse Mom</td>
       <td class="monsterNight">Vile Pumphantom</td>
       <td class="monsterNight">Evil Big Chintala</td>
       <td class="highlightGray"></td>
@@ -956,7 +956,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     </tr>
     <tr>
       <td class="monsterNight">Evil Hyper Gazer</td>
-      <td class="monsterNight">Dark Curse Mom</td>
+      <td class="monsterNight">Foul Curse Mom</td>
       <td class="monsterNight">Evil Blazepuff</td>
       <td class="monsterNight">Evil Big Chintala</td>
       <td class="highlightGray"></td>
@@ -971,7 +971,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     </tr>
     <tr>
       <td class="monsterNight">Evil Hyper Gazer</td>
-      <td class="monsterNight">Dark Curse Mom</td>
+      <td class="monsterNight">Foul Curse Mom</td>
       <td class="monsterNight">Evil Blazepuff</td>
       <td class="monsterNight">Evil Killer Gyaza</td>
       <td class="highlightGray"></td>
@@ -986,7 +986,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     </tr>
     <tr>
       <td class="dangerNight monsterNight">Dark Spongiderm</td>
-      <td class="monsterNight">Dark Curse Mom</td>
+      <td class="monsterNight">Foul Curse Mom</td>
       <td class="monsterNight">Evil Blazepuff</td>
       <td class="monsterNight">Evil Killer Gyaza</td>
       <td class="highlightGray"></td>
@@ -1001,7 +1001,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     </tr>
     <tr>
       <td class="dangerNight monsterNight">Dark Spongiderm</td>
-      <td class="monsterNight">Dark Curse Mom</td>
+      <td class="monsterNight">Foul Curse Mom</td>
       <td class="monsterNight">Evil Blazepuff</td>
       <td class="monsterNight">Evil Killer Gyaza</td>
       <td class="highlightGray"></td>
@@ -1135,7 +1135,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Ricegrizzly</td>
+      <td class="monsterNight">Dark Kodionigiri</td>
       <td class="monsterNight">Dark Lt. Yanpii</td>
       <td class="usefulNight monsterNight">Dark Mixergon</td>
       <td class="monsterNight">Mean Rally Ham</td>
@@ -1150,7 +1150,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Ricegrizzly</td>
+      <td class="monsterNight">Dark Kodionigiri</td>
       <td class="monsterNight">Dark Lt. Yanpii</td>
       <td class="usefulNight monsterNight">Dark Mixergon</td>
       <td class="monsterNight">Mean Rally Ham</td>
@@ -1165,7 +1165,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Ricegrizzly</td>
+      <td class="monsterNight">Dark Kodionigiri</td>
       <td class="dangerNight monsterNight">Evil Fulminachin</td>
       <td class="usefulNight monsterNight">Dark Mixergon</td>
       <td class="monsterNight">Mean Rally Ham</td>
@@ -1180,7 +1180,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Ricegrizzly</td>
+      <td class="monsterNight">Dark Kodionigiri</td>
       <td class="dangerNight monsterNight">Evil Fulminachin</td>
       <td class="monsterNight">Dark Flashdon</td>
       <td class="monsterNight">Mean Rally Ham</td>
@@ -1195,7 +1195,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Ricegrizzly</td>
+      <td class="monsterNight">Dark Kodionigiri</td>
       <td class="dangerNight monsterNight">Evil Fulminachin</td>
       <td class="monsterNight">Dark Flashdon</td>
       <td class="monsterNight">Vile Pumpanshee</td>
@@ -1250,7 +1250,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <th rowspan="2">77</th>
       <td class="monsterDay">Soybeanie</td>
       <td class="monsterDay">Boss Yanpii</td>
-      <td class="monsterDay">Ricepanda</td>
+      <td class="monsterDay">Onigirizzly</td>
       <td class="monsterDay">Spirit Ham</td>
       <td class="highlightGray"></td>
     </tr>
@@ -1265,7 +1265,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <th rowspan="2">78</th>
       <td class="monsterDay">Soybeanie</td>
       <td class="monsterDay">Boss Yanpii</td>
-      <td class="monsterDay">Ricepanda</td>
+      <td class="monsterDay">Onigirizzly</td>
       <td class="monsterDay">Spirit Ham</td>
       <td class="highlightGray"></td>
     </tr>
@@ -1273,14 +1273,14 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="monsterNight">Evil Huge Chintala</td>
       <td class="monsterNight">Wild Gyandora</td>
       <td class="monsterNight">Dark Ace</td>
-      <td class="monsterNight">Dark Curse Gramma</td>
+      <td class="monsterNight">Foul Curse Gramma</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
       <th rowspan="2">79</th>
       <td class="monsterDay">Soybeanie</td>
       <td class="monsterDay">Boss Yanpii</td>
-      <td class="monsterDay">Ricepanda</td>
+      <td class="monsterDay">Onigirizzly</td>
       <td class="monsterDay">Spirit Ham</td>
       <td class="highlightGray"></td>
     </tr>
@@ -1288,14 +1288,14 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="monsterNight">Evil Hell Gyaza</td>
       <td class="monsterNight">Wild Gyandora</td>
       <td class="monsterNight">Dark Ace</td>
-      <td class="monsterNight">Dark Curse Gramma</td>
+      <td class="monsterNight">Foul Curse Gramma</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
       <th rowspan="2">80</th>
       <td class="monsterDay">Soybeanie</td>
       <td class="usefulDay monsterDay">Detonachin</td>
-      <td class="monsterDay">Ricepanda</td>
+      <td class="monsterDay">Onigirizzly</td>
       <td class="monsterDay">Spirit Ham</td>
       <td class="highlightGray"></td>
     </tr>
@@ -1303,14 +1303,14 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="monsterNight">Evil Hell Gyaza</td>
       <td class="monsterNight">Wild Gyandora</td>
       <td class="monsterNight">Dark Ace</td>
-      <td class="monsterNight">Dark Curse Gramma</td>
+      <td class="monsterNight">Foul Curse Gramma</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
       <th rowspan="2">81</th>
       <td class="monsterDay">Eligagon</td>
       <td class="usefulDay monsterDay">Detonachin</td>
-      <td class="monsterDay">Ricepanda</td>
+      <td class="monsterDay">Onigirizzly</td>
       <td class="monsterDay">Spirit Ham</td>
       <td class="highlightGray"></td>
     </tr>
@@ -1318,7 +1318,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="monsterNight">Evil Hell Gyaza</td>
       <td class="monsterNight">Dark Electroid</td>
       <td class="monsterNight">Dark Ace</td>
-      <td class="monsterNight">Dark Curse Gramma</td>
+      <td class="monsterNight">Foul Curse Gramma</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -1333,7 +1333,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="monsterNight">Evil Hell Gyaza</td>
       <td class="monsterNight">Dark Electroid</td>
       <td class="monsterNight">Evil Pyrepuff</td>
-      <td class="monsterNight">Dark Curse Gramma</td>
+      <td class="monsterNight">Foul Curse Gramma</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -1533,7 +1533,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     </tr>
     <tr>
       <th rowspan="2">96</th>
-      <td class="monsterDay">Deathead</td>
+      <td class="monsterDay">Doomhead</td>
       <td class="monsterDay">Shine Bird</td>
       <td class="monsterDay">Blight Scorp</td>
       <td class="monsterDay">Boingodile</td>
@@ -1548,7 +1548,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     </tr>
     <tr>
       <th rowspan="2">97</th>
-      <td class="monsterDay">Deathead</td>
+      <td class="monsterDay">Doomhead</td>
       <td class="monsterDay">Shine Bird</td>
       <td class="dangerDay monsterDay">Squid Kaiser</td>
       <td class="dangerDay monsterDay">Mosh Polygon</td>
@@ -1563,7 +1563,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     </tr>
     <tr>
       <th rowspan="2">98</th>
-      <td class="monsterDay">Deathead</td>
+      <td class="monsterDay">Doomhead</td>
       <td class="monsterDay">Shine Bird</td>
       <td class="dangerDay monsterDay">Squid Kaiser</td>
       <td class="dangerDay monsterDay">Mosh Polygon</td>
@@ -1578,7 +1578,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     </tr>
     <tr>
       <th rowspan="2">99</th>
-      <td class="monsterDay">Deathead</td>
+      <td class="monsterDay">Doomhead</td>
       <td class="monsterDay">Shine Bird</td>
       <td class="dangerDay monsterDay">Squid Kaiser</td>
       <td class="dangerDay monsterDay">Mosh Polygon</td>

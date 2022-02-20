@@ -468,7 +468,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightDanger">Grampa Tank</td>
       <td class="highlightDanger">Digestiphant</td>
       <td>Voltdon</td>
-      <td class="highlightDanger">Porkchop</td>
+      <td class="highlightDanger">Porko</td>
       <td>Dance Polygon</td>
       <td class="highlightGray"></td>
     </tr>
@@ -478,7 +478,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightDanger">Grampa Tank</td>
       <td class="highlightDanger">Digestiphant</td>
       <td>Voltdon</td>
-      <td class="highlightDanger">Porkchop</td>
+      <td class="highlightDanger">Porko</td>
       <td>Dance Polygon</td>
       <td class="highlightGray"></td>
     </tr>
@@ -488,7 +488,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightExtreme">Scarabbit</td>
       <td class="highlightItem">Gyairas</td>
       <td>Voltdon</td>
-      <td class="highlightDanger">Porkchop</td>
+      <td class="highlightDanger">Porko</td>
       <td>Falcon Tengu</td>
       <td class="highlightGray"></td>
     </tr>
@@ -591,7 +591,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>46</th>
       <td class="highlightOffense">Killer Gyaza</td>
       <td class="highlightItem">Ooze</td>
-      <td class="highlightOffense">Ricebadger</td>
+      <td class="highlightOffense">Pandanigiri</td>
       <td class="highlightOffense">Katana Bee</td>
       <td class="highlightFarming">Froggon</td>
       <td class="highlightGray"></td>
@@ -603,7 +603,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>47</th>
       <td class="highlightUseful">Mixergon</td>
       <td class="highlightItem">Ooze</td>
-      <td class="highlightOffense">Ricebadger</td>
+      <td class="highlightOffense">Pandanigiri</td>
       <td class="highlightOffense">Katana Bee</td>
       <td class="highlightFarming">Froggon</td>
       <td class="highlightGray"></td>
@@ -614,7 +614,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>48</th>
       <td class="highlightUseful">Mixergon</td>
       <td class="highlightItem">Ooze</td>
-      <td class="highlightOffense">Ricebadger</td>
+      <td class="highlightOffense">Pandanigiri</td>
       <td class="highlightOffense">Katana Bee</td>
       <td class="highlightFarming">Froggon</td>
       <td class="highlightGray"></td>
@@ -625,7 +625,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>49</th>
       <td class="highlightUseful">Mixergon</td>
       <td class="highlightItem">Ooze</td>
-      <td class="highlightOffense">Ricebadger</td>
+      <td class="highlightOffense">Pandanigiri</td>
       <td class="highlightOffense">Katana Bee</td>
       <td class="highlightDanger">Squid Emperor</td>
       <td class="highlightGray"></td>
@@ -636,7 +636,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>50</th>
       <td>Tiger Chucker</td>
       <td class="highlightOffense">Sky Dragon</td>
-      <td class="highlightOffense">Ricebadger</td>
+      <td class="highlightOffense">Pandanigiri</td>
       <td class="highlightGray"></td>
       <td class="highlightDanger">Squid Emperor</td>
       <td class="highlightGray"></td>
@@ -728,7 +728,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightOffense">Gigahead</td>
       <td class="highlightOffense">Eligagan</td>
       <td>Pyrepuff</td>
-      <td class="highlightDanger">Porkton</td>
+      <td class="highlightDanger">Porkon</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -739,7 +739,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightOffense">Gigahead</td>
       <td class="highlightGray"></td>
       <td>Pyrepuff</td>
-      <td class="highlightDanger">Porkton</td>
+      <td class="highlightDanger">Porkon</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -750,7 +750,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightOffense">Gigahead</td>
       <td class="highlightGray"></td>
       <td>Pyrepuff</td>
-      <td class="highlightDanger">Porkton</td>
+      <td class="highlightDanger">Porkon</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -888,7 +888,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>74</th>
       <td class="highlightExtreme">Hell Gyaza</td>
       <td class="highlightDanger">Spirit Ham</td>
-      <td class="highlightOffense">Ricepanda</td>
+      <td class="highlightOffense">Onigirizzly</td>
       <td>Eagle Tengu</td>
       <td class="highlightItem">Sludge</td>
       <td class="highlightGray"></td>
@@ -898,7 +898,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>75</th>
       <td class="highlightExtreme">Hell Gyaza</td>
       <td class="highlightDanger">Spirit Ham</td>
-      <td class="highlightOffense">Ricepanda</td>
+      <td class="highlightOffense">Onigirizzly</td>
       <td class="highlightExtreme">MC Sorcerer</td>
       <td class="highlightItem">Sludge</td>
       <td class="highlightGray"></td>
@@ -908,7 +908,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>76</th>
       <td class="highlightExtreme">Hell Gyaza</td>
       <td class="highlightFarming">Mealy</td>
-      <td class="highlightOffense">Ricepanda</td>
+      <td class="highlightOffense">Onigirizzly</td>
       <td class="highlightExtreme">MC Sorcerer</td>
       <td class="highlightItem">Sludge</td>
       <td class="highlightGray"></td>
@@ -919,7 +919,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>77</th>
       <td class="highlightExtreme">Hell Gyaza</td>
       <td class="highlightFarming">Mealy</td>
-      <td class="highlightOffense">Ricepanda</td>
+      <td class="highlightOffense">Onigirizzly</td>
       <td class="highlightExtreme">MC Sorcerer</td>
       <td class="highlightItem">Sludge</td>
       <td class="highlightGray"></td>
@@ -929,7 +929,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>78</th>
       <td class="highlightExtreme">Hell Gyaza</td>
       <td class="highlightFarming">Mealy</td>
-      <td class="highlightOffense">Ricepanda</td>
+      <td class="highlightOffense">Onigirizzly</td>
       <td class="highlightDanger">Detonachin</td>
       <td class="highlightItem">Sludge</td>
       <td class="highlightGray"></td>
@@ -1014,7 +1014,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>86</th>
       <td class="highlightDanger">Osmammoth</td>
       <td class="highlightExtreme">Archdragon</td>
-      <td class="highlightExtreme">Porkgon</td>
+      <td class="highlightExtreme">Porgon</td>
       <td class="highlightDanger">Tiger Ace</td>
       <td class="highlightGray"></td>
       <td>Flashdon</td>
@@ -1025,7 +1025,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>87</th>
       <td class="highlightExtreme">Banana Master</td>
       <td class="highlightExtreme">Archdragon</td>
-      <td class="highlightExtreme">Porkgon</td>
+      <td class="highlightExtreme">Porgon</td>
       <td class="highlightDanger">Tiger Ace</td>
       <td class="highlightGray"></td>
       <td>Flashdon</td>
@@ -1036,7 +1036,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>88</th>
       <td class="highlightExtreme">Banana Master</td>
       <td class="highlightOffense">Gitan Mamel</td>
-      <td class="highlightExtreme">Porkgon</td>
+      <td class="highlightExtreme">Porgon</td>
       <td class="highlightDanger">Tiger Ace</td>
       <td class="highlightGray"></td>
       <td>Flashdon</td>
@@ -1047,7 +1047,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>89</th>
       <td class="highlightExtreme">Banana Master</td>
       <td class="highlightOffense">Gitan Mamel</td>
-      <td class="highlightExtreme">Porkgon</td>
+      <td class="highlightExtreme">Porgon</td>
       <td class="highlightDanger">Blight Scorp</td>
       <td class="highlightDanger">Pumptergeist</td>
       <td>Flashdon</td>
@@ -1092,7 +1092,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightExtreme">Mesmerikon</td>
       <td class="highlightOffense">Gitan Mamel</td>
       <td class="highlightOffense">Boingodile</td>
-      <td class="highlightItem">Honcho Knave</td>
+      <td class="highlightItem">Knave King</td>
       <td class="highlightDanger">Pumptergeist</td>
       <td class="highlightDanger">Shine Bird</td>
       <td class="highlightGray"></td>
@@ -1101,9 +1101,9 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>94</th>
       <td class="highlightExtreme">Mesmerikon</td>
-      <td class="highlightOffense">Deathead</td>
+      <td class="highlightOffense">Doomhead</td>
       <td class="highlightOffense">Boingodile</td>
-      <td class="highlightItem">Honcho Knave</td>
+      <td class="highlightItem">Knave King</td>
       <td class="highlightExtreme">Cranky Tank</td>
       <td class="highlightDanger">Shine Bird</td>
       <td class="highlightGray"></td>
@@ -1112,9 +1112,9 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>95</th>
       <td class="highlightExtreme">Mesmerikon</td>
-      <td class="highlightOffense">Deathead</td>
+      <td class="highlightOffense">Doomhead</td>
       <td class="highlightOffense">Boingodile</td>
-      <td class="highlightItem">Honcho Knave</td>
+      <td class="highlightItem">Knave King</td>
       <td class="highlightExtreme">Cranky Tank</td>
       <td class="highlightDanger">Shine Bird</td>
       <td class="highlightDanger">Mosh Polygon</td>
@@ -1123,9 +1123,9 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>96</th>
       <td class="highlightExtreme">Cash Gazer</td>
-      <td class="highlightOffense">Deathead</td>
+      <td class="highlightOffense">Doomhead</td>
       <td class="highlightDanger">Foly5</td>
-      <td class="highlightItem">Honcho Knave</td>
+      <td class="highlightItem">Knave King</td>
       <td class="highlightExtreme">Cranky Tank</td>
       <td class="highlightDanger">Shine Bird</td>
       <td class="highlightDanger">Mosh Polygon</td>
@@ -1134,9 +1134,9 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>97</th>
       <td class="highlightExtreme">Cash Gazer</td>
-      <td class="highlightOffense">Deathead</td>
+      <td class="highlightOffense">Doomhead</td>
       <td class="highlightDanger">Foly5</td>
-      <td class="highlightItem">Honcho Knave</td>
+      <td class="highlightItem">Knave King</td>
       <td class="highlightExtreme">Cranky Tank</td>
       <td class="highlightDanger">Shine Bird</td>
       <td class="highlightDanger">Mosh Polygon</td>
@@ -1145,9 +1145,9 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>98</th>
       <td class="highlightExtreme">Cash Gazer</td>
-      <td class="highlightOffense">Deathead</td>
+      <td class="highlightOffense">Doomhead</td>
       <td class="highlightDanger">Foly5</td>
-      <td class="highlightItem">Honcho Knave</td>
+      <td class="highlightItem">Knave King</td>
       <td class="highlightExtreme">Cranky Tank</td>
       <td class="highlightDanger">Shine Bird</td>
       <td class="highlightDanger">Mosh Polygon</td>
@@ -1156,9 +1156,9 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>99</th>
       <td class="highlightExtreme">Cash Gazer</td>
-      <td class="highlightOffense">Deathead</td>
+      <td class="highlightOffense">Doomhead</td>
       <td class="highlightDanger">Foly5</td>
-      <td class="highlightItem">Honcho Knave</td>
+      <td class="highlightItem">Knave King</td>
       <td class="highlightExtreme">Cranky Tank</td>
       <td class="highlightDanger">Shine Bird</td>
       <td class="highlightDanger">Mosh Polygon</td>

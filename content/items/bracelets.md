@@ -162,7 +162,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer 4: The Eye o
       <td class="highlightYellow">Bind Bracelet</td>
       <td rowspan="2">10000</td>
       <td rowspan="2">3500</td>
-      <td class="leftText">Protects items from being knocked away by Swordsman and Field Knave.</td>
+      <td class="leftText">Protects items from being knocked away by Kengo and Field Knave.</td>
     </tr>
     <tr>
       <td class="highlightYellow">Happy Bracelet</td>

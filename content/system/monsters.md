@@ -41,7 +41,7 @@ Monster Book Order
   </tr>
   <tr>
     <td class="highlightYellow"><a href="#seedie">Seedie</a></td>
-    <td class="highlightGray"><a href="#ricebear">Ricebear</a></td>
+    <td class="highlightGray"><a href="#kumonigiri">Kumonigiri</a></td>
     <td class="highlightYellow"><a href="#tiger-tosser">Tiger Tosser</a></td>
     <td class="highlightGray"><a href="#porky">Porky</a></td>
     <td class="highlightYellow"><a href="#yanpii">Yanpii</a></td>
@@ -79,7 +79,7 @@ Monster Book Order
     <td class="highlightYellow"><a href="#squid-king">Squid King</a></td>
     <td class="highlightGray"><a href="#curse-girl">Curse Girl</a></td>
     <td class="highlightYellow"><a href="#n'dubba">N'dubba</a></td>
-    <td class="highlightGray"><a href="#swordsman">Swordsman</a></td>
+    <td class="highlightGray"><a href="#kengo">Kengo</a></td>
     <td class="highlightYellow"><a href="#cheer-ham">Cheer Ham</a></td>
     <td class="highlightGray"><a href="#mutaikon">Mutaikon</a></td>
     <td></td>
@@ -112,7 +112,7 @@ Element Order
   <tr>
     <td class="highlightYellow">Normal</td>
     <td>
-      <a href="#mamel">Mamel</a> | <a href="#chintala">Chintala</a> | <a href="#seedie">Seedie</a> | <a href="#banana-novice">Banana Novice</a> | <a href="#froggo">Froggo</a> | <a href="#tiger-tosser">Tiger Tosser</a> | <a href="#curse-girl">Curse Girl</a><br/><a href="#floaty">Floaty</a> | <a href="#mixer">Mixer</a> | <a href="#swordsman">Swordsman</a> | <a href="#cheer-ham">Cheer Ham</a> | <a href="#yanpii">Yanpii</a> | <a href="#eligan">Eligan</a> | <a href="#zapdon">Zapdon</a> | <a href="#porky">Porky</a><br/><a href="#n'dubba">N'dubba</a> | <a href="#boy-cart">Boy Cart</a> | <a href="#ricebear">Ricebear</a> | <a href="#field-knave">Field Knave</a> | <a href="#dj-mage">DJ Mage</a> | <a href="#fearabbit">Fearabbit</a> | <a href="#mutaikon">Mutaikon</a><br/><a href="#maneater">Maneater</a></td>
+      <a href="#mamel">Mamel</a> | <a href="#chintala">Chintala</a> | <a href="#seedie">Seedie</a> | <a href="#banana-novice">Banana Novice</a> | <a href="#froggo">Froggo</a> | <a href="#tiger-tosser">Tiger Tosser</a> | <a href="#curse-girl">Curse Girl</a><br/><a href="#floaty">Floaty</a> | <a href="#mixer">Mixer</a> | <a href="#kengo">Kengo</a> | <a href="#cheer-ham">Cheer Ham</a> | <a href="#yanpii">Yanpii</a> | <a href="#eligan">Eligan</a> | <a href="#zapdon">Zapdon</a> | <a href="#porky">Porky</a><br/><a href="#n'dubba">N'dubba</a> | <a href="#boy-cart">Boy Cart</a> | <a href="#kumonigiri">Kumonigiri</a> | <a href="#field-knave">Field Knave</a> | <a href="#dj-mage">DJ Mage</a> | <a href="#fearabbit">Fearabbit</a> | <a href="#mutaikon">Mutaikon</a><br/><a href="#maneater">Maneater</a></td>
     <td>No type-effective weakness</td>
   </tr>
   <tr>
@@ -1263,7 +1263,7 @@ Element Order
   </tr>
 </table>
 
-### Ricebear
+### Kumonigiri
 
 <div class="relativeImage monsterImage">
   <img src="../images/monsters/ricebear.png"/><img src="../images/monsters/ricebear_2.png"/><img src="../images/monsters/ricebear_3.png"/><img src="../images/monsters/ricebear_4.png"/>
@@ -1284,7 +1284,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">1</td>
-    <td>Ricebear</td>
+    <td>Kumonigiri</td>
     <td>25</td>
     <td>15</td>
     <td>8</td>
@@ -3454,7 +3454,7 @@ Element Order
   </tr>
 </table>
 
-### Swordsman
+### Kengo
 
 <div class="relativeImage monsterImage">
   <img src="../images/monsters/swordsman.png"/><img src="../images/monsters/swordsman_2.png"/><img src="../images/monsters/swordsman_3.png"/><img src="../images/monsters/swordsman_4.png"/>
@@ -3475,7 +3475,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">1</td>
-    <td>Swordsman</td>
+    <td>Kengo</td>
     <td>58</td>
     <td>32</td>
     <td>16</td>
@@ -3495,7 +3495,7 @@ Element Order
     <td>90</td>
     <td>2%</td>
     <td>-</td>
-    <td>Same as Swordsman, but also weapons.</td>
+    <td>Same as Kengo, but also weapons.</td>
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
@@ -3507,7 +3507,7 @@ Element Order
     <td>300</td>
     <td>2%</td>
     <td>-</td>
-    <td>Same as Swordsman, but also weapons and bracelets.</td>
+    <td>Same as Kengo, but also weapons and bracelets.</td>
   </tr>
   <tr>
     <td class="highlightYellow">4</td>

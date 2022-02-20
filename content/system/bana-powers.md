@@ -179,17 +179,17 @@ Locked Bana Powers are represented by a checkmark next to the number.
   </tr>
   <tr>
     <td>4 Tile Rock</td>
-    <td>Porkchop</td>
+    <td>Porko</td>
     <td>Throws a Porky Rock at a target within a 4 tile radius. (20 damage)<br/>Only throws rocks at targets within view.</td>
   </tr>
   <tr>
     <td>6 Tile Rock</td>
-    <td>Porkton</td>
+    <td>Porkon</td>
     <td>Throws a Porky Rock at a target within a 6 tile radius. (20 damage)<br/>Only throws rocks at targets within view.</td>
   </tr>
   <tr>
     <td>10 Tile Rock</td>
-    <td>Porkgon</td>
+    <td>Porgon</td>
     <td>Throws a Porky Rock at a target within a 10 tile radius. (20 damage)<br/>Only throws rocks at targets within view.</td>
   </tr>
   <tr>

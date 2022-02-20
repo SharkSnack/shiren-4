@@ -102,7 +102,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tbody>
     <tr>
       <th>1</th>
-      <td class="">Dark Ricebear</td>
+      <td class="">Dark Kumonigiri</td>
       <td class="">Dark Squid King</td>
       <td class="">Evil Firepuff</td>
       <td class="highlightGray"></td>
@@ -110,7 +110,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>2</th>
-      <td class="">Dark Ricebear</td>
+      <td class="">Dark Kumonigiri</td>
       <td class="">Dark Squid King</td>
       <td class="">Evil Firepuff</td>
       <td class="">Dark Bored Kappa</td>
@@ -118,7 +118,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>3</th>
-      <td class="">Dark Ricebear</td>
+      <td class="">Dark Kumonigiri</td>
       <td class="highlightDanger">Dark Pop Tank</td>
       <td class="">Evil Firepuff</td>
       <td class="">Dark Bored Kappa</td>
@@ -201,7 +201,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="">Dark Traproid</td>
       <td class="">Dark Strong Cart</td>
       <td class="">Evil Hipadile</td>
-      <td class="">Dark Curse Sister</td>
+      <td class="">Foul Curse Sister</td>
       <td class="">Evil Spin Polygon</td>
     </tr>
     <tr>
@@ -209,7 +209,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightOffense">Evil Dragon</td>
       <td class="">Dark DJ Mage</td>
       <td class="">Evil Hipadile</td>
-      <td class="">Dark Curse Sister</td>
+      <td class="">Foul Curse Sister</td>
       <td class="">Evil Spin Polygon</td>
     </tr>
     <tr>
@@ -217,7 +217,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightOffense">Evil Dragon</td>
       <td class="">Dark DJ Mage</td>
       <td class="">Dark Hurler</td>
-      <td class="">Dark Curse Sister</td>
+      <td class="">Foul Curse Sister</td>
       <td class="">Dark Sr. Yanpii</td>
     </tr>
     <tr>
@@ -295,7 +295,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>25</th>
       <td class="">Dark Pot Knave</td>
-      <td class="">Evil Porkchop</td>
+      <td class="">Evil Porko</td>
       <td class="highlightDanger">Dark Grampa Tank</td>
       <td class="">Dark Eligagon</td>
       <td class="">Evil Flamepuff</td>
@@ -303,7 +303,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>26</th>
       <td class="">Dark Glare Bird</td>
-      <td class="">Evil Porkchop</td>
+      <td class="">Evil Porko</td>
       <td class="highlightDanger">Dark Grampa Tank</td>
       <td class="">Dark Eligagon</td>
       <td class="">Evil Flamepuff</td>
@@ -311,7 +311,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>27</th>
       <td class="">Dark Glare Bird</td>
-      <td class="">Evil Porkchop</td>
+      <td class="">Evil Porko</td>
       <td class="highlightDanger">Dark Grampa Tank</td>
       <td class="">Dark Eligagon</td>
       <td class="">Evil Flamepuff</td>
@@ -456,7 +456,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>45</th>
       <td class="">Dark Cave Mamel</td>
       <td class="">Dark Katana Bee</td>
-      <td class="">Dark Curse Mom</td>
+      <td class="">Foul Curse Mom</td>
       <td class="">Dark Gigahead</td>
       <td class="">Dark Steamroid</td>
     </tr>
@@ -464,7 +464,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>46</th>
       <td class="">Dark Cave Mamel</td>
       <td class="">Dark Katana Bee</td>
-      <td class="">Dark Curse Mom</td>
+      <td class="">Foul Curse Mom</td>
       <td class="">Dark Gigahead</td>
       <td class="">Dark Steamroid</td>
     </tr>
@@ -472,7 +472,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>47</th>
       <td class="">Dark Cave Mamel</td>
       <td class="">Vile Stun Scorp</td>
-      <td class="">Dark Curse Mom</td>
+      <td class="">Foul Curse Mom</td>
       <td class="">Dark Gigahead</td>
       <td class="">Dark Steamroid</td>
     </tr>
@@ -519,7 +519,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>53</th>
       <td class="highlightDanger">Dark Ornery Tank</td>
-      <td class="">Dark Ricepanda</td>
+      <td class="">Dark Onigirizzly</td>
       <td class="">Dark Twinkle Bird</td>
       <td class="">Dark Lt. Yanpii</td>
       <td class="">Vile Ooze</td>
@@ -527,7 +527,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>54</th>
       <td class="highlightDanger">Dark Ornery Tank</td>
-      <td class="">Dark Ricepanda</td>
+      <td class="">Dark Onigirizzly</td>
       <td class="">Dark Twinkle Bird</td>
       <td class="highlightOffense">Dark Kappa Troll</td>
       <td class="">Vile Ooze</td>
@@ -535,7 +535,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>55</th>
       <td class="highlightDanger">Dark Ornery Tank</td>
-      <td class="">Dark Ricepanda</td>
+      <td class="">Dark Onigirizzly</td>
       <td class="">Dark Twinkle Bird</td>
       <td class="highlightOffense">Dark Kappa Troll</td>
       <td class="">Vile Ooze</td>
@@ -543,7 +543,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>56</th>
       <td class="highlightDanger">Dark Ornery Tank</td>
-      <td class="">Dark Ricepanda</td>
+      <td class="">Dark Onigirizzly</td>
       <td class="">Dark Ace</td>
       <td class="highlightOffense">Dark Kappa Troll</td>
       <td class="highlightExtreme">Dark Dozikon</td>
@@ -551,7 +551,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>57</th>
       <td class="highlightDanger">Dark Ornery Tank</td>
-      <td class="">Dark Ricepanda</td>
+      <td class="">Dark Onigirizzly</td>
       <td class="">Dark Ace</td>
       <td class="">Evil Shihan</td>
       <td class="highlightExtreme">Dark Dozikon</td>
@@ -607,7 +607,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>64</th>
       <td class="highlightExtreme">Evil Archdragon</td>
-      <td class="highlightDanger">Dark Honcho Knave</td>
+      <td class="highlightDanger">Dark Knave King</td>
       <td class="">Mean Rally Ham</td>
       <td class="highlightOffense">Evil Fulminachin</td>
       <td class="">Wild Gyandora</td>
@@ -615,7 +615,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>65</th>
       <td class="highlightExtreme">Evil Archdragon</td>
-      <td class="highlightDanger">Dark Honcho Knave</td>
+      <td class="highlightDanger">Dark Knave King</td>
       <td class="">Mean Rally Ham</td>
       <td class="">Dark Zanbeeto</td>
       <td class="highlightDanger">Dark Osmammoth</td>
@@ -623,7 +623,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>66</th>
       <td class="highlightExtreme">Evil Archdragon</td>
-      <td class="highlightDanger">Dark Honcho Knave</td>
+      <td class="highlightDanger">Dark Knave King</td>
       <td class="">Mean Rally Ham</td>
       <td class="">Dark Zanbeeto</td>
       <td class="highlightDanger">Dark Osmammoth</td>
@@ -655,7 +655,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>70</th>
       <td class="">Dark Elizgagon</td>
-      <td class="">Dark Curse Gramma</td>
+      <td class="">Foul Curse Gramma</td>
       <td class="">Foul Master</td>
       <td class="">Dark Zanbeeto</td>
       <td class="highlightFarming">Bad Fade Zalokleft</td>
@@ -663,7 +663,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>71</th>
       <td class="">Dark Elizgagon</td>
-      <td class="">Dark Curse Gramma</td>
+      <td class="">Foul Curse Gramma</td>
       <td class="">Foul Master</td>
       <td class="">Vile Blight Scorp</td>
       <td class="highlightOffense">Dark Shine Bird</td>
@@ -671,7 +671,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>72</th>
       <td class="">Dark Elizgagon</td>
-      <td class="">Dark Curse Gramma</td>
+      <td class="">Foul Curse Gramma</td>
       <td class="">Foul Master</td>
       <td class="">Vile Blight Scorp</td>
       <td class="highlightOffense">Dark Shine Bird</td>
@@ -694,7 +694,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>75</th>
-      <td class="highlightDanger">Evil Porkgon</td>
+      <td class="highlightDanger">Evil Porgon</td>
       <td class="highlightFarming">Snide Froggon</td>
       <td class="">Evil Boingodile</td>
       <td class="">Vile Sludge</td>
@@ -702,7 +702,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>76</th>
-      <td class="highlightDanger">Evil Porkgon</td>
+      <td class="highlightDanger">Evil Porgon</td>
       <td class="highlightFarming">Snide Froggon</td>
       <td class="">Evil Boingodile</td>
       <td class="">Vile Sludge</td>
@@ -710,7 +710,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>77</th>
-      <td class="highlightDanger">Evil Porkgon</td>
+      <td class="highlightDanger">Evil Porgon</td>
       <td class="highlightFarming">Snide Froggon</td>
       <td class="">Evil Boingodile</td>
       <td class="">Dark Boss Yanpii</td>
@@ -718,7 +718,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>78</th>
-      <td class="highlightDanger">Evil Porkgon</td>
+      <td class="highlightDanger">Evil Porgon</td>
       <td class="highlightOffense">Dark Squid Kaiser</td>
       <td class="">Evil Boingodile</td>
       <td class="">Dark Boss Yanpii</td>
@@ -726,17 +726,17 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>79</th>
-      <td class="highlightDanger">Evil Porkgon</td>
+      <td class="highlightDanger">Evil Porgon</td>
       <td class="highlightOffense">Dark Squid Kaiser</td>
-      <td class="">Dark Deathead</td>
+      <td class="">Dark Doomhead</td>
       <td class="">Dark Boss Yanpii</td>
       <td class="">Evil Tatsujin</td>
     </tr>
     <tr>
       <th>80</th>
-      <td class="highlightDanger">Evil Porkgon</td>
+      <td class="highlightDanger">Evil Porgon</td>
       <td class="highlightOffense">Dark Squid Kaiser</td>
-      <td class="">Dark Deathead</td>
+      <td class="">Dark Doomhead</td>
       <td class="">Dark Gitan Mamel</td>
       <td class="highlightExtreme">Dark Mesmerikon</td>
     </tr>
@@ -744,7 +744,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>81</th>
       <td class="">Vile Pumptergeist</td>
       <td class="">Bad Phoenix Tengu</td>
-      <td class="">Dark Deathead</td>
+      <td class="">Dark Doomhead</td>
       <td class="">Dark Gitan Mamel</td>
       <td class="highlightExtreme">Dark Mesmerikon</td>
     </tr>
@@ -752,7 +752,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>82</th>
       <td class="">Vile Pumptergeist</td>
       <td class="">Bad Phoenix Tengu</td>
-      <td class="">Dark Deathead</td>
+      <td class="">Dark Doomhead</td>
       <td class="">Dark Gitan Mamel</td>
       <td class="highlightExtreme">Dark Mesmerikon</td>
     </tr>
@@ -760,7 +760,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>83</th>
       <td class="">Vile Pumptergeist</td>
       <td class="">Bad Phoenix Tengu</td>
-      <td class="">Dark Deathead</td>
+      <td class="">Dark Doomhead</td>
       <td class="">Dark Gitan Mamel</td>
       <td class="highlightGray"></td>
     </tr>
@@ -768,7 +768,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>84</th>
       <td class="">Wild Gyandoron</td>
       <td class="highlightExtreme">Snide Kleptoad</td>
-      <td class="">Dark Deathead</td>
+      <td class="">Dark Doomhead</td>
       <td class="">Dark Gitan Mamel</td>
       <td class="highlightGray"></td>
     </tr>

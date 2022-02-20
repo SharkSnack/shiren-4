@@ -584,56 +584,56 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>45</th>
-      <td class="">Deathead</td>
+      <td class="">Doomhead</td>
       <td class="">Kleptoad</td>
       <td class="">Crow Tengu</td>
       <td class="">Banana Boss</td>
       <td class="">Blazepuff</td>
-      <td class="">Ricepanda</td>
+      <td class="">Onigirizzly</td>
       <td class="">Curse Girl</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
       <th>46</th>
-      <td class="">Deathead</td>
+      <td class="">Doomhead</td>
       <td class="">Kleptoad</td>
       <td class="">Crow Tengu</td>
       <td class="">Banana Boss</td>
       <td class="highlightGray"></td>
-      <td class="">Ricepanda</td>
+      <td class="">Onigirizzly</td>
       <td class="">Curse Girl</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
       <th>47</th>
-      <td class="">Deathead</td>
+      <td class="">Doomhead</td>
       <td class="">Kleptoad</td>
       <td class="">Crow Tengu</td>
       <td class="">Dazikon</td>
       <td class="highlightGray"></td>
-      <td class="">Ricepanda</td>
+      <td class="">Onigirizzly</td>
       <td class="">Curse Girl</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
       <th>48</th>
-      <td class="">Deathead</td>
+      <td class="">Doomhead</td>
       <td class="">Kleptoad</td>
       <td class="">Crow Tengu</td>
       <td class="">Dazikon</td>
       <td class="">Shihan</td>
-      <td class="">Ricepanda</td>
+      <td class="">Onigirizzly</td>
       <td class="">Curse Girl</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
       <th>49</th>
-      <td class="">Deathead</td>
+      <td class="">Doomhead</td>
       <td class="">Kleptoad</td>
       <td class="">Crow Tengu</td>
       <td class="">Dazikon</td>
       <td class="">Shihan</td>
-      <td class="">Ricepanda</td>
+      <td class="">Onigirizzly</td>
       <td class="">Curse Girl</td>
       <td class="highlightGray"></td>
     </tr>
@@ -644,7 +644,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="">Traproid</td>
       <td class="">Squid Lord</td>
       <td class="">Shihan</td>
-      <td class="">Ricepanda</td>
+      <td class="">Onigirizzly</td>
       <td class="">Curse Girl</td>
       <td class="">Pit Mamel</td>
     </tr>
@@ -1036,7 +1036,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>86</th>
       <td class="">Gitan Mamel</td>
-      <td class="">Ricebear</td>
+      <td class="">Kumonigiri</td>
       <td class="">Voltdon</td>
       <td class="">Pop Tank</td>
       <td class="">Gigahead</td>
@@ -1047,7 +1047,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>87</th>
       <td class="">Gitan Mamel</td>
-      <td class="">Ricebear</td>
+      <td class="">Kumonigiri</td>
       <td class="highlightGray"></td>
       <td class="">Pop Tank</td>
       <td class="">Gigahead</td>
@@ -1058,7 +1058,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>88</th>
       <td class="">Gitan Mamel</td>
-      <td class="">Ricebear</td>
+      <td class="">Kumonigiri</td>
       <td class="highlightGray"></td>
       <td class="">Pop Tank</td>
       <td class="">Gigahead</td>
@@ -1069,7 +1069,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>89</th>
       <td class="">Gitan Mamel</td>
-      <td class="">Ricebear</td>
+      <td class="">Kumonigiri</td>
       <td class="">Fearabbit</td>
       <td class="">MC Sorcerer</td>
       <td class="">Gigahead</td>

@@ -152,7 +152,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>5</th>
       <td class="">Froggo</td>
       <td class="">Blade Bee</td>
-      <td class="">Ricebear</td>
+      <td class="">Kumonigiri</td>
       <td class="">Firepuff</td>
       <td class="highlightGray"></td>
       <td class="">Banana Novice</td>
@@ -164,7 +164,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>6</th>
       <td class="">Froggo</td>
       <td class="">Blade Bee</td>
-      <td class="">Ricebear</td>
+      <td class="">Kumonigiri</td>
       <td class="highlightGray"></td>
       <td class="">Ironhead</td>
       <td class="highlightGray"></td>
@@ -176,7 +176,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>7</th>
       <td class="">Froggo</td>
       <td class="">Gazer</td>
-      <td class="">Ricebear</td>
+      <td class="">Kumonigiri</td>
       <td class="">Firepuff</td>
       <td class="">Ironhead</td>
       <td class="">Tiger Tosser</td>
@@ -188,7 +188,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>8</th>
       <td class="">Absorbiphant</td>
       <td class="">Gazer</td>
-      <td class="">Ricebear</td>
+      <td class="">Kumonigiri</td>
       <td class="highlightGray"></td>
       <td class="">Ironhead</td>
       <td class="">Tiger Tosser</td>
@@ -522,7 +522,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>36</th>
-      <td class="">Ricebadger</td>
+      <td class="">Pandanigiri</td>
       <td class="">Steamroid</td>
       <td class="">Pumphantom</td>
       <td class="">Banana Morph</td>
@@ -534,7 +534,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>37</th>
-      <td class="">Ricebadger</td>
+      <td class="">Pandanigiri</td>
       <td class="">Steamroid</td>
       <td class="">Pumphantom</td>
       <td class="">Squid Emperor</td>
@@ -546,7 +546,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>38</th>
-      <td class="">Ricebadger</td>
+      <td class="">Pandanigiri</td>
       <td class="">Steamroid</td>
       <td class="">Pumphantom</td>
       <td class="">Squid Emperor</td>
@@ -558,7 +558,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>39</th>
-      <td class="">Ricebadger</td>
+      <td class="">Pandanigiri</td>
       <td class="">Steamroid</td>
       <td class="">Pumphantom</td>
       <td class="">Squid Emperor</td>
@@ -570,7 +570,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th class="highlightShop">40</th>
-      <td class="">Ricebadger</td>
+      <td class="">Pandanigiri</td>
       <td class="">Steamroid</td>
       <td class="">Nuttie</td>
       <td class="">Jouncy</td>

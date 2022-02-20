@@ -138,7 +138,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>5</th>
       <td>Banana Novice</td>
       <td>Blade Bee</td>
-      <td>Ricebear</td>
+      <td>Kumonigiri</td>
       <td class="highlightGray"></td>
       <td>Cheer Ham</td>
       <td>DJ Mage</td>
@@ -147,7 +147,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>6</th>
       <td>Ironhead</td>
       <td>Blade Bee</td>
-      <td>Ricebear</td>
+      <td>Kumonigiri</td>
       <td class="highlightGray"></td>
       <td>Cheer Ham</td>
       <td>Boy Cart</td>
@@ -156,7 +156,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>7</th>
       <td>Ironhead</td>
       <td>Gazer</td>
-      <td>Ricebear</td>
+      <td>Kumonigiri</td>
       <td>Tiger Tosser</td>
       <td class="highlightGray"></td>
       <td>DJ Mage</td>
@@ -165,7 +165,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>8</th>
       <td>Ironhead</td>
       <td>Gazer</td>
-      <td>Ricebear</td>
+      <td>Kumonigiri</td>
       <td>Tiger Tosser</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>

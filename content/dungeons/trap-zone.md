@@ -138,35 +138,35 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="">Hopodile</td>
       <td class="">Squid King</td>
       <td class="">Cheer Ham</td>
-      <td class="highlightFarming">Ricebear</td>
+      <td class="highlightFarming">Kumonigiri</td>
     </tr>
     <tr>
       <th>7</th>
       <td class="">Ironhead</td>
       <td class="highlightDanger">Absorbiphant</td>
       <td class="">Cheer Ham</td>
-      <td class="highlightFarming">Ricebear</td>
+      <td class="highlightFarming">Kumonigiri</td>
     </tr>
     <tr>
       <th>8</th>
       <td class="">Ironhead</td>
       <td class="highlightDanger">Absorbiphant</td>
       <td class="">Scorpion</td>
-      <td class="highlightFarming">Ricebear</td>
+      <td class="highlightFarming">Kumonigiri</td>
     </tr>
     <tr>
       <th>9</th>
       <td class="">Ironhead</td>
       <td class="highlightDanger">Absorbiphant</td>
       <td class="">Scorpion</td>
-      <td class="highlightFarming">Ricebear</td>
+      <td class="highlightFarming">Kumonigiri</td>
     </tr>
     <tr>
       <th>10</th>
       <td class="">Ironhead</td>
       <td class="">DJ Mage</td>
       <td class="">Scorpion</td>
-      <td class="highlightFarming">Ricebear</td>
+      <td class="highlightFarming">Kumonigiri</td>
     </tr>
     <tr>
       <th>11</th>
@@ -411,54 +411,54 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="">Dance Polygon</td>
       <td class="highlightFarming">Lime Zalokleft</td>
       <td class="highlightItem">Iai</td>
-      <td class="highlightDanger">Porkchop</td>
+      <td class="highlightDanger">Porko</td>
     </tr>
     <tr>
       <th>46</th>
       <td class="">Dance Polygon</td>
       <td class="highlightFarming">Lime Zalokleft</td>
       <td class="highlightItem">Iai</td>
-      <td class="highlightDanger">Porkchop</td>
+      <td class="highlightDanger">Porko</td>
     </tr>
     <tr>
       <th>47</th>
       <td class="highlightFarming">Froggon</td>
       <td class="highlightFarming">Lime Zalokleft</td>
       <td class="highlightItem">Iai</td>
-      <td class="highlightDanger">Porkchop</td>
+      <td class="highlightDanger">Porko</td>
     </tr>
     <tr>
       <th>48</th>
       <td class="highlightFarming">Froggon</td>
-      <td class="highlightFarming">Ricebadger</td>
+      <td class="highlightFarming">Pandanigiri</td>
       <td class="highlightOffense">Lt. Yanpii</td>
-      <td class="highlightDanger">Porkchop</td>
+      <td class="highlightDanger">Porko</td>
     </tr>
     <tr>
       <th>49</th>
       <td class="highlightFarming">Froggon</td>
-      <td class="highlightFarming">Ricebadger</td>
+      <td class="highlightFarming">Pandanigiri</td>
       <td class="highlightOffense">Lt. Yanpii</td>
-      <td class="highlightDanger">Porkchop</td>
+      <td class="highlightDanger">Porko</td>
     </tr>
     <tr>
       <th>50</th>
       <td class="">Tiger Chucker</td>
-      <td class="highlightFarming">Ricebadger</td>
+      <td class="highlightFarming">Pandanigiri</td>
       <td class="highlightOffense">Lt. Yanpii</td>
       <td class="highlightItem">Ooze</td>
     </tr>
     <tr>
       <th>51</th>
       <td class="">Tiger Chucker</td>
-      <td class="highlightFarming">Ricebadger</td>
+      <td class="highlightFarming">Pandanigiri</td>
       <td class="highlightDanger">Fulminachin</td>
       <td class="highlightItem">Ooze</td>
     </tr>
     <tr>
       <th>52</th>
       <td class="">Tiger Chucker</td>
-      <td class="highlightFarming">Ricebadger</td>
+      <td class="highlightFarming">Pandanigiri</td>
       <td class="highlightDanger">Fulminachin</td>
       <td class="highlightItem">Ooze</td>
     </tr>
@@ -522,35 +522,35 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>61</th>
       <td class="highlightOffense">Gigahead</td>
       <td class="highlightItem">Vexing Kappa</td>
-      <td class="highlightDanger">Porkton</td>
+      <td class="highlightDanger">Porkon</td>
       <td class="highlightExtreme">MC Wizard</td>
     </tr>
     <tr>
       <th>62</th>
       <td class="highlightOffense">Gigahead</td>
       <td class="highlightItem">Vexing Kappa</td>
-      <td class="highlightDanger">Porkton</td>
+      <td class="highlightDanger">Porkon</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
       <th>63</th>
       <td class="highlightOffense">Gigahead</td>
       <td class="highlightItem">Vexing Kappa</td>
-      <td class="highlightDanger">Porkton</td>
+      <td class="highlightDanger">Porkon</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
       <th>64</th>
       <td class="highlightOffense">Gigahead</td>
       <td class="highlightDanger">Hyper Gazer</td>
-      <td class="highlightDanger">Porkton</td>
+      <td class="highlightDanger">Porkon</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
       <th>65</th>
       <td class="">Stun Scorp</td>
       <td class="highlightDanger">Hyper Gazer</td>
-      <td class="highlightDanger">Porkton</td>
+      <td class="highlightDanger">Porkon</td>
       <td class="highlightExtreme">Dozikon</td>
     </tr>
     <tr>
@@ -717,79 +717,79 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>89</th>
       <td class="highlightOffense">Boingodile</td>
-      <td class="highlightExtreme">Porkgon</td>
+      <td class="highlightExtreme">Porgon</td>
       <td class="highlightItem">Banana Master</td>
-      <td class="highlightItem">Honcho Knave</td>
+      <td class="highlightItem">Knave King</td>
     </tr>
     <tr>
       <th>90</th>
       <td class="highlightOffense">Boingodile</td>
-      <td class="highlightExtreme">Porkgon</td>
+      <td class="highlightExtreme">Porgon</td>
       <td class="">Fade Zalokleft</td>
-      <td class="highlightItem">Honcho Knave</td>
+      <td class="highlightItem">Knave King</td>
     </tr>
     <tr>
       <th>91</th>
       <td class="highlightOffense">Boingodile</td>
-      <td class="highlightExtreme">Porkgon</td>
+      <td class="highlightExtreme">Porgon</td>
       <td class="">Fade Zalokleft</td>
-      <td class="highlightItem">Honcho Knave</td>
+      <td class="highlightItem">Knave King</td>
     </tr>
     <tr>
       <th>92</th>
       <td class="highlightOffense">Boingodile</td>
-      <td class="highlightExtreme">Porkgon</td>
+      <td class="highlightExtreme">Porgon</td>
       <td class="">Fade Zalokleft</td>
       <td class="highlightDanger">Squid Kaiser</td>
     </tr>
     <tr>
       <th>93</th>
       <td class="">Blight Scorp</td>
-      <td class="highlightExtreme">Porkgon</td>
+      <td class="highlightExtreme">Porgon</td>
       <td class="">Mosh Polygon</td>
       <td class="highlightDanger">Squid Kaiser</td>
     </tr>
     <tr>
       <th>94</th>
       <td class="">Blight Scorp</td>
-      <td class="highlightExtreme">Porkgon</td>
+      <td class="highlightExtreme">Porgon</td>
       <td class="">Mosh Polygon</td>
       <td class="highlightDanger">Squid Kaiser</td>
     </tr>
     <tr>
       <th>95</th>
       <td class="">Blight Scorp</td>
-      <td class="highlightOffense">Deathead</td>
+      <td class="highlightOffense">Doomhead</td>
       <td class="">Mosh Polygon</td>
-      <td class="highlightOffense">Ricegrizzly</td>
+      <td class="highlightOffense">Kodionigiri</td>
     </tr>
     <tr>
       <th>96</th>
       <td class="">Blight Scorp</td>
-      <td class="highlightOffense">Deathead</td>
+      <td class="highlightOffense">Doomhead</td>
       <td class="">Mosh Polygon</td>
-      <td class="highlightOffense">Ricegrizzly</td>
+      <td class="highlightOffense">Kodionigiri</td>
     </tr>
     <tr>
       <th>97</th>
       <td class="">Blight Scorp</td>
-      <td class="highlightOffense">Deathead</td>
+      <td class="highlightOffense">Doomhead</td>
       <td class="">Mosh Polygon</td>
-      <td class="highlightOffense">Ricegrizzly</td>
+      <td class="highlightOffense">Kodionigiri</td>
     </tr>
     <tr>
       <th>98</th>
       <td class="">Blight Scorp</td>
-      <td class="highlightOffense">Deathead</td>
+      <td class="highlightOffense">Doomhead</td>
       <td class="">Mosh Polygon</td>
-      <td class="highlightOffense">Ricegrizzly</td>
+      <td class="highlightOffense">Kodionigiri</td>
     </tr>
     <tr>
       <th>99</th>
       <td class="">Blight Scorp</td>
-      <td class="highlightOffense">Deathead</td>
+      <td class="highlightOffense">Doomhead</td>
       <td class="">Mosh Polygon</td>
-      <td class="highlightOffense">Ricegrizzly</td>
+      <td class="highlightOffense">Kodionigiri</td>
     </tr>
   </tbody>
 </table>

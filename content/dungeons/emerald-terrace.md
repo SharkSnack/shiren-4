@@ -479,7 +479,7 @@ Linger on floors and hunt monsters to level equipment early game.
 
 ### Abilities
 
-Night monsters can be one-shot by most abilities until Devil's Navel,<br/>but some like Dark Ricebadger and Evil Sky Dragon require A rank or higher abilities.
+Night monsters can be one-shot by most abilities until Devil's Navel,<br/>but some like Dark Pandanigiri and Evil Sky Dragon require A rank or higher abilities.
 
 Recommended Abilities:
 
@@ -557,7 +557,7 @@ Buy all bananas, torches, and Storage Pots that are in stock.<br/>If a Lamp Shie
 </div>
 
 First area to feature a day and night cycle.<br/>
-Level up a Ricebear (6-8F) to Ricebadger using items like Fear or Berserk talismans,<br/>and then defeat it using direct attacks after inflicting a status condition to level up equipment.<br/>Monsters with auras provide x2.0 experience points, and use a Growth Seed if you have one.<br/>※ Unlike Shiren 5, talismans other than Seal Talisman don't remove auras in this game.
+Level up a Kumonigiri (6-8F) to Pandanigiri using items like Fear or Berserk talismans,<br/>and then defeat it using direct attacks after inflicting a status condition to level up equipment.<br/>Monsters with auras provide x2.0 experience points, and use a Growth Seed if you have one.<br/>※ Unlike Shiren 5, talismans other than Seal Talisman don't remove auras in this game.
 
 Hunt Zaloklefts (8-10F) for item drops.<br/>Intentionally get hit by Firepuff (6-8F)'s special attack to grill bananas.<br/>Step in place near the stairs at night after checking every room, and defeat night monsters<br/>for experience points and item drops until you've used up all abilities before advancing.<br/>Foul Morphs (8-10F) occasionally drop blessed Spoiled Bananas, which can be grilled.
 
@@ -804,7 +804,7 @@ The day and night cycle returns starting on 27F, so finish synthesizing on 26F.<
 
 Mixers continue to appear on 27F, so finish synthesizing if you didn't do so on 26F.<br/>MC Mage's magic bullet effect is randomly selected from confusion, blind, transient, and 20 damage.<br/>If a Kappa Pest is standing on an item, swing a Transient Staff or wait until night to claim the item.<br/>Grimes lower weapon or shield upgrade value by 2 and can multiply, so unequip your equipment.<br/>Continue to hunt Lime Zaloklefts (24-30F) for item drops if possible.<br/>Remember, you want to save Seal Staff for the final boss.
 
-Dark Ricebadgers and Evil Sky Dragons can't be one-shot with B rank abilities at night.<br/>Evil Sky Dragon's special attack deals 50 fire damage from anywhere in the room, so stay in hallways.<br/>That said, Evil Sky Dragons provide 1500 experience points, so try to defeat any that you see.
+Dark Pandanigiris and Evil Sky Dragons can't be one-shot with B rank abilities at night.<br/>Evil Sky Dragon's special attack deals 50 fire damage from anywhere in the room, so stay in hallways.<br/>That said, Evil Sky Dragons provide 1500 experience points, so try to defeat any that you see.
 
 ⭐︎ <span class="orangeText">For those that can't deal with night</span> ⭐︎
 
@@ -868,7 +868,7 @@ Demon Scorp (31-33F) decreases strength by 2.<br/>
 Chainhead (31-33F), Eligan (31-36F), and Cave Mamel (34-36F) hit very hard.<br/>
 Grampa Tank (31-33F) fires 30 damage cannonballs and has incredibly smart AI.<br/>
 Digestiphant (31-36F) absorbs status conditions to boost attack power by 2 stages.<br/>
-Porkchop (34-36F) throws Porky Rocks that deal 20 damage within a range of 4 tiles.
+Porko (34-36F) throws Porky Rocks that deal 20 damage within a range of 4 tiles.
 
 ### Final Boss
 
@@ -902,7 +902,7 @@ Boss Moves:
 - Confusion - Inflicts Confused status.
 - Knockback - Low power, deals kncoback.
 - Call Monsters - Summons 4\~6 monsters.
-    - Digestiphant, Tiger Hurler, Porkchop.
+    - Digestiphant, Tiger Hurler, Porko.
 - Instant Recovery - Cures all status conditions.
 
 Incredibly high HP, summons monsters, inflicts confusion, cures status conditions, ignores Sanctuary Scroll,<br/>only takes 2 damage from thrown Gitan, and due to story events, only performs 1 action every 4 turns.<br/>Status conditions are very effective due to the action speed difference, and the only dangerous specials<br/>are Call Monsters and Confusion.
@@ -1029,7 +1029,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     </tr>
     <tr>
       <td>6-8</td>
-      <td>Ricebear</td>
+      <td>Kumonigiri</td>
       <td>25</td>
       <td>15</td>
       <td>8</td>
@@ -1546,7 +1546,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     </tr>
     <tr>
       <td>34-36</td>
-      <td>Porkchop</td>
+      <td>Porko</td>
       <td>72</td>
       <td>38</td>
       <td>22</td>
@@ -1786,7 +1786,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     </tr>
     <tr>
       <td>27-30</td>
-      <td>Dark Ricebadger</td>
+      <td>Dark Pandanigiri</td>
       <td>52</td>
       <td>48</td>
       <td>7</td>
@@ -1808,7 +1808,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     </tr>
     <tr>
       <td>27-30</td>
-      <td>Dark Demon Scorp</td>
+      <td>Vile Demon Scorp</td>
       <td>65</td>
       <td>62</td>
       <td>9</td>
@@ -1988,7 +1988,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
       <td class="highlightGray"></td>
       <td class="monsterDay">Blade Bee</td>
       <td class="monsterDay">Firepuff</td>
-      <td class="monsterDay">Ricebear</td>
+      <td class="monsterDay">Kumonigiri</td>
       <td class="monsterDay">Squid King</td>
       <td class="monsterDay">Froggo</td>
       <td rowspan="2" class="highlightGray"></td>
@@ -2007,7 +2007,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
       <td class="highlightGray"></td>
       <td class="monsterDay">Blade Bee</td>
       <td class="monsterDay">Firepuff</td>
-      <td class="monsterDay">Ricebear</td>
+      <td class="monsterDay">Kumonigiri</td>
       <td class="monsterDay">DJ Mage</td>
       <td class="monsterDay">Froggo</td>
       <td rowspan="2" class="highlightGray"></td>
@@ -2026,7 +2026,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
       <td class="monsterDay">Curse Girl</td>
       <td class="monsterDay">Slime</td>
       <td class="monsterDay">Firepuff</td>
-      <td class="monsterDay">Ricebear</td>
+      <td class="monsterDay">Kumonigiri</td>
       <td class="monsterDay">DJ Mage</td>
       <td class="monsterDay">Zalokleft</td>
       <td rowspan="2" class="highlightGray"></td>
@@ -2330,10 +2330,10 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
       <td rowspan="2" class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Ricebadger</td>
+      <td class="monsterNight">Dark Pandanigiri</td>
       <td class="monsterNight">Dark Traproid</td>
       <td class="monsterNight">Evil Sky Dragon</td>
-      <td class="monsterNight">Dark Demon Scorp</td>
+      <td class="monsterNight">Vile Demon Scorp</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -2348,10 +2348,10 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
       <td rowspan="2" class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Ricebadger</td>
+      <td class="monsterNight">Dark Pandanigiri</td>
       <td class="monsterNight">Dark Traproid</td>
       <td class="monsterNight">Evil Sky Dragon</td>
-      <td class="monsterNight">Dark Demon Scorp</td>
+      <td class="monsterNight">Vile Demon Scorp</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -2366,10 +2366,10 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
       <td rowspan="2" class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Ricebadger</td>
+      <td class="monsterNight">Dark Pandanigiri</td>
       <td class="monsterNight">Dark Traproid</td>
       <td class="monsterNight">Evil Sky Dragon</td>
-      <td class="monsterNight">Dark Demon Scorp</td>
+      <td class="monsterNight">Vile Demon Scorp</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -2384,10 +2384,10 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
       <td rowspan="2" class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Ricebadger</td>
+      <td class="monsterNight">Dark Pandanigiri</td>
       <td class="monsterNight">Dark Traproid</td>
       <td class="monsterNight">Evil Sky Dragon</td>
-      <td class="monsterNight">Dark Demon Scorp</td>
+      <td class="monsterNight">Vile Demon Scorp</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -2407,7 +2407,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
     </tr>
     <tr>
       <td class="monsterNight">Snide Froggucci</td>
-      <td class="monsterNight">Dark Curse Sister</td>
+      <td class="monsterNight">Foul Curse Sister</td>
       <td class="monsterNight">Bad Lime Zalokleft</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -2424,7 +2424,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
     </tr>
     <tr>
       <td class="monsterNight">Snide Froggucci</td>
-      <td class="monsterNight">Dark Curse Sister</td>
+      <td class="monsterNight">Foul Curse Sister</td>
       <td class="monsterNight">Bad Lime Zalokleft</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -2441,7 +2441,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
     </tr>
     <tr>
       <td class="monsterNight">Snide Froggucci</td>
-      <td class="monsterNight">Dark Curse Sister</td>
+      <td class="monsterNight">Foul Curse Sister</td>
       <td class="monsterNight">Bad Lime Zalokleft</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -2453,7 +2453,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
       <td class="monsterDay">Digestiphant</td>
       <td class="monsterDay">Cave Mamel</td>
       <td class="monsterDay">Tiger Hurler</td>
-      <td class="monsterDay">Porkchop</td>
+      <td class="monsterDay">Porko</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -2470,7 +2470,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
       <td class="monsterDay">Digestiphant</td>
       <td class="monsterDay">Cave Mamel</td>
       <td class="monsterDay">Tiger Hurler</td>
-      <td class="monsterDay">Porkchop</td>
+      <td class="monsterDay">Porko</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -2487,7 +2487,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
       <td class="monsterDay">Digestiphant</td>
       <td class="monsterDay">Cave Mamel</td>
       <td class="monsterDay">Tiger Hurler</td>
-      <td class="monsterDay">Porkchop</td>
+      <td class="monsterDay">Porko</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
