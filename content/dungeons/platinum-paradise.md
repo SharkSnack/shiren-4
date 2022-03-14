@@ -719,7 +719,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <tr>
       <th rowspan="2">71</th>
       <td class="monsterDay">Gigahead</td>
-      <td class="monsterDay">Soybeanie</td>
+      <td class="monsterDay">Grainie</td>
       <td class="monsterDay">Zanbeeto</td>
       <td class="monsterDay">Porkon</td>
       <td class="highlightGray"></td>
@@ -736,7 +736,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <tr>
       <th rowspan="2">72</th>
       <td class="monsterDay">Gigahead</td>
-      <td class="monsterDay">Soybeanie</td>
+      <td class="monsterDay">Grainie</td>
       <td class="monsterDay">Zanbeeto</td>
       <td class="monsterDay">Hyper Gazer</td>
       <td class="highlightGray"></td>
@@ -753,7 +753,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <tr>
       <th rowspan="2">73</th>
       <td class="monsterDay">Curse Gramma</td>
-      <td class="monsterDay">Soybeanie</td>
+      <td class="monsterDay">Grainie</td>
       <td class="monsterDay">Zanbeeto</td>
       <td class="monsterDay">Hyper Gazer</td>
       <td class="highlightGray"></td>
@@ -770,7 +770,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <tr>
       <th rowspan="2">74</th>
       <td class="monsterDay">Curse Gramma</td>
-      <td class="monsterDay">Soybeanie</td>
+      <td class="monsterDay">Grainie</td>
       <td class="monsterDay">Zanbeeto</td>
       <td class="monsterDay">Hyper Gazer</td>
       <td class="highlightGray"></td>
@@ -787,7 +787,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <tr>
       <th rowspan="2">75</th>
       <td class="monsterDay">Curse Gramma</td>
-      <td class="monsterDay">Soybeanie</td>
+      <td class="monsterDay">Grainie</td>
       <td class="monsterDay">Mixerdon</td>
       <td class="monsterDay">Onigirizzly</td>
       <td class="highlightGray"></td>
@@ -804,7 +804,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <tr>
       <th rowspan="2">76</th>
       <td class="monsterDay">Dozikon</td>
-      <td class="monsterDay">Soybeanie</td>
+      <td class="monsterDay">Grainie</td>
       <td class="monsterDay">Mixerdon</td>
       <td class="monsterDay">Onigirizzly</td>
       <td class="highlightGray"></td>
@@ -1280,7 +1280,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Pierce Bracelet</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1306,7 +1306,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Purify Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1346,7 +1346,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Heaven Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1361,7 +1361,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td class="leftText">Alert Bracelet</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1394,7 +1394,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
   </tr>
   <tr>
     <td class="leftText">Red Blade</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1420,7 +1420,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Strength Bracelet</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1454,13 +1454,13 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
   </tr>
   <tr>
     <td class="leftText">Rusty Pick</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Strider Bracelet</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1474,7 +1474,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
   </tr>
   <tr>
     <td class="leftText">Breeze Blade</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1500,13 +1500,13 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Alleyway Bracelet</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Trap Erase Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1554,7 +1554,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
   </tr>
   <tr>
     <td class="leftText">Old Mallet</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1580,7 +1580,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Happy Bracelet</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1626,7 +1626,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Blank Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1721,7 +1721,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td class="leftText">Monster Detector</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1740,7 +1740,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Item Detector</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1769,7 +1769,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
   </tr>
   <tr>
     <td class="leftText">Sky Splitter</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1789,7 +1789,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
   </tr>
   <tr>
     <td class="leftText">Myopic Masher</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1842,7 +1842,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td class="leftText">Suction Scroll</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1944,7 +1944,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
   </tr>
   <tr>
     <td class="leftText">Clan Shield</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1991,7 +1991,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Storage Pot</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2005,7 +2005,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Antidote Grass</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2080,7 +2080,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
   <tr>
     <td class="leftText">Lizard Shield</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2091,7 +2091,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Purify Pot</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2105,7 +2105,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Sleep Grass</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2151,7 +2151,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Mailing Pot</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2191,7 +2191,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Sale Pot</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2205,7 +2205,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Dragon Grass</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2225,7 +2225,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Power Up Grass</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2319,19 +2319,19 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
   </tr>
   <tr>
     <td class="leftText">Safe Shield</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Blind Grass</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Heal Pot</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2359,7 +2359,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
   </tr>
   <tr>
     <td class="leftText">Lamp Shield</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2395,7 +2395,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <th>Z</th>
     <th>E</th>
     <td class="leftText">Empathy Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2415,7 +2415,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Transient Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2436,7 +2436,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td class="leftText">Paralysis Staff</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2455,7 +2455,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Swap Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2517,7 +2517,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td class="leftText">Seal Talisman</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2536,7 +2536,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Dizzy Talisman</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2550,13 +2550,13 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Tunnel Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Miss Talisman</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2570,7 +2570,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Pinning Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2584,7 +2584,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
   </tr>
   <tr>
     <td class="leftText">Rock</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2596,7 +2596,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Bind Talisman</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2611,7 +2611,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td class="leftText">Slow Staff</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2636,7 +2636,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Slow Talisman</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2651,7 +2651,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Berserk Talisman</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2665,7 +2665,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <th>Z</th>
     <th>E</th>
     <td class="leftText">Trap Erase Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2699,7 +2699,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
   </tr>
   <tr>
     <td class="leftText">Fine Torch</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2714,7 +2714,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
   </tr>
   <tr>
     <td class="leftText">Super Torch</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2734,7 +2734,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
   </tr>
   <tr>
     <td class="leftText">Gitan</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2746,7 +2746,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Green Banana</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2756,7 +2756,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td rowspan="4" colspan="6" class="highlightGray"></td>
     <td rowspan="4" colspan="6" class="highlightGray"></td>
     <td class="leftText">Yellow Banana</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>

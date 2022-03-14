@@ -35,7 +35,7 @@ Monster Book Order
     <td class="highlightGray"><a href="#firepuff">Firepuff</a></td>
     <td class="highlightYellow"><a href="#absorbiphant">Absorbiphant</a></td>
     <td class="highlightGray"><a href="#spin-polygon">Spin Polygon</a></td>
-    <td class="highlightYellow"><a href="#flashbird">Flashbird</a></td>
+    <td class="highlightYellow"><a href="#flash-bird">Flash Bird</a></td>
     <td class="highlightGray"><a href="#mixer">Mixer</a></td>
     <td class="highlightYellow"><a href="#floaty">Floaty</a></td>
   </tr>
@@ -137,7 +137,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">Floating</td>
-    <td><a href="#blade-bee">Blade Bee</a> | <a href="#pumphantasm">Pumphantasm</a> | <a href="#foly">Foly</a> | <a href="#flashbird">Flashbird</a> | <a href="#gyadon">Gyadon</a> | <a href="#firepuff">Firepuff</a> | <a href="#crow-tengu">Crow Tengu</a><br/><a href="#snacky">Snacky</a></td>
+    <td><a href="#blade-bee">Blade Bee</a> | <a href="#pumphantasm">Pumphantasm</a> | <a href="#foly">Foly</a> | <a href="#flash-bird">Flash Bird</a> | <a href="#gyadon">Gyadon</a> | <a href="#firepuff">Firepuff</a> | <a href="#crow-tengu">Crow Tengu</a><br/><a href="#snacky">Snacky</a></td>
     <td>Weak to Anti-Floating rune</td>
   </tr>
   <tr>
@@ -451,7 +451,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Beanie</td>
     <td>53</td>
     <td>33</td>
     <td>16</td>
@@ -462,7 +462,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Nuttie</td>
     <td>62</td>
     <td>62</td>
     <td>22</td>
@@ -473,7 +473,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Grainie</td>
     <td>85</td>
     <td>77</td>
     <td>32</td>
@@ -496,7 +496,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Dark Seedie</td>
     <td>10</td>
     <td>7</td>
     <td>1</td>
@@ -508,7 +508,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Dark Beanie</td>
     <td>55</td>
     <td>46</td>
     <td>6</td>
@@ -518,7 +518,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Dark Nuttie</td>
     <td>64</td>
     <td>75</td>
     <td>7</td>
@@ -528,7 +528,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Dark Grainie</td>
     <td>75</td>
     <td>92</td>
     <td>8</td>
@@ -571,7 +571,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Froggucci</td>
     <td>51</td>
     <td>23</td>
     <td>7</td>
@@ -582,7 +582,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Froggon</td>
     <td>65</td>
     <td>30</td>
     <td>11</td>
@@ -593,7 +593,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Kleptoad</td>
     <td>77</td>
     <td>45</td>
     <td>17</td>
@@ -617,7 +617,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Snide Froggo</td>
     <td>26</td>
     <td>8</td>
     <td>0</td>
@@ -629,7 +629,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Snide Froggucci</td>
     <td>36</td>
     <td>19</td>
     <td>1</td>
@@ -639,7 +639,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Snide Froggon</td>
     <td>48</td>
     <td>28</td>
     <td>2</td>
@@ -649,7 +649,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Snide Kleptoad</td>
     <td>62</td>
     <td>40</td>
     <td>3</td>
@@ -693,7 +693,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Kappa Pest</td>
     <td>56</td>
     <td>28</td>
     <td>17</td>
@@ -704,7 +704,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Vexing Kappa</td>
     <td>71</td>
     <td>42</td>
     <td>20</td>
@@ -715,7 +715,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Kappa Troll</td>
     <td>89</td>
     <td>63</td>
     <td>30</td>
@@ -738,7 +738,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Dark Bored Kappa</td>
     <td>17</td>
     <td>11</td>
     <td>2</td>
@@ -750,7 +750,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Dark Kappa Pest</td>
     <td>38</td>
     <td>30</td>
     <td>3</td>
@@ -760,7 +760,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Dark Vexing Kappa</td>
     <td>47</td>
     <td>40</td>
     <td>4</td>
@@ -770,7 +770,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Dark Kappa Troll</td>
     <td>58</td>
     <td>55</td>
     <td>5</td>
@@ -813,7 +813,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Hipadile</td>
     <td>70</td>
     <td>40</td>
     <td>21</td>
@@ -824,7 +824,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Oingodile</td>
     <td>86</td>
     <td>76</td>
     <td>23</td>
@@ -835,7 +835,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Boingodile</td>
     <td>95</td>
     <td>88</td>
     <td>29</td>
@@ -858,7 +858,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Evil Hopodile</td>
     <td>28</td>
     <td>26</td>
     <td>3</td>
@@ -870,7 +870,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Evil Hipadile</td>
     <td>46</td>
     <td>53</td>
     <td>5</td>
@@ -881,7 +881,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Evil Oingodile</td>
     <td>57</td>
     <td>65</td>
     <td>7</td>
@@ -892,7 +892,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Evil Boingodile</td>
     <td>72</td>
     <td>88</td>
     <td>8</td>
@@ -936,7 +936,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Squid Lord</td>
     <td>55</td>
     <td>23</td>
     <td>15</td>
@@ -947,7 +947,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Squid Emperor</td>
     <td>65</td>
     <td>38</td>
     <td>20</td>
@@ -958,7 +958,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Squid Kaiser</td>
     <td>78</td>
     <td>57</td>
     <td>33</td>
@@ -980,7 +980,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Dark Squid King</td>
     <td>16</td>
     <td>9</td>
     <td>1</td>
@@ -992,7 +992,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Dark Squid Lord</td>
     <td>39</td>
     <td>30</td>
     <td>3</td>
@@ -1002,7 +1002,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Dark Squid Emperor</td>
     <td>56</td>
     <td>43</td>
     <td>5</td>
@@ -1012,7 +1012,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Dark Squid Kaiser</td>
     <td>66</td>
     <td>60</td>
     <td>6</td>
@@ -1055,7 +1055,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Dagger Bee</td>
     <td>46</td>
     <td>27</td>
     <td>14</td>
@@ -1065,7 +1065,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Katana Bee</td>
     <td>57</td>
     <td>72</td>
     <td>16</td>
@@ -1076,7 +1076,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Zanbeeto</td>
     <td>83</td>
     <td>87</td>
     <td>24</td>
@@ -1098,7 +1098,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Dark Blade Bee</td>
     <td>18</td>
     <td>16</td>
     <td>1</td>
@@ -1110,7 +1110,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Dark Dagger Bee</td>
     <td>37</td>
     <td>55</td>
     <td>3</td>
@@ -1120,7 +1120,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Dark Katana Bee</td>
     <td>48</td>
     <td>76</td>
     <td>4</td>
@@ -1130,7 +1130,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Dark Zanbeeto</td>
     <td>57</td>
     <td>90</td>
     <td>5</td>
@@ -1173,7 +1173,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Flamepuff</td>
     <td>43</td>
     <td>18</td>
     <td>18</td>
@@ -1184,7 +1184,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Blazepuff</td>
     <td>57</td>
     <td>26</td>
     <td>22</td>
@@ -1195,7 +1195,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Pyrepuff</td>
     <td>68</td>
     <td>46</td>
     <td>26</td>
@@ -1218,7 +1218,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Evil Firepuff</td>
     <td>18</td>
     <td>8</td>
     <td>3</td>
@@ -1230,7 +1230,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Evil Flamepuff</td>
     <td>33</td>
     <td>28</td>
     <td>6</td>
@@ -1241,7 +1241,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Evil Blazepuff</td>
     <td>50</td>
     <td>41</td>
     <td>8</td>
@@ -1252,7 +1252,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Evil Pyrepuff</td>
     <td>61</td>
     <td>53</td>
     <td>9</td>
@@ -1296,7 +1296,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Pandanigiri</td>
     <td>69</td>
     <td>65</td>
     <td>25</td>
@@ -1307,7 +1307,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Onigirizzly</td>
     <td>86</td>
     <td>85</td>
     <td>35</td>
@@ -1318,7 +1318,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Kodionigiri</td>
     <td>108</td>
     <td>110</td>
     <td>46</td>
@@ -1341,7 +1341,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Dark Kumonigiri</td>
     <td>30</td>
     <td>22</td>
     <td>5</td>
@@ -1353,7 +1353,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Dark Pandanigiri</td>
     <td>52</td>
     <td>48</td>
     <td>7</td>
@@ -1363,7 +1363,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Dark Onigirizzly</td>
     <td>63</td>
     <td>60</td>
     <td>8</td>
@@ -1373,7 +1373,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Dark Kodionigiri</td>
     <td>72</td>
     <td>78</td>
     <td>9</td>
@@ -1416,7 +1416,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>MC Mage</td>
     <td>51</td>
     <td>21</td>
     <td>18</td>
@@ -1428,7 +1428,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>MC Wizard</td>
     <td>62</td>
     <td>28</td>
     <td>20</td>
@@ -1440,7 +1440,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>MC Sorcerer</td>
     <td>78</td>
     <td>39</td>
     <td>24</td>
@@ -1464,7 +1464,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Dark DJ Mage</td>
     <td>30</td>
     <td>26</td>
     <td>2</td>
@@ -1476,7 +1476,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Dark MC Mage</td>
     <td>42</td>
     <td>32</td>
     <td>3</td>
@@ -1486,7 +1486,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Dark MC Wizard</td>
     <td>50</td>
     <td>40</td>
     <td>4</td>
@@ -1496,7 +1496,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Dark MC Sorcerer</td>
     <td>59</td>
     <td>49</td>
     <td>5</td>
@@ -1539,7 +1539,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Lime Zalokleft</td>
     <td>55</td>
     <td>17</td>
     <td>11</td>
@@ -1549,7 +1549,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Iron Zalokleft</td>
     <td>81</td>
     <td>25</td>
     <td>16</td>
@@ -1559,7 +1559,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Fade Zalokleft</td>
     <td>103</td>
     <td>34</td>
     <td>22</td>
@@ -1582,7 +1582,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Bad Zalokleft</td>
     <td>18</td>
     <td>10</td>
     <td>0</td>
@@ -1594,7 +1594,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Bad Lime Zalokleft</td>
     <td>45</td>
     <td>15</td>
     <td>1</td>
@@ -1604,7 +1604,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Bad Iron Zalokleft</td>
     <td>58</td>
     <td>22</td>
     <td>2</td>
@@ -1614,7 +1614,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Bad Fade Zalokleft</td>
     <td>70</td>
     <td>31</td>
     <td>3</td>
@@ -1658,7 +1658,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Grime</td>
     <td>43</td>
     <td>12</td>
     <td>7</td>
@@ -1669,7 +1669,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Ooze</td>
     <td>53</td>
     <td>18</td>
     <td>12</td>
@@ -1680,7 +1680,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Sludge</td>
     <td>67</td>
     <td>25</td>
     <td>18</td>
@@ -1703,7 +1703,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Vile Slime</td>
     <td>23</td>
     <td>14</td>
     <td>1</td>
@@ -1715,7 +1715,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Vile Grime</td>
     <td>41</td>
     <td>22</td>
     <td>2</td>
@@ -1726,7 +1726,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Vile Ooze</td>
     <td>52</td>
     <td>29</td>
     <td>3</td>
@@ -1737,7 +1737,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Vile Sludge</td>
     <td>63</td>
     <td>40</td>
     <td>4</td>
@@ -1781,7 +1781,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Curse Sister</td>
     <td>52</td>
     <td>24</td>
     <td>15</td>
@@ -1792,7 +1792,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Curse Mom</td>
     <td>65</td>
     <td>36</td>
     <td>18</td>
@@ -1804,7 +1804,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Curse Gram</td>
     <td>78</td>
     <td>52</td>
     <td>29</td>
@@ -1827,7 +1827,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Foul Curse Girl</td>
     <td>32</td>
     <td>24</td>
     <td>3</td>
@@ -1839,7 +1839,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Foul Curse Sister</td>
     <td>40</td>
     <td>35</td>
     <td>3</td>
@@ -1849,7 +1849,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Foul Curse Mom</td>
     <td>55</td>
     <td>46</td>
     <td>3</td>
@@ -1859,7 +1859,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Foul Curse Gram</td>
     <td>62</td>
     <td>52</td>
     <td>4</td>
@@ -1902,7 +1902,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Demon Scorp</td>
     <td>70</td>
     <td>34</td>
     <td>25</td>
@@ -1913,7 +1913,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Stun Scorp</td>
     <td>83</td>
     <td>53</td>
     <td>27</td>
@@ -1924,7 +1924,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Blight Scorp</td>
     <td>95</td>
     <td>75</td>
     <td>36</td>
@@ -1947,7 +1947,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Vile Scorpion</td>
     <td>40</td>
     <td>33</td>
     <td>5</td>
@@ -1959,7 +1959,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Vile Demon Scorp</td>
     <td>65</td>
     <td>62</td>
     <td>9</td>
@@ -1970,7 +1970,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Vile Stun Scorp</td>
     <td>73</td>
     <td>71</td>
     <td>11</td>
@@ -1981,7 +1981,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Vile Blight Scorp</td>
     <td>86</td>
     <td>85</td>
     <td>14</td>
@@ -2025,7 +2025,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Digestiphant</td>
     <td>48</td>
     <td>30</td>
     <td>16</td>
@@ -2036,7 +2036,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Spongiderm</td>
     <td>59</td>
     <td>43</td>
     <td>18</td>
@@ -2047,7 +2047,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Osmammoth</td>
     <td>76</td>
     <td>59</td>
     <td>28</td>
@@ -2070,7 +2070,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Dark Absorbiphant</td>
     <td>33</td>
     <td>24</td>
     <td>4</td>
@@ -2082,7 +2082,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Dark Digestiphant</td>
     <td>47</td>
     <td>36</td>
     <td>5</td>
@@ -2092,7 +2092,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Dark Spongiderm</td>
     <td>56</td>
     <td>44</td>
     <td>6</td>
@@ -2102,7 +2102,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Dark Osmammoth</td>
     <td>67</td>
     <td>58</td>
     <td>7</td>
@@ -2145,7 +2145,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Tiger Hurler</td>
     <td>68</td>
     <td>39</td>
     <td>18</td>
@@ -2157,7 +2157,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Tiger Chucker</td>
     <td>77</td>
     <td>48</td>
     <td>20</td>
@@ -2169,7 +2169,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Tiger Ace</td>
     <td>93</td>
     <td>69</td>
     <td>32</td>
@@ -2193,7 +2193,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Dark Tosser</td>
     <td>35</td>
     <td>30</td>
     <td>4</td>
@@ -2205,7 +2205,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Dark Hurler</td>
     <td>41</td>
     <td>38</td>
     <td>5</td>
@@ -2216,7 +2216,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Dark Chucker</td>
     <td>60</td>
     <td>50</td>
     <td>7</td>
@@ -2227,7 +2227,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Dark Ace</td>
     <td>68</td>
     <td>72</td>
     <td>8</td>
@@ -2271,7 +2271,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Cross Cart</td>
     <td>24</td>
     <td>12</td>
     <td>6</td>
@@ -2282,7 +2282,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Strong Cart</td>
     <td>34</td>
     <td>16</td>
     <td>10</td>
@@ -2293,7 +2293,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Pierce Cart</td>
     <td>45</td>
     <td>20</td>
     <td>13</td>
@@ -2316,7 +2316,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Dark Boy Cart</td>
     <td>16</td>
     <td>11</td>
     <td>2</td>
@@ -2328,7 +2328,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Dark Cross Cart</td>
     <td>27</td>
     <td>18</td>
     <td>2</td>
@@ -2338,7 +2338,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Dark Strong Cart</td>
     <td>37</td>
     <td>24</td>
     <td>3</td>
@@ -2348,7 +2348,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Dark Pierce Cart</td>
     <td>46</td>
     <td>34</td>
     <td>4</td>
@@ -2391,7 +2391,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Grampa Tank</td>
     <td>75</td>
     <td>37</td>
     <td>20</td>
@@ -2403,7 +2403,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Ornery Tank</td>
     <td>83</td>
     <td>48</td>
     <td>24</td>
@@ -2415,7 +2415,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Cranky Tank</td>
     <td>99</td>
     <td>57</td>
     <td>39</td>
@@ -2439,7 +2439,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Dark Pop Tank</td>
     <td>18</td>
     <td>16</td>
     <td>2</td>
@@ -2451,7 +2451,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Dark Grampa Tank</td>
     <td>45</td>
     <td>32</td>
     <td>4</td>
@@ -2463,7 +2463,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Dark Ornery Tank</td>
     <td>60</td>
     <td>47</td>
     <td>8</td>
@@ -2475,7 +2475,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Dark Cranky Tank</td>
     <td>71</td>
     <td>60</td>
     <td>10</td>
@@ -2520,7 +2520,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Super Gazer</td>
     <td>49</td>
     <td>19</td>
     <td>17</td>
@@ -2530,7 +2530,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Hyper Gazer</td>
     <td>54</td>
     <td>34</td>
     <td>21</td>
@@ -2540,7 +2540,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Ultra Gazer</td>
     <td>65</td>
     <td>43</td>
     <td>27</td>
@@ -2563,7 +2563,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Evil Gazer</td>
     <td>15</td>
     <td>10</td>
     <td>1</td>
@@ -2575,7 +2575,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Evil Super Gazer</td>
     <td>35</td>
     <td>28</td>
     <td>2</td>
@@ -2585,7 +2585,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Evil Hyper Gazer</td>
     <td>47</td>
     <td>39</td>
     <td>3</td>
@@ -2595,7 +2595,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Evil Ultra Gazer</td>
     <td>59</td>
     <td>50</td>
     <td>4</td>
@@ -2638,7 +2638,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>N'twyn</td>
     <td>36</td>
     <td>37</td>
     <td>8</td>
@@ -2650,7 +2650,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>N'mach</td>
     <td>47</td>
     <td>53</td>
     <td>11</td>
@@ -2662,7 +2662,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>N'dup</td>
     <td>49</td>
     <td>90</td>
     <td>11</td>
@@ -2686,7 +2686,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Dark N'dubba</td>
     <td>21</td>
     <td>42</td>
     <td>0</td>
@@ -2698,7 +2698,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Dark N'twyn</td>
     <td>35</td>
     <td>52</td>
     <td>1</td>
@@ -2708,7 +2708,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Dark N'mach</td>
     <td>48</td>
     <td>75</td>
     <td>2</td>
@@ -2718,7 +2718,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Dark N'dup</td>
     <td>55</td>
     <td>86</td>
     <td>3</td>
@@ -2761,7 +2761,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Pot Knave</td>
     <td>43</td>
     <td>16</td>
     <td>11</td>
@@ -2773,7 +2773,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Item Knave</td>
     <td>62</td>
     <td>37</td>
     <td>15</td>
@@ -2785,7 +2785,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Knave King</td>
     <td>73</td>
     <td>46</td>
     <td>23</td>
@@ -2809,7 +2809,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Dark Field Knave</td>
     <td>20</td>
     <td>14</td>
     <td>2</td>
@@ -2821,7 +2821,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Dark Pot Knave</td>
     <td>39</td>
     <td>30</td>
     <td>3</td>
@@ -2831,7 +2831,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Dark Item Knave</td>
     <td>49</td>
     <td>41</td>
     <td>4</td>
@@ -2841,7 +2841,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Dark Knave King</td>
     <td>60</td>
     <td>54</td>
     <td>5</td>
@@ -2884,7 +2884,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Dance Polygon</td>
     <td>61</td>
     <td>32</td>
     <td>17</td>
@@ -2895,7 +2895,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Sing Polygon</td>
     <td>73</td>
     <td>45</td>
     <td>21</td>
@@ -2906,7 +2906,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Mosh Polygon</td>
     <td>86</td>
     <td>62</td>
     <td>28</td>
@@ -2929,7 +2929,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Evil Spin Polygon</td>
     <td>25</td>
     <td>18</td>
     <td>3</td>
@@ -2941,7 +2941,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Evil Dance Polygon</td>
     <td>45</td>
     <td>33</td>
     <td>4</td>
@@ -2952,7 +2952,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Evil Sing Polygon</td>
     <td>52</td>
     <td>35</td>
     <td>6</td>
@@ -2963,7 +2963,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Evil Mosh Polygon</td>
     <td>67</td>
     <td>57</td>
     <td>7</td>
@@ -3007,7 +3007,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Porko</td>
     <td>72</td>
     <td>38</td>
     <td>22</td>
@@ -3019,7 +3019,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Porkon</td>
     <td>83</td>
     <td>50</td>
     <td>30</td>
@@ -3031,7 +3031,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Porgon</td>
     <td>97</td>
     <td>71</td>
     <td>35</td>
@@ -3055,7 +3055,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Evil Porky</td>
     <td>39</td>
     <td>28</td>
     <td>3</td>
@@ -3067,7 +3067,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Evil Porko</td>
     <td>52</td>
     <td>42</td>
     <td>4</td>
@@ -3077,7 +3077,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Evil Porkon</td>
     <td>61</td>
     <td>50</td>
     <td>5</td>
@@ -3087,7 +3087,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Evil Porgon</td>
     <td>74</td>
     <td>65</td>
     <td>6</td>
@@ -3130,7 +3130,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Pumphantom</td>
     <td>66</td>
     <td>36</td>
     <td>15</td>
@@ -3140,7 +3140,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Pumpanshee</td>
     <td>75</td>
     <td>65</td>
     <td>19</td>
@@ -3150,7 +3150,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Pumptergeist</td>
     <td>84</td>
     <td>80</td>
     <td>24</td>
@@ -3172,7 +3172,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Vile Pumphantasm</td>
     <td>35</td>
     <td>26</td>
     <td>1</td>
@@ -3184,7 +3184,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Vile Pumphantom</td>
     <td>53</td>
     <td>45</td>
     <td>2</td>
@@ -3194,7 +3194,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Vile Pumpanshee</td>
     <td>66</td>
     <td>57</td>
     <td>3</td>
@@ -3204,7 +3204,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Vile Pumptergeist</td>
     <td>77</td>
     <td>70</td>
     <td>4</td>
@@ -3247,7 +3247,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Scarabbit</td>
     <td>50</td>
     <td>29</td>
     <td>16</td>
@@ -3259,7 +3259,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Horrabbit</td>
     <td>74</td>
     <td>43</td>
     <td>20</td>
@@ -3271,7 +3271,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Terrabbit</td>
     <td>83</td>
     <td>53</td>
     <td>26</td>
@@ -3295,7 +3295,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Dark Fearabbit</td>
     <td>28</td>
     <td>20</td>
     <td>2</td>
@@ -3307,7 +3307,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Dark Scarabbit</td>
     <td>40</td>
     <td>36</td>
     <td>4</td>
@@ -3317,7 +3317,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Dark Horrabbit</td>
     <td>52</td>
     <td>46</td>
     <td>5</td>
@@ -3327,7 +3327,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Dark Terrabbit</td>
     <td>61</td>
     <td>55</td>
     <td>6</td>
@@ -3370,7 +3370,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Steamroid</td>
     <td>64</td>
     <td>41</td>
     <td>22</td>
@@ -3380,7 +3380,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Electroid</td>
     <td>80</td>
     <td>60</td>
     <td>30</td>
@@ -3390,7 +3390,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Cyberoid</td>
     <td>94</td>
     <td>77</td>
     <td>39</td>
@@ -3412,7 +3412,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Dark Traproid</td>
     <td>43</td>
     <td>35</td>
     <td>5</td>
@@ -3424,7 +3424,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Dark Steamroid</td>
     <td>56</td>
     <td>53</td>
     <td>6</td>
@@ -3434,7 +3434,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Dark Electroid</td>
     <td>68</td>
     <td>63</td>
     <td>8</td>
@@ -3444,7 +3444,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Dark Cyberoid</td>
     <td>79</td>
     <td>74</td>
     <td>9</td>
@@ -3487,7 +3487,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Iai</td>
     <td>67</td>
     <td>58</td>
     <td>24</td>
@@ -3499,7 +3499,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Shihan</td>
     <td>80</td>
     <td>75</td>
     <td>32</td>
@@ -3511,7 +3511,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Tatsujin</td>
     <td>92</td>
     <td>89</td>
     <td>42</td>
@@ -3535,7 +3535,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Evil Kengo</td>
     <td>52</td>
     <td>45</td>
     <td>6</td>
@@ -3547,7 +3547,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Evil Iai</td>
     <td>62</td>
     <td>54</td>
     <td>8</td>
@@ -3557,7 +3557,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Evil Shihan</td>
     <td>70</td>
     <td>66</td>
     <td>10</td>
@@ -3567,7 +3567,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Evil Tatsujin</td>
     <td>82</td>
     <td>77</td>
     <td>12</td>
@@ -3610,7 +3610,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Gyairas</td>
     <td>57</td>
     <td>34</td>
     <td>20</td>
@@ -3621,7 +3621,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Gyandora</td>
     <td>69</td>
     <td>56</td>
     <td>26</td>
@@ -3632,7 +3632,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Gyandoron</td>
     <td>85</td>
     <td>72</td>
     <td>36</td>
@@ -3655,7 +3655,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Wild Gyadon</td>
     <td>37</td>
     <td>28</td>
     <td>4</td>
@@ -3667,7 +3667,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Wild Gyairas</td>
     <td>51</td>
     <td>42</td>
     <td>6</td>
@@ -3677,7 +3677,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Wild Gyandora</td>
     <td>64</td>
     <td>53</td>
     <td>8</td>
@@ -3687,7 +3687,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Wild Gyandoron</td>
     <td>75</td>
     <td>64</td>
     <td>9</td>
@@ -3697,7 +3697,7 @@ Element Order
   </tr>
 </table>
 
-### Flashbird
+### Flash Bird
 
 <div class="relativeImage monsterImage">
   <img src="../images/monsters/flashbird.png"/><img src="../images/monsters/flashbird_2.png"/><img src="../images/monsters/flashbird_3.png"/><img src="../images/monsters/flashbird_4.png"/>
@@ -3718,7 +3718,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">1</td>
-    <td>Flashbird</td>
+    <td>Flash Bird</td>
     <td>31</td>
     <td>11</td>
     <td>18</td>
@@ -3730,29 +3730,29 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Glare Bird</td>
     <td>43</td>
     <td>20</td>
     <td>25</td>
     <td>200</td>
     <td>25</td>
     <td>0%</td>
-    <td>Same as Flashbird, but heals 60 HP.</td>
+    <td>Same as Flash Bird, but heals 60 HP.</td>
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Twinkle Bird</td>
     <td>56</td>
     <td>29</td>
     <td>35</td>
     <td>730</td>
     <td>80</td>
     <td>0%</td>
-    <td>Same as Flashbird, but warps to a hurt monster within<br/>Shiren's view from anywhere on the floor and heals all<br/>monsters in a 1 tile radius by 30 HP.</td>
+    <td>Same as Flash Bird, but warps to a hurt monster within<br/>Shiren's view from anywhere on the floor and heals all<br/>monsters in a 1 tile radius by 30 HP.</td>
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Shine Bird</td>
     <td>68</td>
     <td>36</td>
     <td>43</td>
@@ -3775,7 +3775,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Dark Flash Bird</td>
     <td>27</td>
     <td>16</td>
     <td>3</td>
@@ -3787,7 +3787,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Dark Glare Bird</td>
     <td>36</td>
     <td>28</td>
     <td>4</td>
@@ -3797,7 +3797,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Dark Twinkle Bird</td>
     <td>45</td>
     <td>36</td>
     <td>5</td>
@@ -3807,7 +3807,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Dark Shine Bird</td>
     <td>54</td>
     <td>49</td>
     <td>6</td>
@@ -3850,7 +3850,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Sr. Yanpii</td>
     <td>49</td>
     <td>44</td>
     <td>13</td>
@@ -3862,7 +3862,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Lt. Yanpii</td>
     <td>60</td>
     <td>68</td>
     <td>20</td>
@@ -3874,7 +3874,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Boss Yanpii</td>
     <td>92</td>
     <td>82</td>
     <td>28</td>
@@ -3898,7 +3898,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Bad Yanpii</td>
     <td>32</td>
     <td>45</td>
     <td>0</td>
@@ -3910,7 +3910,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Bad Sr. Yanpii</td>
     <td>45</td>
     <td>70</td>
     <td>1</td>
@@ -3921,7 +3921,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Bad Lt. Yanpii</td>
     <td>56</td>
     <td>80</td>
     <td>2</td>
@@ -3932,7 +3932,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Bad Boss Yanpii</td>
     <td>66</td>
     <td>95</td>
     <td>3</td>
@@ -3976,7 +3976,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Banana Morph</td>
     <td>58</td>
     <td>32</td>
     <td>18</td>
@@ -3988,7 +3988,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Banana Boss</td>
     <td>66</td>
     <td>50</td>
     <td>22</td>
@@ -4000,7 +4000,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Banana Master</td>
     <td>80</td>
     <td>61</td>
     <td>29</td>
@@ -4024,7 +4024,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Foul Novice</td>
     <td>14</td>
     <td>5</td>
     <td>2</td>
@@ -4036,7 +4036,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Foul Morph</td>
     <td>22</td>
     <td>16</td>
     <td>2</td>
@@ -4046,7 +4046,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Foul Boss</td>
     <td>45</td>
     <td>38</td>
     <td>5</td>
@@ -4056,7 +4056,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Foul Master</td>
     <td>70</td>
     <td>64</td>
     <td>6</td>
@@ -4099,7 +4099,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Concusschin</td>
     <td>83</td>
     <td>22</td>
     <td>10</td>
@@ -4109,7 +4109,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Fulminachin</td>
     <td>102</td>
     <td>32</td>
     <td>13</td>
@@ -4119,7 +4119,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Detonachin</td>
     <td>130</td>
     <td>44</td>
     <td>19</td>
@@ -4141,7 +4141,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Evil Explochin</td>
     <td>40</td>
     <td>18</td>
     <td>0</td>
@@ -4153,7 +4153,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Evil Concusschin</td>
     <td>55</td>
     <td>29</td>
     <td>1</td>
@@ -4163,7 +4163,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Evil Fulminachin</td>
     <td>63</td>
     <td>43</td>
     <td>2</td>
@@ -4173,7 +4173,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Evil Detonachin</td>
     <td>72</td>
     <td>51</td>
     <td>3</td>
@@ -4216,7 +4216,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Killer Gyaza</td>
     <td>75</td>
     <td>63</td>
     <td>27</td>
@@ -4226,7 +4226,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Hell Gyaza</td>
     <td>96</td>
     <td>80</td>
     <td>40</td>
@@ -4236,7 +4236,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Doom Gyaza</td>
     <td>115</td>
     <td>112</td>
     <td>50</td>
@@ -4258,7 +4258,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Evil Gyaza</td>
     <td>50</td>
     <td>38</td>
     <td>7</td>
@@ -4270,7 +4270,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Evil Killer Gyaza</td>
     <td>67</td>
     <td>68</td>
     <td>9</td>
@@ -4280,7 +4280,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Evil Hell Gyaza</td>
     <td>79</td>
     <td>80</td>
     <td>11</td>
@@ -4290,7 +4290,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Evil Doom Gyaza</td>
     <td>92</td>
     <td>105</td>
     <td>13</td>
@@ -4333,7 +4333,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Go Ham</td>
     <td>34</td>
     <td>15</td>
     <td>10</td>
@@ -4345,7 +4345,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Rally Ham</td>
     <td>46</td>
     <td>22</td>
     <td>15</td>
@@ -4357,7 +4357,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Spirit Ham</td>
     <td>60</td>
     <td>30</td>
     <td>20</td>
@@ -4381,7 +4381,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Mean Cheer Ham</td>
     <td>25</td>
     <td>14</td>
     <td>1</td>
@@ -4393,7 +4393,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Mean Go Ham</td>
     <td>37</td>
     <td>24</td>
     <td>2</td>
@@ -4403,7 +4403,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Mean Rally Ham</td>
     <td>44</td>
     <td>32</td>
     <td>3</td>
@@ -4413,7 +4413,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Mean Spirit Ham</td>
     <td>56</td>
     <td>45</td>
     <td>4</td>
@@ -4501,7 +4501,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Evil Dragon</td>
     <td>55</td>
     <td>40</td>
     <td>8</td>
@@ -4513,7 +4513,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Evil Sky Dragon</td>
     <td>65</td>
     <td>59</td>
     <td>10</td>
@@ -4524,7 +4524,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Evil Archdragon</td>
     <td>73</td>
     <td>70</td>
     <td>12</td>
@@ -4535,7 +4535,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Evil Abyss Dragon</td>
     <td>84</td>
     <td>81</td>
     <td>14</td>
@@ -4627,7 +4627,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Dark Mixer</td>
     <td>42</td>
     <td>32</td>
     <td>3</td>
@@ -4639,7 +4639,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Dark Mixermon</td>
     <td>56</td>
     <td>46</td>
     <td>5</td>
@@ -4649,7 +4649,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Dark Mixergon</td>
     <td>64</td>
     <td>55</td>
     <td>7</td>
@@ -4659,7 +4659,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Dark Mixerdon</td>
     <td>72</td>
     <td>68</td>
     <td>8</td>
@@ -4702,7 +4702,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Eligagan</td>
     <td>85</td>
     <td>70</td>
     <td>26</td>
@@ -4713,7 +4713,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Eligagon</td>
     <td>108</td>
     <td>89</td>
     <td>37</td>
@@ -4724,7 +4724,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Elizgagon</td>
     <td>125</td>
     <td>120</td>
     <td>52</td>
@@ -4747,7 +4747,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Dark Eligan</td>
     <td>38</td>
     <td>38</td>
     <td>6</td>
@@ -4759,7 +4759,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Dark Eligagan</td>
     <td>60</td>
     <td>60</td>
     <td>8</td>
@@ -4769,7 +4769,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Dark Eligagon</td>
     <td>70</td>
     <td>69</td>
     <td>10</td>
@@ -4779,7 +4779,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Dark Elizgagon</td>
     <td>82</td>
     <td>96</td>
     <td>13</td>
@@ -4822,7 +4822,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Chainhead</td>
     <td>84</td>
     <td>60</td>
     <td>19</td>
@@ -4832,7 +4832,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Gigahead</td>
     <td>106</td>
     <td>83</td>
     <td>22</td>
@@ -4842,7 +4842,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Doomhead</td>
     <td>120</td>
     <td>103</td>
     <td>26</td>
@@ -4864,7 +4864,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Dark Ironhead</td>
     <td>45</td>
     <td>40</td>
     <td>5</td>
@@ -4876,7 +4876,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Dark Chainhead</td>
     <td>66</td>
     <td>62</td>
     <td>7</td>
@@ -4886,7 +4886,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Dark Gigahead</td>
     <td>74</td>
     <td>72</td>
     <td>9</td>
@@ -4896,7 +4896,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Dark Doomhead</td>
     <td>88</td>
     <td>100</td>
     <td>10</td>
@@ -4983,7 +4983,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>Rare Snacky</td>
+    <td>Plump Snacky</td>
     <td>10</td>
     <td>5</td>
     <td>1</td>
@@ -4995,7 +4995,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>Rare Crunchy</td>
+    <td>Plump Crunchy</td>
     <td>20</td>
     <td>11</td>
     <td>2</td>
@@ -5005,7 +5005,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>Rare Munchy</td>
+    <td>Plump Munchy</td>
     <td>35</td>
     <td>18</td>
     <td>3</td>
@@ -5015,7 +5015,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>Rare Mealy</td>
+    <td>Plump Mealy</td>
     <td>49</td>
     <td>26</td>
     <td>4</td>
@@ -5058,7 +5058,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Falcon Tengu</td>
     <td>53</td>
     <td>17</td>
     <td>23</td>
@@ -5068,7 +5068,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Eagle Tengu</td>
     <td>71</td>
     <td>23</td>
     <td>32</td>
@@ -5078,7 +5078,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Phoenix Tengu</td>
     <td>79</td>
     <td>32</td>
     <td>38</td>
@@ -5100,7 +5100,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Bad Crow Tengu</td>
     <td>20</td>
     <td>7</td>
     <td>2</td>
@@ -5112,7 +5112,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Bad Falcon Tengu</td>
     <td>34</td>
     <td>16</td>
     <td>4</td>
@@ -5122,7 +5122,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Bad Eagle Tengu</td>
     <td>45</td>
     <td>27</td>
     <td>5</td>
@@ -5132,7 +5132,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Bad Phoenix Tengu</td>
     <td>52</td>
     <td>37</td>
     <td>6</td>
@@ -5175,7 +5175,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Dazikon</td>
     <td>46</td>
     <td>23</td>
     <td>16</td>
@@ -5187,7 +5187,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Dozikon</td>
     <td>61</td>
     <td>39</td>
     <td>20</td>
@@ -5199,7 +5199,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Mesmerikon</td>
     <td>75</td>
     <td>50</td>
     <td>26</td>
@@ -5223,7 +5223,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Dark Mutaikon</td>
     <td>16</td>
     <td>6</td>
     <td>1</td>
@@ -5235,7 +5235,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Dark Dazikon</td>
     <td>38</td>
     <td>29</td>
     <td>2</td>
@@ -5245,7 +5245,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Dark Dozikon</td>
     <td>49</td>
     <td>39</td>
     <td>3</td>
@@ -5255,7 +5255,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Dark Mesmerikon</td>
     <td>58</td>
     <td>53</td>
     <td>4</td>
@@ -5310,7 +5310,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Dark Foly</td>
     <td>18</td>
     <td>10</td>
     <td>2</td>
@@ -5355,7 +5355,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Poofy</td>
     <td>54</td>
     <td>33</td>
     <td>17</td>
@@ -5366,7 +5366,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Jouncy</td>
     <td>65</td>
     <td>46</td>
     <td>22</td>
@@ -5377,7 +5377,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Bouncy</td>
     <td>73</td>
     <td>60</td>
     <td>27</td>
@@ -5400,7 +5400,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Evil Floaty</td>
     <td>20</td>
     <td>15</td>
     <td>1</td>
@@ -5412,7 +5412,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Evil Poofy</td>
     <td>43</td>
     <td>26</td>
     <td>2</td>
@@ -5422,7 +5422,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Evil Jouncy</td>
     <td>53</td>
     <td>40</td>
     <td>3</td>
@@ -5432,7 +5432,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Evil Bouncy</td>
     <td>60</td>
     <td>61</td>
     <td>4</td>
@@ -5475,7 +5475,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Voltdon</td>
     <td>88</td>
     <td>80</td>
     <td>35</td>
@@ -5486,7 +5486,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Flashdon</td>
     <td>110</td>
     <td>110</td>
     <td>50</td>
@@ -5497,7 +5497,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Crashdon</td>
     <td>130</td>
     <td>140</td>
     <td>70</td>
@@ -5520,7 +5520,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Dark Zapdon</td>
     <td>46</td>
     <td>50</td>
     <td>7</td>
@@ -5532,7 +5532,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Dark Voltdon</td>
     <td>78</td>
     <td>75</td>
     <td>12</td>
@@ -5542,7 +5542,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Dark Flashdon</td>
     <td>86</td>
     <td>88</td>
     <td>14</td>
@@ -5552,7 +5552,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Dark Crashdon</td>
     <td>100</td>
     <td>120</td>
     <td>17</td>
@@ -5595,7 +5595,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">2</td>
-    <td>monster_name</td>
+    <td>Villeater</td>
     <td>75</td>
     <td>60</td>
     <td>25</td>
@@ -5606,7 +5606,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">3</td>
-    <td>monster_name</td>
+    <td>Mounteater</td>
     <td>100</td>
     <td>90</td>
     <td>40</td>
@@ -5617,7 +5617,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>monster_name</td>
+    <td>Isleater</td>
     <td>150</td>
     <td>120</td>
     <td>60</td>
@@ -5640,7 +5640,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">1</td>
-    <td>monster_name</td>
+    <td>Dark Maneater</td>
     <td>60</td>
     <td>30</td>
     <td>5</td>
@@ -5652,7 +5652,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">2</td>
-    <td>monster_name</td>
+    <td>Dark Villeater</td>
     <td>85</td>
     <td>65</td>
     <td>9</td>
@@ -5662,7 +5662,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">3</td>
-    <td>monster_name</td>
+    <td>Dark Mounteater</td>
     <td>110</td>
     <td>90</td>
     <td>13</td>
@@ -5672,7 +5672,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>monster_name</td>
+    <td>Dark Isleater</td>
     <td>123</td>
     <td>110</td>
     <td>17</td>
@@ -5805,5 +5805,74 @@ Element Order
     <td>0%</td>
     <td>-</td>
     <td>Moves:<br/>・Double Lariat - Deals damage (1 tile radius).<br/>・Boulder Throw - Deals 50 or so damage (Ranged, 1 tile radius).<br/>・Sumo Slap - Deals 20 or so damage + 10 tiles knockback.<br/>・Call Monsters - Summons 2~3 monsters.<br/>・Instant Recovery - Cures all status conditions.</td>
+  </tr>
+</table>
+
+### Shopkeeper
+
+<div class="relativeImage monsterImage">
+  <img src="../images/monsters/shopkeeper.png"/><img src="../images/monsters/shopkeeper_2.png"/><img src="../images/monsters/shopkeeper_3.png"/><img src="../images/monsters/shopkeeper_4.png"/>
+</div>
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Lv</th>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Skill</th>
+    <th>Drop</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Shopkeeper<br/>(Red)</td>
+    <td>200</td>
+    <td>150</td>
+    <td>30</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Found in regular shops.<br/>Only takes 2 damage from abilities.<br/>Three Screams, Transmogrification are effective.<br/>Ignores <a href="/shiren-5/items/scrolls#sanctuary-scroll">Sanctuary Scrolls</a>, thrown Gitan is effective.<br/>Shopkeepers don't vanish when time of day changes.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Shopkeeper<br/>(Blue)</td>
+    <td>200</td>
+    <td>150</td>
+    <td>30</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Peddler NPC color.<br/>Same abilities as Shopkeeper (Red).</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Shopkeeper<br/>(Green)</td>
+    <td>200</td>
+    <td>160</td>
+    <td>40</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0%</td>
+    <td>-</td>
+    <td>Found in Pick-A-Choice shops.<br/>Same abilities as Shopkeeper (Red).<br/>Higher stats than red and blue Shopkeepers.</td>
+  </tr>
+  <tr>
+    <td class="highlightYellow">1</td>
+    <td>Shopkeeper<br/>(Gold)</td>
+    <td>250</td>
+    <td>180</td>
+    <td>60</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0%</td>
+    <td>Swift 1</td>
+    <td>Found in elite shops.<br/>Same abilities as Shopkeeper (Red), but double speed.<br/>Highest stats among all Shopkeepers.</td>
   </tr>
 </table>

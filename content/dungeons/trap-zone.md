@@ -598,35 +598,35 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>72</th>
       <td class="highlightExtreme">Ornery Tank</td>
-      <td class="highlightOffense">Soybeanie</td>
+      <td class="highlightOffense">Grainie</td>
       <td class="highlightFarming">Kleptoad</td>
       <td class="highlightUseful">Mixerdon</td>
     </tr>
     <tr>
       <th>73</th>
       <td class="highlightExtreme">Ornery Tank</td>
-      <td class="highlightOffense">Soybeanie</td>
+      <td class="highlightOffense">Grainie</td>
       <td class="highlightFarming">Kleptoad</td>
       <td class="highlightUseful">Mixerdon</td>
     </tr>
     <tr>
       <th>74</th>
       <td class="highlightExtreme">Ornery Tank</td>
-      <td class="highlightOffense">Soybeanie</td>
+      <td class="highlightOffense">Grainie</td>
       <td class="highlightFarming">Kleptoad</td>
       <td class="highlightDanger">Spirit Ham</td>
     </tr>
     <tr>
       <th>75</th>
       <td class="highlightExtreme">Ornery Tank</td>
-      <td class="highlightOffense">Soybeanie</td>
+      <td class="highlightOffense">Grainie</td>
       <td class="highlightDanger">Osmammoth</td>
       <td class="highlightDanger">Spirit Ham</td>
     </tr>
     <tr>
       <th>76</th>
       <td class="highlightExtreme">Hell Gyaza</td>
-      <td class="highlightOffense">Soybeanie</td>
+      <td class="highlightOffense">Grainie</td>
       <td class="highlightDanger">Osmammoth</td>
       <td class="highlightDanger">Spirit Ham</td>
     </tr>

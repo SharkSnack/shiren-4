@@ -745,7 +745,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td class="leftText">Palm Stick</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Pierce Bracelet</td>
@@ -764,8 +764,8 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Copper Edge</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Heal Bracelet</td>
@@ -791,7 +791,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td class="leftText">Calm Bracelet</td>
     <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Identify Scroll</td>
@@ -805,7 +805,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td class="leftText">Beast Fang</td>
     <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Holy Bracelet</td>
@@ -817,26 +817,26 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td class="leftText">Heaven Scroll</td>
     <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Dotanuki</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Alert Bracelet</td>
     <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Earth Scroll</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -844,14 +844,14 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Meteor Edge</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Cleansing Bracelet</td>
     <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Plating Scroll</td>
@@ -870,14 +870,14 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Staunch Bracelet</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Confusion Scroll</td>
     <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
@@ -891,12 +891,12 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td class="leftText">Strength Bracelet</td>
     <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Slumber Scroll</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -905,7 +905,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td class="leftText">Rusty Pickaxe</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Bad Aim Bracelet</td>
@@ -1024,7 +1024,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Old Mallet</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1037,7 +1037,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td class="leftText">Medicine Scroll</td>
     <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
@@ -1064,7 +1064,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Dull Gold Edge</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1091,7 +1091,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td class="leftText">Trap Bracelet</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Blank Scroll</td>
@@ -1131,7 +1131,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td class="leftText">Explosion Bracelet</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Muzzled Scroll</td>
@@ -1151,7 +1151,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td class="leftText">Regret Bracelet</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Grounded Scroll</td>
@@ -1251,7 +1251,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <th>E</th>
     <td class="leftText">Desert Scroll</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1259,7 +1259,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Myopic Masher</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1279,7 +1279,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Drain Slicer</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1292,7 +1292,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td class="leftText">Attraction Scroll</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
@@ -1311,7 +1311,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Suction Scroll</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1354,7 +1354,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Palm Shield</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1374,8 +1374,8 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Copper Guard</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Shrink Seed</td>
@@ -1395,7 +1395,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td class="leftText">Iron Targe</td>
     <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Happy Grass</td>
@@ -1414,8 +1414,8 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Clan Shield</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Angel Seed</td>
@@ -1449,7 +1449,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Meteor Guard</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1469,7 +1469,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Red Shield</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1529,7 +1529,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Heavy Shield</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1549,7 +1549,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Lizard Shield</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1569,13 +1569,13 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Counter Shield</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Sleep Grass</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1649,7 +1649,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
   <tr>
     <td class="leftText">Dull Gold Shield</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1695,7 +1695,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Power Up Grass</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1715,7 +1715,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Invincible Grass</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1775,7 +1775,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Growth Seed</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1866,7 +1866,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td class="leftText">Empathy Staff</td>
     <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Oil Pot</td>
@@ -1885,7 +1885,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Transient Staff</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1941,7 +1941,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td class="leftText">Knockback Staff</td>
     <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <th>Name</th>
@@ -1960,14 +1960,14 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Seal Staff</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Sleep Talisman</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
@@ -1981,13 +1981,13 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td class="leftText">Decoy Staff</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Seal Talisman</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
@@ -2000,8 +2000,8 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Balance Staff</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Dizzy Talisman</td>
@@ -2021,13 +2021,13 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td class="leftText">Tunnel Staff</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Miss Talisman</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
@@ -2047,7 +2047,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td class="leftText">Fear Talisman</td>
     <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
@@ -2055,26 +2055,26 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td class="leftText">Rock</td>
     <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Swift Staff</td>
     <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Bind Talisman</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Porky Rock</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2086,7 +2086,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Swift Talisman</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2106,8 +2106,8 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Slow Talisman</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
@@ -2121,8 +2121,8 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Berserk Talisman</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
@@ -2135,14 +2135,14 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <th>E</th>
     <td class="leftText">Trap Erase Staff</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Rage Talisman</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
@@ -2161,7 +2161,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Fury Talisman</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2175,8 +2175,8 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td></td>
     <td class="leftText">Ordinary Staff</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <th colspan="6" class="highlightGreen">Food</th>
@@ -2217,7 +2217,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td class="leftText">Green Banana</td>
     <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
@@ -2227,7 +2227,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <td class="leftText">Yellow Banana</td>
     <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>

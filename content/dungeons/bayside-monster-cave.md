@@ -828,7 +828,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>68</th>
       <td class="highlightItem">Gyandora</td>
       <td class="highlightDanger">Pumpanshee</td>
-      <td class="highlightOffense">Soybeanie</td>
+      <td class="highlightOffense">Grainie</td>
       <td class="highlightUseful">Mixerdon</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -838,7 +838,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>69</th>
       <td class="highlightItem">Gyandora</td>
       <td class="highlightDanger">Pumpanshee</td>
-      <td class="highlightOffense">Soybeanie</td>
+      <td class="highlightOffense">Grainie</td>
       <td class="highlightUseful">Mixerdon</td>
       <td class="highlightGray"></td>
       <td class="highlightOffense">Zanbeeto</td>
@@ -848,7 +848,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>70</th>
       <td class="highlightItem">Gyandora</td>
       <td class="highlightOffense">Boss Yanpii</td>
-      <td class="highlightOffense">Soybeanie</td>
+      <td class="highlightOffense">Grainie</td>
       <td class="highlightUseful">Mixerdon</td>
       <td class="highlightGray"></td>
       <td class="highlightOffense">Zanbeeto</td>
@@ -858,7 +858,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>71</th>
       <td class="highlightItem">Gyandora</td>
       <td class="highlightOffense">Boss Yanpii</td>
-      <td class="highlightOffense">Soybeanie</td>
+      <td class="highlightOffense">Grainie</td>
       <td>Eagle Tengu</td>
       <td class="highlightItem">Sludge</td>
       <td class="highlightOffense">Zanbeeto</td>
@@ -868,7 +868,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <th>72</th>
       <td class="highlightExtreme">Hell Gyaza</td>
       <td class="highlightOffense">Boss Yanpii</td>
-      <td class="highlightOffense">Soybeanie</td>
+      <td class="highlightOffense">Grainie</td>
       <td>Eagle Tengu</td>
       <td class="highlightItem">Sludge</td>
       <td class="highlightOffense">Zanbeeto</td>

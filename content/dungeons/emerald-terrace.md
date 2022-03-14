@@ -262,7 +262,7 @@ Aim to synthesize any type-effective or status inflicting weapons you find.
     <tr>
       <td class="highlightGray">Anti-Floating</td>
       <td>Sky Splitter<br/>Warp Grass</td>
-      <td>Effective against Firepuff, Pumphantasm, Blade Bee, Gyadon, Flashbird.<br/>Synthesize Sky Splitter if you find a Synthesis Pot before 19F.<br/>Low priority after 20F, since the only floating enemy left is Pumphantom.</td>
+      <td>Effective against Firepuff, Pumphantasm, Blade Bee, Gyadon, Flash Bird.<br/>Synthesize Sky Splitter if you find a Synthesis Pot before 19F.<br/>Low priority after 20F, since the only floating enemy left is Pumphantom.</td>
     </tr>
     <tr>
       <td class="highlightGray">Anti-Cyclops</td>
@@ -1315,7 +1315,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     </tr>
     <tr>
       <td>21-23</td>
-      <td>Flashbird</td>
+      <td>Flash Bird</td>
       <td>31</td>
       <td>11</td>
       <td>18</td>
@@ -2544,7 +2544,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
   </tr>
   <tr>
     <td class="leftText">Palm Stick</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td>X</td>
     <td></td>
@@ -2570,7 +2570,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
     <td>X</td>
     <td></td>
     <td class="leftText">Heal Bracelet</td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td>X</td>
     <td></td>
@@ -2630,7 +2630,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
     <td></td>
     <td></td>
     <td class="leftText">Alert Bracelet</td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td>X</td>
     <td></td>
@@ -2644,8 +2644,8 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
   </tr>
   <tr>
     <td class="leftText">Meteor Edge</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td>X</td>
@@ -2724,14 +2724,14 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
   </tr>
   <tr>
     <td class="leftText">Rusty Pick</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Strider Bracelet</td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2770,13 +2770,13 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
     <td></td>
     <td>X</td>
     <td class="leftText">Alleyway Bracelet</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Trap Erase Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td>X</td>
     <td></td>
@@ -2799,13 +2799,13 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
     <td></td>
     <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Bright Blade</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2896,7 +2896,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
     <td></td>
     <td></td>
     <td class="leftText">Blank Scroll</td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -2925,7 +2925,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
   <tr>
     <td class="leftText">Shockuto</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -3079,7 +3079,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
   </tr>
   <tr>
     <td class="leftText">Drain Slicer</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td>X</td>
     <td></td>
@@ -3140,7 +3140,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
     <th>Z</th>
     <th>E</th>
     <td class="leftText">Life Grass</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3174,7 +3174,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
   </tr>
   <tr>
     <td class="leftText">Copper Guard</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td>X</td>
     <td></td>
@@ -3206,7 +3206,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
     <td></td>
     <td>X</td>
     <td class="leftText">Replenish Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td>X</td>
     <td></td>
@@ -3249,7 +3249,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
   </tr>
   <tr>
     <td class="leftText">Meteor Guard</td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td>X</td>
     <td></td>
@@ -3281,7 +3281,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
     <td>X</td>
     <td></td>
     <td class="leftText">Synthesis Pot</td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td>X</td>
@@ -3298,7 +3298,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
     <td></td>
     <td>X</td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Identify Pot</td>
     <td></td>
@@ -3329,7 +3329,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
   </tr>
   <tr>
     <td class="leftText">Heavy Shield</td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td>X</td>
     <td>X</td>
@@ -3361,7 +3361,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
     <td></td>
     <td></td>
     <td class="leftText">Purify Pot</td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td>X</td>
@@ -3369,7 +3369,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
   </tr>
   <tr>
     <td class="leftText">Counter Shield</td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td>X</td>
     <td></td>
@@ -3452,7 +3452,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
     <td>X</td>
     <td>X</td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Sight Grass</td>
     <td>X</td>
@@ -3461,7 +3461,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
     <td>X</td>
     <td></td>
     <td class="leftText">Sale Pot</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3476,7 +3476,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
     <td>X</td>
     <td class="leftText">Dragon Grass</td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td>X</td>
     <td></td>
@@ -3575,7 +3575,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
     <td></td>
     <td></td>
     <td class="leftText">Growth Seed</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td>X</td>
     <td>X</td>
@@ -3616,12 +3616,12 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
     <td></td>
     <td class="leftText">Undo Grass</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td>X</td>
     <td class="leftText">Zalokleft Pot</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3726,7 +3726,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
     <td></td>
     <td class="leftText">Swap Staff</td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td>X</td>
     <td></td>
@@ -3766,7 +3766,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
     <td>X</td>
     <td></td>
     <td class="leftText">Sleep Talisman</td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td>X</td>
     <td></td>
@@ -3820,7 +3820,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
     <td></td>
     <td></td>
     <td class="leftText">Tunnel Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3935,7 +3935,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
     <th>Z</th>
     <th>E</th>
     <td class="leftText">Trap Erase Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td>X</td>
     <td></td>
@@ -3955,7 +3955,7 @@ Enemy Colors: <span class="highlightYellow">Day</span> <span class="highlightPur
     <td></td>
     <td></td>
     <td class="leftText">Mage Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td>X</td>
     <td></td>

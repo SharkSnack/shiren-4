@@ -221,7 +221,7 @@ Unlike past games, early floor special monster houses only contain Lv1\~2 monste
   </tr>
   <tr>
     <td>Explosive</td>
-    <td>Pop Tank, Dragon, Firepuff, Explochin, Flashbird</td>
+    <td>Pop Tank, Dragon, Firepuff, Explochin, Flash Bird</td>
   </tr>
   <tr>
     <td>Aquatic</td>
@@ -393,7 +393,7 @@ Tile where lava flows out and deals 30 damage to characters in a 1 tile radius a
   <img src="../images/other/lava_hit.png"/>
 </div>
 
-The <span class="greenText">1/2 Fire</span> rune reduces lava damage by 50%, and Flashbirds will be healed.<br/>Lava won't flow out inside a Monster House until all initially placed monsters are defeated,<br/>and if the entire floor was a monster house, lava won't flow out at all.<br/>
+The <span class="greenText">1/2 Fire</span> rune reduces lava damage by 50%, and Flash Birds will be healed.<br/>Lava won't flow out inside a Monster House until all initially placed monsters are defeated,<br/>and if the entire floor was a monster house, lava won't flow out at all.<br/>
 
 ### Vanishing Tiles
 

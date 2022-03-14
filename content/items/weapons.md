@@ -2254,7 +2254,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>7500</td>
       <td>2625</td>
       <td rowspan="7">(Anti-Floating)</td>
-      <td rowspan="8">Deal more damage to Floating types.<br/>(150%, +25% per level up | Lv8: 325%)<br/><br/>Families: Crow Tengu, Gyadon, Foly,<br/>Blade Bee, Snacky, Pumphantasm,<br/>Firepuff, Flashbird</td>
+      <td rowspan="8">Deal more damage to Floating types.<br/>(150%, +25% per level up | Lv8: 325%)<br/><br/>Families: Crow Tengu, Gyadon, Foly,<br/>Blade Bee, Snacky, Pumphantasm,<br/>Firepuff, Flash Bird</td>
     </tr>
     <tr>
       <td>2</td>

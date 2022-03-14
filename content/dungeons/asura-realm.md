@@ -817,7 +817,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightOrange"></td>
       <td class="highlightOrange">Mixerdon</td>
       <td class="highlightOrange">Sludge</td>
-      <td class="highlightOrange">Soybeanie</td>
+      <td class="highlightOrange">Grainie</td>
       <td class="highlightOrange">Pumpanshee</td>
       <td class="highlightOrange">Zanbeeto</td>
       <td class="highlightOrange"></td>
@@ -910,7 +910,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightGray"></td>
       <td>Gyandora</td>
       <td class="highlightGray"></td>
-      <td>Soybeanie</td>
+      <td>Grainie</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -921,7 +921,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightGray"></td>
       <td>Gyandora</td>
       <td>Boss Yanpii</td>
-      <td>Soybeanie</td>
+      <td>Grainie</td>
       <td>Zanbeeto</td>
       <td class="highlightGray"></td>
     </tr>
@@ -945,7 +945,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightGray"></td>
       <td>Gyandora</td>
       <td>Boss Yanpii</td>
-      <td>Soybeanie</td>
+      <td>Grainie</td>
       <td>Zanbeeto</td>
       <td class="highlightGray"></td>
       <td rowspan="9" class="monsterTableNdup">4</td>
@@ -958,7 +958,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td>Spirit Ham</td>
       <td>Hell Gyaza</td>
       <td>Boss Yanpii</td>
-      <td>Soybeanie</td>
+      <td>Grainie</td>
       <td>Zanbeeto</td>
       <td class="highlightGray"></td>
     </tr>

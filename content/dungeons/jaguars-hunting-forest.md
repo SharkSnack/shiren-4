@@ -177,7 +177,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Yanpii</td>
+      <td class="monsterNight">Bad Yanpii</td>
       <td class="monsterNight">Evil Porky</td>
       <td class="monsterNight">Evil Hopodile</td>
       <td class="highlightGray"></td>
@@ -192,7 +192,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Yanpii</td>
+      <td class="monsterNight">Bad Yanpii</td>
       <td class="monsterNight">Evil Porky</td>
       <td class="monsterNight">Dark Ironhead</td>
       <td class="highlightGray"></td>
@@ -207,7 +207,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Yanpii</td>
+      <td class="monsterNight">Bad Yanpii</td>
       <td class="monsterNight">Dark DJ Mage</td>
       <td class="monsterNight">Dark Ironhead</td>
       <td class="highlightGray"></td>
@@ -222,7 +222,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Yanpii</td>
+      <td class="monsterNight">Bad Yanpii</td>
       <td class="monsterNight">Dark DJ Mage</td>
       <td class="monsterNight">Dark Ironhead</td>
       <td class="highlightGray"></td>
@@ -237,7 +237,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Yanpii</td>
+      <td class="monsterNight">Bad Yanpii</td>
       <td class="monsterNight">Dark DJ Mage</td>
       <td class="monsterNight">Dark Ironhead</td>
       <td class="highlightGray"></td>
@@ -1064,7 +1064,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Lt. Yanpii</td>
+      <td class="monsterNight">Bad Lt. Yanpii</td>
       <td class="monsterNight">Vile Ooze</td>
       <td class="monsterNight">Evil Hyper Gazer</td>
       <td class="highlightGray"></td>
@@ -1079,7 +1079,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Lt. Yanpii</td>
+      <td class="monsterNight">Bad Lt. Yanpii</td>
       <td class="extremeNight monsterNight">Dark Dozikon</td>
       <td class="monsterNight">Evil Hyper Gazer</td>
       <td class="highlightGray"></td>
@@ -1094,7 +1094,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Lt. Yanpii</td>
+      <td class="monsterNight">Bad Lt. Yanpii</td>
       <td class="extremeNight monsterNight">Dark Dozikon</td>
       <td class="monsterNight">Vile Stun Scorp</td>
       <td class="highlightGray"></td>
@@ -1109,7 +1109,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Lt. Yanpii</td>
+      <td class="monsterNight">Bad Lt. Yanpii</td>
       <td class="extremeNight monsterNight">Dark Dozikon</td>
       <td class="monsterNight">Vile Stun Scorp</td>
       <td class="highlightGray"></td>
@@ -1124,7 +1124,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Lt. Yanpii</td>
+      <td class="monsterNight">Bad Lt. Yanpii</td>
       <td class="extremeNight monsterNight">Dark Horrabbit</td>
       <td class="monsterNight">Vile Stun Scorp</td>
       <td class="highlightGray"></td>
@@ -1139,7 +1139,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">Dark Lt. Yanpii</td>
+      <td class="monsterNight">Bad Lt. Yanpii</td>
       <td class="extremeNight monsterNight">Dark Horrabbit</td>
       <td class="monsterNight">Mean Rally Ham</td>
       <td class="highlightGray"></td>
@@ -1547,7 +1547,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <tr>
       <td class="monsterNight">Wild Gyandoron</td>
       <td class="monsterNight">Evil Detonachin</td>
-      <td class="monsterNight">Dark Boss Yanpii</td>
+      <td class="monsterNight">Bad Boss Yanpii</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1562,7 +1562,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <tr>
       <td class="monsterNight">Wild Gyandoron</td>
       <td class="monsterNight">Evil Detonachin</td>
-      <td class="monsterNight">Dark Boss Yanpii</td>
+      <td class="monsterNight">Bad Boss Yanpii</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1577,7 +1577,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <tr>
       <td class="monsterNight">Wild Gyandoron</td>
       <td class="monsterNight">Evil Detonachin</td>
-      <td class="monsterNight">Dark Boss Yanpii</td>
+      <td class="monsterNight">Bad Boss Yanpii</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1592,7 +1592,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <tr>
       <td class="monsterNight">Wild Gyandoron</td>
       <td class="monsterNight">Evil Detonachin</td>
-      <td class="monsterNight">Dark Boss Yanpii</td>
+      <td class="monsterNight">Bad Boss Yanpii</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>

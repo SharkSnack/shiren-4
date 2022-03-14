@@ -218,7 +218,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="">Dark DJ Mage</td>
       <td class="">Dark Hurler</td>
       <td class="">Foul Curse Sister</td>
-      <td class="">Dark Sr. Yanpii</td>
+      <td class="">Bad Sr. Yanpii</td>
     </tr>
     <tr>
       <th>16</th>
@@ -226,7 +226,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="">Dark DJ Mage</td>
       <td class="">Dark Hurler</td>
       <td class="">Dark Eligagan</td>
-      <td class="">Dark Sr. Yanpii</td>
+      <td class="">Bad Sr. Yanpii</td>
     </tr>
     <tr>
       <th>17</th>
@@ -234,7 +234,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightOffense">Dark Dazikon</td>
       <td class="">Dark Hurler</td>
       <td class="">Dark Eligagan</td>
-      <td class="">Dark Sr. Yanpii</td>
+      <td class="">Bad Sr. Yanpii</td>
     </tr>
     <tr>
       <th>18</th>
@@ -242,7 +242,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightOffense">Dark Dazikon</td>
       <td class="highlightDanger">Dark Digestiphant</td>
       <td class="">Dark Eligagan</td>
-      <td class="">Dark Sr. Yanpii</td>
+      <td class="">Bad Sr. Yanpii</td>
     </tr>
     <tr>
       <th>19</th>
@@ -505,7 +505,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="">Evil Huge Chintala</td>
       <td class="highlightFarming">Plump Mealy</td>
       <td class="">Dark Nuttie</td>
-      <td class="">Dark Lt. Yanpii</td>
+      <td class="">Bad Lt. Yanpii</td>
       <td class="">Vile Ooze</td>
     </tr>
     <tr>
@@ -513,7 +513,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="">Evil Huge Chintala</td>
       <td class="highlightFarming">Plump Mealy</td>
       <td class="">Dark Nuttie</td>
-      <td class="">Dark Lt. Yanpii</td>
+      <td class="">Bad Lt. Yanpii</td>
       <td class="">Vile Ooze</td>
     </tr>
     <tr>
@@ -521,7 +521,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightDanger">Dark Ornery Tank</td>
       <td class="">Dark Onigirizzly</td>
       <td class="">Dark Twinkle Bird</td>
-      <td class="">Dark Lt. Yanpii</td>
+      <td class="">Bad Lt. Yanpii</td>
       <td class="">Vile Ooze</td>
     </tr>
     <tr>
@@ -713,7 +713,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightDanger">Evil Porgon</td>
       <td class="highlightFarming">Snide Froggon</td>
       <td class="">Evil Boingodile</td>
-      <td class="">Dark Boss Yanpii</td>
+      <td class="">Bad Boss Yanpii</td>
       <td class="">Evil Tatsujin</td>
     </tr>
     <tr>
@@ -721,7 +721,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightDanger">Evil Porgon</td>
       <td class="highlightOffense">Dark Squid Kaiser</td>
       <td class="">Evil Boingodile</td>
-      <td class="">Dark Boss Yanpii</td>
+      <td class="">Bad Boss Yanpii</td>
       <td class="">Evil Tatsujin</td>
     </tr>
     <tr>
@@ -729,7 +729,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightDanger">Evil Porgon</td>
       <td class="highlightOffense">Dark Squid Kaiser</td>
       <td class="">Dark Doomhead</td>
-      <td class="">Dark Boss Yanpii</td>
+      <td class="">Bad Boss Yanpii</td>
       <td class="">Evil Tatsujin</td>
     </tr>
     <tr>
@@ -814,7 +814,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>90</th>
-      <td class="">Dark Soybeanie</td>
+      <td class="">Dark Grainie</td>
       <td class="">Evil Boingodile</td>
       <td class="highlightExtreme">Dark Cranky Tank</td>
       <td class="highlightExtreme">Dark Terrabbit</td>
@@ -822,7 +822,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>91</th>
-      <td class="">Dark Soybeanie</td>
+      <td class="">Dark Grainie</td>
       <td class="">Evil Boingodile</td>
       <td class="highlightExtreme">Dark Cranky Tank</td>
       <td class="highlightExtreme">Dark Terrabbit</td>
@@ -830,7 +830,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>92</th>
-      <td class="">Dark Soybeanie</td>
+      <td class="">Dark Grainie</td>
       <td class="">Evil Boingodile</td>
       <td class="highlightExtreme">Dark Cranky Tank</td>
       <td class="highlightExtreme">Dark Terrabbit</td>
@@ -838,7 +838,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>93</th>
-      <td class="">Dark Soybeanie</td>
+      <td class="">Dark Grainie</td>
       <td class="">Dark Crashdon</td>
       <td class="highlightExtreme">Dark Cranky Tank</td>
       <td class="">Dark Cyberoid</td>
@@ -846,7 +846,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>94</th>
-      <td class="">Dark Soybeanie</td>
+      <td class="">Dark Grainie</td>
       <td class="">Dark Crashdon</td>
       <td class="highlightExtreme">Evil Abyss Dragon</td>
       <td class="">Dark Cyberoid</td>
