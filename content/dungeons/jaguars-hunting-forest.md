@@ -69,7 +69,7 @@ metaDescription: "Jaguar's Hunting Forest dungeon guide for Shiren the Wanderer 
   <tr>
     <th>Ominous aura</th>
     <td>Yes (400 turns)</td>
-    <th>Wind of Kron</th>
+    <th>Winds of Kron</th>
     <td>1st: 700 / 4th: 1000</td>
   </tr>
   <tr>

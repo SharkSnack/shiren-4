@@ -424,7 +424,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/palm_shield.png"/></td>
-    <td>item_book_description</td>
+    <td>A hard and durable shield made by carving<br/>the trunk of a palm tree.</td>
   </tr>
 </table>
 
@@ -540,7 +540,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/copper_guard.png"/></td>
-    <td>item_book_description</td>
+    <td>A shield made of copper that's been<br/>forged for generations.</td>
   </tr>
 </table>
 
@@ -656,7 +656,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/iron_targe.png"/></td>
-    <td>item_book_description</td>
+    <td>A sturdy shield made of iron.</td>
   </tr>
 </table>
 
@@ -771,7 +771,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/clan_shield.png"/></td>
-    <td>item_book_description</td>
+    <td>A traditional shield originally crafted and<br/>used by clans of this island.</td>
   </tr>
 </table>
 
@@ -887,7 +887,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/beast_shield.png"/></td>
-    <td>item_book_description</td>
+    <td>The surface of this shield looks like a<br/>beast's face, whose glare intimidates<br/>monsters that stand before it.</td>
   </tr>
 </table>
 
@@ -1003,7 +1003,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/meteor_guard.png"/></td>
-    <td>item_book_description</td>
+    <td>Shield made out of a meteorite shard.<br/>It's extremely hard, and offers<br/>considerable defense.</td>
   </tr>
 </table>
 
@@ -1120,7 +1120,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/red_shield.png"/></td>
-    <td>item_book_description</td>
+    <td>Shield made from a hard, red stone called<br/>Shugoseki.</td>
   </tr>
 </table>
 
@@ -1236,7 +1236,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/fuuma_shield.png"/></td>
-    <td>item_book_description</td>
+    <td>A very sturdy shield made with a special<br/>metal called Fuuma Iron.</td>
   </tr>
 </table>
 
@@ -1351,7 +1351,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/helix_shield.png"/></td>
-    <td>item_book_description</td>
+    <td>Miraculous shield created by reforming<br/>a fully upgraded Legendary Fuuma.<br/>The spiral shape enhances the strength<br/>of Fuuma Iron.</td>
   </tr>
 </table>
 
@@ -1465,7 +1465,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/dull_gold_shield.png"/></td>
-    <td>item_book_description</td>
+    <td>A rustproof shield.<br/>It's a bit dirty so it's hard to tell,<br/>but it's actually made of gold.</td>
   </tr>
 </table>
 
@@ -1580,7 +1580,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/diet_shield.png"/></td>
-    <td>item_book_description</td>
+    <td>Slows hunger rate while equipped.<br/>A little less starvation, a little more<br/>action, please!</td>
   </tr>
 </table>
 
@@ -1695,7 +1695,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/heavy_shield.png"/></td>
-    <td>item_book_description</td>
+    <td>Speeds up hunger rate while equipped.<br/>This shield has high defense, but its<br/>heavy weight makes you hungry faster.</td>
   </tr>
 </table>
 
@@ -1810,7 +1810,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/counter_shield.png"/></td>
-    <td>item_book_description</td>
+    <td>Reflects a portion of damage received<br/>from direct attacks.<br/>It's refreshing to be something other<br/>than a punching bag for a change.</td>
   </tr>
 </table>
 
@@ -1925,7 +1925,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/happy_shield.png"/></td>
-    <td>item_book_description</td>
+    <td>Gain experience points when you get<br/>hit by a direct attack.<br/>It's perfect for "when life gives you<br/>lemons, make lemonade" types.</td>
   </tr>
 </table>
 
@@ -2041,7 +2041,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/bowl_shield.png"/></td>
-    <td>item_book_description</td>
+    <td>This shield occasionally replenishes a bit<br/>of fullness when you take damage.<br/>The chance increases as it levels up!</td>
   </tr>
 </table>
 
@@ -2156,7 +2156,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/spry_shield.png"/></td>
-    <td>item_book_description</td>
+    <td>You'll dodge direct attacks more often.<br/>It's great when monsters miss attacks.<br/>Not only that, dodging becomes even<br/>easier as the shield levels up!</td>
   </tr>
 </table>
 
@@ -2277,7 +2277,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/blast_shield.png"/></td>
-    <td>item_book_description</td>
+    <td>A shield that reduces explosion damage.<br/>It's great to have this when there are<br/>lots of Bomb type monsters nearby.</td>
   </tr>
 </table>
 
@@ -2392,7 +2392,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/lock_shield.png"/></td>
-    <td>item_book_description</td>
+    <td>Prevents Zalokleft type monsters from<br/>stealing your items.</td>
   </tr>
 </table>
 
@@ -2507,7 +2507,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/safe_shield.png"/></td>
-    <td>item_book_description</td>
+    <td>Prevents Froggo type monsters from<br/>stealing your Gitan.</td>
   </tr>
 </table>
 
@@ -2622,7 +2622,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/gyadon_blocker.png"/></td>
-    <td>item_book_description</td>
+    <td>Prevents Gyadon type monsters from<br/>pecking and eating your items.<br/>It's called blocker instead of shield, but<br/>there's no special reason for this bit of<br/>nuance.</td>
   </tr>
 </table>
 
@@ -2737,7 +2737,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/lizard_shield.png"/></td>
-    <td>item_book_description</td>
+    <td>A shield made with lizard scales that<br/>reduces fire damage dealt to you.<br/>Dragon scales would've been ideal,<br/>but there weren't enough funds.</td>
   </tr>
 </table>
 
@@ -2852,7 +2852,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/steady_shield.png"/></td>
-    <td>item_book_description</td>
+    <td>A shield that nullifies effects that move<br/>you from your current position.<br/>It might sound useless, but you'll wish you<br/>had it if you end up in a bad situation<br/>after a warp.</td>
   </tr>
 </table>
 
@@ -2967,7 +2967,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/gazer_guard.png"/></td>
-    <td>item_book_description</td>
+    <td>Makes you immune to Gazer's hypnosis.<br/>The name doesn't sound too reassuring,<br/>but rest assured, this shield always<br/>blocks Gazer's hypnosis.</td>
   </tr>
 </table>
 
@@ -3082,7 +3082,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/swap_shield.png"/></td>
-    <td>item_book_description</td>
+    <td>This shield converts the effect of a<br/>magic bullet hit into damage. It's great to<br/>be immune to magic, but it hurts a bit.</td>
   </tr>
 </table>
 
@@ -3197,7 +3197,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/shoddy_plank.png"/></td>
-    <td>item_book_description</td>
+    <td>It starts with high defense, but weakens<br/>each time you receive damage.<br/>In the end, you'll probably discard it.<br/>...What is this plank made out of?</td>
   </tr>
 </table>
 
@@ -3271,7 +3271,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
     </tr>
     <tr>
       <td>6</td>
-      <td>Disposable Targe</td>
+      <td>Disposable Guard</td>
       <td>35</td>
       <td>65</td>
       <td>12</td>
@@ -3311,7 +3311,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/lamp_shield.png"/></td>
-    <td>item_book_description</td>
+    <td>Burn items to illuminate surroundings.<br/>This ability can't be synthesized.<br/>A great shield to have at night.</td>
   </tr>
 </table>
 
@@ -3425,7 +3425,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/parry_shield.png"/></td>
-    <td>item_book_description</td>
+    <td>A shield that occasionally deflects<br/>direct attacks to nearby creatures.<br/>The chance to deflect increases each<br/>time the shield levels up!</td>
   </tr>
 </table>
 
@@ -3540,7 +3540,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/nirvana_board.png"/></td>
-    <td>item_book_description</td>
+    <td>Actions will no longer make you hungry,<br/>but max fullness is set to <span class="blueText">1</span>.<br/>Max fullness won't reset even if you<br/>unequip it, so there's no going back.</td>
   </tr>
 </table>
 
@@ -3655,7 +3655,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
   </tr>
   <tr>
     <td><img src="../images/shields/jaguars_shield.png"/></td>
-    <td>item_book_description</td>
+    <td>A shield you received from Jaguar.<br/>Chance to deal knockback, <span class="greenText">Confused</span>, or<br/>lightning damage when directly attacked.</td>
   </tr>
 </table>
 

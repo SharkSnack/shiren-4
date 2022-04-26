@@ -161,7 +161,7 @@ Example: Meteor Guard-1 (Cursed): 0.8 x {3200 x (1 - 0.05)} = 3200 x 0.8 x 0.95 
     <td colspan="3" rowspan="26"></td>
   </tr>
   <tr>
-    <td class="priceTableName">Expand Scroll</td>
+    <td class="priceTableName">Pot God Scroll</td>
     <td class="priceTableName">Power Up Grass</td>
     <td class="priceTableName">Item Detector</td>
   </tr>

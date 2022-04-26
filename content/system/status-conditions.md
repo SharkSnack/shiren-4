@@ -103,7 +103,7 @@ Key: <span class="highlightBlue">Positive</span>, <span class="highlightPink">Ne
     <td>The above, Sleepy Arrow</td>
   </tr>
   <tr>
-    <th id="slumber" class="highlightPink">Slumber</th>
+    <th id="slumbering" class="highlightPink">Slumbering</th>
     <td>Monster</td>
     <td>Unable to perform any actions. (12 turns)<br/>Action speed is increased by 1 stage afterward.</td>
     <td>Slumber Scroll,<br/>8-Way Slumber Shot</td>

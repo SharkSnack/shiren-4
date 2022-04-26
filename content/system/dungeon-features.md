@@ -10,7 +10,7 @@ This page offers explanations for dungeon features and gimmicks.
   <li><a href="#shop">Shop</a></li>
   <li><a href="#monster-house">Monster House</a></li>
   <li><a href="#traps">Traps</a></li>
-  <li><a href="#wind-of-kron">Wind of Kron</a></li>
+  <li><a href="#winds-of-kron">Winds of Kron</a></li>
   <li><a href="#hidden-room">Hidden Room</a></li>
   <li><a href="#hidden-hallway">Hidden Hallway</a></li>
   <li><a href="#shiny-object">Shiny Object</a></li>
@@ -254,7 +254,7 @@ List of traps and their effects.<br/>
   <img src="../images/traps/wood_arrow.png"/> <img src="../images/traps/sleep.png"/> <img src="../images/traps/hide_gauge.png"/>
 </div>
 
-### Wind of Kron
+### Winds of Kron
 
 If you linger on a floor too long, wind will blow you away.<br/>
 The first 3 gusts are warnings, and the 4th forces you back to Boronga Village.<br/>

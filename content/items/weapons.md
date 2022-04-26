@@ -498,7 +498,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/palm_stick.png"/></td>
-    <td>item_book_description</td>
+    <td>Stick made by carving a palm tree.<br/>Not balm stick, palm stick.</td>
   </tr>
 </table>
 
@@ -613,7 +613,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/copper_edge.png"/></td>
-    <td>item_book_description</td>
+    <td>Weapon made of sharpened copper.</td>
   </tr>
 </table>
 
@@ -728,7 +728,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/katana.png"/></td>
-    <td>item_book_description</td>
+    <td>Common weapon regularly used by many<br/>wanderers.</td>
   </tr>
 </table>
 
@@ -843,7 +843,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/beast_fang.png"/></td>
-    <td>item_book_description</td>
+    <td>Weapon made from a beast's fang.</td>
   </tr>
 </table>
 
@@ -958,7 +958,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/dotanuki.png"/></td>
-    <td>item_book_description</td>
+    <td>First-rate katana forged by a famous<br/>swordsmith. Rumor has it these katanas<br/>washed ashore when a ship carrying these<br/>katanas shipwrecked near <span class="orangeText">Cahitan Isle</span>.</td>
   </tr>
 </table>
 
@@ -1073,7 +1073,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/meteor_edge.png"/></td>
-    <td>item_book_description</td>
+    <td>Weapon forged from shattered<br/>meteorite fragments.</td>
   </tr>
 </table>
 
@@ -1189,7 +1189,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/red_blade.png"/></td>
-    <td>item_book_description</td>
+    <td>Weapon made from a hard, red stone<br/>called Shugoseki.</td>
   </tr>
 </table>
 
@@ -1305,7 +1305,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/kaburas_blade.png"/></td>
-    <td>item_book_description</td>
+    <td>Katana forged by the legendary<br/>swordsmith Kabura. Wanderers say it's<br/>the best katana in the world. It remains<br/>a mystery how it found its way to<br/><span class="orangeText">Cahitan Isle</span>.</td>
   </tr>
 </table>
 
@@ -1420,7 +1420,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/fuuma_sword.png"/></td>
-    <td>item_book_description</td>
+    <td>The Storied Katana has been reborn<br/>thanks to the work of a skilled blacksmith!<br/>It's been remade with Fuuma iron!</td>
   </tr>
 </table>
 
@@ -1534,7 +1534,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/kaburagi.png"/></td>
-    <td>item_book_description</td>
+    <td>The swordsmith Kabura wrote down how<br/>to forge it using S-Class Kabura as a<br/>base, and left the secret scroll behind<br/>for the world to discover.</td>
   </tr>
 </table>
 
@@ -1648,7 +1648,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/dull_gold_edge.png"/></td>
-    <td>item_book_description</td>
+    <td>It's hard to notice due to its dull color,<br/>but it's made of gold and will never rust.</td>
   </tr>
 </table>
 
@@ -1763,7 +1763,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/bright_blade.png"/></td>
-    <td>item_book_description</td>
+    <td>A prideful weapon that fills with anger<br/>every time it misses. Once its anger<br/>peaks, the blade shines and your next<br/>attack is guaranteed to land a critical hit.</td>
   </tr>
 </table>
 
@@ -1879,7 +1879,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/rusty_pickaxe.png"/></td>
-    <td>item_book_description</td>
+    <td>It can be used to dig through walls.<br/>However, digging with it may cause it<br/>to break. It's pretty old.</td>
   </tr>
 </table>
 
@@ -1994,7 +1994,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/rusty_pick.png"/></td>
-    <td>item_book_description</td>
+    <td>This old mattock can be used to dig<br/>through walls <span class="blueText">2</span> tiles at a time. It's junky,<br/>so digging with it can cause it to break.</td>
   </tr>
 </table>
 
@@ -2109,7 +2109,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/old_mallet.png"/></td>
-    <td>item_book_description</td>
+    <td>It can destroy traps and floor items,<br/>but the mallet can also break if used for<br/>that purpose.</td>
   </tr>
 </table>
 
@@ -2224,7 +2224,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/sky_splitter.png"/></td>
-    <td>item_book_description</td>
+    <td>A weapon that deals more damage to<br/>Floating type monsters.</td>
   </tr>
 </table>
 
@@ -2339,7 +2339,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/water_cutter.png"/></td>
-    <td>item_book_description</td>
+    <td>A sword that deals more damage to<br/>Aquatic type monsters.</td>
   </tr>
 </table>
 
@@ -2454,7 +2454,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/myopic_masher.png"/></td>
-    <td>item_book_description</td>
+    <td>A weapon that deals more damage to<br/>Cyclops type monsters.</td>
   </tr>
 </table>
 
@@ -2569,7 +2569,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/drain_slicer.png"/></td>
-    <td>item_book_description</td>
+    <td>A weapon that deals more damage to<br/>Drain type monsters.</td>
   </tr>
 </table>
 
@@ -2684,7 +2684,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/crescent_katana.png"/></td>
-    <td>item_book_description</td>
+    <td>Katana with a crescent shaped blade<br/>that deals more damage to Bomb type<br/>monsters.</td>
   </tr>
 </table>
 
@@ -2799,7 +2799,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/lizard_lasher.png"/></td>
-    <td>item_book_description</td>
+    <td>A weapon that deals more damage to<br/>Dragon type monsters.</td>
   </tr>
 </table>
 
@@ -2914,7 +2914,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/nap_rattle.png"/></td>
-    <td>item_book_description</td>
+    <td>Rattle that has a chance to inflict the<br/>target with <span class="greenText">Asleep</span> status. Yes, it's a<br/>baby toy used as a weapon.</td>
   </tr>
 </table>
 
@@ -3029,7 +3029,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/shockuto.png"/></td>
-    <td>item_book_description</td>
+    <td>Sword that occasionally numbs its target,<br/>inflicting them with <span class="greenText">Paralyzed</span> status.<br/>It's a chokuto in name only. I mean, just<br/>look at it.</td>
   </tr>
 </table>
 
@@ -3144,7 +3144,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/blurry_stick.png"/></td>
-    <td>item_book_description</td>
+    <td>Stick that sometimes inflicts the target<br/>with <span class="greenText">Blind</span> status, making them unable to<br/>see what's in front of them.</td>
   </tr>
 </table>
 
@@ -3259,7 +3259,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/sealing_keisaku.png"/></td>
-    <td>item_book_description</td>
+    <td>Keisaku that lives up to its name by<br/>occasionally inflicting its target with<br/><span class="greenText">Sealed</span> status.</td>
   </tr>
 </table>
 
@@ -3374,7 +3374,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/baffle_axe.png"/></td>
-    <td>item_book_description</td>
+    <td>Axe that occasionally inflicts the target<br/>with <span class="greenText">Confused</span> status. Its baffling<br/>effect is sure to help in a kerfuffle.</td>
   </tr>
 </table>
 
@@ -3489,7 +3489,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/hatchet.png"/></td>
-    <td>item_book_description</td>
+    <td>Axe that occasionally deals a critical hit.<br/>Critical hits deal massive damage!</td>
   </tr>
 </table>
 
@@ -3605,7 +3605,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/shoddy_dirk.png"/></td>
-    <td>item_book_description</td>
+    <td>It's a strong sword, but it grows weaker<br/>every time you attack. It's hard to find<br/>the motivation to level it, but it's great<br/>as a disposable weapon.</td>
   </tr>
 </table>
 
@@ -3719,7 +3719,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/breeze_blade.png"/></td>
-    <td>item_book_description</td>
+    <td>Mysterious sword that can attack in<br/><span class="blueText">3</span> forward directions.</td>
   </tr>
 </table>
 
@@ -3834,7 +3834,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/burning_blade.png"/></td>
-    <td>item_book_description</td>
+    <td>Swing this sword when your HP is full to<br/>shoot a flame. This weapon gives the user<br/>the power to manipulate flames.</td>
   </tr>
 </table>
 
@@ -3950,7 +3950,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/wonder_pick.png"/></td>
-    <td>item_book_description</td>
+    <td>It can be used to dig through walls and<br/>never breaks while digging.<br/>It's the pickaxe of your dreams!</td>
   </tr>
 </table>
 
@@ -4065,7 +4065,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/sturdy_hammer.png"/></td>
-    <td>item_book_description</td>
+    <td>It can destroy traps and floor items.<br/>It looks old, but unlike mallets, it never<br/>breaks when you use it. How delightful.</td>
   </tr>
 </table>
 
@@ -4180,7 +4180,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/true_knife.png"/></td>
-    <td>item_book_description</td>
+    <td>It's not the strongest weapon around,<br/>but your direct attacks will never miss<br/>with this sword in hand.</td>
   </tr>
 </table>
 
@@ -4295,7 +4295,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/bargain_blade.png"/></td>
-    <td>item_book_description</td>
+    <td>Shops will discount their merchandise<br/>while you have this weapon equipped.<br/>On top of that, monsters defeated using<br/>this blade will drop Gitan more often!</td>
   </tr>
 </table>
 
@@ -4412,7 +4412,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
   </tr>
   <tr>
     <td><img src="../images/weapons/kaminas_sword.png"/></td>
-    <td>item_book_description</td>
+    <td>Occasionally lowers the target's attack.<br/>It's said that Kamina's pacifistic will<br/>within the sword calms the opponent.</td>
   </tr>
 </table>
 
@@ -4523,11 +4523,11 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
 <table class="itemDetailsTable">
   <tr>
     <th>Image</th>
-    <th>Lv1 Description</th>
+    <th>Torch Description</th>
   </tr>
   <tr>
     <td><img src="../images/weapons/torch.png"/></td>
-    <td>item_book_description</td>
+    <td>Equip this to light up your surroundings.<br/>The flame is weak, so the radius is small.<br/>This ability can't be synthesized.</td>
   </tr>
 </table>
 

@@ -69,7 +69,7 @@ metaDescription: "Trial Road dungeon guide for Shiren the Wanderer 4: The Eye of
   <tr>
     <th>Ominous aura</th>
     <td>Yes (300 turns)</td>
-    <th>Wind of Kron</th>
+    <th>Winds of Kron</th>
     <td>1st: 1200 / 4th: 1500</td>
   </tr>
   <tr>

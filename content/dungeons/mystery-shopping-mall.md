@@ -63,7 +63,7 @@ metaDescription: "Mystery Shopping Mall dungeon guide for Shiren the Wanderer 4:
   <tr>
     <th>Ominous aura</th>
     <td>No</td>
-    <th>Wind of Kron</th>
+    <th>Winds of Kron</th>
     <td>1st: 900 / 4th: 1200</td>
   </tr>
   <tr>

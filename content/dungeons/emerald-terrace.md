@@ -21,11 +21,11 @@ If you're new to Shiren, or aren't up for the challenge, it's best to stock up o
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
   <li><a href="#strategy">Strategy</a></li>
+  <li><a href="#floor-guide">Floor Guide</a></li>
   <li><a href="#monsters">Monsters</a></li>
   <li><a href="#monster-table">Monster Table</a></li>
   <li><a href="#items">Items</a></li>
   <li><a href="#traps">Traps</a></li>
-  <li><a href="#npcs">NPCs</a></li>
 </ul>
 
 # Overview
@@ -79,7 +79,7 @@ If you're new to Shiren, or aren't up for the challenge, it's best to stock up o
   <tr>
     <th>Ominous aura</th>
     <td>Yes (500 turns)<br/>Certain floors only</td>
-    <th>Wind of Kron</th>
+    <th>Winds of Kron</th>
     <td>1st: 1700<br/>4th: 2000</td>
   </tr>
   <tr>
@@ -174,6 +174,11 @@ If you're new to Shiren, or aren't up for the challenge, it's best to stock up o
 ※ Numbers in () for night is when a Night-Day Scroll is read.
 
 # Strategy
+
+<ul class="quickLinksUL">
+  <li><a href="#equipment-/-items">Equipment / Items</a></li>
+  <li><a href="#abilities">Abilities</a></li>
+</ul>
 
 ### Equipment / Items
 
@@ -698,7 +703,7 @@ Lost [NPCs](/system/npcs) must be guided to this location to unlock the item sho
 </div>
 
 Daytime-only.<br/>
-Consider rushing stairs on 24-25F if you feel good about your current level and stock of items.<br/>Super Gazers and Cursisters can destroy items, so don't let them act if they're adjacent.<br/>Dragons and Hipadiles hit incredibly hard and have high HP, so use items to deal with them.<br/>N'mach (24-36F) disguises itself as an item and doesn't reveal itself until you try to use it,<br/>so don't trust scrolls and grass you pick up from 24F onward.
+Consider rushing stairs on 24-25F if you feel good about your current level and stock of items.<br/>Super Gazers and Curse Sisters can destroy items, so don't let them act if they're adjacent.<br/>Dragons and Hipadiles hit incredibly hard and have high HP, so use items to deal with them.<br/>N'mach (24-36F) disguises itself as an item and doesn't reveal itself until you try to use it,<br/>so don't trust scrolls and grass you pick up from 24F onward.
 
 Mixers (26-27F) appear, so synthesize equipment and combine staves.<br/>Prioritize the <span class="greenText">Anti-Dragon</span> and <span class="greenText">1/2 Fire</span> runes to make it a bit easier to linger.<br/>If you have extra slots, synthesize runes that increase max HP for upcoming boss fights,<br/>which include <span class="greenText">HP+20</span> (Life Grass), <span class="greenText">HP+15</span> (Heal Grass), <span class="greenText">HP+10</span> (Otogiriso), and <span class="greenText">HP+5</span> (Herb).
 
@@ -831,7 +836,7 @@ This is typically the most difficult point of the main story.
       <td class="centeredText">70</td>
       <td class="centeredText">15</td>
       <td class="centeredText">0</td>
-      <td>Swift (1 attack).<br/>Immune to Sleep, Decoy, Paralysis.<br/>Ignores Sanctuary Scroll.<br/>Gitan deals 2 damage.</td>
+      <td>Swift (1 attack).<br/>Immune to Asleep, Decoy, Paralyzed.<br/>Ignores Sanctuary Scroll.<br/>Gitan deals 2 damage.</td>
     </tr>
   </tbody>
 </table>
@@ -890,7 +895,7 @@ Shiren is granted Swift status for this fight, so you get 4 actions for every 1 
       <td class="centeredText">100</td>
       <td class="centeredText">20</td>
       <td class="centeredText">0</td>
-      <td>Slow.<br/>Immune to Sleep, Decoy, Paralysis.<br/>Ignores Sanctuary Scroll.<br/>Gitan deals 2 damage.</td>
+      <td>Slow.<br/>Immune to Asleep, Decoy, Paralyzed.<br/>Ignores Sanctuary Scroll.<br/>Gitan deals 2 damage.</td>
     </tr>
   </tbody>
 </table>
@@ -907,7 +912,7 @@ Boss Moves:
 
 Incredibly high HP, summons monsters, inflicts confusion, cures status conditions, ignores Sanctuary Scroll,<br/>only takes 2 damage from thrown Gitan, and due to story events, only performs 1 action every 4 turns.<br/>Status conditions are very effective due to the action speed difference, and the only dangerous specials<br/>are Call Monsters and Confusion.
 
-Seal the boss immediately when the fight begins to avoid having to deal with summoned monsters,<br/>and then use items like Banana Peel, Fear Scroll, Fear Talisman, Seal Staff, etc. to keep the boss disabled.<br/>The boss is immune to Sleep, Decoy, and Paralysis, so just keep that in mind and you should be fine.<br/>It's possible to clear this fight without taking damage if you keep track of the turn order.
+Seal the boss immediately when the fight begins to avoid having to deal with summoned monsters,<br/>and then use items like Banana Peel, Fear Scroll, Fear Talisman, Seal Staff, etc. to keep the boss disabled.<br/>The boss is immune to Asleep, Decoy, and Paralyzed, so just keep that in mind and you should be fine.<br/>It's possible to clear this fight without taking damage if you keep track of the turn order.
 
 # Monsters
 
@@ -1359,7 +1364,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     </tr>
     <tr>
       <td>24-26</td>
-      <td>Cursister</td>
+      <td>Curse Sister</td>
       <td>52</td>
       <td>24</td>
       <td>15</td>
@@ -1852,7 +1857,7 @@ Seal the boss immediately when the fight begins to avoid having to deal with sum
     </tr>
     <tr>
       <td>31-33</td>
-      <td>Dark Cursister</td>
+      <td>Dark Curse Sister</td>
       <td>40</td>
       <td>35</td>
       <td>3</td>

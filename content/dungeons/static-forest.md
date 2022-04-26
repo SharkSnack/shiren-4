@@ -63,7 +63,7 @@ metaDescription: "Static Forest dungeon guide for Shiren the Wanderer 4: The Eye
   <tr>
     <th>Ominous aura</th>
     <td>No</td>
-    <th>Wind of Kron</th>
+    <th>Winds of Kron</th>
     <td>1st: 1700<br/>4th: 2000</td>
   </tr>
   <tr>

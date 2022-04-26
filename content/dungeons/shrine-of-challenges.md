@@ -76,7 +76,7 @@ There are a total of 36 topics.
   </tr>
   <tr>
     <td>Turning in place</td>
-    <td>Wind of Kron</td>
+    <td>Winds of Kron</td>
     <td>Corners to conquer foes</td>
   </tr>
   <tr>

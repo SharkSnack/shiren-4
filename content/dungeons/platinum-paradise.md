@@ -69,7 +69,7 @@ metaDescription: "Platinum Paradise dungeon guide for Shiren the Wanderer 4: The
   <tr>
     <th>Ominous aura</th>
     <td>Yes (500 turns)</td>
-    <th>Wind of Kron</th>
+    <th>Winds of Kron</th>
     <td>1st: 1700 / 4th: 2000</td>
   </tr>
   <tr>

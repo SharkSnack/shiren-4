@@ -166,7 +166,7 @@ Level up an Elizgagon to Elizgagon99, and then use a Trapper Bracelet to add an 
 |-|-|
 |Clear with 999,999 Gitan!|Clear a dungeon with <span class="tealText">999,999</span> Gitan!|
 
-Withdraw 999,999 Gitan from your bank account and clear a dungeon that allows carry-in items.<br/>If challenging it in a dungeon that doesn't allow carry-in items, you'll need to steal from shops<br/>and make it a point to hunt Froggos, Gitan Mamels, and Cash Gazers.
+Withdraw 999,999 Gitan from your bank account and clear a dungeon that allows carry-in items.<br/>If challenging it in a dungeon that doesn't allow carry-in items, you'll need to steal from shops<br/>and make it a point to hunt Froggos, Gitan Mamels, and Ultra Gazers.
 
 ### 3 Allies
 

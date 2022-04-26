@@ -1448,7 +1448,7 @@ Element Order
     <td>100</td>
     <td>6%</td>
     <td>-</td>
-    <td>Fires a magic bullet with a random effect in a line.<br/>(Level -3, Empathy, Banana, Slow, reduce HP to 1/4)</td>
+    <td>Fires a magic bullet with a random effect in a line.<br/>(Level -3, Empathetic, Banana, Slow, reduce HP to 1/4)</td>
   </tr>
   <tr>
     <th>Lv</th>
@@ -1804,7 +1804,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightYellow">4</td>
-    <td>Curse Gram</td>
+    <td>Curse Gramma</td>
     <td>78</td>
     <td>52</td>
     <td>29</td>
@@ -1859,7 +1859,7 @@ Element Order
   </tr>
   <tr>
     <td class="highlightNight">4</td>
-    <td>Foul Curse Gram</td>
+    <td>Foul Curse Gramma</td>
     <td>62</td>
     <td>52</td>
     <td>4</td>
@@ -5711,7 +5711,7 @@ Element Order
     <td>0</td>
     <td>0%</td>
     <td>Swift 1</td>
-    <td>Double speed (1 attack). Immune to Sleep, Decoy, Paralysis.<br/>Ignores Sanctuary Scroll. Gitan deals 2 damage.<br/>Moves:<br/>・Direct attack - High power.<br/>・Tackle - Lunges forward to deal damage, and then retreats.<br/>・Poison Claw - Deals damage and lowers strength by 1.<br/>・Instant Recovery - Cures all status conditions.</td>
+    <td>Double speed (1 attack). Immune to Asleep, Decoy, Paralyzed.<br/>Ignores Sanctuary Scroll. Gitan deals 2 damage.<br/>Moves:<br/>・Direct attack - High power.<br/>・Tackle - Lunges forward to deal damage, and then retreats.<br/>・Poison Claw - Deals damage and lowers strength by 1.<br/>・Instant Recovery - Cures all status conditions.</td>
   </tr>
 </table>
 
@@ -5742,7 +5742,7 @@ Element Order
     <td>0</td>
     <td>0%</td>
     <td>Slow</td>
-    <td>1 action every 4 turns. Immune to Sleep, Decoy, Paralysis.<br/>Ignores Sanctuary Scroll. Gitan deals 2 damage.<br/>Moves:<br/>・Direct attack - High power.<br/>・Lightning - Deals 30~40 damage.<br/>・Confusion - Inflicts Confused status.<br/>・Knockback - Low power, deals kncoback.<br/>・Call Monsters - Summons 4~6 monsters.<br/>・Instant Recovery - Cures all status conditions.</td>
+    <td>1 action every 4 turns. Immune to Asleep, Decoy, Paralyzed.<br/>Ignores Sanctuary Scroll. Gitan deals 2 damage.<br/>Moves:<br/>・Direct attack - High power.<br/>・Lightning - Deals 30~40 damage.<br/>・Confusion - Inflicts Confused status.<br/>・Knockback - Low power, deals kncoback.<br/>・Call Monsters - Summons 4~6 monsters.<br/>・Instant Recovery - Cures all status conditions.</td>
   </tr>
 </table>
 

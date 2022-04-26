@@ -69,7 +69,7 @@ metaDescription: "Entrancing Lane dungeon guide for Shiren the Wanderer 4: The E
   <tr>
     <th>Ominous aura</th>
     <td>Yes (400 turns)</td>
-    <th>Wind of Kron</th>
+    <th>Winds of Kron</th>
     <td>1st: 1700 / 4th: 2000</td>
   </tr>
   <tr>

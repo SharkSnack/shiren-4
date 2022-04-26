@@ -8,11 +8,26 @@ metaDescription: "Bayside Monster Cave dungeon guide for Shiren the Wanderer 4: 
   <img src="../images/dungeons/bayside_cave.png"/><img src="../images/dungeons/bayside_cave_2.png"/>
 </div>
 
-[Introduction]
+Dungeon that unlocks immediately after clearing Emerald Terrace.<br/>
+Shiren 4's version of the series favorite unidentified items post-game dungeon.<br/>
+It's always daytime, the item table features a wide variety of items, and NPCs don't appear.
+
+Powerful equipment can be found on the ground, and the monster table is on the harsher side.<br/>
+It tests identification, synthesis, collecting arrows, rushing stairs, and other standard techniques.<br/>Grinding isn't as effective as Primordial Chasm in Shiren 5, since this game lacks Super status<br/>and ominous aura doesn't occur until 1500 turns elapse. (1st wind gust blows at 1700 turns)
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
-  <li><a href="#strategy">Strategy</a></li>
+  <li><a href="#strategy">Strategy</a>
+    <ul>
+      <li><a href="#before-entering">Before Entering</a></li>
+      <li><a href="#mixer-synthesis-tips">Mixer Synthesis Tips</a></li>
+      <li><a href="#identifying-items">Identifying Items</a></li>
+      <li><a href="#equipment">Equipment</a></li>
+      <li><a href="#other-items">Other Items</a></li>
+      <li><a href="#farming">Farming</a></li>
+    </ul>
+  </li>
+  <li><a href="#strategy">Floor Guide</a></li>
   <li><a href="#monsters">Monsters</a></li>
   <li><a href="#items">Items</a></li>
   <li><a href="#traps">Traps</a></li>
@@ -63,7 +78,7 @@ metaDescription: "Bayside Monster Cave dungeon guide for Shiren the Wanderer 4: 
   <tr>
     <th>Ominous aura</th>
     <td>Yes (1500 turns)</td>
-    <th>Wind of Kron</th>
+    <th>Winds of Kron</th>
     <td>1st: 1700 / 4th: 2000</td>
   </tr>
   <tr>
@@ -80,9 +95,235 @@ metaDescription: "Bayside Monster Cave dungeon guide for Shiren the Wanderer 4: 
 
 # Strategy
 
-[Quick Links]
+<ul class="quickLinksUL">
+  <li><a href="#before-entering">Before Entering</a></li>
+  <li><a href="#mixer-synthesis-tips">Mixer Synthesis Tips</a></li>
+  <li><a href="#identifying-items">Identifying Items</a></li>
+  <li><a href="#equipment">Equipment</a></li>
+  <li><a href="#other-items">Other Items</a></li>
+  <li><a href="#farming">Farming</a></li>
+</ul>
 
-[Content]
+### Before Entering
+
+It's strongly recommended to register useful scrolls to the Blank Scroll list.<br/>These include Extinction, Eradicate, Mon House, Desert, and Lost.
+
+Keeping the storehouse at 80/80 makes it easier to discern between Mailing Pot and Black Hole Pot.<br/>However, Mailing Pot can only be found as a shop table item or inside walls early on, so it's not necessary.
+
+### Mixer Synthesis Tips
+
+#### Status Conditions
+
+Mixers drop eaten items if you make them slip, but doing so doesn't reset its eating count.
+
+- <span class="blueText">Will eat</span>: Decoy, Hiding, Confused, Afraid, Berserk, Blind, Apathetic
+- <span class="redText">Will not eat</span>: Napping, Asleep, Slumbering, Sealed, Paralyzed, Slip
+
+#### Item Identification
+
+Eaten items will be identified if synthesis succeeds.<br/>Unlike Shiren 5, the unidentified items must be thrown before equipment.
+
+For this example, Green Grass is Herb:
+
+- Green Grass → Dotanuki = Dotanuki (HP+5), Herb is identified.
+- Dotauki → Green Grass = Dotanuki (HP+5), Herb is not identified.
+
+#### Blessing, Curse, Seal
+
+The resulting item takes on the state of the last item thrown, including identified state.
+
+For this example, the sealed staff is Paralysis Staff \[4\]:
+
+- Paralysis Staff \[?\] (sealed) → Paralysis Staff \[6\] (blessed) = Paralysis Staff \[10\] (blessed)
+- Paralysis Staff \[6\] (blessed) → Paralysis Staff \[?\] (sealed) = Paralysis Staff \[?\] (sealed)
+
+#### Rune Priority
+
+When multiple ingredients are thrown at a Mixer, synthesis occurs in order of rune priority.<br/>If a weapon or shield is used as an ingredient, the innate rune is considered top priority.
+
+Example:
+
+- Katana (1 open rune slot) → Dragon Grass → Shoddy Dirk+3 = Katana+3 (Degrade)
+
+So to prevent accidents, it's best to use 2 Mixers instead:
+
+1. Katana (1 open rune slot) → Dragon Grass = Katana (Anti-Dragon)
+2. Katana (Anti-Dragon) → Shoddy Dirk+3 = Katana+3 (Anti-Dragon)
+
+Remember, all secondary items are synthesized onto the first item:
+
+- Weapon → Grass → Shield → Grass = Both grasses are synthesized onto the weapon.
+
+#### Other Notes
+
+Merchandise in shops can't be synthesized using a Synthesis Pot, but Mixer synthesis works.<br/>
+Of course, you'll be asked to pay for the item.
+
+Eaten items will not vanish if a Mixer levels up, levels down, or disappears due to day/night switching.<br/>However, eaten items will vanish if an Eradicate Scroll is used to one-shot the Mixer.
+
+### Identifying Items
+
+See [Identifying Items](/guides/identifying-items) for the basics.
+
+Always found identified: Water Pot, Oil Pot, Blank Scroll, Escape Scroll, bananas, arrows, rocks
+
+Cursed equipment and negative effect items are generally on the uncommon side,<br/>so don't worry about them too much early on - start to be on guard from around mid game.
+
+#### Identify Scroll / Identify Pot Priority
+
+- Identify Scroll: Pots &gt; Bracelets &gt; Scrolls &ge; Grass
+- Identify Pot: Bracelets &gt; Scrolls &ge; Grass
+
+It goes without saying, but only use the above priority as a guideline, not as a hard rule.
+
+- Consider the runes you've synthesized, difficulty of identification, and the item's potential value.
+- If you've already identified key items, prioritize staves / check for seals on Revival Grass or Heal Pot.
+
+#### N'mach and N'dup
+
+N'mach (31-40F) and N'dup (61-80F) can't be revealed using an Identify Scroll or Identify Pot.<br/>
+Only use items you can trust 100% in situations where you can't afford to make a mistake.
+
+#### Naming Items
+
+The standard approach is to name unidentified items based on their price.
+
+For this example, say you have 3 scrolls worth 800 Gitan:
+
+- First scroll → 8A
+- Second scroll → 8B or 88
+- Third scroll → 8C or 888
+
+#### Weapons, Shields
+
+It's fine to ignore the risk of equipping cursed equipment near the start of the run.<br/>Keep items that have high upgrade value for synthesis, provided they don't have an unwanted rune.<br/>
+Don't equip unidentified items from mid game onward unless you have a way to unequip cursed items.
+
+If you equip a cursed item, use Strip Trap or selection-based scrolls.
+
+- Heaven, Earth, Fixer, Plating, and Banana scrolls can be used to unequip a cursed item.
+- Save Purify Scroll in case a pot gets sealed by a Curse Girl or Curse Trap.
+
+#### Bracelets
+
+It's possible to test for status condition prevention bracelets by stepping on traps.<br/>
+For the most part, the best bracelets can be identified as soon as the bracelet is equipped,<br/>so some prefer to use Identify Scroll or Identify Pot on other categories.
+
+Easy to identify and useful:
+
+- Strength, Heal, Happy, Scout, Wall Clip, Pierce, Identify, Monster Detector, Item Detector
+
+Harder to identify and useful:
+
+- Alert, Cleansing, Calm, Holy, Bad Aim, Strider
+
+##### Price Notes
+
+5000 / 1750
+
+- Heal, Wall Clip, Monster Detector
+    - Best bracelets in this price range.
+    - Test for Wall Clip by attacking a monster through a room entrance corner.
+- Warp, Explosion
+    - Dangerous if equipped inside a shop, but never sold in shops.
+- Strider, Alleyway
+    - Difficult to identify from inside a shop.
+
+2000 / 700
+
+- Strength, Pierce, Bad Aim
+    - 2000 G bracelets are always one of these 3 bracelets.
+    - Easy to tell by equipping and shooting an arrow or throwing an item.
+
+#### Grass
+
+It's best to save grass until you encounter a shop or reach Mixer floors (12-14F) instead of eating them.<br/>You don't want to waste synthesis ingredients or Revival Grass, so consider using Identify Scroll or Identify Pot.
+
+Herb, Heal Grass, Revival Grass, and Happy Grass (found on the ground) can be identified by price.<br/>Knowing the price of an unidentified grass lets you make an informed decision when attempting Mixer synthesis.
+
+If your inventory is full and you haven't found a shop, it's fine to eat some grass items.<br/>Start with duplicate grasses, but <span class="redText">never eat unidentified grasses obtained from Elite or Pick-A-Choice shops</span>.<br/>(Disaster Seed, Imabikiso, Amnesia Grass, Undo Grass, Revival Grass, Invincible Grass, and Angel Seed)
+
+##### Price Notes
+
+100 / 35 - 4 Types
+
+- Warp (<span class="greenText">Anti-Floating</span>), Antidote (<span class="greenText">Anti-Drain</span>)
+    - High priority runes.
+    - Consider saving Antidote Grass until after 14F instead of synthesizing it if you lost strength.
+- Orogiriso (<span class="greenText">HP+10</span>)
+    - Check for this by synthesizing the grass onto a second weapon, and don't add it to your main weapon.
+- Poison
+    - Mutaikon (9-11F) always drops this grass.
+
+300 / 105 - 8 Types
+
+- Sight (<span class="greenText">Anti-Cyclops</span>), Dizzy (<span class="greenText">Confusing</span>), Blind (<span class="greenText">Blinding</span>)
+    - Low priority runes.
+    - It's not worth using Identify Scroll or Identify Pot on grasses in this price range.
+
+500 / 175 - 5 Types
+
+- Dragon (<span class="greenText">Anti-Dragon</span>, <span class="greenText">1/2 Fire</span>), Sleep (<span class="greenText">Sedating</span>)
+    - High priority runes.
+    - Attempt synthesis with shields first when throwing 500G grasses.
+- Life (<span class="greenText">HP+20</span>)
+    - Decent option for shields, but not recommended for weapons.
+- Rage, Strength
+    - Some like to eat 500G grasses right away to get these two identified as soon as possible.
+
+#### Scrolls
+
+
+
+#### Staves
+
+
+
+#### Talismans
+
+
+
+#### Pots
+
+
+
+### Equipment
+
+### Other Items
+
+### Farming
+
+# Floor Guide
+
+### 1-5F
+
+### 6-10F
+
+### 11-14F
+
+### 15-19F
+
+### 20-24F
+
+### 25-28F
+
+### 29-35F
+
+### 36-40F
+
+### 40-46F
+
+### 47-53F
+
+### 54-59F
+
+### 60-67F
+
+### 68-81F
+
+### 82-89F
+
+### 90-99F
 
 # Monsters
 
@@ -1122,7 +1363,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>96</th>
-      <td class="highlightExtreme">Cash Gazer</td>
+      <td class="highlightExtreme">Ultra Gazer</td>
       <td class="highlightOffense">Doomhead</td>
       <td class="highlightDanger">Foly5</td>
       <td class="highlightItem">Knave King</td>
@@ -1133,7 +1374,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>97</th>
-      <td class="highlightExtreme">Cash Gazer</td>
+      <td class="highlightExtreme">Ultra Gazer</td>
       <td class="highlightOffense">Doomhead</td>
       <td class="highlightDanger">Foly5</td>
       <td class="highlightItem">Knave King</td>
@@ -1144,7 +1385,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>98</th>
-      <td class="highlightExtreme">Cash Gazer</td>
+      <td class="highlightExtreme">Ultra Gazer</td>
       <td class="highlightOffense">Doomhead</td>
       <td class="highlightDanger">Foly5</td>
       <td class="highlightItem">Knave King</td>
@@ -1155,7 +1396,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>99</th>
-      <td class="highlightExtreme">Cash Gazer</td>
+      <td class="highlightExtreme">Ultra Gazer</td>
       <td class="highlightOffense">Doomhead</td>
       <td class="highlightDanger">Foly5</td>
       <td class="highlightItem">Knave King</td>

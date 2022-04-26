@@ -30,7 +30,7 @@ Most abilities deal 2 damage to shopkeepers, but status effects still work on th
 
 ## Ability List
 
-There are a total of 29 abilities that Shiren can learn.<br/>Use a Calling Pot and lots of Expand Scrolls to quickly learn abilities from NPCs.
+There are a total of 29 abilities that Shiren can learn.<br/>Use a Calling Pot and lots of Pot God Scrolls to quickly learn abilities from NPCs.
 
 <table class="abilityTable">
   <tr>

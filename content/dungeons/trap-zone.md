@@ -63,7 +63,7 @@ metaDescription: "Trap Zone dungeon guide for Shiren the Wanderer 4: The Eye of 
   <tr>
     <th>Ominous aura</th>
     <td>No</td>
-    <th>Wind of Kron</th>
+    <th>Winds of Kron</th>
     <td>1st: 400 / 4th: 700</td>
   </tr>
   <tr>

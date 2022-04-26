@@ -69,7 +69,7 @@ metaDescription: "Grass and Scroll Cave dungeon guide for Shiren the Wanderer 4:
   <tr>
     <th>Ominous aura</th>
     <td>No</td>
-    <th>Wind of Kron</th>
+    <th>Winds of Kron</th>
     <td>1st: 1200 / 4th: 1500</td>
   </tr>
   <tr>

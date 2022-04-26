@@ -63,7 +63,7 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
   <tr>
     <th>Ominous aura</th>
     <td>Yes (1200 turns)</td>
-    <th>Wind of Kron</th>
+    <th>Winds of Kron</th>
     <td>1st: 1200 / 4th: 1500</td>
   </tr>
   <tr>
@@ -1237,7 +1237,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>96</th>
-      <td>Cash Gazer</td>
+      <td>Ultra Gazer</td>
       <td>Shine Bird</td>
       <td>Doomhead</td>
       <td>Knave King</td>
@@ -1249,7 +1249,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>97</th>
-      <td>Cash Gazer</td>
+      <td>Ultra Gazer</td>
       <td>Shine Bird</td>
       <td>Doomhead</td>
       <td>Knave King</td>
@@ -1261,7 +1261,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>98</th>
-      <td>Cash Gazer</td>
+      <td>Ultra Gazer</td>
       <td>Shine Bird</td>
       <td>Doomhead</td>
       <td>Knave King</td>
@@ -1273,7 +1273,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     </tr>
     <tr>
       <th>99</th>
-      <td>Cash Gazer</td>
+      <td>Ultra Gazer</td>
       <td>Shine Bird</td>
       <td>Doomhead</td>
       <td>Knave King</td>

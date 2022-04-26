@@ -144,7 +144,7 @@ Locked Bana Powers are represented by a checkmark next to the number.
   </tr>
   <tr>
     <td>Room Hypnosis</td>
-    <td>Cash Gazer</td>
+    <td>Ultra Gazer</td>
     <td>Inflicts Confused status on monsters in the room.</td>
   </tr>
   <tr>

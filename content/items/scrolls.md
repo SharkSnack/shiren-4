@@ -68,13 +68,13 @@ metaDescription: "Complete scroll details for Shiren the Wanderer 4: The Eye of 
     <td class="highlightLightblue">Plating Scroll</td>
     <td class="highlightLightblue">Fixer Scroll</td>
     <td class="highlightLightblue">Banana Scroll</td>
-    <td class="highlightLightblue">Evaporate Scroll</td>
+    <td class="highlightLightblue">Desert Scroll</td>
     <td class="highlightLightblue">Tag Scroll</td>
     <td></td>
   </tr>
   <tr>
     <td class="highlightLightblue">Confusion Scroll</td>
-    <td class="highlightLightblue">Expand Scroll</td>
+    <td class="highlightLightblue">Pot God Scroll</td>
     <td class="highlightLightblue">Muzzled Scroll</td>
     <td class="highlightLightblue">Squid Sushi Scroll</td>
     <td class="highlightLightblue">Piece of Paper</td>
@@ -164,7 +164,7 @@ metaDescription: "Complete scroll details for Shiren the Wanderer 4: The Eye of 
       <td class="leftText">Extracts the contents of a pot onto the ground.<br/>If the scroll was blessed, all extracted items will become blessed.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">Expand Scroll</td>
+      <td class="highlightYellow">Pot God Scroll</td>
       <td>-</td>
       <td class="leftText">Increases the size of a selected pot by 1, up to a max size of 5.</td>
     </tr>
