@@ -1155,7 +1155,7 @@ This list is roughly ordered in highest to lowest priority for talismans worth c
   </li>
   <li>Bind Talisman
     <ul>
-      <li>Inflicts Shadow Bound status for 10 turns.</li>
+      <li>Inflicts Bound status for 10 turns.</li>
       <li>It doesn't disable the target, so it's mostly used when you want to run away.</li>
       <li>Can be used with arrows to safely defeat monsters that don't have ranged attacks.</li>
     </ul>
