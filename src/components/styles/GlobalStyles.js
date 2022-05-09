@@ -1231,6 +1231,9 @@ export const baseStyles = css`
   .purpleText2 {
     color: #a256bd;
   }
+  .goldText {
+    color: darkgoldenrod;
+  }
   .farmingDay {
     color: #0076df;
   }
