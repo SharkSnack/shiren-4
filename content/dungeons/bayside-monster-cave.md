@@ -27,7 +27,7 @@ It tests identification, synthesis, collecting arrows, rushing stairs, and other
       <li><a href="#farming">Farming</a></li>
     </ul>
   </li>
-  <li><a href="#strategy">Floor Guide</a></li>
+  <li><a href="#floor-guide">Floor Guide</a></li>
   <li><a href="#monsters">Monsters</a></li>
   <li><a href="#items">Items</a></li>
   <li><a href="#traps">Traps</a></li>
@@ -132,7 +132,7 @@ For this example, Green Grass is Herb:
 
 The resulting item takes on the state of the last item thrown, including identified state.
 
-For this example, the sealed staff is Paralysis Staff \[4\]:
+For this example, the unidentified staff is Paralysis Staff \[4\]:
 
 - Paralysis Staff \[?\] (sealed) → Paralysis Staff \[6\] (blessed) = Paralysis Staff \[10\] (blessed)
 - Paralysis Staff \[6\] (blessed) → Paralysis Staff \[?\] (sealed) = Paralysis Staff \[?\] (sealed)
@@ -305,7 +305,7 @@ The standard first action is to insert an unidentified item that you don't mind 
 
 If the pot has a capacity of 2, insert an identified item - excluding talismans, rocks, arrows.<br/>This identifies <span class="greenText">Curse</span> (became sealed), <span class="greenText">Black Hole</span> (vanished), and <span class="greenText">Purify</span> (no change) pots.<br/>※ Elite or Pick-A-Choice shop → Insert an identified weapon or shield to check for <span class="greenText">Blessing</span>, <span class="greenText">Upgrade</span>, <span class="greenText">Degrade</span> pots.
 
-Open type pots include <span class="greenText">Heal</span>, <span class="greenText">Zalokleft</span>, and <span class="greenText">Monster</span> pots.<br/>Open them in a hallway or while standing on the stairs in case it's a Monster Pot.<br/>If you find a Heal Pot, always open it 1 time when you're not in danger to check if it's real and usable.
+Open type pots include <span class="greenText">Heal</span>, <span class="greenText">Zalokleft</span>, and <span class="greenText">Monster</span> pots.<br/>Open them in a hallway or while standing on the stairs in case it's a Monster Pot.<br/>If you find a Heal Pot, open it 1 time when you're not in danger to check if it's real and usable.
 
 If the above steps didn't result in an identified pot, it's best to wait for a shop, or use an Identify Scroll.<br/>If you're doing fine on food, go ahead and insert a banana to check for <span class="greenText">Chocolate Pot</span>.<br/>Another option is to name the pot and throw it at a wall to check for <span class="greenText">4-2-8</span> and <span class="greenText">Sturdy</span> pots,<br/>but it's only recommended to do so if you find 2 or more of the same pot.<br/><span class="greenText">Synthesis Pot</span> can be identified by price.
 
@@ -401,7 +401,7 @@ Shiren 4 is balanced around avoiding damage, so weapon strength and runes are im
   <li>Nap Rattle
     <ul>
       <li>Terrible base attack, and rune slots only increases to 6 even at Lv8.</li>
-      <li>However, Asleep status lets you win any 1 vs 1 encounter if it activates, so it's... well, probably still not worth it.</li>
+      <li>However, Asleep status lets you win any 1 vs 1 encounter if it activates, so it's... probably still not worth it.</li>
     </ul>
   </li>
 </ul>
@@ -1255,6 +1255,8 @@ This list is roughly ordered in highest to lowest priority for talismans worth c
 #### Cheating at Pick-A-Choice (One-Choice Shop)
 
 # Floor Guide
+
+### General
 
 ### 1-5F
 
