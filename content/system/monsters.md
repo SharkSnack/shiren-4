@@ -5837,7 +5837,7 @@ Element Order
     <td>0</td>
     <td>0%</td>
     <td>-</td>
-    <td>Found in regular shops.<br/>Only takes 2 damage from abilities.<br/>Three Screams, Transmogrification are effective.<br/>Ignores <a href="/shiren-5/items/scrolls#sanctuary-scroll">Sanctuary Scrolls</a>, thrown Gitan is effective.<br/>Shopkeepers don't vanish when time of day changes.</td>
+    <td>Found in regular shops.<br/>Only takes 2 damage from abilities.<br/>Three Screams, Transmogrification are effective.<br/>Ignores Sanctuary Scrolls, thrown Gitan is effective.<br/>Shopkeepers don't vanish when time of day changes.</td>
   </tr>
   <tr>
     <td class="highlightYellow">1</td>

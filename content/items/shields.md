@@ -94,7 +94,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>-</td>
       <td>L4: HP+5<br/>L8: 1/2 Hunger</td>
       <td>28,410</td>
-      <td><a href="/shiren5/item/weapons#palm-stick">Palm Stick</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-4/items/weapons#palm-stick">Palm Stick</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#copper-guard">Copper Guard</a></td>
@@ -105,7 +105,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>-</td>
       <td>L4: HP+5<br/>L8: Rustproof</td>
       <td>34,725</td>
-      <td><a href="/shiren5/item/weapons#copper-edge">Copper Edge</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-4/items/weapons#copper-edge">Copper Edge</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#iron-targe">Iron Targe</a></td>
@@ -116,7 +116,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>-</td>
       <td>L4: HP+10</td>
       <td>41,070</td>
-      <td><a href="/shiren5/item/weapons#katana">Katana</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-4/items/weapons#katana">Katana</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#clan-shield">Clan Shield</a></td>
@@ -127,7 +127,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>-</td>
       <td>L4: HP+5<br/>L5: Rustproof</td>
       <td>44,250</td>
-      <td><a href="/shiren5/item/weapons#dotanuki">Dotanuki</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-4/items/weapons#dotanuki">Dotanuki</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#beast-shield">Beast Shield</a></td>
@@ -138,7 +138,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>-</td>
       <td>L4: HP+10<br/>L8: Def+3</td>
       <td>50,600</td>
-      <td><a href="/shiren5/item/weapons#beast-fang">Beast Fang</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-4/items/weapons#beast-fang">Beast Fang</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#meteor-guard">Meteor Guard</a></td>
@@ -149,7 +149,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>-</td>
       <td>L4: HP+10<br/>L5: Rustproof<br/>L8: Anti-Theft</td>
       <td>57,000</td>
-      <td><a href="/shiren5/item/weapons#meteor-edge">Meteor Edge</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-4/items/weapons#meteor-edge">Meteor Edge</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#red-shield">Red Shield</a></td>
@@ -160,7 +160,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>-</td>
       <td>L3: HP+10<br/>L8: 1/2 Fire<br/>L8: Anti-Peck</td>
       <td>63,350</td>
-      <td><a href="/shiren5/item/weapons#red-blade">Red Blade</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-4/items/weapons#red-blade">Red Blade</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#fuuma-shield">Fuuma Shield</a></td>
@@ -171,7 +171,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>-</td>
       <td>L8: Rustproof</td>
       <td>107,700</td>
-      <td><a href="/shiren5/item/weapons#kabura's-blade">Kabura's Blade</a><br/>(Attack damage +5)</td>
+      <td><a href="/shiren-4/items/weapons#kabura's-blade">Kabura's Blade</a><br/>(Attack damage +5)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#helix-shield">Helix Shield</a></td>
@@ -182,7 +182,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>-</td>
       <td>-</td>
       <td>259,000</td>
-      <td><a href="/shiren5/item/weapons#fuuma-sword">Fuuma Sword</a><br/>(Attack damage +10)<br/><a href="/shiren5/item/weapons#kaburagi">Kaburagi</a><br/>(Attack damage +10)</td>
+      <td><a href="/shiren-4/items/weapons#fuuma-sword">Fuuma Sword</a><br/>(Attack damage +10)<br/><a href="/shiren-4/items/weapons#kaburagi">Kaburagi</a><br/>(Attack damage +10)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#dull-gold-shield">Dull Gold Shield</a></td>
@@ -193,7 +193,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>Rustproof</td>
       <td>L8: Pain Fullness</td>
       <td>32,100</td>
-      <td><a href="/shiren5/item/weapons#dull-gold-edge">Dull Gold Edge</a><br/>(Max strength +3)</td>
+      <td><a href="/shiren-4/items/weapons#dull-gold-edge">Dull Gold Edge</a><br/>(Max strength +3)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#diet-shield">Diet Shield</a></td>
@@ -226,7 +226,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>Counter</td>
       <td>L8: Damage Exp</td>
       <td>50,800</td>
-      <td><a href="/shiren5/item/bracelets#strength-bracelet">Strength Bracelet</a><br/>(Double counter damage)</td>
+      <td><a href="/shiren-4/items/bracelets#strength-bracelet">Strength Bracelet</a><br/>(Double counter damage)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#happy-shield">Happy Shield</a></td>
@@ -237,7 +237,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>Damage Exp</td>
       <td>L5: HP+5<br/>L8: Def+3</td>
       <td>63,000</td>
-      <td><a href="/shiren5/item/weapons#happy-bracelet">Happy Bracelet</a><br/>(Double bracelet exp gain)</td>
+      <td><a href="/shiren-4/items/weapons#happy-bracelet">Happy Bracelet</a><br/>(Double bracelet exp gain)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#bowl-shield">Bowl Shield</a></td>
@@ -259,7 +259,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>Agile</td>
       <td>L5: Rustproof</td>
       <td>93,400</td>
-      <td><a href="/shiren5/item/weapons#myopic-masher">Myopic Masher</a><br/>(Attack and defense +3)</td>
+      <td><a href="/shiren-4/items/weapons#myopic-masher">Myopic Masher</a><br/>(Attack and defense +3)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#blast-shield">Blast Shield</a></td>
@@ -270,7 +270,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>1/2 Blast</td>
       <td>L8: Rustproof<br/>L8: Anti-Burgle</td>
       <td>77,700</td>
-      <td><a href="/shiren5/item/weapons#crescent-katana">Crescent Katana</a><br/>(Attack and defense +3)</td>
+      <td><a href="/shiren-4/items/weapons#crescent-katana">Crescent Katana</a><br/>(Attack and defense +3)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#lock-shield">Lock Shield</a></td>
@@ -314,7 +314,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>1/2 Fire</td>
       <td>L8: Counter</td>
       <td>84,000</td>
-      <td><a href="/shiren5/item/weapons#lizard-lasher">Lizard Lasher</a><br/>(Attack and defense +3)</td>
+      <td><a href="/shiren-4/items/weapons#lizard-lasher">Lizard Lasher</a><br/>(Attack and defense +3)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#steady-shield">Steady Shield</a></td>
@@ -347,7 +347,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>Magic Damage</td>
       <td>L8: HP+10<br/>L8: Def+3</td>
       <td>74,000</td>
-      <td><a href="/shiren5/item/weapons#burning-blade">Burning Blade</a><br/>(Boost Flame Shot)</td>
+      <td><a href="/shiren-4/items/weapons#burning-blade">Burning Blade</a><br/>(Boost Flame Shot)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#shoddy-plank">Shoddy Plank</a></td>
@@ -358,7 +358,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>Degrade</td>
       <td>-</td>
       <td>112,000</td>
-      <td><a href="/shiren5/item/weapons#shoddy-dirk">Shoddy Dirk</a><br/>(Equipped items won't rust)</td>
+      <td><a href="/shiren-4/items/weapons#shoddy-dirk">Shoddy Dirk</a><br/>(Equipped items won't rust)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#lamp-shield">Lamp Shield</a></td>
@@ -369,7 +369,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>-</td>
       <td>-</td>
       <td>57,000</td>
-      <td><a href="/shiren5/item/weapons#torch">Torch</a><br/>(Light up entire room)</td>
+      <td><a href="/shiren-4/items/weapons#torch">Torch</a><br/>(Light up entire room)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#parry-shield">Parry Shield</a></td>
@@ -391,7 +391,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>Hungerless</td>
       <td>L8: Rustproof<br/>L8: Damage Exp</td>
       <td>127,000</td>
-      <td><a href="/shiren5/item/weapons#wonder-pick">Wonder Pick</a><br/>(Max HP +30)</td>
+      <td><a href="/shiren-4/items/weapons#wonder-pick">Wonder Pick</a><br/>(Max HP +30)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#jaguar's-shield">Jaguar's Shield</a></td>
@@ -402,7 +402,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>Status Counter</td>
       <td>L8: Anti-Hypno<br/>L8: Counter</td>
       <td>245,000</td>
-      <td><a href="/shiren5/item/weapons#kamina's-sword">Kamina's Sword</a><br/>(Equip 2 bracelets)<br/><a href="/shiren5/item/weapons#kamina's-sword">Kamina's Sword</a>+<br/><a href="/shiren5/item/bracelets#bulldog-bracelet">Bulldog Bracelet</a><br/>(Attack damage +20)<br/><a href="/shiren5/item/weapons#kamina's-sword">Kamina's Sword</a>+<br/><a href="/shiren5/item/bracelets#bulldog-bracelet">Bulldog Bracelet</a>+<br/><a href="/shiren5/item/projectiles#hemoji-arrow">Hemoji Arrow</a><br/>(No fullness depletion)</td>
+      <td><a href="/shiren-4/items/weapons#kamina's-sword">Kamina's Sword</a><br/>(Equip 2 bracelets)<br/><a href="/shiren-4/items/weapons#kamina's-sword">Kamina's Sword</a>+<br/><a href="/shiren-4/items/bracelets#bulldog-bracelet">Bulldog Bracelet</a><br/>(Attack damage +20)<br/><a href="/shiren-4/items/weapons#kamina's-sword">Kamina's Sword</a>+<br/><a href="/shiren-4/items/bracelets#bulldog-bracelet">Bulldog Bracelet</a>+<br/><a href="/shiren-4/items/projectiles#hemoji-arrow">Hemoji Arrow</a><br/>(No fullness depletion)</td>
     </tr>
   </tbody>
 </table>
@@ -454,7 +454,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>360</td>
       <td>126</td>
       <td rowspan="3">-</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#palm-stick">Palm Stick</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-4/items/weapons#palm-stick">Palm Stick</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -570,7 +570,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>740</td>
       <td>259</td>
       <td rowspan="3">-</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#copper-edge">Copper Edge</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-4/items/weapons#copper-edge">Copper Edge</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -686,7 +686,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>1300</td>
       <td>455</td>
       <td rowspan="3">-</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#katana">Katana</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-4/items/weapons#katana">Katana</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -801,7 +801,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>1800</td>
       <td>630</td>
       <td rowspan="3">-</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#dotanuki">Dotanuki</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-4/items/weapons#dotanuki">Dotanuki</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -917,7 +917,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>2400</td>
       <td>840</td>
       <td rowspan="3">-</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#beast-fang">Beast Fang</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-4/items/weapons#beast-fang">Beast Fang</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1033,7 +1033,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>3200</td>
       <td>1120</td>
       <td rowspan="3">-</td>
-      <td rowspan="8">Resonance: <a href="/shiren5/item/weapons#meteor-edge">Meteor Edge</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-4/items/weapons#meteor-edge">Meteor Edge</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>

@@ -102,7 +102,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
       <td>-</td>
       <td>L8: Charge</td>
       <td>25,250</td>
-      <td><a href="/items/shields#palm-shield">Palm Shield</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-4/items/shields#palm-shield">Palm Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#copper-edge">Copper Edge</a></td>
@@ -113,7 +113,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
       <td>-</td>
       <td>L8: Rustproof</td>
       <td>31,570</td>
-      <td><a href="/items/shields#copper-guard">Copper Guard</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-4/items/shields#copper-guard">Copper Guard</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#katana">Katana</a></td>
@@ -124,7 +124,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
       <td>-</td>
       <td>L8: Rustproof</td>
       <td>49,300</td>
-      <td><a href="/items/shields#iron-targe">Iron Targe</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-4/items/shields#iron-targe">Iron Targe</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#beast-fang">Beast Fang</a></td>
@@ -135,7 +135,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
       <td>-</td>
       <td>L5: Rustproof</td>
       <td>37,900</td>
-      <td><a href="/items/shields#beast-shield">Beast Shield</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-4/items/shields#beast-shield">Beast Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#dotanuki">Dotanuki</a></td>
@@ -146,7 +146,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
       <td>-</td>
       <td>L8: Atk+3</td>
       <td>44,250</td>
-      <td><a href="/items/shields#clan-shield">Clan Shield</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-4/items/shields#clan-shield">Clan Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#meteor-edge">Meteor Edge</a></td>
@@ -157,7 +157,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
       <td>-</td>
       <td>L4: HP+10<br/>L8: Rustproof</td>
       <td>50,600</td>
-      <td><a href="/items/shields#meteor-guard">Meteor Guard</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-4/items/shields#meteor-guard">Meteor Guard</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#red-blade">Red Blade</a></td>
@@ -168,7 +168,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
       <td>-</td>
       <td>L3: HP+10<br/>L8: Flame Shot</td>
       <td>56,950</td>
-      <td><a href="/items/shields#red-shield">Red Shield</a><br/>(Equip 2 bracelets)</td>
+      <td><a href="/shiren-4/items/shields#red-shield">Red Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#kabura's-blade">Kabura's Blade</a></td>
@@ -179,7 +179,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
       <td>-</td>
       <td>L8: Rustproof</td>
       <td>95,000</td>
-      <td><a href="/items/shields#fuuma-shield">Fuuma Shield</a><br/>(Attack damage +5)</td>
+      <td><a href="/shiren-4/items/shields#fuuma-shield">Fuuma Shield</a><br/>(Attack damage +5)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#fuuma-sword">Fuuma Sword</a></td>
@@ -190,7 +190,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
       <td>-</td>
       <td>-</td>
       <td>175,000</td>
-      <td><a href="/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)</td>
+      <td><a href="/shiren-4/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#kaburagi">Kaburagi</a></td>
@@ -201,7 +201,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
       <td>-</td>
       <td>-</td>
       <td>245,000</td>
-      <td><a href="/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)</td>
+      <td><a href="/shiren-4/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#dull-gold-edge">Dull Gold Edge</a></td>
@@ -212,7 +212,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
       <td>Rustproof</td>
       <td>L8: Paralyzing</td>
       <td>18,950</td>
-      <td><a href="/items/shields#dull-gold-shield">Dull Gold Shield</a><br/>(Max strength +3)</td>
+      <td><a href="/shiren-4/items/shields#dull-gold-shield">Dull Gold Shield</a><br/>(Max strength +3)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#bright-blade">Bright Blade</a></td>
@@ -289,7 +289,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
       <td>Anti-Cyclops</td>
       <td>L8: Rustproof</td>
       <td>31,750</td>
-      <td><a href="/items/shields#spry-shield">Spry Shield</a><br/>(Attack and defense +3)</td>
+      <td><a href="/shiren-4/items/shields#spry-shield">Spry Shield</a><br/>(Attack and defense +3)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#drain-slicer">Drain Slicer</a></td>
@@ -311,7 +311,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
       <td>Anti-Bomb</td>
       <td>L8: Rustproof</td>
       <td>50,800</td>
-      <td><a href="/items/shields#blast-shield">Blast Shield</a><br/>(Attack and defense +3)</td>
+      <td><a href="/shiren-4/items/shields#blast-shield">Blast Shield</a><br/>(Attack and defense +3)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#lizard-lasher">Lizard Lasher</a></td>
@@ -322,7 +322,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
       <td>Anti-Dragon</td>
       <td>L8: Rustproof</td>
       <td>63,500</td>
-      <td><a href="/items/shields#lizard-shield">Lizard Shield</a><br/>(Attack and defense +3)</td>
+      <td><a href="/shiren-4/items/shields#lizard-shield">Lizard Shield</a><br/>(Attack and defense +3)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#nap-rattle">Nap Rattle</a></td>
@@ -333,7 +333,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
       <td>Sedating</td>
       <td>L8: Rustproof</td>
       <td>50,700</td>
-      <td><a href="/items/bracelets#alert-bracelet">Alert Bracelet</a><br/>(Boost sleep chance)</td>
+      <td><a href="/shiren-4/items/bracelets#alert-bracelet">Alert Bracelet</a><br/>(Boost sleep chance)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#shockuto">Shockuto</a></td>
@@ -377,7 +377,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
       <td>Confusing</td>
       <td>L8: Rustproof</td>
       <td>38,000</td>
-      <td><a href="/items/bracelets#calm-bracelet">Calm Bracelet</a><br/>(Boost confusion chance)</td>
+      <td><a href="/shiren-4/items/bracelets#calm-bracelet">Calm Bracelet</a><br/>(Boost confusion chance)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#hatchet">Hatchet</a></td>
@@ -399,7 +399,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
       <td>Degrade</td>
       <td>-</td>
       <td>103,000</td>
-      <td><a href="/items/shields#shoddy-plank">Shoddy Plank</a><br/>(Equipped items won't rust)</td>
+      <td><a href="/shiren-4/items/shields#shoddy-plank">Shoddy Plank</a><br/>(Equipped items won't rust)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#breeze-blade">Breeze Blade</a></td>
@@ -421,7 +421,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
       <td>Flame Shot</td>
       <td>L5: HP+10<br/>L8: Charge<br/>L8: Anti-Bomb</td>
       <td>63,000</td>
-      <td><a href="/items/shields#swap-shield">Swap Shield</a><br/>(Boost Flame Shot)</td>
+      <td><a href="/shiren-4/items/shields#swap-shield">Swap Shield</a><br/>(Boost Flame Shot)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#wonder-pick">Wonder Pick</a></td>
@@ -432,7 +432,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
       <td>Infinite Dig</td>
       <td>L5: Blinding</td>
       <td>127,000</td>
-      <td><a href="/items/shields#nirvana-board">Nirvana Board</a><br/>(Max HP +30)</td>
+      <td><a href="/shiren-4/items/shields#nirvana-board">Nirvana Board</a><br/>(Max HP +30)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#sturdy-hammer">Sturdy Hammer</a></td>
@@ -454,7 +454,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
       <td>Accurate</td>
       <td>L8: Critical</td>
       <td>127,000</td>
-      <td><a href="/items/bracelets#bind-bracelet">Bind Bracelet</a><br/>(Thrown items always hit)</td>
+      <td><a href="/shiren-4/items/bracelets#bind-bracelet">Bind Bracelet</a><br/>(Thrown items always hit)</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#bargain-blade">Bargain Blade</a></td>
@@ -476,7 +476,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
       <td>Attack Down</td>
       <td>L8: Rustproof</td>
       <td>245,000</td>
-      <td><a href="/shiren5/item/shields#jaguar's-shield">Jaguar's Shield</a><br/>(Equip 2 bracelets)<br/><a href="/shiren5/item/shields#jaguar's-shield">Jaguar's Shield</a>+<br/><a href="/shiren5/item/bracelets#bulldog-bracelet">Bulldog Bracelet</a><br/>(Attack damage +20)<br/><a href="/shiren5/item/shields#jaguar's-shield">Jaguar's Shield</a>+<br/><a href="/shiren5/item/bracelets#bulldog-bracelet">Bulldog Bracelet</a>+<br/><a href="/shiren5/item/projectiles#hemoji-arrow">Hemoji Arrow</a><br/>(No fullness depletion)</td>
+      <td><a href="/shiren-4/items/shields#jaguar's-shield">Jaguar's Shield</a><br/>(Equip 2 bracelets)<br/><a href="/shiren-4/items/shields#jaguar's-shield">Jaguar's Shield</a>+<br/><a href="/shiren-4/items/bracelets#bulldog-bracelet">Bulldog Bracelet</a><br/>(Attack damage +20)<br/><a href="/shiren-4/items/shields#jaguar's-shield">Jaguar's Shield</a>+<br/><a href="/shiren-4/items/bracelets#bulldog-bracelet">Bulldog Bracelet</a>+<br/><a href="/shiren-4/items/projectiles#hemoji-arrow">Hemoji Arrow</a><br/>(No fullness depletion)</td>
     </tr>
   </tbody>
 </table>
@@ -528,7 +528,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>300</td>
       <td>105</td>
       <td rowspan="7">-</td>
-      <td rowspan="8">Resonance: <a href="/items/shields#plain-targe">Palm Shield</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-4/items/shields#plain-targe">Palm Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -643,7 +643,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>700</td>
       <td>245</td>
       <td rowspan="7">-</td>
-      <td rowspan="8">Resonance: <a href="/items/shields#copper-guard">Copper Guard</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-4/items/shields#copper-guard">Copper Guard</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -758,7 +758,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>1100</td>
       <td>385</td>
       <td rowspan="7">-</td>
-      <td rowspan="8">Resonance: <a href="/items/shields#iron-targe">Iron Targe</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-4/items/shields#iron-targe">Iron Targe</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -873,7 +873,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>1600</td>
       <td>560</td>
       <td rowspan="4">-</td>
-      <td rowspan="8">Resonance: <a href="/items/shields#beast-shield">Beast Shield</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-4/items/shields#beast-shield">Beast Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -988,7 +988,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>2200</td>
       <td>770</td>
       <td rowspan="7">-</td>
-      <td rowspan="8">Resonance: <a href="/items/shields#clan-shield">Clan Shield</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-4/items/shields#clan-shield">Clan Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1103,7 +1103,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>3000</td>
       <td>1050</td>
       <td rowspan="3">-</td>
-      <td rowspan="8">Resonance: <a href="/items/shields#meteor-guard">Meteor Guard</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-4/items/shields#meteor-guard">Meteor Guard</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1219,7 +1219,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>4200</td>
       <td>1470</td>
       <td rowspan="2">-</td>
-      <td rowspan="8">Resonance: <a href="/items/shields#red-shield">Red Shield</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-4/items/shields#red-shield">Red Shield</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1335,7 +1335,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>7400</td>
       <td>2590</td>
       <td rowspan="7">-</td>
-      <td rowspan="8">Resonance: <a href="/items/shields#fuuma-shield">Fuuma Shield</a><br/>(Attack damage +5)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-4/items/shields#fuuma-shield">Fuuma Shield</a><br/>(Attack damage +5)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1450,7 +1450,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>10000</td>
       <td>3500</td>
       <td rowspan="8">-</td>
-      <td rowspan="8">Resonance: <a href="/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)<br/><br/>Obtaining:<br/>Upgrade a Storied Katana+99 at<br/>the Monkey Village Blacksmith.</td>
+      <td rowspan="8">Resonance: <a href="/shiren-4/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)<br/><br/>Obtaining:<br/>Upgrade a Storied Katana+99 at<br/>the Monkey Village Blacksmith.</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1564,7 +1564,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>15000</td>
       <td>5250</td>
       <td rowspan="8">-</td>
-      <td rowspan="8">Resonance: <a href="/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)<br/><br/>Obtaining:<br/>Upgrade a S-Class Kabura+99 using<br/>the Smith 2 <a href="/system/npcs">NPC</a> after having placed<br/>a number of orders in the past.</td>
+      <td rowspan="8">Resonance: <a href="/shiren-4/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)<br/><br/>Obtaining:<br/>Upgrade a S-Class Kabura+99 using<br/>the Smith 2 <a href="/system/npcs">NPC</a> after having placed<br/>a number of orders in the past.</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1678,7 +1678,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>1000</td>
       <td>350</td>
       <td rowspan="7">(Rustproof)</td>
-      <td rowspan="8">This weapon won't rust.<br/><br/>Resonance: <a href="/items/shields#dull-gold-shield">Dull Gold Shield</a><br/>(Max strength +3)</td>
+      <td rowspan="8">This weapon won't rust.<br/><br/>Resonance: <a href="/shiren-4/items/shields#dull-gold-shield">Dull Gold Shield</a><br/>(Max strength +3)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -2484,7 +2484,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>5500</td>
       <td>1925</td>
       <td rowspan="7">(Anti-Cyclops)</td>
-      <td rowspan="8">Deal more damage to Cyclops types.<br/>(150%, +25% per level up | Lv8: 325%)<br/><br/>Resonance: <a href="/items/shields#spry-shield">Spry Shield</a><br/>(Attack and defense +3)<br/><br/>Families: Explochin, Ironhead,<br/>Gazer, Foly</td>
+      <td rowspan="8">Deal more damage to Cyclops types.<br/>(150%, +25% per level up | Lv8: 325%)<br/><br/>Resonance: <a href="/shiren-4/items/shields#spry-shield">Spry Shield</a><br/>(Attack and defense +3)<br/><br/>Families: Explochin, Ironhead,<br/>Gazer, Foly</td>
     </tr>
     <tr>
       <td>2</td>
@@ -2714,7 +2714,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>2500</td>
       <td>875</td>
       <td rowspan="7">(Anti-Bomb)</td>
-      <td rowspan="8">Deal more damage to Bomb types.<br/>(150%, +25% per level up | Lv8: 325%)<br/><br/>Resonance: <a href="/items/shields#blast-shield">Blast Shield</a><br/>(Attack and defense +3)<br/><br/>Families: Explochin, Pop Tank</td>
+      <td rowspan="8">Deal more damage to Bomb types.<br/>(150%, +25% per level up | Lv8: 325%)<br/><br/>Resonance: <a href="/shiren-4/items/shields#blast-shield">Blast Shield</a><br/>(Attack and defense +3)<br/><br/>Families: Explochin, Pop Tank</td>
     </tr>
     <tr>
       <td>2</td>
@@ -2829,7 +2829,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>3500</td>
       <td>1225</td>
       <td rowspan="7">(Anti-Dragon)</td>
-      <td rowspan="8">Deal more damage to Dragon types.<br/>(150%, +25% per level up | Lv8: 325%)<br/><br/>Resonance: <a href="/items/shields#lizard-shield">Lizard Shield</a><br/>(Attack and defense +3)<br/><br/>Families: Dragon, Firepuff, Hopodile</td>
+      <td rowspan="8">Deal more damage to Dragon types.<br/>(150%, +25% per level up | Lv8: 325%)<br/><br/>Resonance: <a href="/shiren-4/items/shields#lizard-shield">Lizard Shield</a><br/>(Attack and defense +3)<br/><br/>Families: Dragon, Firepuff, Hopodile</td>
     </tr>
     <tr>
       <td>2</td>
@@ -2944,7 +2944,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>7000</td>
       <td>2450</td>
       <td rowspan="7">(Sedating)</td>
-      <td rowspan="8">Chance to inflict <a href="/system/status-conditions#asleep">Asleep</a>.<br/>(12%, +2% per level up | Lv8: 26%)<br/><br/>Resonance: <a href="/items/bracelets">Alert Bracelet</a><br/>(Boost sleep chance)</td>
+      <td rowspan="8">Chance to inflict <a href="/system/status-conditions#asleep">Asleep</a>.<br/>(12%, +2% per level up | Lv8: 26%)<br/><br/>Resonance: <a href="/shiren-4/items/bracelets">Alert Bracelet</a><br/>(Boost sleep chance)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -3404,7 +3404,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>2000</td>
       <td>700</td>
       <td rowspan="7">(Confusing)</td>
-      <td rowspan="8">Chance to inflict <a href="/system/status-conditions#confused">Confused</a>.<br/>(12%→16%, then +2% per level up)<br/>(Lv8: 28%)<br/><br/>Resonance: <a href="/items/bracelets">Calm Bracelet</a><br/>(Boost confusion chance)</td>
+      <td rowspan="8">Chance to inflict <a href="/system/status-conditions#confused">Confused</a>.<br/>(12%→16%, then +2% per level up)<br/>(Lv8: 28%)<br/><br/>Resonance: <a href="/shiren-4/items/bracelets">Calm Bracelet</a><br/>(Boost confusion chance)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -3635,7 +3635,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>3000</td>
       <td>1050</td>
       <td rowspan="8">(Degrade)</td>
-      <td rowspan="8">Decrease weapon upgrade value<br/>by 1 every time you hit an enemy.<br/><br/>Resonance: <a href="/items/shields#shoddy-plank">Shoddy Plank</a><br/>(Equipped items won't rust)</td>
+      <td rowspan="8">Decrease weapon upgrade value<br/>by 1 every time you hit an enemy.<br/><br/>Resonance: <a href="/shiren-4/items/shields#shoddy-plank">Shoddy Plank</a><br/>(Equipped items won't rust)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -3864,7 +3864,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>10000</td>
       <td>3500</td>
       <td rowspan="4">(Flame Shot)</td>
-      <td rowspan="8">Shoot a flame when your HP is full.<br/>(Damage: 8, 10, 12, 14, 16, 18, 21, 25)<br/><br/>Resonance: <a href="/items/shields#swap-shield">Swap Shield</a><br/>(Boost Flame Shot damage | Lv8: 30)</td>
+      <td rowspan="8">Shoot a flame when your HP is full.<br/>(Damage: 8, 10, 12, 14, 16, 18, 21, 25)<br/><br/>Resonance: <a href="/shiren-4/items/shields#swap-shield">Swap Shield</a><br/>(Boost Flame Shot damage | Lv8: 30)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -3980,7 +3980,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>10000</td>
       <td>3500</td>
       <td rowspan="4">(Infinite Dig)</td>
-      <td rowspan="8">Can dig holes in walls,<br/>and will never break.<br/><br/>Resonance: <a href="/items/shields#nirvana-board">Nirvana Board</a><br/>(Max HP +30)<br/><br/>Obtaining:<br/>Platinum Paradise (Shrine)</td>
+      <td rowspan="8">Can dig holes in walls,<br/>and will never break.<br/><br/>Resonance: <a href="/shiren-4/items/shields#nirvana-board">Nirvana Board</a><br/>(Max HP +30)<br/><br/>Obtaining:<br/>Platinum Paradise (Shrine)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -4210,7 +4210,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>20000</td>
       <td>7000</td>
       <td rowspan="7">(Accurate)</td>
-      <td rowspan="8">Direct attacks always hit.<br/><br/>Resonance: <a href="/items/bracelets">Bind Bracelet</a><br/>(Thrown items always hit)<br/><br/>Obtaining:<br/>Level <a href="/system/allies#borg-mamel">Borg Mamel</a> to Lv100.</td>
+      <td rowspan="8">Direct attacks always hit.<br/><br/>Resonance: <a href="/shiren-4/items/bracelets">Bind Bracelet</a><br/>(Thrown items always hit)<br/><br/>Obtaining:<br/>Level <a href="/system/allies#borg-mamel">Borg Mamel</a> to Lv100.</td>
     </tr>
     <tr>
       <td>2</td>
@@ -4442,7 +4442,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>25000</td>
       <td>8750</td>
       <td rowspan="7">(Attack Down)</td>
-      <td rowspan="8">Chance to lower target's attack.<br/>(12%, +3% per level | Lv8: 33%)<br/><br/>Resonance: <a href="/items/shields#jaguar's-shield">Jaguar's Shield</a><br/>(Equip 2 bracelets)<br/>+ <a href="/items/bracelets">Bulldog Bracelet</a><br/>(Attack damage +20)<br/>+ <a href="/items/projectiles">Hemoji Arrow</a><br/>(No fullness depletion)<br/><br/>Obtaining:<br/>Trial Road (Shrine)</td>
+      <td rowspan="8">Chance to lower target's attack.<br/>(12%, +3% per level | Lv8: 33%)<br/><br/>Resonance: <a href="/shiren-4/items/shields#jaguar's-shield">Jaguar's Shield</a><br/>(Equip 2 bracelets)<br/>+ <a href="/shiren-4/items/bracelets">Bulldog Bracelet</a><br/>(Attack damage +20)<br/>+ <a href="/shiren-4/items/projectiles">Hemoji Arrow</a><br/>(No fullness depletion)<br/><br/>Obtaining:<br/>Trial Road (Shrine)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -4547,7 +4547,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>100</td>
       <td>35</td>
       <td>1 tile</td>
-      <td rowspan="3">Lights up your surroundings at night.<br/>Dims by 1 stage every 250 turns. (500 if blessed)<br/>Warning at 50 turns remaining before it goes out.<br/><br/>Resonance: <a href="/items/shields#lamp-shield">Lamp Shield</a><br/>(Light up entire room at night)</td>
+      <td rowspan="3">Lights up your surroundings at night.<br/>Dims by 1 stage every 250 turns. (500 if blessed)<br/>Warning at 50 turns remaining before it goes out.<br/><br/>Resonance: <a href="/shiren-4/items/shields#lamp-shield">Lamp Shield</a><br/>(Light up entire room at night)</td>
     </tr>
     <tr>
       <td>Fine Torch</td>
