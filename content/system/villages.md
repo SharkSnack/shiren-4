@@ -112,8 +112,8 @@ There are 6 notable overworld areas in the game, and each village has its own NP
 
 - Area where you start the game after the opening.
 - Dungeons:
-    - <a href="/dungeons/southern-isle-beach">Southern Isle Beach</a>
-    - <a href="/dungeons/bayside-monster-cave">Bayside Monster Cave</a>
+    - <a href="/shiren-4/dungeons/southern-isle-beach">Southern Isle Beach</a>
+    - <a href="/shiren-4/dungeons/bayside-monster-cave">Bayside Monster Cave</a>
 
 #### Shore
 
@@ -169,20 +169,20 @@ There are 6 notable overworld areas in the game, and each village has its own NP
 
 - Main village of the game, and you'll be returned here if you collapse.
 - Dungeons:
-    - <a href="/dungeons/emerald-terrace">Emerald Terrace</a>
-    - <a href="/dungeons/double-strike-cave">Double Strike Cave</a>
-    - <a href="/dungeons/jaguar's-hunting-forest">Jaguar's Hunting Forest</a>
-    - <a href="/dungeons/emerald">Grass and Scroll Cave</a>
-    - <a href="/dungeons/asura-realm">Asura Realm</a>
-    - <a href="/dungeons/emerald">Mystery Shopping Mall</a>
+    - <a href="/shiren-4/dungeons/emerald-terrace">Emerald Terrace</a>
+    - <a href="/shiren-4/dungeons/double-strike-cave">Double Strike Cave</a>
+    - <a href="/shiren-4/dungeons/jaguars-hunting-forest">Jaguar's Hunting Forest</a>
+    - <a href="/shiren-4/dungeons/emerald">Grass and Scroll Cave</a>
+    - <a href="/shiren-4/dungeons/asura-realm">Asura Realm</a>
+    - <a href="/shiren-4/dungeons/emerald">Mystery Shopping Mall</a>
 
 <div id="novice-house" class="facility relativeImage">
   Novice House <img src="../images/other/icon_stairs.png"/>
 </div>
 
-- Mini-game: <a href="/dungeons/statue-cave">Statue Cave</a>.
+- Mini-game: <a href="/shiren-4/dungeons/statue-cave">Statue Cave</a>.
 - Training facilities to help you learn how to play the game.
-    - <a href="/dungeons/shrine-of-challenges">Shrine of Challenges</a>, <a href="shrine-of-night-adventures">Shirne of Night Adventures</a>
+    - <a href="/shiren-4/dungeons/shrine-of-challenges">Shrine of Challenges</a>, <a href="/shiren-4/dungeons/shrine-of-night-adventures">Shirne of Night Adventures</a>
 
 <div id="boronga-shop" class="facility relativeImage">
   Shop <img src="../images/other/icon_shop.png"/>
@@ -466,13 +466,13 @@ There are 6 notable overworld areas in the game, and each village has its own NP
   Ability Library <img src="../images/other/icon_library.png"/>
 </div>
 
-- Organize <a href="/system/necklace-abilities">Necklace Abilities</a>.
+- Organize <a href="/shiren-4/system/necklace-abilities">Necklace Abilities</a>.
 
 <div id="rescue" class="facility relativeImage">
   Rescue Branch <img src="../images/other/icon_rescue.png"/>
 </div>
 
-- See <a href="/system/wanderer-rescue">Wanderer Rescue</a>.
+- See <a href="/shiren-4/system/wanderer-rescue">Wanderer Rescue</a>.
 
 <div id="tavern" class="facility relativeImage">
   Tavern <img src="../images/other/icon_tavern.png"/>
@@ -579,10 +579,10 @@ There are 6 notable overworld areas in the game, and each village has its own NP
 
 <br/>
 
-- Village you reach after progressing past Crocodile Swamp in <a href="/dungeons/emerald-terrace">Emerald Terrace</a>.
+- Village you reach after progressing past Crocodile Swamp in <a href="/shiren-4/dungeons/emerald-terrace">Emerald Terrace</a>.
 - Dungeons:
-    - <a href="/dungeons/entrancing-lane">Entrancing Lane</a>
-    - <a href="/dungeons/cave-of-endless-night">Cave of Endless Night</a>
+    - <a href="/shiren-4/dungeons/entrancing-lane">Entrancing Lane</a>
+    - <a href="/shiren-4/dungeons/cave-of-endless-night">Cave of Endless Night</a>
 
 <br/>
 
@@ -759,7 +759,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
 </div>
 
 - Pick up tagged items here if you collapse or otherwise lose them.
-    - See <a href="/system/gameplay-basics#equipment-tags">Equipment Tags</a> for details.
+    - See <a href="/shiren-4/system/gameplay-basics#equipment-tags">Equipment Tags</a> for details.
 - Place a tag: 3000 Gitan
 - Remove a tag: Free
 - Pick up lost items: Varies
@@ -839,10 +839,10 @@ There are 6 notable overworld areas in the game, and each village has its own NP
 
 <br/>
 
-- Village you reach after progressing past Sea of Trees in <a href="/dungeons/emerald-terrace">Emerald Terrace</a>.
+- Village you reach after progressing past Sea of Trees in <a href="/shiren-4/dungeons/emerald-terrace">Emerald Terrace</a>.
 - Dungeons:
-    - <a href="/dungeons/trap-zone">Trap Zone</a>
-    - <a href="/dungeons/ceiling-cave">Ceiling Cave</a>
+    - <a href="/shiren-4/dungeons/trap-zone">Trap Zone</a>
+    - <a href="/shiren-4/dungeons/ceiling-cave">Ceiling Cave</a>
 
 <br/>
 
@@ -1129,10 +1129,10 @@ There are 6 notable overworld areas in the game, and each village has its own NP
 
 <br/>
 
-- Village you reach after progressing past Ruins of Laferriere in <a href="/dungeons/emerald-terrace">Emerald Terrace</a>.
+- Village you reach after progressing past Ruins of Laferriere in <a href="/shiren-4/dungeons/emerald-terrace">Emerald Terrace</a>.
 - Dungeons:
-    - <a href="/dungeons/static-forest">Static Forest</a>
-    - <a href="/dungeons/banana-kingdom">Banana Kingdom</a>
+    - <a href="/shiren-4/dungeons/static-forest">Static Forest</a>
+    - <a href="/shiren-4/dungeons/banana-kingdom">Banana Kingdom</a>
 
 <div id="monkey-shop" class="facility relativeImage">
   Shop <img src="../images/other/icon_shop.png"/>
@@ -1389,16 +1389,16 @@ There are 6 notable overworld areas in the game, and each village has its own NP
 
 <br/>
 
-- Village you reach after progressing past Lava Field in <a href="/dungeons/emerald-terrace">Emerald Terrace</a>.
-- Guide lost <a href="/system/wandering-npcs">NPCs</a> to this location to unlock additional facilities.
+- Village you reach after progressing past Lava Field in <a href="/shiren-4/dungeons/emerald-terrace">Emerald Terrace</a>.
+- Guide lost <a href="/shiren-4/system/wandering-npcs">NPCs</a> to this location to unlock additional facilities.
 - Dungeons:
-    - <a href="/dungeons/trial-road">Trial Road</a>
+    - <a href="/shiren-4/dungeons/trial-road">Trial Road</a>
 
 <div id="wind-inn" class="facility relativeImage">
   Inn <img src="../images/other/icon_inn.png"/>
 </div>
 
-- Unlocked by guiding <a href="/system/npcs#inn-girl">Inn Girl</a> to this location.
+- Unlocked by guiding <a href="/shiren-4/system/npcs#inn-girl">Inn Girl</a> to this location.
 - Pay 1000 Gitan to fully restore HP, fullness and strength.
     - Occasionally increases max HP, max strength, or max fullness.
 
@@ -1406,7 +1406,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
   Shop <img src="../images/other/icon_shop.png"/>
 </div>
 
-- Unlocked by guiding <a href="/system/npcs#inn-boy">Inn Boy</a> to this location.
+- Unlocked by guiding <a href="/shiren-4/system/npcs#inn-boy">Inn Boy</a> to this location.
 - The shopkeeper can tag equipment for 3000 Gitan.
 - 8 items are randomly selected from the following:
 
@@ -1571,7 +1571,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
   Storehouse <img src="../images/other/icon_storage.png"/>
 </div>
 
-- Unlocked by guiding <a href="/system/npcs#inn-gramps">Inn Gramps</a> to this location.
+- Unlocked by guiding <a href="/shiren-4/system/npcs#inn-gramps">Inn Gramps</a> to this location.
 - The storehouse is shared between Boronga Village and Inn of the Wind.
 - Deposit and withdraw up to 80 items.
     - Use Storage Pots to increase storage space.

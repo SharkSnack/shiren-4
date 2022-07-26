@@ -7,7 +7,7 @@ metaDescription: "Complete NPC details for Shiren the Wanderer 4: The Eye of God
 ## Overview
 
 Characters that can be found wandering around inside dungeons.<br/>
-They're represented as a yellow dot on the map, and only appear in <a href="/dungeons/emerald-terrace">Emerald Terrace</a>.
+They're represented as a yellow dot on the map, and only appear in <a href="/shiren-4/dungeons/emerald-terrace">Emerald Terrace</a>.
 
 Characteristics:
 

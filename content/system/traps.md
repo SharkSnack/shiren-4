@@ -12,7 +12,7 @@ metaDescription: "Complete list of traps for Shiren the Wanderer 4: The Eye of G
 Traps are dungeon objects that trigger when stepped on, and have a wide variety of effects.<br/>
 The effect also differs based on what caused it to trigger.
 
-See <a href="/dungeons/trap-zone">Trap Zone</a> for details about Trapper Status.
+See <a href="/shiren-4/dungeons/trap-zone">Trap Zone</a> for details about Trapper Status.
 
 ## Trap List
 

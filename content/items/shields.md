@@ -1150,7 +1150,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>4800</td>
       <td>1680</td>
       <td rowspan="2">-</td>
-      <td rowspan="8">Resonance: <a href="/items/weapons#red-blade">Red Blade</a><br/>(Equip 2 bracelets)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-4/items/weapons#red-blade">Red Blade</a><br/>(Equip 2 bracelets)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1266,7 +1266,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>8500</td>
       <td>2975</td>
       <td rowspan="7">-</td>
-      <td rowspan="8">Resonance: <a href="/items/weapons#kabura's-blade">Kabura's Blade</a><br/>(Attack damage +5)</td>
+      <td rowspan="8">Resonance: <a href="/shiren-4/items/weapons#kabura's-blade">Kabura's Blade</a><br/>(Attack damage +5)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1381,7 +1381,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>12000</td>
       <td>4200</td>
       <td rowspan="8">-</td>
-      <td rowspan="8">Resonance: <a href="/items/weapons#fuuma-sword">Fuuma Sword</a><br/>(Attack damage +10)<br/><br/>Resonance: <a href="/items/weapons#kaburagi">Kaburagi</a><br/>(Attack damage +10)<br/><br/>Obtaining:<br/>Upgrade a Legendary Fuuma+99<br/>using the Smith 1 <a href="/system/npcs">NPC</a>.</td>
+      <td rowspan="8">Resonance: <a href="/shiren-4/items/weapons#fuuma-sword">Fuuma Sword</a><br/>(Attack damage +10)<br/><br/>Resonance: <a href="/shiren-4/items/weapons#kaburagi">Kaburagi</a><br/>(Attack damage +10)<br/><br/>Obtaining:<br/>Upgrade a Legendary Fuuma+99<br/>using the Smith 1 <a href="/shiren-4/system/npcs">NPC</a>.</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1495,7 +1495,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>1500</td>
       <td>525</td>
       <td rowspan="7">(Rustproof)</td>
-      <td rowspan="8">This shield won't rust.<br/><br/>Resonance: <a href="/items/weapons#dull-gold-edge">Dull Gold Edge</a><br/>(Max strength +3)</td>
+      <td rowspan="8">This shield won't rust.<br/><br/>Resonance: <a href="/shiren-4/items/weapons#dull-gold-edge">Dull Gold Edge</a><br/>(Max strength +3)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1840,7 +1840,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>3000</td>
       <td>1050</td>
       <td rowspan="7">(Counter)</td>
-      <td rowspan="8">Reflects a portion of damage<br/>received back at an enemy.<br/>(Untested)<br/><br/>Resonance: <a href="/items/bracelets">Strength Bracelet</a><br/>(Double counter damage)</td>
+      <td rowspan="8">Reflects a portion of damage<br/>received back at an enemy.<br/>(Untested)<br/><br/>Resonance: <a href="/shiren-4/items/bracelets">Strength Bracelet</a><br/>(Double counter damage)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -1955,7 +1955,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>8000</td>
       <td>2800</td>
       <td rowspan="4">(Damage Exp)</td>
-      <td rowspan="8">Gain experience points<br/>when you receive damage.<br/>(Untested)<br/><br/>Resonance: <a href="/items/bracelets">Happy Bracelet</a><br/>(Double bracelet exp gain)</td>
+      <td rowspan="8">Gain experience points<br/>when you receive damage.<br/>(Untested)<br/><br/>Resonance: <a href="/shiren-4/items/bracelets">Happy Bracelet</a><br/>(Double bracelet exp gain)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -2186,7 +2186,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>8000</td>
       <td>2800</td>
       <td rowspan="4">(Agile)</td>
-      <td rowspan="8">Increases evasion against<br/>monster direct attacks.<br/>(Untested)<br/><br/>Resonance: <a href="/items/weapons#myopic-masher">Myopic Masher</a><br/>(Attack and defense +3)</td>
+      <td rowspan="8">Increases evasion against<br/>monster direct attacks.<br/>(Untested)<br/><br/>Resonance: <a href="/shiren-4/items/weapons#myopic-masher">Myopic Masher</a><br/>(Attack and defense +3)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -2307,7 +2307,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>6000</td>
       <td>2100</td>
       <td rowspan="7">(1/2 Blast)</td>
-      <td rowspan="8">Reduces explosion damage.<br/>(50%, +6% per level up | Lv8: 92%)<br/><br/>Resonance: <a href="/items/weapons#crescent-katana">Crescent Katana</a><br/>(Attack and defense +3)</td>
+      <td rowspan="8">Reduces explosion damage.<br/>(50%, +6% per level up | Lv8: 92%)<br/><br/>Resonance: <a href="/shiren-4/items/weapons#crescent-katana">Crescent Katana</a><br/>(Attack and defense +3)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -2652,7 +2652,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>4000</td>
       <td>1400</td>
       <td rowspan="7">(Anti-Peck)</td>
-      <td rowspan="8">Protects your items from<br/>being pecked by <a href="/system/monsters#gyadon">Gyadons</a>.</td>
+      <td rowspan="8">Protects your items from<br/>being pecked by <a href="/shiren-4/system/monsters#gyadon">Gyadons</a>.</td>
     </tr>
     <tr>
       <td>2</td>
@@ -2767,7 +2767,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>10000</td>
       <td>3500</td>
       <td rowspan="7">(1/2 Fire)</td>
-      <td rowspan="8">Reduces fire damage.<br/>(50%, +5% per level up | Lv8: 85%)<br/><br/>Resonance: <a href="/items/weapons#lizard-lasher">Lizard Lasher</a><br/>(Attack and defense +3)</td>
+      <td rowspan="8">Reduces fire damage.<br/>(50%, +5% per level up | Lv8: 85%)<br/><br/>Resonance: <a href="/shiren-4/items/weapons#lizard-lasher">Lizard Lasher</a><br/>(Attack and defense +3)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -2882,7 +2882,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>3000</td>
       <td>1050</td>
       <td rowspan="7">(Unmoving)</td>
-      <td rowspan="8">Nullifies all movement effects.<br/>(<a href="/system/monsters#fearabbit">Fearabbit</a> ability, etc.)</td>
+      <td rowspan="8">Nullifies all movement effects.<br/>(<a href="/shiren-4/system/monsters#fearabbit">Fearabbit</a> ability, etc.)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -2997,7 +2997,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>10000</td>
       <td>3500</td>
       <td rowspan="7">(Anti-Hypno)</td>
-      <td rowspan="8">Protects against hypnosis.<br/>(<a href="/system/monsters#gazer">Gazer</a> special attacks)</td>
+      <td rowspan="8">Protects against hypnosis.<br/>(<a href="/shiren-4/system/monsters#gazer">Gazer</a> special attacks)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -3112,7 +3112,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>6000</td>
       <td>2100</td>
       <td rowspan="7">(Magic Damage)</td>
-      <td rowspan="8">Receive fixed damage instead of the<br/>effect when hit by a magic bullet.<br/>(Untested)<br/><br/>Resonance: <a href="/items/weapons#burning-blade">Burning Blade</a><br/>(Boost Flame Shot damage)</td>
+      <td rowspan="8">Receive fixed damage instead of the<br/>effect when hit by a magic bullet.<br/>(Untested)<br/><br/>Resonance: <a href="/shiren-4/items/weapons#burning-blade">Burning Blade</a><br/>(Boost Flame Shot damage)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -3227,7 +3227,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>4000</td>
       <td>1400</td>
       <td rowspan="8">(Degrade)</td>
-      <td rowspan="8">Decrease shield upgrade value<br/>by 1 every time you get hit.<br/><br/>Resonance: <a href="/items/weapons#shoddy-dirk">Shoddy Dirk</a><br/>(Equipped items won't rust)</td>
+      <td rowspan="8">Decrease shield upgrade value<br/>by 1 every time you get hit.<br/><br/>Resonance: <a href="/shiren-4/items/weapons#shoddy-dirk">Shoddy Dirk</a><br/>(Equipped items won't rust)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -3341,7 +3341,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>1500</td>
       <td>525</td>
       <td rowspan="8">-</td>
-      <td rowspan="8">Burn items to create light in a 1 tile radius.<br/>Light from the shield lasts 200 turns.<br/>(This ability cannot be synthesized)<br/><br/>Resonance: <a href="/items/weapons#torch">Torch</a><br/>(Light up entire room at night)</td>
+      <td rowspan="8">Burn items to create light in a 1 tile radius.<br/>Light from the shield lasts 200 turns.<br/>(This ability cannot be synthesized)<br/><br/>Resonance: <a href="/shiren-4/items/weapons#torch">Torch</a><br/>(Light up entire room at night)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -3570,7 +3570,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>14000</td>
       <td>4900</td>
       <td rowspan="7">(Hungerless)</td>
-      <td rowspan="8">Sets max fullness to 1,<br/>fullness depletion stops.<br/><br/>Resonance: <a href="/items/weapons#wonder-pick">Wonder Pick</a><br/>(Max HP +30)<br/><br/>Obtaining:<br/>Jaguar's Hunting Forest (Clear)</td>
+      <td rowspan="8">Sets max fullness to 1,<br/>fullness depletion stops.<br/><br/>Resonance: <a href="/shiren-4/items/weapons#wonder-pick">Wonder Pick</a><br/>(Max HP +30)<br/><br/>Obtaining:<br/>Jaguar's Hunting Forest (Clear)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -3685,7 +3685,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>25000</td>
       <td>8750</td>
       <td rowspan="7">(Status Counter)</td>
-      <td rowspan="8">Chance to counter with knockback,<br/>confusion, or lightning damage.<br/>(Untested)<br/><br/>Resonance: <a href="/items/weapons#kamina's-sword">Kamina's Sword</a><br/>(Equip 2 bracelets)<br/>+ <a href="/items/bracelets">Bulldog Bracelet</a><br/>(Attack damage +20)<br/>+ <a href="/items/projectiles">Hemoji Arrow</a><br/>(No fullness depletion)<br/><br/>Obtaining:<br/>Bayside Monster Cave (Clear)</td>
+      <td rowspan="8">Chance to counter with knockback,<br/>confusion, or lightning damage.<br/>(Untested)<br/><br/>Resonance: <a href="/shiren-4/items/weapons#kamina's-sword">Kamina's Sword</a><br/>(Equip 2 bracelets)<br/>+ <a href="/shiren-4/items/bracelets">Bulldog Bracelet</a><br/>(Attack damage +20)<br/>+ <a href="/shiren-4/items/projectiles">Hemoji Arrow</a><br/>(No fullness depletion)<br/><br/>Obtaining:<br/>Bayside Monster Cave (Clear)</td>
     </tr>
     <tr>
       <td>2</td>

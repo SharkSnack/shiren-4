@@ -5,7 +5,7 @@ metaDescription: "Stealing guide for Shiren the Wanderer 4: The Eye of God and t
 ---
 
 <div class="pageTopImage smallScreenshot">
-  <img src="../images/other/stealing.png" alt="Shop"/>
+  <img src="../images/other/stealing.png" alt="Stealing"/>
 </div>
 
 ## Overview

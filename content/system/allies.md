@@ -271,7 +271,7 @@ He's essentially a blue mage character that can learn monster special attacks,<b
 - Learns abilities called Bana Powers as he gets hit by special attacks or items.
     - Total of 8 Bana Powers can be assigned - 4 daytime powers, and 4 nighttime powers.
     - Performs all Bana Powers if applicable in a single turn, starting from the top.
-    - See <a href="/system/bana-powers">Bana Powers</a> for details.
+    - See <a href="/shiren-4/system/bana-powers">Bana Powers</a> for details.
 - Instantly collapses if he gets hit by fire or explosion damage.
     - The <span class="greenText">Icy Cold</span> Bana Power (Ice Banana) protects against this weakness.
     - Firepuff or Dragon special attacks, magma eruptions, etc.
@@ -314,7 +314,7 @@ Once it reaches Lv100, it returns to the future and leaves behind a True Knife a
 
 ## Borg Mamel Items
 
-Leveling Borg Mamel to Lv100 is the only way to obtain <a href="/items/weapons#true-knife">True Knife</a> in Shiren 4.
+Leveling Borg Mamel to Lv100 is the only way to obtain <a href="/shiren-4/items/weapons#true-knife">True Knife</a> in Shiren 4.
 
 The item's name has to be an exact match, along with blessed/cursed/sealed status.<br/><span class="orangeText">Tag rare equipment like Sturdy Hammer and Jaguar's Shield before throwing them.</span>
 

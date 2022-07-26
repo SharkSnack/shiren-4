@@ -1564,7 +1564,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>15000</td>
       <td>5250</td>
       <td rowspan="8">-</td>
-      <td rowspan="8">Resonance: <a href="/shiren-4/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)<br/><br/>Obtaining:<br/>Upgrade a S-Class Kabura+99 using<br/>the Smith 2 <a href="/system/npcs">NPC</a> after having placed<br/>a number of orders in the past.</td>
+      <td rowspan="8">Resonance: <a href="/shiren-4/items/shields#helix-shield">Helix Shield</a><br/>(Attack damage +10)<br/><br/>Obtaining:<br/>Upgrade a S-Class Kabura+99 using<br/>the Smith 2 <a href="/shiren-4/system/npcs">NPC</a> after having placed<br/>a number of orders in the past.</td>
     </tr>
     <tr>
       <td>2</td>
@@ -2944,7 +2944,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>7000</td>
       <td>2450</td>
       <td rowspan="7">(Sedating)</td>
-      <td rowspan="8">Chance to inflict <a href="/system/status-conditions#asleep">Asleep</a>.<br/>(12%, +2% per level up | Lv8: 26%)<br/><br/>Resonance: <a href="/shiren-4/items/bracelets">Alert Bracelet</a><br/>(Boost sleep chance)</td>
+      <td rowspan="8">Chance to inflict <a href="/shiren-4/system/status-conditions#asleep">Asleep</a>.<br/>(12%, +2% per level up | Lv8: 26%)<br/><br/>Resonance: <a href="/shiren-4/items/bracelets">Alert Bracelet</a><br/>(Boost sleep chance)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -3059,7 +3059,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>4000</td>
       <td>1400</td>
       <td rowspan="7">(Paralyzing)</td>
-      <td rowspan="8">Chance to inflict <a href="/system/status-conditions#paralyzed">Paralyzed</a>.<br/>(12%, +2% per level up | Lv8: 26%)</td>
+      <td rowspan="8">Chance to inflict <a href="/shiren-4/system/status-conditions#paralyzed">Paralyzed</a>.<br/>(12%, +2% per level up | Lv8: 26%)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -3174,7 +3174,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>6000</td>
       <td>2100</td>
       <td rowspan="7">(Blinding)</td>
-      <td rowspan="8">Chance to inflict <a href="/system/status-conditions#blind">Blind</a>.<br/>(12%→16%, then +2% per level up)<br/>(Lv8: 28%)</td>
+      <td rowspan="8">Chance to inflict <a href="/shiren-4/system/status-conditions#blind">Blind</a>.<br/>(12%→16%, then +2% per level up)<br/>(Lv8: 28%)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -3289,7 +3289,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>3300</td>
       <td>1155</td>
       <td rowspan="7">(Sealing)</td>
-      <td rowspan="8">Chance to inflict <a href="/system/status-conditions#sealed">Sealed</a>.<br/>(12%→16%, then +2% per level up)<br/>(Lv8: 28%)</td>
+      <td rowspan="8">Chance to inflict <a href="/shiren-4/system/status-conditions#sealed">Sealed</a>.<br/>(12%→16%, then +2% per level up)<br/>(Lv8: 28%)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -3404,7 +3404,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>2000</td>
       <td>700</td>
       <td rowspan="7">(Confusing)</td>
-      <td rowspan="8">Chance to inflict <a href="/system/status-conditions#confused">Confused</a>.<br/>(12%→16%, then +2% per level up)<br/>(Lv8: 28%)<br/><br/>Resonance: <a href="/shiren-4/items/bracelets">Calm Bracelet</a><br/>(Boost confusion chance)</td>
+      <td rowspan="8">Chance to inflict <a href="/shiren-4/system/status-conditions#confused">Confused</a>.<br/>(12%→16%, then +2% per level up)<br/>(Lv8: 28%)<br/><br/>Resonance: <a href="/shiren-4/items/bracelets">Calm Bracelet</a><br/>(Boost confusion chance)</td>
     </tr>
     <tr>
       <td>2</td>
@@ -4210,7 +4210,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>20000</td>
       <td>7000</td>
       <td rowspan="7">(Accurate)</td>
-      <td rowspan="8">Direct attacks always hit.<br/><br/>Resonance: <a href="/shiren-4/items/bracelets">Bind Bracelet</a><br/>(Thrown items always hit)<br/><br/>Obtaining:<br/>Level <a href="/system/allies#borg-mamel">Borg Mamel</a> to Lv100.</td>
+      <td rowspan="8">Direct attacks always hit.<br/><br/>Resonance: <a href="/shiren-4/items/bracelets">Bind Bracelet</a><br/>(Thrown items always hit)<br/><br/>Obtaining:<br/>Level <a href="/shiren-4/system/allies#borg-mamel">Borg Mamel</a> to Lv100.</td>
     </tr>
     <tr>
       <td>2</td>
@@ -4325,7 +4325,7 @@ Extra exp from defeating a monster will not carry forward when a weapon levels u
       <td>10000</td>
       <td>3500</td>
       <td rowspan="2">(Enriching)</td>
-      <td rowspan="8">Enemies drop Gitan more often.<br/>(Untested)<br/>Shops offer a discount.<br/>(20% off, +5% per level | Lv8: 55%)<br/><br/>Obtaining:<br/>Bargain Hunter <a href="/system/npcs">NPC</a>.</td>
+      <td rowspan="8">Enemies drop Gitan more often.<br/>(Untested)<br/>Shops offer a discount.<br/>(20% off, +5% per level | Lv8: 55%)<br/><br/>Obtaining:<br/>Bargain Hunter <a href="/shiren-4/system/npcs">NPC</a>.</td>
     </tr>
     <tr>
       <td>2</td>

@@ -72,7 +72,7 @@ Most of the rescue process is performed through the top menu.
 Share a rescue request in the form of a 54 character password.<br/>
 The password never expires and works offline.
 
-Passwords can also be used to share dungeon seeds that have rare items.<br/>(See <a href="/guides/rescue-passwords">Rescue Passwords</a>)
+Passwords can also be used to share dungeon seeds that have rare items.<br/>(See <a href="/shiren-4/guides/rescue-passwords">Rescue Passwords</a>)
 
 ### Interim Adventure
 

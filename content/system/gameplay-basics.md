@@ -418,7 +418,7 @@ List of map patterns used in the game.<br/>
 ### Monster House
 
 Information about Monster Houses.<br/>
-→ <a href="/system/dungeon-features#monster-house">Monster House</a>
+→ <a href="/shiren-4/system/dungeon-features#monster-house">Monster House</a>
 
 <div class="relativeImage smallScreenshot">
   <img src="../images/other/monster_house.png"/>
@@ -427,7 +427,7 @@ Information about Monster Houses.<br/>
 ### Traps
 
 List of traps and their effects.<br/>
-→ <a href="/system/traps">Traps</a>
+→ <a href="/shiren-4/system/traps">Traps</a>
 
 <div class="relativeImage">
   <img src="../images/traps/wood_arrow.png"/> <img src="../images/traps/sleep.png"/> <img src="../images/traps/hide_gauge.png"/>
