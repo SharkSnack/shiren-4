@@ -1419,8 +1419,7 @@ export const baseStyles = css`
     margin-bottom: 10px;
   }
   #synthesisPot {
-    height: 20px;
-    width: 20px;
+    width: 180px;
     margin-bottom: 10px;
   }
   #catstone {

@@ -431,6 +431,7 @@ Items thrown by any of the Saruma Brothers will always miss against allies,<br/>
 |Happy Grass|Increases level by 1.|
 |Angel Seed|Increases level by 3.|
 
+See [Allies](/system/allies#borg-mamel-items) for details about leveling up Borg Mamel.
 
 ## Clear Icons
 
@@ -455,18 +456,23 @@ It might be fun to see if you can obtain them all.
 
 ## Book Completion
 
-If you're up to the task of 100% completion, you'll need to fill out the item and monster books.
+<div class="relativeImage smallScreenshot">
+  <img src="../images/unsorted/item_book.png" alt="Item Book"/>
+</div>
 
+If you're up to the task of 100% completion, you'll need to fill out the item and monster books.<br/>
 See [Book Completion](/guides/book-completion) for details.
 
 ## Expert Badges
 
-In-game achievements that are obtained by clearing dungeons with self-imposed restrictions.
+<div class="relativeImage smallScreenshot">
+  <img src="../images/other/expert_badges.png" alt="Interim Adventure"/>
+</div>
 
+In-game achievements that are obtained by clearing dungeons with self-imposed restrictions.<br/>
 See [Expert Badges](/system/expert-badges) for details.
 
 ## Speedrunning
 
-Interested in competing for world records? Check out the [Shiren 4 page](https://www.speedrun.com/shiren4) on speedrun.com.
-
+Interested in competing for world records? Check out the [Shiren 4 page](https://www.speedrun.com/shiren4) on speedrun.com.<br/>
 See [Speedrunning](/guides/speedrunning) for rules and routes.

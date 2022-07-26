@@ -125,6 +125,13 @@ metaDescription: "Complete scroll details for Shiren the Wanderer 4: The Eye of 
       <td class="leftText">Reveals the current floor's layout, item and monster locations.</td>
     </tr>
     <tr>
+      <td class="highlightYellow">Squid Sushi Scroll</td>
+      <td>200</td>
+      <td>70</td>
+      <td>-</td>
+      <td class="leftText">Can be eaten to replenish 40 fullness. No effect if read.</td>
+    </tr>
+    <tr>
       <td class="highlightYellow">Identify Scroll</td>
       <td>300</td>
       <td>105</td>

@@ -656,7 +656,7 @@ Element Order
     <td>1500</td>
     <td>260</td>
     <td>100%</td>
-    <td>Same as monster_name.</td>
+    <td>Same as Kleptoad.</td>
   </tr>
 </table>
 
@@ -1621,7 +1621,7 @@ Element Order
     <td>400</td>
     <td>190</td>
     <td>100%</td>
-    <td>Same as monster_name.</td>
+    <td>Same as Fade Zalokleft.</td>
   </tr>
 </table>
 
@@ -1687,7 +1687,7 @@ Element Order
     <td>420</td>
     <td>50</td>
     <td>0%</td>
-    <td>Same as monster_name, but lowers upgrade value by 2.<br/>Turns invisible when it's on a water tile.</td>
+    <td>Same as Ooze, but lowers upgrade value by 2.<br/>Turns invisible when it's on a water tile.</td>
   </tr>
   <tr>
     <th>Lv</th>
@@ -1733,7 +1733,7 @@ Element Order
     <td>200</td>
     <td>130</td>
     <td>0%</td>
-    <td>Same as monster_name, but lowers upgrade value by 2.<br/>Its special attack also extinguishes equipped torches.</td>
+    <td>Same as Ooze, but lowers upgrade value by 2.<br/>Its special attack also extinguishes equipped torches.</td>
   </tr>
   <tr>
     <td class="highlightNight">4</td>
@@ -1744,7 +1744,7 @@ Element Order
     <td>800</td>
     <td>190</td>
     <td>0%</td>
-    <td>Same as monster_name, but lowers upgrade value by 3.<br/>Its special attack also extinguishes equipped torches.</td>
+    <td>Same as Ooze, but lowers upgrade value by 3.<br/>Its special attack also extinguishes equipped torches.</td>
   </tr>
 </table>
 
@@ -1966,7 +1966,7 @@ Element Order
     <td>720</td>
     <td>180</td>
     <td>2%</td>
-    <td>Same as monster_name, but lowers strength by 3.</td>
+    <td>Same as Scorpion, but lowers strength by 3.</td>
   </tr>
   <tr>
     <td class="highlightNight">3</td>
@@ -1977,7 +1977,7 @@ Element Order
     <td>2800</td>
     <td>260</td>
     <td>2%</td>
-    <td>Same as monster_name, but lowers max strength by 2.</td>
+    <td>Same as Scorpion, but lowers max strength by 2.</td>
   </tr>
   <tr>
     <td class="highlightNight">4</td>
@@ -1988,7 +1988,7 @@ Element Order
     <td>5600</td>
     <td>420</td>
     <td>2%</td>
-    <td>Same as monster_name, but lowers max strength by 3.</td>
+    <td>Same as Scorpion, but lowers max strength by 3.</td>
   </tr>
 </table>
 
@@ -2793,7 +2793,7 @@ Element Order
     <td>90</td>
     <td>2%</td>
     <td>-</td>
-    <td>Same as monster_name, but can also turn 1 inventory item<br/>into Weeds when adjacent, including equipped items.</td>
+    <td>Same as Item Knave, but can also turn 1 inventory item<br/>into Weeds when adjacent, including equipped items.</td>
   </tr>
   <tr>
     <th>Lv</th>
@@ -3279,7 +3279,7 @@ Element Order
     <td>200</td>
     <td>4%</td>
     <td>-</td>
-    <td>Same as monster_name, but attracts up to 5 creatures.</td>
+    <td>Same as Horrabbit, but attracts up to 5 creatures.</td>
   </tr>
   <tr>
     <th>Lv</th>
@@ -3759,7 +3759,7 @@ Element Order
     <td>1000</td>
     <td>170</td>
     <td>0%</td>
-    <td>Same as monster_name, but heals 60 HP.</td>
+    <td>Same as Twinkle Bird, but heals 60 HP.</td>
   </tr>
   <tr>
     <th>Lv</th>

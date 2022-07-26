@@ -303,7 +303,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
       <td>-</td>
     </tr>
     <tr>
-      <td class="highlightLightblue"><a href="#item_name">Crescent Katana</a></td>
+      <td class="highlightLightblue"><a href="#crescent-katana">Crescent Katana</a></td>
       <td class="highlightYellow">Lunar Sword</td>
       <td>13</td>
       <td>99</td>
@@ -465,7 +465,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer 4: The Eye of 
       <td>Enriching</td>
       <td>L3: HP+5<br/>L6: HP+10<br/>L8: HP+15</td>
       <td>127,000</td>
-      <td><a href="/items/shields#item_name">item_name</a><br/>(resonance_effect)</td>
+      <td>-</td>
     </tr>
     <tr>
       <td class="highlightLightblue"><a href="#kamina's-sword">Kamina's Sword</a></td>
