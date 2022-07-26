@@ -834,7 +834,7 @@ There are a few methods you can use to collect wood, iron, or poison arrows.<br/
 ##### Use Boy Carts
 
 - Strong shield (Early Game)
-    - HP regenerates quickly when max HP is low, so equip a shield with 10+ defense and step in place<br/>while Boy Cart or Cross Cart shoot arrows at you, then collect the arrows that miss (84% accuracy).
+    - HP regenerates quickly when max HP is low, so equip a shield with 10+ defense and step in place<br/>while Boy Cart or Cross Cart shoots arrows at you, then collect the arrows that miss (84% accuracy).
     - If your HP gets low, enter a hallway to regenerate HP.
     - Poison Arrow or Poison Grass can make up for lower defense.
     - Can obtain about 1 stack of arrows if done until the wind blows, but it depletes a lot of fullness.

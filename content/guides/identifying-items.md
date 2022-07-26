@@ -175,6 +175,9 @@ Scrolls that have you select an item should be used on a secondary weapon or shi
 
 It's possible to check if a scroll is a selection-based scroll without consuming the item by attempting to read it<br/>at night without a light source, or while Shiren is afflicted with Blind status. (Blind Trap, Squid King, etc.)
 
+Some like to name unknown selection-based scrolls along the lines of "?As", "?Bs", and so on.<br/>
+※ It's not safe to name them as 500G price range scrolls until after Identify Scroll has been identified.
+
 #### Price
 
 |Buy|Sell|Scrolls|Notes|

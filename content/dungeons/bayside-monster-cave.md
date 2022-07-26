@@ -106,7 +106,7 @@ It tests identification, synthesis, collecting arrows, rushing stairs, and other
 
 ### Before Entering
 
-It's strongly recommended to register useful scrolls to the Blank Scroll list.<br/>These include Extinction, Eradicate, Mon House, Desert, and Lost.
+It's strongly recommended to register the following to the Blank Scroll list:<br/>Extinction, Eradicate, Mon House, Desert, and Lost.
 
 Keeping the storehouse at 80/80 makes it easier to discern between Mailing Pot and Black Hole Pot.<br/>However, Mailing Pot can only be found as a shop table item or inside walls early on, so it's not necessary.
 
@@ -121,9 +121,9 @@ Mixers drop eaten items if you make them slip, but doing so doesn't reset its ea
 
 #### Item Identification
 
-Eaten items will be identified if synthesis succeeds.<br/>Unlike Shiren 5, the unidentified items must be thrown before equipment.
+Eaten items will be identified if synthesis succeeds.<br/>※ Unlike Shiren 5, the unidentified items must be thrown before equipment.
 
-For this example, Green Grass is Herb:
+Example - Green Grass is Herb:
 
 - Green Grass → Dotanuki = Dotanuki (HP+5), Herb <span class="blueText">is</span> identified.
 - Dotauki → Green Grass = Dotanuki (HP+5), Herb <span class="redText">is not</span> identified.
@@ -132,7 +132,7 @@ For this example, Green Grass is Herb:
 
 The resulting item takes on the state of the last item thrown, including identified state.
 
-For this example, the unidentified staff is Paralysis Staff \[4\]:
+Example - Unidentified staff is Paralysis Staff \[4\]:
 
 - Paralysis Staff \[?\] (sealed) → Paralysis Staff \[6\] (blessed) = Paralysis Staff \[10\] (blessed)
 - Paralysis Staff \[6\] (blessed) → Paralysis Staff \[?\] (sealed) = Paralysis Staff \[?\] (sealed)
@@ -150,9 +150,9 @@ So to prevent accidents, it's best to use 2 Mixers instead:
 1. Katana (1 open rune slot) → Dragon Grass = Katana (Anti-Dragon)
 2. Katana (Anti-Dragon) → Shoddy Dirk+3 = Katana+3 (Anti-Dragon)
 
-Remember, all secondary items are synthesized onto the first item:
+Remember, all secondary items are synthesized into the first item:
 
-- Weapon → Grass → Shield → Grass = Both grasses are synthesized onto the weapon.
+- Weapon → Grass → Shield → Grass = Both grasses are synthesized into the weapon.
 
 #### Other Notes
 
@@ -163,67 +163,23 @@ Eaten items will not vanish if a Mixer levels up, levels down, or disappears due
 
 ### Identifying Items
 
-See [Identifying Items](/guides/identifying-items) for the basics.
-
-Always found identified: Water Pot, Oil Pot, Blank Scroll, Escape Scroll, bananas, arrows, rocks
-
-Cursed equipment and negative effect items are generally on the uncommon side,<br/>so don't worry about them too much early on - start to be on guard from around mid game.
-
-#### Identify Scroll / Identify Pot Priority
-
-- Identify Scroll: Pots &gt; Bracelets &gt; Scrolls &ge; Grass
-- Identify Pot: Bracelets &gt; Scrolls &ge; Grass
-
-It goes without saying, but only use the above priority as a guideline, not as a hard rule.
-
-- Consider the runes you've synthesized, difficulty of identification, and the item's potential value.
-- If you've already identified key items, prioritize staves / check for seals on Revival Grass or Heal Pot.
+See [Identifying Items](/guides/identifying-items) for an in-depth guide.
 
 #### N'mach and N'dup
 
-N'mach (31-40F) and N'dup (61-80F) can't be revealed using an Identify Scroll or Identify Pot.<br/>
+Disguised N'mach (31-40F) and N'dup (61-80F) can't be revealed using an Identify Scroll or Identify Pot.<br/>
 Only use items you can trust 100% in situations where you can't afford to make a mistake.
-
-#### Naming Items
-
-The standard approach is to name unidentified items based on their price.
-
-For this example, say you have 3 scrolls worth 800 Gitan:
-
-- First scroll → 8A
-- Second scroll → 8B or 88
-- Third scroll → 8C or 888
-
-#### Weapons, Shields
-
-It's fine to ignore the risk of equipping cursed equipment near the start of the run.<br/>Keep items that have high upgrade value for synthesis, provided they don't have an unwanted rune.<br/>
-Don't equip unidentified items from mid game onward unless you have a way to unequip cursed items.
-
-If you equip a cursed item, use Strip Trap or selection-based scrolls.
-
-- Heaven, Earth, Fixer, Plating, and Banana scrolls can be used to unequip a cursed item.
-- Save Purify Scroll in case a pot gets sealed by a Curse Girl or Curse Trap.
 
 #### Bracelets
 
-It's possible to test for status condition prevention bracelets by stepping on traps.<br/>
-For the most part, the best bracelets can be identified as soon as the bracelet is equipped,<br/>so some prefer to use Identify Scroll or Identify Pot on other categories.
-
-Easy to identify and useful:
-
-- Strength, Heal, Happy, Scout, Wall Clip, Pierce, Identify, Monster Detector, Item Detector
-
-Harder to identify and useful:
-
-- Alert, Cleansing, Calm, Holy, Bad Aim, Strider
+The best bracelets (Heal, Wall Clip, Monster Detector) cost 5000 Gitan and can be identified easily,<br/>so go ahead and equip any bracelets you find on the ground early on to check for these bracelets.
 
 ##### Price Notes
 
 5000 / 1750
 
 - Heal, Wall Clip, Monster Detector
-    - Best bracelets in this price range.
-    - Test for Wall Clip by attacking a monster through a room entrance corner.
+    - Best bracelets in this price range - Test for Wall Clip by attacking through a corner.
 - Warp, Explosion
     - Dangerous if equipped inside a shop, but never sold in shops.
 - Strider, Alleyway
@@ -232,8 +188,7 @@ Harder to identify and useful:
 2000 / 700
 
 - Strength, Pierce, Bad Aim
-    - 2000 G bracelets are always one of these 3 bracelets.
-    - Easy to tell by equipping and shooting an arrow or throwing an item.
+    - Easily identified by equipping and shooting an arrow or throwing an item.
 
 #### Grass
 
@@ -250,16 +205,15 @@ If your inventory is full and you haven't found a shop, it's fine to eat some gr
 - Warp (<span class="greenText">Anti-Floating</span>), Antidote (<span class="greenText">Anti-Drain</span>)
     - High priority runes.
     - Consider saving Antidote Grass until after 14F instead of synthesizing it if you lost strength.
-- Orogiriso (<span class="greenText">HP+10</span>)
-    - Check for this by synthesizing the grass onto a second weapon, and don't add it to your main weapon.
+- Otogiriso (<span class="greenText">HP+10</span>)
+    - Check for this by synthesizing the grass into a second weapon, and don't add it to your main weapon.
 - Poison
-    - Mutaikon (9-11F) always drops this grass.
+    - Grass dropped by Mutaikon (9-11F) is always this grass.
 
 300 / 105 --- 8 Types
 
 - Sight (<span class="greenText">Anti-Cyclops</span>), Dizzy (<span class="greenText">Confusing</span>), Blind (<span class="greenText">Blinding</span>)
-    - Low priority runes.
-    - It's not worth using Identify Scroll or Identify Pot on grasses in this price range.
+    - Low priority runes - Not worth using Identify Scroll or Identify Pot on grasses in this price range.
 
 500 / 175 --- 5 Types
 
@@ -273,9 +227,9 @@ If your inventory is full and you haven't found a shop, it's fine to eat some gr
 
 #### Scrolls
 
-Generally, you won't have the inventory space to carry lots of unidentified scrolls,<br/>so read scrolls while standing on the stairs once you're ready to advance to the next floor.<br/>Reading scrolls right before advancing makes negative effect scrolls a non-issue for the most part.<br/>(Examples: Grounded, Muzzled, Attraction, Trap, Mon House)
+Generally, you won't have the inventory space to carry lots of unidentified scrolls,<br/>so read scrolls while standing on the stairs once you're ready to advance to the next floor.<br/>Reading scrolls right before advancing makes most negative effect scrolls a non-issue.<br/>(Grounded, Muzzled, Attraction, Trap, Mon House, etc.)
 
-However, it's best to read scrolls while standing on a room entrance tile instead of the stairs between 1-3F.<br/>If it's a Mon House Scroll, you'll have an easier time wiping out enemies and collecting items + arrows from traps,<br/>and Special Monster Houses can't be generated on 1-3F, so there's little risk of losing your run.
+However, read scrolls while standing on a room entrance tile instead of the stairs between 1-3F.<br/>If it's a Mon House Scroll, you'll have an easier time wiping out enemies, collecting items, and utilizing traps.<br/>Special Monster Houses can't be generated on 1-3F, so there's little risk of losing your run.
 
 It's true that Desert Scroll (<span class="greenText">Anti-Aquatic</span>) and Lost Scroll (<span class="greenText">Bored</span>) provide top priority runes,<br/>but given the low chance of finding them, it's better to use inventory space for grass and equipment instead.<br/>That said, some players still prefer to use Identify Scroll and Identify Pot on scrolls instead of grasses.
 
@@ -289,7 +243,7 @@ Some like to name unknown selection-based scrolls along the lines of "?As", "?Bs
 
 #### Staves
 
-All staves except Fortress Staff can be generated on the ground starting from 1F in this dungeon.<br/>Swing staves to identify them right away, including testing whether or not they're sealed.<br/>Staves are one of the few reliable options thanks to magic bullets having 100% accuracy,<br/>so it's important to have them in a state where they can be utilized at any time.
+All staves except Fortress Staff can be found on the ground starting from 1F in this dungeon.<br/>Swing staves to identify them right away, including testing whether or not they're sealed.<br/>Staves are one of the few reliable options thanks to magic bullets having 100% accuracy,<br/>so it's important to have them in a state where they can be utilized at any time.
 
 Synthesize staves to save inventory space and identify remaining use counts.
 
@@ -303,7 +257,7 @@ It's best to insert items into unidentified pots while standing on the stairs in
 
 The standard first action is to insert an unidentified item that you don't mind losing<br/>such as a named but still unidentified talisman, Herb, or negative effect item.<br/>This identifies <span class="greenText">Storage</span>, <span class="greenText">Presto</span>, <span class="greenText">Sale</span>, <span class="greenText">Identify</span>, <span class="greenText">Sticky</span>, and <span class="greenText">Black Hole</span> pots.
 
-If the pot has a capacity of 2, insert an identified item - excluding talismans, rocks, arrows.<br/>This identifies <span class="greenText">Curse</span> (became sealed), <span class="greenText">Black Hole</span> (vanished), and <span class="greenText">Purify</span> (no change) pots.<br/>※ Elite or Pick-A-Choice shop → Insert an identified weapon or shield to check for <span class="greenText">Blessing</span>, <span class="greenText">Upgrade</span>, <span class="greenText">Degrade</span> pots.
+If the pot has a capacity of 2, insert an identified item - excluding talismans, rocks, arrows.<br/>This identifies <span class="greenText">Curse</span> (became sealed), <span class="greenText">Black Hole</span> (vanished), and <span class="greenText">Purify</span> (no change) pots.<br/>※ Elite or Pick-A-Choice → Insert an identified weapon or shield to check for <span class="greenText">Blessing</span>, <span class="greenText">Upgrade</span>, <span class="greenText">Degrade</span> pots.
 
 Open type pots include <span class="greenText">Heal</span>, <span class="greenText">Zalokleft</span>, and <span class="greenText">Monster</span> pots.<br/>Open them in a hallway or while standing on the stairs in case it's a Monster Pot.<br/>If you find a Heal Pot, open it 1 time when you're not in danger to check if it's real and usable.
 
@@ -346,8 +300,7 @@ If the above steps didn't result in an identified pot, it's best to wait for a s
 6900 / 2415
 
 - Synthesis
-    - The only pot in this price range.
-    - Unlike Shiren 5, it can be found with less than 5 capacity.
+    - The only pot in this price range - Unlike Shiren 5, it can be found with less than 5 capacity.
 
 ### Equipment
 
@@ -360,7 +313,7 @@ Shiren 4 is balanced around avoiding damage, so weapon strength and runes are im
 <ul>
   <li><span class="redText">Red Blade</span>
     <ul>
-      <li>Strongest 2 bracelet resonance sword on paper, but slow growth rate and low starting rune slots.<br/>Synthesize runes onto a second weapon, then merge that into the Red Blade once it's leveled up.</li>
+      <li>Strongest 2 bracelet resonance sword on paper, but slow growth rate and low starting rune slots.<br/>Synthesize runes into a second weapon, then merge that into the Red Blade once it's leveled up.</li>
     </ul>
   </li>
   <li><span class="redText">Meteor Edge</span>
@@ -622,7 +575,7 @@ Monster Detector, Wall Clip Bracelet, and Heal Bracelet are the "Sacred Treasure
     <ul>
       <li>Lets you move through walls, but take 10 damage per turn while inside a wall.</li>
       <li>Converts any trading hits situation against a powerful monster to 10 damage per turn.</li>
-      <li>That said, the real value of this bracelet is having a one-sided fight by moving and attacking through corners.</li>
+      <li>The real value of this bracelet is having a one-sided fight by moving and attacking through corners.</li>
     </ul>
   </li>
   <li><span class="redText">Heal Bracelet</span>
@@ -1244,15 +1197,69 @@ This list is roughly ordered in highest to lowest priority for talismans worth c
 
 ### Farming
 
+<p><span class="redText">Farming techniques are time-consuming, so they're only recommended once you've mastered the basics.</span><br/>Otherwise, they're basically a waste of time because you'll still collapse in common spots due to inexperience,<br/>and the time spent performing these techniques could've been used to play normally and learn from mistakes.</p>
+
 #### Collect Arrows
+
+##### Arrow Traps
+
+Wood and poison arrow traps can appear between 2\~10F, and iron arrow traps can appear between 5\~10F.<br/>You could walk along walls in rooms to check for arrow traps, but that depletes too much fullness,<br/>so only check for arrow traps if you encounter a Monster House.
+
+- Blank Scroll or Mon House Scroll can be used.
+    - Keep in mind that Special Monster Houses can appear starting from 4F.
+
+##### Boy Cart / Cross Cart
+
+Utilize Boy Cart (6\~8F) and Cross Cart (9\~10F) to collect arrows.<br/>
+HP regenerates quickly when max HP is low, so equip a shield with high defense and step in place<br/>while Boy Cart or Cross Cart shoots arrows at you, then collect the arrows that miss (84% accuracy).<br/>※ This method becomes less viable if you hunt a Gitan Mamel to level up.
+
+- If your HP gets low, enter a hallway to regenerate HP.
+- Poison Arrow or Poison Grass can make up for lower defense.
+- Can obtain about 1 stack of arrows if done until the wind blows, but it depletes a lot of fullness.
+- Set <span class="blueText">Walk</span> to Fast in Game Settings 2 to increase efficiency.
+- A shield with \~19 defense ensures you only take 1 damage from Cross Cart.
 
 #### Banana Morph Factory
 
+See [Banana Morph Factory](/guides/tips-and-tricks#banana-morph-factory) for an explanation.
+
+- Perform on 4\~5F instead of 6\~7F to avoid Field Knaves.
+- Can be performed on 28\~30F as well, but it's far more dangerous.
+
 #### Maneater Hunting
+
+See [Maneater Hunting](/guides/tips-and-tricks#maneater-hunting) for an explanation.
+
+- Easy to perform on 6\~7F.
+    - Collect arrows from Boy Cart, then have Field Knave turn them into Weeds to linger.
+    - Use Banana Peels and arrows to safely defeat Maneaters.
 
 #### Doomhead & Crashdon Hunting
 
+See [Level Up Monsters](/guides/tips-and-tricks#level-up-monsters) for methods.
+
+- Ironhead (7\~11F, 6500 exp) - Collect arrows from Boy Cart or Cross Cart beforehand.
+- Zapdon (15\~19F, 6000 exp) - High defense, so use fixed damage like Rocks to weaken it.
+
 #### Cheating at Pick-A-Choice (One-Choice Shop)
+
+See [Always Win Pick-A-Choice](/guides/tips-and-tricks#always-win-pick-a-choice) for an explanation.
+
+##### Pick-A-Choice Items
+
+- Items with blue names are Elite Shop, Pick-A-Choice Shop, or Shiny Object (blue) exclusive items.
+
+<br/>
+
+|Category|Items|
+|-|-|
+|Weapon|Meteor Edge, Red Blade, Kabura's Blade, Hatchet, Breeze Blade, Burning Blade, Shoddy Dirk|
+|Shield|Meteor Guard, Red Shield, Fuuma Shield, Lizard Shield, Spry Shield, Shoddy Plank|
+|Bracelet|<span class="blueText">Scout</span>, Heal, <span class="blueText">Identify</span>, Pierce, Holy, Happy, <span class="blueText">Bind</span>|
+|Grass|<span class="blueText">Undo</span>, Revival, Invincible, <span class="blueText">Amnesia</span>, <span class="blueText">Angel</span>, <span class="blueText">Unlucky</span>, <span class="blueText">Disaster</span>, <span class="blueText">Imabikiso</span>|
+|Scroll|Blank, <span class="blueText">Extinction</span>, <span class="blueText">Eradicate</span>, Pot God, Sanctuary|
+|Pot|Heal, Synthesis, <span class="blueText">Blessing</span>, <span class="blueText">Upgrade</span>, <span class="blueText">Degrade</span>|
+|Other|<span class="blueText">Fortress Staff</span>, Grilled Banana, Chocolate Banana|
 
 # Floor Guide
 
