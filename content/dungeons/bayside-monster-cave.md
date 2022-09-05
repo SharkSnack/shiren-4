@@ -1263,37 +1263,233 @@ See [Always Win Pick-A-Choice](/guides/tips-and-tricks#always-win-pick-a-choice)
 
 # Floor Guide
 
-### General
-
 ### 1-5F
+
+HP regenerates quickly early on, so you shouldn't struggle much.<br/>Keep an eye out for synthesis ingredients and equipment with positive upgrade value.<br/>If you find a Blank Scroll on 1-3F, consider writing Mon House Scroll on it to obtain more items.
+
+Pick-A-Choice shops can be generated on 2-3F, so it's best to swap Gitan with inventory items.<br/>
+If you read a Fixer Scroll when your wallet is at 0G, you'll gain enough Gitan to play Pick-A-Choice a few times.<br/>There's also the benefit of defeating Cave Mamel by throwing Gitan, if an unidentified staff was a Happy Staff.
+
+Landmines and Spoil Trap can be generated starting on 4F, so bananas might become grilled or spoiled.<br/>Insert Ripe Bananas into pots to protect them - Use Purify, Identify, or Zalokleft if you haven't found Storage.
+
+Grilled Bananas restore 40 HP and should be used before Heal Grass, Fixer Scroll, or Heal Pot.<br/>Don't grill all of your bananas - They only replenish 60 fullness, and you don't want to starve.
+
+If you're feeling adventurous, level up a Pit Mamel into a Gitan Mamel and defeat it using Gitan or a rock.<br/>However, increasing max HP slows down HP regeneration speed, so you'll have a harder time collecting arrows<br/>from Boy Cart (6-8F) or Cross Cart (9-10F) if you do this.
 
 ### 6-10F
 
+Field Knave (6-7F), Boy Cart (6-8F), Ironhead (7-11F), Snacky (8-9F), Cheer Ham (8-10F), Mutaikon (9-11F), etc.
+
+Check rooms quickly on Field Knave (6-7F) floors instead of lingering in a single room.<br/>If you have unneeded items, place them on the ground and have Field Knave turn them into Weeds.<br/>Weeds lack a special effect, but still replenish 5 fullness like any other grass item.
+
+If you have a strong shield, collect arrows from Boy Cart (6-8F) by intentionally getting hit by its attacks.<br/>It's a slow method, but arrows are great to have on hand, so it's usually worth the trouble.<br/>You can replenish fullness at the same time by having Field Knave turn single arrows into Weeds.
+
+If you find a shop, check prices of grasses and srolls in preparation for Mixer (12-14F) floors.<br/>Pierce Bracelet is great for Monster Houses, Shine Birds, and Mesmerikons, so don't discard it if you find one.<br/>Alert Bracelet protects against Sleep Traps and Dozikons (63-65F), so it's worth keeping it equipped.<br/>Cleansing Bracelet can be used to replenish fullness using Mutaikon (9-11F).
+
+Consider throwing Extinction Scroll at Mutaikon if you find a Blank Scroll to make higher level ones a non-issue.<br/>Line 2 of them up before throwing it in case it misses, and 9F is best to avoid Crow Tengu (10-11F).
+
+Maneaters (100 exp, 30 skill points) can be hunted after 1500 turns - Use Banana Peels and arrows.<br/>It's easy to linger on 6-7F thanks to Boy Cart and Field Knave, but beware of Maneaters with auras.
+
+Doomhead (6500 exp, 500 skill points) is a juicy target, but can be tricky to defeat safely.<br/>Level up an Ironhead (7-11F), then use items like Banana Peel or Slow Staff.
+
 ### 11-14F
+
+Explochin (11-13F), Yanpii (11-15F), Mixer (12-14F), Scorpion (12-14F), Porky (12-16F), Gyadon (14-16F), etc.
+
+This floor range is usually the first notable wall of the dungeon for newer players.<br/><span class="redText">The most important thing is to avoid Explochin's blast, which reduces your current HP to 1.</span><br/>Hitting it 2 times with a weapon that lacks a type-effective rune generally makes it explode.
+
+HP regeneration speed is usually slow by this point, so it's hard to regroup from 1 HP without items.<br/>If you don't use Grilled Bananas or other HP recovery items, it often ends up being a death sentence,<br/>since Yanpii or Porky special attacks can one-shot you when you have 20 or less HP - so don't be stingy.
+
+Explochin has 62 HP, stops acting after 35 damage, and explodes after 50 damage if it's not defeated.<br/>If your attacks deal \~25 damage, either throw rocks or unequip your weapon to ensure safety.
+
+Yanpii (11-15F) can charge at you in a straight line, dealing 20 damage and knockback.<br/>Use the <span class="blueText">Scout</span> command if you see a red dot in the room on the map that's outside your view.<br/>Porky (12-16F) deals less damage with its direct attack than its special attack, so step toward it.
+
+Mixers (12-14F) provide a chance to synthesize equipment - Unequip Pierce Bracelet before throwing items.<br/>Prioritize <span class="greenText">Anti-Aquatic</span> (Desert Scroll), <span class="greenText">Anti-Floating</span> (Warp Grass), and status inflicting runes for your weapon.<br/>It might be worth keeping some rune slots open in case you find Hatchet or Breeze Blade.
+
+Scorpion (12-14F) appears after Mutaikons, so wait until 15F to use Antidote Grass if you lost strength.<br/>Insert staves into pots before descending past 13F to avoid losing them to Gyadon (14-16F).
 
 ### 15-19F
 
+Spin Polygon (15-17F), Zapdon (15-19F), Dagger Bee (16-20F), Flamepuff (17-19F), Beanie (19-22F), etc.
+
+This floor range should be easier than the previous if you managed to synthesize some runes.<br/>Zapdon hits hard, so it's best to keep your HP up when entering hallways without a Monster Detector.<br/>Spin Polygon's special attack is annoying, but not exactly life threatening, so it's not worth using items.<br/>Flamepuff can be used to grill bananas.
+
+If you have a Happy Staff, hunt Flashdon (3000 exp, 400 skill points) or Crashdon (6000 exp, 600 skill points).<br/>Crashdon has high defense, so throw rocks to weaken it first, then finish it off with a direct attack.<br/>Don't forget to eat Growth Seed beforehand if you have one on hand.
+
 ### 20-24F
+
+Go Ham (20-21F), Pop Tank (20-22F), Gyaza (20-26F), Sr. Yanpii (21-24F), Dragon (21-25F),<br/>Lime Zalokleft (22-24F), Curse Sister (23-25F), Big Chintala (23-26F), etc.
+
+#### General
+
+This floor range is the second wall of the dungeon.<br/>Lots of power type monsters appear, and Go Ham can buff their already high attack power from behind.<br/><span class="redText">The key to surviving is to avoid damage as much as possible, rather than trading hits.</span>
+
+Gyaza (20-26F) negates most non-direct attacks, so you'll likely end up having to trade hits with it.<br/>Items that heal HP or boost stats are effective, along with <span class="greenText">Anti-Aquatic</span>, <span class="greenText">Critical</span>, and status inflicting runes.<br/>If you don't have such runes or a Wall Clip Bracelet, it's best to hurry through these floors.
+
+Dragon (21-25F) has 80 HP and higher attack power than Gyaza, so use items instead of trading hits.<br/>Dragons are often generated napping, so consider ignoring them if they're not an immediate threat.<br/>If your equipment isn't strong, you might need upwards of 4 direct attacks to defeat it.<br/>Banana Peels are effective, along with projectiles if there's distance in a hallway.
+
+The situation is undoubtedly bad if you have to step in place or use HP restoring items after each encounter,<br/>so in that case rush stairs until 25F instead of checking rooms for items or shops.
+
+If you have powerful bracelets and can handle the power types, hunt Lime Zaloklefts (22-24F) for items.<br/>Sr. Yanpii (21-24F) can knock you into a wall if you have Wall Clip Bracelet, so remember to <span class="blueText">Scout</span> in rooms.
+
+Use arrows, talismans, and staves against power types like Dragons and Sr. Yanpii to reduce damage taken.<br/>Heal Bracelet, Grilled Bananas, and Heal Pot should be used as needed, but if you're constantly using them,<br/>it's proof that you aren't utilizing other resources to avoid damage in the first place - Play more carefully.
+
+#### HP Strategy
+
+A backup plan for when you don't have <span class="greenText">Anti-Aquatic</span>, Scout Bracelet, Monster Detector, or Wall Clip Bracelet.<br/>The idea is to boost max HP and spend HP trading hits with Gyaza while avoiding damage from other monsters.
+
+HP regeneration slows down as your max HP increases, so raising max HP isn't a strict advantage.<br/>However, HP regeneration speed reduction caps out early at 135 HP (0.5 HP per turn) so it's not a big deal,<br/>and high max HP also has the benefit of boosting the effectiveness of Heal Grass and Heal Pot.
+
+Synthesize <span class="greenText">HP+15</span> (Heal Grass) and <span class="greenText">HP+20</span> (Life Grass) into both your weapon and shield to boost max HP.<br/>Example: Meteor Edge (HP+10, HP+15) and Meteor Guard (HP+10, HP+15, HP+20) = +70 max HP.
+
+Use Growth Bracelet or hunt Gitan Mamel, Maneaters, Doomhead, Flashdon and such to level up.<br/>On a good run, you can reach Lv30, 210 max HP, and Lv5 for your weapon and shield before arriving on 20F.<br/>It will likely still take around 3 hits to defeat Gyaza, but these stats usually let you at least trade hits.<br/>Try to maintain at least 80 HP at all times, and don't fight Gyaza when your HP is low.
 
 ### 25-28F
 
+Mixermon (25-27F), Grime (25-27F), Concusschin (26-28F), Eligan (26-30F), MC Mage (27-29F),<br/>Glare Bird (27-30F), Banana Morph (28-30F), Pumphantom (28-32F), etc.
+
+Mixermon (25-27F) provides a 2nd chance to synthesize equipment.<br/>The <span class="greenText">1/2 Fire</span> (Dragon Grass) and <span class="greenText">1/2 Blast</span> (Blast Shield or Bomb Rock) shield runes are great at this point.<br/>Lizard Shield should be leveled as a secondary shield for Archdragons (82-87F) instead of being synthesized.<br/>Likewise, keep Steady Shield as a secondary shield for Horrabbits (60-62F) instead of synthesizing it.
+
+<p><span class="redText">Eligan (26-30F) is extremely powerful, so DO NOT trade hits with it.</span><br/>Attack power comparison: Mixermon (26), Gyaza (36), Dragon (45), Eligan (<span class="redText">60</span>)<br/>It also has roughly the same defensive stats as Dragon (78 HP, 23 defense), but lacks a type-effective weakness.<br/>Consider synthesizing with Mixermons on 25F before Eligan appears.</p>
+
+Monsters with troublesome special attacks like MC Mage (27-29F) and Glare Bird (27-30F) appear.<br/>It's generally easier to navigate than the previous Gyaza and Dragon floors, but don't let your guard down.<br/>Throw rocks or unequip your weapon to prevent Concusschin (26-28F) from exploding,<br/>and finish it off with projectiles after it stops moving to avoid Glare Bird healing it.
+
+Use items like Seal Staff or Paralysis Staff against Banana Morph (28-30F) to avoid item loss.<br/>It's possible to perform [Banana Morph Factory](/guides/tips-and-tricks#banana-morph-factory) if you're low on food, but it's quite risky.
+
 ### 29-35F
+
+Chainhead (29-33F), Demon Scorp (30-32F), Super Gazer (31-32F), Grampa Tank (31-35F),<br/>N'mach (31-40F), Digestiphant (31-35F), Voltdon (33-37F), Porko (34-36F), etc.
+
+Chainhead (29-33F) and Grampa Tank (31-35F) make it hard to utilize <span class="greenText">Tri-direction</span> and Wall Clip Bracelet.<br/>You'll receive less damage if you fight Chainhead from inside a wall if you have a Wall Clip Bracelet.<br/>Use items against Grampa Tank if you don't have <span class="greenText">1/2 Blast</span> - If it levels up, use Paralysis or Transient staves.
+
+Stepping on a Sleep Trap near either of them will likely end your run, so don't take needless steps.<br/>If you're running low on healing items, it's probably best to rush stairs.
+
+Digestiphant (31-35F) can be a problem in Monster Houses or if you step on a Summon Trap,<br/>but they only have 48 HP so you can usually one-shot them if you have <span class="greenText">Anti-Drain</span>.
+
+<p><span class="redText">N'mach (31-40F) won't reveal itself until you attempt to use the item.</span><br/>Items you find between 31-40F should be handled in specific ways to avoid accidents.<br/>Pot, Staff, Equipment: Insert/Open the pot 1 time, swing the staff 1 time, or equip the item near a Strip Trap.<br/>Grass, Scroll, Banana: Use the item, or insert it into a Storage Pot labeled "Item Seal" so you know there's risk.<br/>※ Identify Scroll and Identify Pot <span class="redText">will not</span> reveal a disguised N'mach.</p>
 
 ### 36-40F
 
+N'mach (31-40F), Scarabbit (36-38F), Steamroid (36-40F), Crunchy (37-39F), Blazepuff (39-41F), etc.
+
+Generally easier floor range where you can stock up on items.<br/>Crunchy (37-39F) drops shop table items, which are generally higher quality than floor table items.<br/>Have Steamroid (36-40F) create a Spoil Trap, then use projectiles until they miss to obtain Spoiled Bananas,<br/>which can then be turned into Grilled Bananas by Blazepuff (39-41F).
+
+Voltdon (33-37F) hits hard, so consider shooting arrows in hallways if you don't have a Monster Detector.<br/>Scarabbit (36-38F) overlaps with Crunchy on 37-38F, so rush stairs if one levels up into a Horrabbit.
+
+Remember, N'mach (31-40F) is still around - Don't neglect to organize the items you find accordingly.
+
 ### 40-46F
+
+Lt. Yanpii (40-42F), Killer Gyaza (41-46F), Ooze (42-49F), Spongiderm (43-45F), Katana Bee (44-49F), etc.
+
+Lots of power type monsters, so you'll want to avoid damage as much as possible.<br/>Killer Gyaza (41-46F) is easy if you have Wall Clip Bracelet or Heal Bracelet, and Power Up Grass<br/>and Swift Grass are also effective, along with paralyzing or slowing an enemy to block the gyaza.
+
+Ooze (42-49F) can erase runes, so it's best to unequip your weapon and shield before fighting it.<br/>Monster Detector or Scout Bracelet lets you see incoming Oozes in hallways, making them far less of a threat.
+
+Katana Bee (44-49F) can deal 100+ damage with its special attack even with a shield with 30 defense or so.<br/>It only has 57 HP though, so rocks and arrows are very effective against it.
+
+Elite shops start to appear from here. Unlike Pick-A-Choice shops, Item Detector can be used to locate them.<br/>Merchandise is usually expensive, and Invitations are rare, so you often have to steal if you want the items.<br/>Use items like Swift Grass, Tunnel Staff, Pinning Staff, Swap Staff, Black Hole Pot, etc.
 
 ### 47-53F
 
+Katana Bee (44-49F), Pandanigiri (46-50F), Mixergon (47-49F), Squid Emperor (49-51F), Sky Dragon (50-52F),<br/>Tiger Chucker (50-53F), Curse Mom (51-53F), Eligagan (52-58F), etc.
+
+Mixergon (47-49F) provides a 3rd chance to synthesize items.<br/>It's best to finish leveling equipment and synthesize any remaining runes on these floors.<br/>MC Wizard and Hyper Gazer floors are coming up soon, so <span class="greenText">Magic Damage</span> and <span class="greenText">Anti-Hypno</span> are nice.<br/>Pandanigiri (46-50F) has a 4% chance to drop Onigiri, making it easier to linger and hunt monsters.<br/>Remember to combine staves to free up inventory space.
+
+Tiger Chucker (50-53F) can throw Curse Mom (51-53F) or Sky Dragon (50-52F) at you, so don't drop your guard.<br/>Holy Bracelet and <span class="greenText">1/2 Fire</span> usually makes it safe enough to check rooms for items.
+
+<p><span class="redText">Banana Trap can be generated starting on 51F, and can easily end a run if you step on it near an enemy.</span><br/>To make things worse, you can't descend stairs as a banana, and fire or explosion damage one-shots you.<br/>Consider saving Sight Grass and Trap Erase Scroll for Monster Houses and Archdragon floors.</p>
+
 ### 54-59F
+
+Eligagan (52-58F), MC Wizard (54-57F), Oingodile (54-59F), Munchy (55-56F), Item Knave (56-58F),<br/>Vexing Kappa (57-59F), Porkon (58-60F), Gigahead (58-64F), Hyper Gazer (59-61F), etc.
+
+Rush stairs on MC Wizard (54-57F) floors if you don't have the <span class="greenText">Magic Damage</span> rune on your shield.<br/>Berserk status forces you to approach power types like Eligagan with direct attacks, often resulting in a collapse.<br/>Always <span class="blueText">Scout</span> inside rooms, and avoid being lined up with MC Wizard - Use Dispel Aura Scrolls if you have them.
+
+Munchy (55-56F) has the potential to cause accidents if a monster defeats it and levels up.<br/>It has a 100% drop rate for a shop table item, so hunt any that you see.
+
+Item Knave (56-58F) and Vexing Kappa (57-59F) hinder item collection, so it's best to rush stairs until 59F.<br/>Pots are likely to shatter when knocked away by an Item Knave's special attack, so avoid being lined up with it.<br/>Fight Gigahead (58-64F) from inside a wall if you have a Wall Clip Bracelet to reduce damage.<br/>Porkon (58-60F) can throw Porky Rocks within a 6 tile radius.
+
+Horrabbit (60-62F) is up next, so if you have a Steady Shield, equip it before descending past 59F.
 
 ### 60-67F
 
+Hyper Gazer (59-61F), Horrabbit (60-62F), Twinkle Bird (62-64F), Dozikon (63-65F), Iron Zalokleft (65-67F),<br/>Ornery Tank (65-67F), Gyandora (66-71F), N'dup (61-80F), etc.
+
+Highly recommended to rush stairs.
+
+Particularly dangerous monsters, along with items that counter them:
+
+- Hyper Gazer (59-61F) --- <span class="greenText">Anti-Hypno</span> (Gazer Guard)
+- Horrabbit (60-62F) --- <span class="greenText">Unmoving</span> (Steady Shield)
+- Dozikon (63-65F) --- Alert Bracelet, Cleansing Bracelet
+- Ornery Tank (65-67F) --- <span class="greenText">1/2 Blast</span> (Blast Shield)
+
+Horrabbit (60-62F) can warp you and other monsters to itself from anywhere on the floor.<br/>If you become surrounded by monsters, use items like Confusion, Slumber, or Fear scrolls to survive.<br/>There's risk of getting hypnotized by a Hyper Gazer on the same turn you warped between 60-61F,<br/>so you might want to use Invincible Grass or Black Hole Pot before you get warped on those floors.
+
+If you have a Blank Scroll and lack a Steady Shield, consider throwing an Extinction Scroll at Horrabbit on 60F.<br/>It's best to line 2 of them up using Paralysis or Transient staves in case the scroll misses.
+
+Dozikon (63-65F) appears after Horrabbit, and can throw Sleep Grass within a 3 tile radius.<br/><span class="redText">If you don't have an Alert Bracelet, use projectiles and avoid standing inside its 3 tile throwing range.</span><br/>It can't throw grass at you if you're inside a wall, so keep that in mind if you have a Wall Clip Bracelet.
+
+If you have a Blank Scroll and lack an Alert Bracelet, consider throwing an Extinction Scroll at Dozikon on 63F.<br/>This has the advantage of making Mesmerikons (90-95F) a non-issue, provided you don't throw a second scroll.<br/>It's best to line 2 of them up using Paralysis or Transient staves in case the scroll misses.
+
+Twinkle Birds (62-64F) can be hard to defeat with direct attacks if you don't have the <span class="greenText">Anti-Floating</span> rune.<br/>Their body burns projectiles without a Pierce Bracelet equipped, so use staves or the area effect of talismans.<br/>Gyandora (66-71F) can reduce a pot's capacity to 0 (contents vanish), so use items against it.<br/>Iron Zaloklefts (65-67F) can be hunted for item drops if desired.
+
+N'dup (61-80F) has an ability randomly selected from N'dubba, N'twyn, or N'mach.<br/>Treat items you find as if they might be N'mach, and note that you might be attacked when picking up an item.<br/>N'dup has high attack power, so it's best to avoid picking up or using new items if your HP is low.
+
 ### 68-81F
+
+Mixerdon (68-70F), Zanbeeto (69-73F), Boss Yanpii (70-72F), Sludge (71-80F), Hell Gyaza (72-80F),<br/>MC Sorcerer (75-77F), Curse Gramma (79-81F), etc.
+
+Mixerdon (68-70F) is the last chance to synthesize items unless you encounter a Greed House.<br/>Your equipment should be Lv8 by now, so go ahead and synthesize any beneficial runes.
+
+Hell Gyaza (72-80F) is the last floor range with Gyaza types in this dungeon.<br/>It's common to have a counter such as <span class="greenText">Anti-Aquatic</span>, <span class="greenText">Tri-direction</span>, or Wall Clip Bracelet by now.<br/>If you encounter a Hell Gyaza with an aura, use Warp Grass, Pinning Staff, or Swap Staff to escape.
+
+Rush stairs on MC Sorcerer (75-77F) floors if you don't have the <span class="greenText">Magic Damage</span> rune.<br/>It's quite common to collapse against it if it inflicts Banana and Slow status at the same time.
+
+Other threats include:
+
+Zanbeeto (69-73F) - Deals a ridiculous amount of damage with its special attack.<br/>Boss Yanpii (70-72F) - Headbutts you from across the room, which can bury you inside a wall.<br/>Sludge (71-80F) - Erases valuable weapon or shield runes.<br/>Curse Gramma (79-81F) - Curses or seals 2 items at once.
+
+While MC Sorcerer and Boss Yanpii have ranged attacks, the others can only attack when adjacent,<br/>so this floor range ends up being the last floor range where it's relatively safe to check rooms for items.<br/>The onslaught of ranged attacks starting on 82F is hard to overcome with just a Heal Bracelet,<br/>so try to conserve Heal Pot and Heal Grass as much as possible.
 
 ### 82-89F
 
+Shihan (81-83F), Kappa Troll (82-84F), Archdragon (82-87F), Osmammoth (84-86F), Porgon (86-90F),<br/>Banana Master (87-89F), Gitan Mamel (88-93F), etc.
+
+<p><span class="redText">Extremely dangerous ranged attackers appear in this floor range.</span><br/>Rush stairs using items like Decoy Staff, Pinning Staff, Swap Staff, Tunnel Staff, and Warp Grass.<br/>Navigation Scroll or Transient Staff + Monster Detector can be used to quickly locate the stairs.</p>
+
+Archdragon (82-87F) can be countered with a leveled up Lizard Shield, or <span class="greenText">1/2 Fire</span> + HP restoring items.<br/>If you don't have the above but have a Blank Scroll, consider throwing an Extinction Scroll at an Archdragon.<br/>Banana Traps are particularly lethal since you instantly collapse from fire damage as a banana,<br/>so consider using Sight Grass, Trap Erase Scroll, or perform direct attacks to check for traps.
+
+Kappa Troll (82-84F) throws items at you from anywhere on the floor, including Gitan.<br/>Leave 1 slot open in a Storage Pot to try and catch the item instead of getting hit by it.
+
+Porgon (86-90F) throws Porky Rocks within a 10 tile radius - Use Pinning Staff to close the gap.<br/>Archdragon and Porgon overlap on 86-87F, and Archdragon and Banana Master overlap on 87F.<br/>Don't try to step in place to recover HP on these floors, and ignore items on the ground.
+
+The usual is Monster Detector + Wall Clip Bracelet, but consider using <span class="strongDay">Monster Detector + Heal Bracelet</span>.<br/>Regenerating 3 HP per turn means there's a chance you can get through these floors without a Heal Pot,<br/>but this strategy requires lots of food, so it might not be viable depending on your inventory.<br/>Of course, switch to Wall Clip Bracelet if you encounter an enemy.
+
+Archdragon, Porgon, and Mesmerikon won't use special attacks if a decoy is in range, so use Decoy Staff.
+
+Shihan (81-83F) is overshadowed by other monsters, but it's still a threat that can cause equipment loss.<br/>Gitan Mamel (88-93F) only has 12 HP, so you can one-shot it with Porky Rocks dropped by Porgon.<br/>It always drops 2000 Gitan when defeated, which should be kept in a Storage Pot for later floors.<br/>If you don't have rocks, throw Gitan or use items like Knockback Staff or Tunnel Staff.
+
 ### 90-99F
+
+Gitan Mamel (88-93F), Pumptergeist (89-93F), Mesmerikon (90-95F), Shine Bird (91-99F), Knave King (93-99F),<br/>Doomhead (94-99F), Cranky Tank (94-99F), Ultra Gazer (95-99F), Foly5 (96-99F), etc.
+
+Lots of nasty monster combinations that can end your run.
+
+Mesmerikon (90-95F) throws Rage Grass within 5 tiles, then Poison Grass once you have Berserk status.<br/>This is bad on its own, but when combined with Gitan Mamels (88-93F), it's pretty much a death sentence.<br/>Ultra Gazer (95-99F) can hypnotize you as you step into a room, wasting valuable turns.<br/>So, rush stairs using Monster Detector + Transient Staff, Tunnel Staff, Navigation Scroll, etc.
+
+Single room Monster Houses have a much higher chance of being generated from 90F.<br/>If you're unlucky, you might end up having to go through 2\~3 floors of Monster Houses in a row.<br/>Use items like Pinning Staff, Swap Staff, and Decoy Staff to make it to the stairs.
+
+Mesmerikon can throw Rage Grass at you even in hallways if you're within its 5 tile throwing range,<br/>so there's risk of suffocating in a wall while berserk if you have a Wall Clip Bracelet equipped.<br/>※ It can't throw grass at you while you're inside a wall.
+
+It's recommended to throw an Extinction Scroll at Mesmerikon if you have a Blank Scroll.<br/>Cleansing Bracelet blocks the negative effects of Poison Grass, increasing your survival chance.<br/>Otherwise, wear a Pierce Bracelet and use Navigation Scroll or Monster Detector to check for red dots,<br/>then shoot arrows to check for Mesmerikon before you get within 5 tiles of a red dot.
+
+Shine Bird (91-99F) will warp from anywhere on the floor to heal monsters if you don't defeat them in 1 hit,<br/>and are immune to projectiles unless you have a Pierce Bracelet equipped.
+
+Cranky Tank (94-99F) acts 2 times per turn and fires 50 damage cannonballs even if you're inside a wall.<br/><span class="redText">Its cannonball blasts cause Shine Bird to multiply, so DO NOT hit Cranky Tanks without a plan.</span><br/>Either throw Gitan to one-shot them, or use Paralysis Staff to disable them.<br/>If you have an extra Blank Scroll after Mesmerikon floors, throw an Extinction Scroll at Cranky Tank.
+
+Lastly, Stairs? Traps can be generated starting on 91F.<br/>It resembles stairs, but it's actually a random trap which activates when stepped on.<br/>See [Check for Stairs? Trap](/guides/tips-and-tricks#check-for-stairs?-trap) for a guide on how to detect the trap.<br/>※ Unlike Shiren 3, you can't check if it's real by throwing rocks.
 
 # Monsters
 

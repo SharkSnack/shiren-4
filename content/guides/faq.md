@@ -143,7 +143,7 @@ If you've played through earlier games, it may be tricky to adjust to new mechan
 |Upgrade limit|Yes. (Increases as equipment levels up)|
 |Bracelets|Equip 1 (2 with resonance), bracelets never shatter.|
 |Staves|Unidentified staves display a negative use count after being swung.|
-|Mon House|Regular, Sudden (trap-like), Special (only Lv1-2 enemies on early floors)|
+|Monster House|Regular, Sudden (trap-like), Special (only Lv1-2 enemies on early floors)|
 |Monster level up|Day: Monster changes to the next rank, Night: Same rank, number increases|
 |Traps|Can break, arrows hit enemies, can be triggered by items landing on them.|
 |Item loss|Place tags on weapons and shields to avoid permanently losing them.|
@@ -282,6 +282,21 @@ Some ideas to help:
 - Synthesize the Anti-Aquatic rune onto your weapon. (Water Cutter or Desert Scroll)
 - Synthesize status inflicting runes onto your weapon. (Paralyzing, Sedating, etc.)
 
+#### What do I do about N'mach / N'dup inside the storehouse?
+
+You can't identify disguised N'mach / N'dup using Identify Scroll or Identify Bracelet.
+
+Lose the items:
+
+1. Sell suspicious items.
+
+Keep the items:
+
+1. Withdraw suspicious items.
+2. Go to Emerald Terrace and find a N'dubba type monster. (13-18F, 24-36F)
+3. Throw an Extinction Scroll at the N'dubba type monster.
+    - Any disguised N'mach or N'dup will be converted into real items.
+
 <br/>
 
 ## Post-Game
@@ -299,7 +314,7 @@ Nothing is permanently missable, but there are 2 items that become tricky to reo
 
 The 2 items are <span class="orangeText">Sturdy Hammer</span> and <span class="orangeText">Jaguar's Shield</span>.
 
-Sturdy Hammer is a first time clear reward from a certain dungeon, and can otherwise only be obtained from<br/>elite shops deep within that same dungeon.
+Sturdy Hammer is a first time clear reward from a certain dungeon, and can otherwise only be obtained<br/>from elite shops deep within that same dungeon.
 
 Jaguar's Shield is a clear reward from a difficult 99F dungeon, and you can only have 1 at any given time.
 
@@ -367,20 +382,3 @@ Some ideas:
 |Worthy Shield|Same location. (Can also obtain it by leveling up a Shoddy Plank)|
 |Trapper Bracelet|Shops found on deeper floors of Trap Zone|
 |Sturdy Hammer|Elite shops on deeper floors of Banana Kingdom.|
-
-### Monster Related
-
-#### What do I do about N'mach / N'dup inside the storehouse?
-
-You can't identify disguised N'mach / N'dup using Identify Scroll or Identify Bracelet.
-
-Lose the items:
-
-1. Sell suspicious items.
-
-Keep the items:
-
-1. Withdraw suspicious items.
-2. Go to Emerald Terrace and find a N'dubba type monster. (13-18F, 24-36F)
-3. Throw an Extinction Scroll at the N'dubba type monster.
-    - Any disguised N'mach or N'dup will be converted into real items.

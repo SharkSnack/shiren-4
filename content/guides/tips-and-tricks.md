@@ -608,7 +608,7 @@ It's faster to name known unidentified items by selecting the name from the item
 If you find a shop, the standard approach is to name unknown unidentified items based on their price.<br/>
 For this example, say you have 3 scrolls worth 800 Gitan:
 
-- First scroll → 8A
+- First scroll → 8A or 8
 - Second scroll → 8B or 88
 - Third scroll → 8C or 888
 
@@ -790,7 +790,7 @@ Notable monsters:
     - <span class="purpleText">Doomhead</span> (120 HP, 6500 exp, 500 skill points) - Risky, but very rewarding.
 - Banana Novice family
     - <span class="purpleText">Banana Master</span> (1900 exp) - Instantly defeat it by throwing any banana item or Banana Peel.
-    - <span class="purpleText">Banana Morph</span> can be used to farm Yellow Bananas. (Banana Morph Factory)
+    - <span class="purpleText">Banana Morph</span> can be used to obtain Yellow Bananas. (Banana Morph Factory)
 - Froggo family
     - <span class="purpleText">Froggon</span> (100 exp, 20 skill points) - The amount of Gitan it drops increases when it levels up.
     - Low exp, but useful for collecting Gitan for shops, or storing a large sum of Gitan as a projectile.
@@ -1117,7 +1117,7 @@ See [Postgame Guide](/guides/postgame-guide#level-up-equipment) for details.
 
 #### Always Win Pick-A-Choice
 
-Also referred to as One-Choice-Shop.<br/>
+Also referred to as One-Choice Shop.<br/>
 Technique utilizing the fact that Rocks or Porky Rocks can be thrown into walls.
 
 To get started, dig the following path using a Rusty Pickaxe, Rusty Pick, or Tunnel Staff:

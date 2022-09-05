@@ -156,6 +156,8 @@ Keep in mind that the difficulty ranking is an opinion piece, and isn't absolute
   </tbody>
 </table>
 
+※ "Restricted" means not bringing items into the dungeon to raise the difficulty.
+
 #### Carry-In Items
 
 These dungeons don't have a difficulty assigned, since it depends on the items you bring with you.
@@ -252,7 +254,7 @@ Preparations:
 
 Steps:
 
-1. Write Extinction on a Blank Scroll, then throw it at Seedie so only Plump Snacky spawns.
+1. Write Extinction on a Blank Scroll, then throw it at Dark Seedie so only Plump Snacky spawns.
 2. Move to the corner of a room (leave a 1 tile gap), and step in place until it becomes night.
 3. Use Cluster Confusion → Room Cyclone to wipe out all Plump Snacky on the floor.
 4. Step in place until it switches to day, and then back to night, then repeat step 3.
@@ -327,14 +329,14 @@ Steps:
 Needed Items:
 
 - Blessing Pot [5]
-- Heaven or Earth Scroll x 5
+- Heaven or Earth Scroll x 5 (Blessed)
 - Suction Scroll --- Bring lots of these.
 - Weapons and shields --- Whichever ones you wish to upgrade.
 
 Steps:
 
 1. Go inside the Boronga Village warehouse, and ensure there's 5 tiles of space on the ground.
-2. Read 5 Heaven or Earth scrolls (once per scroll).
+2. Read 5 Heaven or Earth scrolls (once per blessed scroll).
 3. Insert the Heaven or Earth scrolls into the Blessing Pot.
 4. Read a Suction Scroll to retrieve the 5 Heaven or Earth scrolls.
 5. Repeat until upgrade value reaches +99, or you run out of Suction Scrolls.

@@ -124,9 +124,9 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
   <tr>
     <td class="highlightYellow">Rustproof</td>
     <td class="highlightLightblue">Dull Gold Edge</td>
-    <td class="highlightLightblue">(Read Plating Scroll)</td>
+    <td></td>
     <td class="highlightLightblue">Type Weapons L8<br/>Status Weapons L8<br/>Copper Edge L8<br/>Katana L8<br/>Beast Fang L5<br/>Meteor Edge L8<br/>Kabura's Blade L8<br/>Kamina's Sword L8</td>
-    <td>Upgrade value will never decrease</td>
+    <td>Upgrade value will never decrease<br/>(Plating Scroll or Mekky can add it)</td>
   </tr>
   <tr>
     <td class="highlightYellow">Flame Shot</td>
@@ -362,7 +362,7 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
     <td class="highlightLightblue">Dull Gold Shield</td>
     <td></td>
     <td class="highlightLightblue">Clan Shield L5<br/>Meteor Guard L5<br/>Spry Shield L5<br/>Bowl Shield L6<br/>Copper Guard L8<br/>Blast Shield L8<br/>Fuuma Shield L8<br/>Nirvana Board L8</td>
-    <td>Upgrade value will never decrease</td>
+    <td>Upgrade value will never decrease<br/>(Plating Scroll or Mekky can add it)</td>
   </tr>
   <tr>
     <td class="highlightYellow">Unmoving</td>
@@ -867,8 +867,4 @@ This section gives a rough idea of rune priority for dungeons that don't allow c
   </tbody>
 </table>
 
-<div class="tableNotes">
-  <p>
-    ※ Unmoving is top priority, but Steady Shield should be equipped on specific floors instead of being synthesized.
-  </p>
-</div>
+※ Unmoving is top priority, but Steady Shield should be equipped on specific floors instead of being synthesized.

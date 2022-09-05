@@ -47,7 +47,7 @@ If you equip a cursed item, use Strip Trap or selection-based scrolls.
 
 It's faster to name known unidentified items by selecting the name from the item book. (<span class="blueText">Book</span> command)<br/>If you find a shop, the standard approach is to name unknown unidentified items based on their price.<br/>For this example, say you have 3 scrolls worth 800 Gitan:
 
-- First scroll → 8A
+- First scroll → 8A or 8
 - Second scroll → 8B or 88
 - Third scroll → 8C or 888
 
