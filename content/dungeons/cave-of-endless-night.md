@@ -8,7 +8,9 @@ metaDescription: "Cave of Endless Night dungeon guide for Shiren the Wanderer 4:
   <img src="../images/dungeons/endless_night.png"/><img src="../images/dungeons/endless_night_2.png"/>
 </div>
 
-[Introduction]
+Dungeon where it's always night - daytime never arrives as a result of turns elapsing.<br/>The first clear is 29F and includes a boss fight, after which the full 99F version is unlocked.<br/>Carry-in items are allowed, so it's easy if you bring items like Lamp Shield and Monster Detector.
+
+Bulldog Bracelet can be found at the end only when it's not in your inventory, storehouse, or warehouse.<br/>If you lose it after the first clear, you'll need to reach 99F to obtain it again.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -82,9 +84,250 @@ metaDescription: "Cave of Endless Night dungeon guide for Shiren the Wanderer 4:
 
 # Strategy
 
-[Quick Links]
+<ul class="quickLinksUL">
+  <li><a href="#general">General</a></li>
+  <li><a href="#abilities">Abilities</a></li>
+  <li><a href="#night-monster-ai">Night Monster AI</a></li>
+</ul>
 
-[Content]
+### General
+
+Ability uses are limited, so there isn't much reason to linger on any given floor.<br/>Search for stairs using the torch + Lamp Shield resonance effect, which lights up the entire room.<br/>If you didn't bring a Lamp Shield, use zigzag movement to search for stairs a bit more efficiently.
+
+Torches, Lamp Shield, and Monster Detector are top priority, and all of them can be found on the ground.<br/>Carry 3\~4 torches, Replenish Scrolls, healing items, and some items for escaping bad situations.
+
+### Abilities
+
+The standard is to include 2\~3 room type abilities, then fill remaining slots with attack abilities.<br/>See [Abilities](/system/necklace-abilities) for details.
+
+- Room Cyclone
+    - Great ability that wipes out all monsters in a room.
+    - However, you generally need to use it 2 times in a row to defeat monsters.
+- Darkroom
+    - Weak, but inflicting Blind status on all monsters in the room is handy.
+    - Can be used with Room Cyclone to finish off weak monsters, but beware of Absorbiphant types.
+- Kaboom Bullet
+    - One-shots most enemies, excluding certain end game or blue aura monsters.
+- Sticky Shot or Bi-Direction Warp
+    - Decent power and effective against enemies that can't be defeated using Kaboom Bullet.
+- 8-Way Boom Bullet or 8-Way Slumber Shot
+    - Particularly nice if you step on a Summon Trap.
+    - Beware of Absorbiphant types if you use 8-Way Slumber Shot.
+- Three Screams
+    - One-shots enemies in 3 forward directions, but you don't gain exp or items.
+    - It also works on Shopkeepers.
+- Cluster Confusion
+    - Counters higher level Fearabbits, but otherwise isn't essential.
+    - Don't use it on floors where Absorbiphant and Explochin types appear.
+- Last Stand
+    - Roughly 80% chance to wipe out all monsters on a floor, but you collapse if it fails.
+    - Might be nice for higher level Fearabbit and Dragon floors if you bring lots of Revival Grass.
+- (Other abilities)
+    - Piercing Arrow and Cross Boom Bullet are usable.
+    - All other abilities are generally lacking in some way, so they're not worth including.
+
+### Night Monster AI
+
+There are 2 types of AI for night monsters in this game.
+
+<ol>
+  <li><span class="redText">Moves randomly similar to a Pumphantasm, and attacks any adjacent creature.</span></li>
+  <li><span class="blueText">Moves normally, and only attacks the player.</span></li>
+</ol>
+
+These 2 types are assigned by monster family:
+
+<table id="monsterList" class="monsterPageTable">
+  <tr>
+    <th colspan="7">Monster (Family)</th>
+  </tr>
+  <tr>
+    <th class="highlightGray">1</th>
+    <th class="highlightGray">2</th>
+    <th class="highlightGray">3</th>
+    <th class="highlightGray">4</th>
+    <th class="highlightGray">5</th>
+    <th class="highlightGray">6</th>
+    <th class="highlightGray">7</th>
+  </tr>
+  <tr>
+    <td><span class="redText">Mamel</span></td>
+    <td><span class="redText">Blade Bee</span></td>
+    <td><span class="redText">Scorpion</span></td>
+    <td><span class="blueText">Field Knave</span></td>
+    <td><span class="redText">Gyadon</span></td>
+    <td><span class="redText">Dragon</span></td>
+    <td><span class="blueText">Foly</span></td>
+  </tr>
+  <tr>
+    <td><span class="redText">Chintala</span></td>
+    <td><span class="redText">Firepuff</span></td>
+    <td><span class="blueText">Absorbiphant</span></td>
+    <td><span class="blueText">Spin Polygon</span></td>
+    <td><span class="blueText">Flash Bird</span></td>
+    <td><span class="blueText">Mixer</span></td>
+    <td><span class="blueText">Floaty</span></td>
+  </tr>
+  <tr>
+    <td><span class="redText">Seedie</span></td>
+    <td><span class="redText">Kumonigiri</span></td>
+    <td><span class="redText">Tiger Tosser</span></td>
+    <td><span class="redText">Porky</span></td>
+    <td><span class="redText">Yanpii</span></td>
+    <td><span class="redText">Eligan</span></td>
+    <td><span class="redText">Zapdon</span></td>
+  </tr>
+  <tr>
+    <td><span class="blueText">Froggo</span></td>
+    <td><span class="redText">DJ Mage</span></td>
+    <td><span class="blueText">Boy Cart</span></td>
+    <td><span class="redText">Pumphantasm</span></td>
+    <td><span class="redText">Banana Novice</span></td>
+    <td><span class="redText">Ironhead</span></td>
+    <td><span class="blueText">Maneater</span></td>
+  </tr>
+  <tr>
+    <td><span class="blueText">Bored Kappa</span></td>
+    <td><span class="blueText">Zalokleft</span></td>
+    <td><span class="blueText">Pop Tank</span></td>
+    <td><span class="redText">Fearabbit</span></td>
+    <td><span class="redText">Explochin</span></td>
+    <td><span class="blueText">Snacky</span></td>
+    <td><span class="blueText">Boss Type</span></td>
+  </tr>
+  <tr>
+    <td><span class="blueText">Hopodile</span></td>
+    <td><span class="blueText">Slime</span></td>
+    <td><span class="blueText">Gazer</span></td>
+    <td><span class="blueText">Traproid</span></td>
+    <td><span class="redText">Gyaza</span></td>
+    <td><span class="blueText">Crow Tengu</span></td>
+    <td><span class="blueText">Shopkeeper</span></td>
+  </tr>
+  <tr>
+    <td><span class="redText">Squid King</span></td>
+    <td><span class="redText">Curse Girl</span></td>
+    <td><span class="blueText">N'dubba</span></td>
+    <td><span class="redText">Kengo</span></td>
+    <td><span class="blueText">Cheer Ham</span></td>
+    <td><span class="redText">Mutaikon</span></td>
+    <td class="highlightGray"></td>
+  </tr>
+</table>
+
+# Floor Guide
+
+### 1-2F
+
+Dark Kumonigiri (1-3F), Dark Squid King (1-2F), Evil Firepuff (1-3F), etc.
+
+Leveled up night monsters are the leading cause of collapses at night, so watch the message window.<br/>Level up until you have at least 31 max HP before descending the stairs on 2F.
+
+### 3-7F
+
+Dark Pop Tank (3-7F), Dark Absorbiphant (4-6F), Dark Eligan (5-9F), Vile Slime (6-8F), etc.
+
+Dark Pop Tank's cannonball blasts deal 30 damage, so maintain at least 31 HP at all times.<br/>Dark Absorbiphant appears, so don't use Cluster Confusion if your shield is weak.<br/>Dark Eligan can be defeated in 1 hit using Room Cyclone once you've leveled up a bit.<br/>Vile Slime can extinguish equipped torches, so don't let it act when adjacent.
+
+### 8-13F
+
+Dark Traproid (9-13F), Evil Explochin (10-12F), Evil Hipadile (10-14F), Dark Strong Cart (11-13F), etc.
+
+Lots of monsters that have regular movement and track Shiren, so you'll burn through ability uses quickly.<br/>Monsters with auras start to become more common from around this point as well.<br/>Don't use Cluster Confusion on Evil Explochin floors.
+
+Players who don't bring items usually start to struggle now without a Lamp Shield or Monster Detector.
+
+### 14-19F
+
+Evil Dragon (14-19F), Dark Dazikon (17-19F), Dark Digestiphant (18-20F), Bad Sr. Yanpii (15-18F), etc.
+
+Evil Dragon's fire deals 40 damage, so try to maintain at least 41 HP at all times (21 HP with <span class="greenText">1/2 Fire</span> rune).<br/>Bad Sr. Yanpii's headbutt deals 25 damage which isn't too bad, but it can catch you off guard at times.<br/>Don't use Cluster Confusion on Dark Digestiphant floors.
+
+### 20-29F
+
+Dark Fearabbit (20-22F), Dark Vexing Kappa (22-24F), Dark Grampa Tank (24-29F), Dark MC Mage (28-30F),<br/>Dark Scarabbit (28-30F), etc.
+
+There's potential to be one-shot by a leveled up monster after being attracted by a Dark Fearabbit,<br/>as well as accidents caused by Dark Vexing Kappa or Dark MC Mage, so rush stairs unless you're low on items.<br/>Dark Grampa Tank's cannonballs deal 40 damage, so maintain at least 41 HP at all times.
+
+Organize your items before descending the stairs on 29F so that you have access to Replenish Scroll,<br/>Swift Grass, Seal Staff, and other useful items for the boss fight.
+
+### Boss
+
+Fight with Mr. Bulldog.
+
+|Name|HP|Atk|Def|Exp|Skill|Drop|Notes|
+|-|-|-|-|-|-|-|-|
+|Mr. Bulldog|600|70|0|0|0|0%|Moves:<br/>・Double Lariat - Deals damage (1 tile radius).<br/>・Boulder Throw - Deals 50 or so damage (Ranged, 1 tile radius).<br/>・Sumo Slap - Deals 20 or so damage + 10 tiles knockback.<br/>・Call Monsters - Summons 2~3 monsters.<br/>・Instant Recovery - Cures all status conditions.|
+
+Mr. Bulldog's monster call summons Dark Eligagon, Bad Lime Zalokleft, or Dark Glare Bird.<br/>Status conditions are effective, but they're cured right away unless you use Swift Grass or Slow Staff.<br/>He has 600 HP, so depending on your ability set, you might not be able to defeat him with 8 uses.<br/>Replenish Scroll or Revival Grass (Undo Grass) can be used to refresh abilities, but if you don't have those,<br/>you'll have to hope for Replenish Scroll from a Bad Lime Zalokleft drop, or have Dark Eligagon defeat the boss.
+
+### 30-35F
+
+Dark Scarabbit (28-30F), Dark MC Mage (28-30F), Evil Sky Dragon (31-35F), Dark Squid Emperor (31-33F),<br/>Evil Oingodile (32-36F), etc.
+
+Evil Sky Dragon's flame deals 50 damage from anywhere in the room.<br/>Dragon Grass and Lizard Shield can't be found, so you can't reduce fire damage if you didn't bring items.<br/>If you feel like Evil Archdragon and Evil Abyss Dragon are a bigger threat than higher level Fearabbits,<br/>go ahead and throw an Extinction Scroll at Evil Dragon (14-19F) or Evil Sky Dragon in this floor range.
+
+### 36-42F
+
+Evil Concusschin (36-39F), Dark Spongiderm (37-39F), Dark Item Knave (39-41F), Bad Iron Zalokleft (40-42F),<br/>Evil Hyper Gazer (40-42F), Dark Pierce Cart (42-44F), etc.
+
+Don't use Cluster Confusion on Evil Concusschin or Dark Spongiderm floors.<br/>It may be tempting to hunt Bad Iron Zaloklefts for items, but it's probably not worth the trouble.
+
+### 43-52F
+
+Dark Pierce Cart (42-44F), Dark Steamroid (43-47F), Dark Gigahead (43-47F), Vile Pumpanshee (48-50F),<br/>Plump Mealy (50-52F), Bad Lt. Yanpii (51-53F), Vile Ooze (51-55F), etc.
+
+Lots of monsters that have random movement and attack any adjacent creature.<br/>There's nothing too threatening on these floors, so Plump Mealy can be hunted for items if desired.
+
+### 53-61F
+
+Dark Ornery Tank (53-58F), Dark Twinkle Bird (53-55F), Dark Kappa Troll (54-56F), Dark Dozikon (56-58F),<br/>Evil Shihan (57-61F), Dark MC Wizard (58-60F), Dark Horrabbit (59-61F), etc.
+
+Floor range with extremely dangerous monster combinations - rush stairs.<br/>In particular, Dark MC Wizard, Shihan, and Horrabbit overlap so there's a chance you'll lose your equipment.<br/>1 Room Cyclone usually isn't enough to defeat monsters, so disable them first if you get surrounded.
+
+Steady Shield is elite shop exclusive, so you likely won't have one on hand unless you brought one.<br/>If you don't have the <span class="greenText">Unmoving</span> rune or a Steady Shield, use Cluster Confusion at the start of the floor.
+
+### 62-63F
+
+Dark Electroid (59-63F), Evil Fulminachin (62-64F), Wild Gyandora (62-64F), etc.
+
+Nothing too threatening besides Evil Fulminachin, so consider this floor range a rest area.
+
+### 64-69F
+
+Evil Fulminachin (62-64F), Evil Archdragon (64-69F), Dark Knave King (64-66F), Dark Osmammoth (65-67F), etc.
+
+Evil Archdragon's flame deals 60 damage from anywhere on the floor - Use healing items and rush stairs.<br/>Cluster Confusion is effective against it, but Evil Fulminachin and Dark Osmammoth make it hard to use.
+
+### 70-73F
+
+Dark Elizgagon (70-74F), Vile Blight Scorp (71-73F), Dark Shine Bird (71-73F), etc.
+
+Dark Shine Birds combined with tanky enemies like Dark Elizgagon and Vile Blight Scorp.<br/>Be careful not to run out of ability uses before reaching the stairs.
+
+### 74-83F
+
+Dark MC Sorcerer (74-76F), Evil Porgon (75-80F), Dark Squid Kaiser (78-80F), Dark Mesmerikon (80-83F),<br/>Dark Gitan Mamel (80-85F), Vile Pumptergeist (81-83F), etc.
+
+Dark MC Sorcerer and Dark Mesmerikon have special attacks that can easily make you collapse.<br/>Use Cluster Confusion and rush stairs if you don't have Lamp Shield or Monster Detector.<br/>Darkroom is effective at disabling monsters inside rooms.
+
+### 84-87F
+
+Dark Gitan Mamel (80-85F), Snide Kleptoad (84-89F), Dark Mixerdon (85-87F), Evil Detonachin (86-89F), etc.
+
+Snide Kleptoad can one-shot you with blessed Gitan dropped by other Snide Kleptoads or Dark Gitan Mamels.<br/>Dark Mixerdon appears, providing the first and only chance to synthesize items in this dungeon.<br/>However, it's a bit late for synthesis at this point, so it's fine to ignore it and continue ahead.
+
+### 88-93F
+
+Evil Detonachin (86-89F), Dark Cranky Tank (88-93F), Dark Terrabbit (90-92F), Evil Boingodile (90-92F), etc.
+
+Dark Cranky Tank fires 2 cannonballs that deal 60 damage each per turn.<br/>To make things worse, Dark Terrabbit's special attack can cause you to get surrounded by Dark Cranky Tanks.<br/>So to avoid that, use Cluster Confusion at the start of the floor on Terrabbit floors.
+
+### 94-99F
+
+Evil Abyss Dragon (94-99F), Evil Doom Gyaza (95-99F), Dark Crashdon (93-99F), Dark Cyberoid (93-99F)
+
+The final rush where you have to overcome Evil Abyss Dragon's 70 damage flame breath.<br/>Other enemies are tanky enough to survive Kaboom Bullet at times, so it's easy to run out of ability uses.<br/>Remember to use Replenish Scrolls before your situation deteriorates if you have them on hand.
 
 # Monsters
 
@@ -783,7 +1026,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>86</th>
       <td class="">Wild Gyandoron</td>
-      <td class="highlightFarming">Snide Kleptoad</td>
+      <td class="highlightExtreme">Snide Kleptoad</td>
       <td class="highlightUseful">Dark Mixerdon</td>
       <td class="highlightOffense">Evil Detonachin</td>
       <td class="highlightGray"></td>
@@ -791,7 +1034,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>87</th>
       <td class="">Mean Spirit Ham</td>
-      <td class="highlightFarming">Snide Kleptoad</td>
+      <td class="highlightExtreme">Snide Kleptoad</td>
       <td class="highlightUseful">Dark Mixerdon</td>
       <td class="highlightOffense">Evil Detonachin</td>
       <td class="highlightGray"></td>
@@ -799,7 +1042,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>88</th>
       <td class="">Mean Spirit Ham</td>
-      <td class="highlightFarming">Snide Kleptoad</td>
+      <td class="highlightExtreme">Snide Kleptoad</td>
       <td class="highlightExtreme">Dark Cranky Tank</td>
       <td class="highlightOffense">Evil Detonachin</td>
       <td class="highlightGray"></td>
@@ -807,7 +1050,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
     <tr>
       <th>89</th>
       <td class="">Mean Spirit Ham</td>
-      <td class="highlightFarming">Snide Kleptoad</td>
+      <td class="highlightExtreme">Snide Kleptoad</td>
       <td class="highlightExtreme">Dark Cranky Tank</td>
       <td class="highlightOffense">Evil Detonachin</td>
       <td class="highlightGray"></td>

@@ -8,7 +8,9 @@ metaDescription: "Platinum Paradise dungeon guide for Shiren the Wanderer 4: The
   <img src="../images/dungeons/platinum_paradise_1.png"/> <img src="../images/dungeons/platinum_paradise_2.png"/>
 </div>
 
-[Introduction]
+Dungeon you can enter by revisiting the Throne Room in Emerald Terrace after clearing the main story.<br/>It's a direct continuation of Emerald Terrace, so you can bring items and the dungeon begins on 37F.
+
+There's a boss fight at the end, followed by a single floor puzzle called Jaguar's Treasure Shrine.<br/>You must choose between challenging the puzzle or returning to Boronga Village when you arrive.<br/>Choosing to return to Boronga Village still grants a clear icon, but you won't get the exclusive treasure.<br/>※ Nothing is recorded in Adventure Footprints and you don't get a clear icon if you use an Escape Scroll.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -88,9 +90,52 @@ metaDescription: "Platinum Paradise dungeon guide for Shiren the Wanderer 4: The
 
 # Strategy
 
-[Quick Links]
+<ul class="quickLinksUL">
+  <li><a href="#general">General</a></li>
+  <li><a href="#boss">Boss</a></li>
+  <li><a href="#jaguar's-treasure-shrine">Jaguar's Treasure Shrine</a></li>
+</ul>
 
-[Content]
+### General
+
+The dungeon allows carry-in items, so there isn't much to say about it.<br/>As long as you have strong equipment and a stock of useful items, it should be easy to clear it.
+
+### Boss
+
+Fight with Hemoji, who respawns each time you enter Platinum Paradise.
+
+|Name|HP|Atk|Def|Exp|Skill|Drop|Notes|
+|-|-|-|-|-|-|-|-|
+|Hemoji|400|50|20|0|0|0%|Moves:<br/>・Blowdart - Deals 30 or so damage. (Ranged)<br/>・Mysterious Dance - Inflicts Paralyzed status.<br/>・Monster Calling Dance - Summons 4~5 monsters.<br/>・Instant Recovery - Cures all status conditions.|
+
+Hemoji's monster calling dance summons Huge Chintala, Kappa Troll, Osmammoth, or Flashdon.<br/>
+He can paralyze you from anywhere in the room, which can lead to powered up Osmammoths.<br/>Status conditions are effective, but they're cured right away unless you use Swift Grass or Slow Staff.<br/>He tends to run away when approached, and will warp when he receives damage.
+
+If you want an easy win, throw an Extinction Scroll at Osmammoth, then Berserk Talisman at other monsters.<br/>Extinction Scroll deals 300 damage to Hemoji as well, so you can defeat it in 2 throws if you bring Blank Scrolls.
+
+<p><span class="blueText">※ If you want Hemoji Arrows, you need to pick them up before Hemoji is defeated.</span></p>
+
+### Jaguar's Treasure Shrine
+
+#### General
+
+Use the <span class="blueText">Scout</span> command to take a look around the floor.<br/>Ensure you have an Escape Scroll on hand in case you get stuck - otherwise you lose all items and money.<br/>If you warp anywhere inside this area, you'll always return to the starting position.<br/>If you have a Wall Clip Bracelet, you can skip having to talk to Maneki Jaguar.
+
+#### Quick Solution
+
+Items:
+
+- Warp Bracelet
+- Fortress Staff [11]
+- Eradicate Scroll
+
+Steps:
+
+1. Bury the starting room + hallway using Fortress Staff.
+2. Read Eradicate Scroll to remove all monsters from the floor.
+3. Equip Warp Bracelet and warp until you obtain the treasure, then until you reach the stairs.
+
+<br/>
 
 # Monsters
 

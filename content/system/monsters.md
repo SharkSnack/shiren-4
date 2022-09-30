@@ -149,6 +149,95 @@ Element Order
 
 ## Details
 
+### Night Monster AI
+
+There are 2 types of AI for night monsters in this game.
+
+<ol>
+  <li><span class="redText">Moves randomly similar to a Pumphantasm, and attacks any adjacent creature.</span></li>
+  <li><span class="blueText">Moves normally, and only attacks the player.</span></li>
+</ol>
+
+These 2 types are assigned by monster family:
+
+<table id="monsterList" class="monsterPageTable">
+  <tr>
+    <th colspan="7">Monster (Family)</th>
+  </tr>
+  <tr>
+    <th class="highlightGray">1</th>
+    <th class="highlightGray">2</th>
+    <th class="highlightGray">3</th>
+    <th class="highlightGray">4</th>
+    <th class="highlightGray">5</th>
+    <th class="highlightGray">6</th>
+    <th class="highlightGray">7</th>
+  </tr>
+  <tr>
+    <td><span class="redText">Mamel</span></td>
+    <td><span class="redText">Blade Bee</span></td>
+    <td><span class="redText">Scorpion</span></td>
+    <td><span class="blueText">Field Knave</span></td>
+    <td><span class="redText">Gyadon</span></td>
+    <td><span class="redText">Dragon</span></td>
+    <td><span class="blueText">Foly</span></td>
+  </tr>
+  <tr>
+    <td><span class="redText">Chintala</span></td>
+    <td><span class="redText">Firepuff</span></td>
+    <td><span class="blueText">Absorbiphant</span></td>
+    <td><span class="blueText">Spin Polygon</span></td>
+    <td><span class="blueText">Flash Bird</span></td>
+    <td><span class="blueText">Mixer</span></td>
+    <td><span class="blueText">Floaty</span></td>
+  </tr>
+  <tr>
+    <td><span class="redText">Seedie</span></td>
+    <td><span class="redText">Kumonigiri</span></td>
+    <td><span class="redText">Tiger Tosser</span></td>
+    <td><span class="redText">Porky</span></td>
+    <td><span class="redText">Yanpii</span></td>
+    <td><span class="redText">Eligan</span></td>
+    <td><span class="redText">Zapdon</span></td>
+  </tr>
+  <tr>
+    <td><span class="blueText">Froggo</span></td>
+    <td><span class="redText">DJ Mage</span></td>
+    <td><span class="blueText">Boy Cart</span></td>
+    <td><span class="redText">Pumphantasm</span></td>
+    <td><span class="redText">Banana Novice</span></td>
+    <td><span class="redText">Ironhead</span></td>
+    <td><span class="blueText">Maneater</span></td>
+  </tr>
+  <tr>
+    <td><span class="blueText">Bored Kappa</span></td>
+    <td><span class="blueText">Zalokleft</span></td>
+    <td><span class="blueText">Pop Tank</span></td>
+    <td><span class="redText">Fearabbit</span></td>
+    <td><span class="redText">Explochin</span></td>
+    <td><span class="blueText">Snacky</span></td>
+    <td><span class="blueText">Boss Type</span></td>
+  </tr>
+  <tr>
+    <td><span class="blueText">Hopodile</span></td>
+    <td><span class="blueText">Slime</span></td>
+    <td><span class="blueText">Gazer</span></td>
+    <td><span class="blueText">Traproid</span></td>
+    <td><span class="redText">Gyaza</span></td>
+    <td><span class="blueText">Crow Tengu</span></td>
+    <td><span class="blueText">Shopkeeper</span></td>
+  </tr>
+  <tr>
+    <td><span class="redText">Squid King</span></td>
+    <td><span class="redText">Curse Girl</span></td>
+    <td><span class="blueText">N'dubba</span></td>
+    <td><span class="redText">Kengo</span></td>
+    <td><span class="blueText">Cheer Ham</span></td>
+    <td><span class="redText">Mutaikon</span></td>
+    <td class="highlightGray"></td>
+  </tr>
+</table>
+
 ### Table Explanation
 
 - Lv = Monster level.

@@ -48,22 +48,22 @@ Locked Bana Powers are represented by a checkmark next to the number.
     <td>Monsters defeated by this attack occasionally drop a Ripe Banana.</td>
   </tr>
   <tr>
-    <td>Trap Toss</td>
+    <td>Tosser Toss</td>
     <td>Tiger Tosser</td>
     <td>Throw the target at a creature or onto a trap within 5 tiles. (5 damage)<br/>Won't throw at an enemy that is asleep, paralyzed, or has decoy status.</td>
   </tr>
   <tr>
-    <td>Trap Hurl</td>
+    <td>Hurler Toss</td>
     <td>Tiger Hurler</td>
     <td>Throw the target at a creature or onto a trap within 10 tiles. (10 damage)<br/>Won't throw at an enemy that is asleep, paralyzed, or has decoy status.</td>
   </tr>
   <tr>
-    <td>Trap Chuck</td>
+    <td>Chucker Toss</td>
     <td>Tiger Chucker</td>
     <td>Throw the target at a creature or onto a trap within 15 tiles. (15 damage)<br/>Won't throw at an enemy that is asleep, paralyzed, or has decoy status.</td>
   </tr>
   <tr>
-    <td>Trap Throw</td>
+    <td>Ace Toss</td>
     <td>Tiger Ace</td>
     <td>Throw the target at a creature or onto a trap within 20 tiles. (20 damage)<br/>Won't throw at an enemy that is asleep, paralyzed, or has decoy status.</td>
   </tr>
@@ -439,7 +439,23 @@ This section provides recommendations for Bana Power sets.<br/>
 Banana Kingdom only has Explochins and Firepuffs for explosion / fire damage.<br/>
 Mutaikons and Scorpions gain attack power when hit by Poison Grass, and Bored Kappas throw it back.<br/>Banana Prince can cure slow, inaccurate, and attack down status from himself with Remedy.
 
-#### 1. Shiren Support (Banana Kingdom)
+#### 1. Prince Power Up (Banana Kingdom)
+
+##### Day
+
+- Room Ink Squirt
+- Absorb Status
+- Icy Cold
+- Frightener
+
+##### Night
+
+- Floor Magnet
+- Area Ink Squirt
+- Icy Cold
+- Remedy
+
+#### 2. Shiren Support (Banana Kingdom)
 
 ##### Day
 
@@ -454,22 +470,6 @@ Mutaikons and Scorpions gain attack power when hit by Poison Grass, and Bored Ka
 - Restore Attack
 - Remedy or Absorb Status
 - Room Ink Squirt or Room Hypnosis
-
-#### 2. Prince Power Up (Banana Kingdom)
-
-##### Day
-
-- Absorb Status
-- Poison Grass
-- Room Ink Squirt or Room Hypnosis
-- Frightener or Sleeper
-
-##### Night
-
-- Icy Cold
-- Room Ink Squirt
-- Absorb Status
-- Novice Magic
 
 #### 3. Three Allies Expert Badge (Platinum Paradise)
 
