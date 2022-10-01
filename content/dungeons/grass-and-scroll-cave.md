@@ -8,7 +8,7 @@ metaDescription: "Grass and Scroll Cave dungeon guide for Shiren the Wanderer 4:
   <img src="../images/dungeons/grass_scroll_cave.png"/>
 </div>
 
-[Introduction]
+A PSP version exclusive dungeon where only grass, scrolls, and torches can be found on the ground.<br/>Food, arrows, and rocks can only be obtained from monster drops, and equipment doesn't appear.<br/>Revival Grass is rare, so you could say it's a thrilling dungeon where game overs can occur at any moment.<br/>Overall, the idea is to safely cycle time of day during the day, and rush stairs at night.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>

@@ -8,7 +8,7 @@ metaDescription: "Trap Zone dungeon guide for Shiren the Wanderer 4: The Eye of 
   <img src="../images/dungeons/trap_zone.png"/><img src="../images/dungeons/trap_zone_2.png"/>
 </div>
 
-Dungeon where you make use of traps to progress.<br/>Shiren has Trapper status in this dungeon, meaning traps are visible and monsters can be trapped.<br/>Traps can be picked up and set by the player, and thrown traps activate underfoot if they hit the target.<br/>The player only gains 1 experience point if an enemy is defeated without using traps.<br/>Some traps like Explosion Trap function differently under Trapper status → [Traps](/system/traps)
+Dungeon where you make use of traps to progress.<br/>Shiren has Trapper status in this dungeon, meaning traps are visible and monsters can be trapped.<br/>Traps can be picked up and set by the player, and thrown traps activate underfoot if they hit the target.<br/>The player only gains 1 experience point if an enemy is defeated without using traps.<br/>Some traps like Landmine function differently under Trapper status → [Traps](/system/traps)
 
 The first clear is relatively easy if you understand the experience points multiplier system,<br/>but the 99F full version is considered one of the hardest dungeons in the entire series.
 

@@ -8,7 +8,11 @@ metaDescription: "Ceiling Cave dungeon guide for Shiren the Wanderer 4: The Eye 
   <img src="../images/dungeons/ceiling_cave.png"/><img src="../images/dungeons/ceiling_cave_2.png"/>
 </div>
 
-[Introduction]
+Dungeon with a special rule where items placed on the ground outside of shops vanish.
+
+Most items dropped by defeated monsters are lost, and item collection techniques can't be performed.<br/>Mixer synthesis, hunting Froggo and Snacky monsters for drops, throwing a pot to retrieve contents,<br/>collecting arrows using arrow traps or Cross Carts, etc. can't be done outside of shops.<br/>※ Items eaten by Mixers or stolen by Zaloklefts won't vanish if they drop as a result of day and night switching.
+
+Hallways are visible on all floors during the day, but the monster table is quite frankly brutal,<br/>so it's considered to be among the harder dungeons in the game despite that advantage.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>

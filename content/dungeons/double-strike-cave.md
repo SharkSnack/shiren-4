@@ -8,7 +8,7 @@ metaDescription: "Double Strike Cave dungeon guide for Shiren the Wanderer 4: Th
   <img src="../images/dungeons/double_strike_cave.png"/><img src="../images/dungeons/double_strike_cave_2.png"/>
 </div>
 
-[Introduction]
+Dungeon where all attacks reduce HP to 1, and if a character gets hit with 1 HP remaining, they collapse.<br/>This rule also applies to fixed damage attacks like rocks, and no one is exempt, including Shopkeepers.<br/>It's similar to Double Strike Trail in Shiren 5, but it's balanced better and luck isn't as big of a factor.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>

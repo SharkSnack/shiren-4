@@ -8,7 +8,9 @@ metaDescription: "Mystery Shopping Mall dungeon guide for Shiren the Wanderer 4:
   <img src="../images/dungeons/statue_cave.png"/><img src="../images/dungeons/mystery_mall.png"/>
 </div>
 
-[Introduction]
+A PSP version exclusive dungeon where it's always daytime, and only Gitan can be found on the ground.<br/>There are guaranteed shops on 1-3F and on floors that are a multiple of 10 except for 50F.<br/>Both regular and elite shops are on the common side, but Pick-A-Choice shops don't appear.
+
+Many key items to overcome the harsh monster table are Elite Shop exclusive, so luck is a bigger factor.<br/>You won't be able to purchase all items early on, so smart decision making is required when shopping.<br/>It tests techniques such as stealing and using Gitan as a projectile, along with the usual things.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>

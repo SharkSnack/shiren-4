@@ -8,7 +8,9 @@ metaDescription: "Entrancing Lane dungeon guide for Shiren the Wanderer 4: The E
   <img src="../images/dungeons/entrancing_lane.png"/><img src="../images/dungeons/entrancing_lane_2.png"/>
 </div>
 
-[Introduction]
+Dungeon where day and night cycles extremely fast - 60 turns for day, and 68 turns for night.<br/>Blank Scroll is the only scroll that can be found, except for Monster Houses which have Navigation Scrolls.<br/>Running away until time of day changes is an effective strategy to conserve items.
+
+Despite being a 99F dungeon, it's among the easiest non-carry in dungeons in the game.<br/>This is partly thanks to Plump Snacky on 1F, which can be farmed for lots of blessed Blank Scrolls.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>

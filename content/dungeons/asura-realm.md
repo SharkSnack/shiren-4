@@ -8,7 +8,11 @@ metaDescription: "Asura Realm dungeon guide for Shiren the Wanderer 4: The Eye o
   <img src="../images/dungeons/asura_realm.png"/>
 </div>
 
-[Introduction]
+A PSP version exclusive series favorite daytime-only unidentified items post-game dungeon.<br/>The premise might sound similar to Bayside Monster Cave, but the dungeon plays out very differently<br/>due to an adjusted item and monster table, along with a guaranteed Monster House every 10 floors.
+
+The best items like Monster Detector, Wall Clip Bracelet, and Revival Grass are Elite Shop exclusive,<br/>and Pick-A-Choice shops don't appear so you're quite unlikely to obtain them in a run.
+
+One could say where Bayside Monster Cave focuses on run away play using powerful items,<br/>Asura Realm focuses on upgrading equipment and using consumable items to cut down monsters.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
