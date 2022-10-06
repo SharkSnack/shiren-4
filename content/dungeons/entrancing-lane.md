@@ -10,7 +10,7 @@ metaDescription: "Entrancing Lane dungeon guide for Shiren the Wanderer 4: The E
 
 Dungeon where day and night cycles extremely fast - 60 turns for day, and 68 turns for night.<br/>Blank Scroll is the only scroll that can be found, except for Monster Houses which have Navigation Scrolls.<br/>Running away until time of day changes is an effective strategy to conserve items.
 
-Despite being a 99F dungeon, it's among the easiest non-carry in dungeons in the game.<br/>This is partly thanks to Plump Snacky on 1F, which can be farmed for lots of blessed Blank Scrolls.
+Despite being a 99F dungeon, it's among the easiest non-carry in dungeons in the game.<br/>This is mostly thanks to Plump Snacky on 1F, which can be hunted for lots of blessed Blank Scrolls.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -90,9 +90,82 @@ Despite being a 99F dungeon, it's among the easiest non-carry in dungeons in the
 
 # Strategy
 
-[Quick Links]
+<ul class="quickLinksUL">
+  <li><a href="#before-entering">Before Entering</a></li>
+  <li><a href="#general">General</a></li>
+  <li><a href="#equipment">Equipment</a></li>
+  <li><a href="#other-items">Other Items</a></li>
+</ul>
 
-[Content]
+### Before Entering
+
+It's strongly recommended to register the following to the Blank Scroll list:<br/>
+Extinction, Eradicate, Suction, Heaven, Earth, Fixer, Mon House, Replenish, Desert, and Lost.
+
+Likewise, the Cluster Confusion ability is nearly mandatory to have an easy time in this dungeon.<br/>It can be learned from the Apprentice NPC ([Emerald Terrace](/dungeons/emerald-terrace) 1-7F).
+
+### General
+
+The easiest route is to linger and hunt Plump Snacky on 1F to stock up on Blank Scrolls and Storage Pots.<br/>Throw an Extinction Scroll at Dark Seedie to ensure only Plump Snacky spawns,<br/>then use Cluster Confusion + Room Cyclone while aiming for the Cross ability [formation](/system/necklace-abilities#formations).
+
+The chance to activate the formation is higher if you utilize room corners.
+
+<pre class="diagram">
+S = Shiren<br/>
+<br/>
+□ □ □ □ ■<br/>
+□ □ □ □ ■<br/>
+□ □ S □ ■<br/>
+□ □ □ □ ■<br/>
+■ ■ ■ ■ ■
+</pre>
+
+If you obtain a Rusty Pickaxe, you can dig out a pattern to increase the chance further.<br/>Digging the optional tiles increases the number of enemies, but lowers the chance to activate the formation.
+
+<pre class="diagram">
+S = Shiren, O = Optional<br/>
+<br/>
+□ □ ■ ■ ■ ■<br/>
+□ □ □ □ O ■<br/>
+■ ■ □ S □ ■<br/>
+■ ■ O □ ■ ■<br/>
+■ ■ ■ ■ ■ ■
+</pre>
+
+Write Replenish on a Blank Scroll if you run out of ability uses.<br/>If you haven't read Replenish Scroll and didn't obtain Blank Scrolls, select <span class="blueText">Give Up</span> and retry the dungeon.
+
+What you do with the Blank Scrolls depends on your tolerance for monotonous gameplay.
+
+- Use Navigation Scrolls on most floors.
+- Upgrade equipment using Heaven and Earth scrolls.
+- Use Suction Scrolls on a 5 capacity Presto Pot to obtain more Blank Scrolls and items.
+- Use a Mon House Scroll 1 turn before time of day changes to obtain Navigation Scrolls and items.
+- Throw Extinction Scrolls at annoying monsters as you encounter them.
+
+### Abilities
+
+Cluster Confusion and Room Cyclone are mandatory if you use the Blank Scroll strategy.<br/>That said, it can be nice to mix in some other abilities like Sticky Shot for late game floors.
+
+#### Balanced
+
+- Cluster Confusion x 3
+- Room Cyclone x 3
+- (Kaboom Bullet or Bi-Direction Warp or Sticky Shot) x 2
+
+#### Farming
+
+- Cluster Confusion x 4
+- Room Cyclone x 4
+
+### Equipment
+
+
+
+### Other Items
+
+
+
+# Floor Guide
 
 # Monsters
 
@@ -720,7 +793,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="monsterDay">Pumphantom</td>
       <td class="dangerDay monsterDay">Grampa Tank</td>
       <td class="highlightGray"></td>
-      <td rowspan="30" class="monsterTableNmach">2</td>
+      <td rowspan="30" class="monsterTableNmach">3</td>
     </tr>
     <tr>
       <td class="monsterNight">Evil Flamepuff</td>

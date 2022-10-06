@@ -536,7 +536,7 @@ See [Runes](/system/synthesis-runes) for details.
     </tr>
     <tr>
       <td class="highlightLightblue">Low</td>
-      <td>Anti-Theft, Anti-Burgle, HP+5, Damage Exp, Pain Fullness</td>
+      <td>Anti-Theft, Anti-Burgle, HP+5, Damage Exp, Pain Fueled</td>
     </tr>
     <tr>
       <td class="highlightGray">Avoid</td>

@@ -1178,6 +1178,9 @@ export const baseStyles = css`
   .highlightShop {
     background-color: #fffac5 !important;
   }
+  .highlightFog {
+    background-color: #dfdfdf !important;
+  }
   .itemPageImage {
     background-color: #555;
   }

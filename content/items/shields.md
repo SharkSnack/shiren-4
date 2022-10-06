@@ -191,7 +191,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>99</td>
       <td>∞</td>
       <td>Rustproof</td>
-      <td>L8: Pain Fullness</td>
+      <td>L8: Pain Fueled</td>
       <td>32,100</td>
       <td><a href="/shiren-4/items/weapons#dull-gold-edge">Dull Gold Edge</a><br/>(Max strength +3)</td>
     </tr>
@@ -245,7 +245,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer 4: The Eye of 
       <td>10</td>
       <td>99</td>
       <td>∞</td>
-      <td>Pain Fullness</td>
+      <td>Pain Fueled</td>
       <td>L6: Rustproof</td>
       <td>77,000</td>
       <td>-</td>
@@ -1566,7 +1566,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>16000</td>
       <td>9000</td>
       <td>3150</td>
-      <td>(Rustproof)<br/>Pain Fullness</td>
+      <td>(Rustproof)<br/>Pain Fueled</td>
     </tr>
   </tbody>
 </table>
@@ -2070,7 +2070,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>-</td>
       <td>10000</td>
       <td>3500</td>
-      <td rowspan="5">(Pain Fullness)</td>
+      <td rowspan="5">(Pain Fueled)</td>
       <td rowspan="8">Chance to restore fullness by 1<br/>when you receive damage.<br/>(Untested)</td>
     </tr>
     <tr>
@@ -2122,7 +2122,7 @@ Extra exp from defeating a monster will not carry forward when a shield levels u
       <td>13500</td>
       <td>15000</td>
       <td>5250</td>
-      <td rowspan="3">(Pain Fullness)<br/>Rustproof</td>
+      <td rowspan="3">(Pain Fueled)<br/>Rustproof</td>
     </tr>
     <tr>
       <td>7</td>

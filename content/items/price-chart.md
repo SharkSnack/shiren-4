@@ -1183,7 +1183,7 @@ Example: Meteor Guard-1 (Cursed): 0.8 x {3200 x (1 - 0.05)} = 3200 x 0.8 x 0.95 
     <td>2975</td>
     <td class="tableDivider"></td>
     <td class="priceTableName">Bowl Shield</td>
-    <td class="leftText">Pain Fullness</td>
+    <td class="leftText">Pain Fueled</td>
     <td>4</td>
     <td>15</td>
     <td>5</td>

@@ -285,7 +285,7 @@ It might seem like eating food you find on the ground or buy from shops is the o
 |Revive via Revival or Undo grass, Wanderer Rescue|Max|
 |Get hit by Mutaikon family special attacks|5|
 |Get hit by a grass thrown by Bored Kappa|5|
-|Bowl Shield (<span class="greenText">Pain Fullness</span>) - small chance|1|
+|Bowl Shield (<span class="greenText">Pain Fueled</span>) - small chance|1|
 |Stay at an Inn (Gonchiki Village, Inn of the Wind)|Max|
 |Peko (NPC)|Max|
 

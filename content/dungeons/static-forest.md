@@ -15,6 +15,7 @@ It's a day-only dungeon, and field of view alternates between visible and dark h
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
   <li><a href="#strategy">Strategy</a></li>
+  <li><a href="#floor-guide">Floor Guide</a></li>
   <li><a href="#monsters">Monsters</a></li>
   <li><a href="#items">Items</a></li>
   <li><a href="#traps">Traps</a></li>
@@ -548,7 +549,7 @@ Monster Detector + Transient Staff can be used to quickly locate the stairs.
 
 See [Monsters](/system/monsters) for individual monster details.
 
-Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlightUseful">Useful</span> <span class="highlightItem">Destroys Items</span> <span class="highlightOffense">High Offense</span> <span class="highlightDanger">Dangerous</span> <span class="highlightExtreme">Very Dangerous</span>
+Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlightUseful">Useful</span> <span class="highlightItem">Destroys Items</span> <span class="highlightOffense">High Offense</span> <span class="highlightDanger">Dangerous</span> <span class="highlightExtreme">Very Dangerous</span>
 
 <table class="monsterTable">
   <thead>
@@ -622,7 +623,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td>DJ Mage</td>
     </tr>
     <tr>
-      <th>8</th>
+      <th class="highlightFog">8</th>
       <td class="highlightOffense">Ironhead</td>
       <td class="highlightItem">Gazer</td>
       <td class="highlightOffense">Kumonigiri</td>
@@ -631,7 +632,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <th>9</th>
+      <th class="highlightFog">9</th>
       <td class="highlightOffense">Ironhead</td>
       <td class="highlightItem">Gazer</td>
       <td>Explochin</td>
@@ -640,7 +641,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <th>10</th>
+      <th class="highlightFog">10</th>
       <td class="highlightUseful">Mixer</td>
       <td class="highlightDanger">Pumphantasm</td>
       <td>Explochin</td>
@@ -649,7 +650,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <th>11</th>
+      <th class="highlightFog">11</th>
       <td class="highlightUseful">Mixer</td>
       <td class="highlightDanger">Pumphantasm</td>
       <td>Explochin</td>
@@ -658,7 +659,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <th>12</th>
+      <th class="highlightFog">12</th>
       <td class="highlightUseful">Mixer</td>
       <td class="highlightDanger">Pumphantasm</td>
       <td>Spin Polygon</td>
@@ -667,7 +668,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <th>13</th>
+      <th class="highlightFog">13</th>
       <td class="highlightItem">Gyadon</td>
       <td class="highlightDanger">Pumphantasm</td>
       <td>Spin Polygon</td>
@@ -676,7 +677,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td>Cross Cart</td>
     </tr>
     <tr>
-      <th>14</th>
+      <th class="highlightFog">14</th>
       <td class="highlightItem">Gyadon</td>
       <td class="highlightDanger">Pumphantasm</td>
       <td>Spin Polygon</td>
@@ -685,7 +686,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightDanger">Mutaikon</td>
     </tr>
     <tr>
-      <th>15</th>
+      <th class="highlightFog">15</th>
       <td class="highlightItem">Gyadon</td>
       <td>Dagger Bee</td>
       <td class="highlightGray"></td>
@@ -766,7 +767,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <th>24</th>
+      <th class="highlightFog">24</th>
       <td>Glare Bird</td>
       <td class="highlightItem">Curse Sister</td>
       <td class="highlightExtreme">Eligan</td>
@@ -775,7 +776,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <th>25</th>
+      <th class="highlightFog">25</th>
       <td>Glare Bird</td>
       <td class="highlightGray"></td>
       <td class="highlightExtreme">Eligan</td>
@@ -784,7 +785,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightItem">Super Gazer</td>
     </tr>
     <tr>
-      <th>26</th>
+      <th class="highlightFog">26</th>
       <td class="highlightDanger">Demon Scorp</td>
       <td class="highlightGray"></td>
       <td class="highlightExtreme">Eligan</td>
@@ -793,7 +794,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightItem">Grime</td>
     </tr>
     <tr>
-      <th>27</th>
+      <th class="highlightFog">27</th>
       <td class="highlightDanger">Demon Scorp</td>
       <td class="highlightGray"></td>
       <td class="highlightExtreme">Eligan</td>
@@ -802,7 +803,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightItem">Super Gazer</td>
     </tr>
     <tr>
-      <th>28</th>
+      <th class="highlightFog">28</th>
       <td class="highlightDanger">Demon Scorp</td>
       <td class="highlightGray"></td>
       <td class="highlightExtreme">Eligan</td>
@@ -811,7 +812,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightItem">Grime</td>
     </tr>
     <tr>
-      <th>29</th>
+      <th class="highlightFog">29</th>
       <td class="highlightDanger">Demon Scorp</td>
       <td class="highlightGray"></td>
       <td class="highlightExtreme">Eligan</td>
@@ -820,7 +821,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightItem">Super Gazer</td>
     </tr>
     <tr>
-      <th>30</th>
+      <th class="highlightFog">30</th>
       <td class="highlightDanger">Demon Scorp</td>
       <td class="highlightGray"></td>
       <td>Dance Polygon</td>
@@ -829,7 +830,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightItem">Grime</td>
     </tr>
     <tr>
-      <th>31</th>
+      <th class="highlightFog">31</th>
       <td class="highlightDanger">Dazikon</td>
       <td class="highlightGray"></td>
       <td>Dance Polygon</td>
@@ -910,7 +911,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <th>40</th>
+      <th class="highlightFog">40</th>
       <td class="highlightUseful">Poofy</td>
       <td>Tiger Hurler</td>
       <td class="highlightExtreme">Nuttie</td>
@@ -919,7 +920,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td>Falcon Tengu</td>
     </tr>
     <tr>
-      <th>41</th>
+      <th class="highlightFog">41</th>
       <td class="highlightUseful">Poofy</td>
       <td class="highlightItem">Ooze</td>
       <td class="highlightExtreme">Nuttie</td>
@@ -928,7 +929,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td>Falcon Tengu</td>
     </tr>
     <tr>
-      <th>42</th>
+      <th class="highlightFog">42</th>
       <td class="highlightUseful">Poofy</td>
       <td class="highlightItem">Ooze</td>
       <td class="highlightExtreme">Nuttie</td>
@@ -937,7 +938,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td>Falcon Tengu</td>
     </tr>
     <tr>
-      <th>43</th>
+      <th class="highlightFog">43</th>
       <td class="highlightUseful">Poofy</td>
       <td class="highlightItem">Ooze</td>
       <td class="highlightExtreme">Nuttie</td>
@@ -946,7 +947,7 @@ Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlig
       <td>Falcon Tengu</td>
     </tr>
     <tr>
-      <th>44</th>
+      <th class="highlightFog">44</th>
       <td class="highlightUseful">Poofy</td>
       <td class="highlightItem">Ooze</td>
       <td class="highlightExtreme">Nuttie</td>

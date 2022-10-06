@@ -400,7 +400,7 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
     <td>Gain experience points when hit</td>
   </tr>
   <tr>
-    <td class="highlightYellow">Pain Fullness</td>
+    <td class="highlightYellow">Pain Fueled</td>
     <td class="highlightLightblue">Bowl Shield</td>
     <td></td>
     <td class="highlightLightblue">Dull Gold Shield L8</td>
@@ -768,7 +768,7 @@ Non-innate runes always have the Lv1 multiplier, regardless of equipment level.
       <td>Portion of damage reflected</td>
     </tr>
     <tr>
-      <td class="highlightYellow">Pain Fullness</td>
+      <td class="highlightYellow">Pain Fueled</td>
       <td class="highlightLightblue">Bowl Shield</td>
       <td></td>
       <td></td>
@@ -858,7 +858,7 @@ This section gives a rough idea of rune priority for dungeons that don't allow c
     </tr>
     <tr>
       <td class="highlightLightblue">Low</td>
-      <td>Anti-Theft, Anti-Burgle, HP+5, Damage Exp, Pain Fullness</td>
+      <td>Anti-Theft, Anti-Burgle, HP+5, Damage Exp, Pain Fueled</td>
     </tr>
     <tr>
       <td class="highlightGray">Avoid</td>

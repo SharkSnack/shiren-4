@@ -42,7 +42,7 @@ Ally characters can also appear as wandering NPCs, and can be recruited by talki
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/upgrader.png"/><br/>Upgrader</td>
-    <td>Deposit a weapon or shield, and he'll return it to you the next time you meet him<br/>with the item having gained lots of skill points. (Often enough to increase level by 1)<br/>The Item Book is updated right away if the deposited item levels up.</td>
+    <td>Deposit a weapon or shield, and he'll return it to you the next time you meet him<br/>with the item having gained lots of skill points (Often enough to increase level by 1).<br/>The Item Book is updated right away if the deposited item levels up.</td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/peddler.png"/><br/>Peddler</td>
@@ -78,7 +78,7 @@ Ally characters can also appear as wandering NPCs, and can be recruited by talki
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/bad_morph.png"/><br/>Bad Morph</td>
-    <td>Banana Morph who can't turn items into Yellow Bananas.<br/>He'll offer to change an item into a banana if you choose not to laugh at him.<br/>1st: Spoiled Banana, 2nd: Green Banana, 3rd: Grilled Banana, 4th: Banana Peel,<br/>5th: Shiren turns into a banana, 6th onward: Ice Banana.</td>
+    <td>Only appears on 1-12F and 19-26F.<br/>Banana Morph who can't turn items into Yellow Bananas.<br/>He'll offer to change an item into a banana if you choose not to laugh at him.<br/>1st: Spoiled Banana, 2nd: Green Banana, 3rd: Grilled Banana, 4th: Banana Peel,<br/>5th: Shiren turns into a banana, 6th onward: Ice Banana.</td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/appraiser.png"/><br/>Appraiser</td>
@@ -86,7 +86,7 @@ Ally characters can also appear as wandering NPCs, and can be recruited by talki
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/scribe.png"/><br/>Scribe</td>
-    <td>Only appears between 11-12F and 19-26F.<br/>Give her a Blank Scroll to receive a scroll that you haven't read before.<br/>Occasionally fails, resulting in a Piece of Paper.<br/>Receive an Invitation if you've read all other scrolls.</td>
+    <td>Only appears on 11-12F and 19-26F.<br/>Give her a Blank Scroll to receive a scroll that you haven't read before.<br/>Occasionally fails, resulting in a Piece of Paper.<br/>Receive an Invitation if you've read all other scrolls.</td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/bargain.png"/><br/>Bargain<br/>Hunter</td>
@@ -126,31 +126,31 @@ Ally characters can also appear as wandering NPCs, and can be recruited by talki
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/apprentice.png"/><br/>Apprentice</td>
-    <td>Teaches you a new necklace ability. (Selected randomly)<br/>・Cluster Confusion<br/>・Bi-Direction Bind<br/>・Circle Wave</td>
+    <td>Teaches you a new necklace ability (Selected randomly) - Only appears on 1-7F.<br/>・Cluster Confusion<br/>・Bi-Direction Bind<br/>・Circle Wave</td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/tradesman.png"/><br/>Tradesman</td>
-    <td>Teaches you a new necklace ability. (Selected randomly)<br/>・Billiards Blast<br/>・8-Way Boom Bullet<br/>・Piercing Blast<br/>・Draining Circle</td>
+    <td>Teaches you a new necklace ability (Selected randomly) - Only appears on 6-12F.<br/>・Billiards Blast<br/>・8-Way Boom Bullet<br/>・Piercing Blast<br/>・Draining Circle</td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/master.png"/><br/>Master</td>
-    <td>Teaches you a new necklace ability. (Selected randomly)<br/>・Room Shockwave<br/>・Piercing Cross Blast<br/>・Dazing Circle<br/>・8-Way Slumber Shot<br/>・8-Way Piercing Blast</td>
+    <td>Teaches you a new necklace ability (Selected randomly) - Only appears on 19-23F.<br/>・Room Shockwave<br/>・Piercing Cross Blast<br/>・Dazing Circle<br/>・8-Way Slumber Shot<br/>・8-Way Piercing Blast</td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/inn_girl.png"/><br/>Inn Girl</td>
-    <td>Only appears between 6-12F and 19-20F.<br/>Guide her to Inn of the Wind to unlock the inn service.</td>
+    <td>Only appears on 6-12F and 19-20F.<br/>Guide her to Inn of the Wind to unlock the inn service.</td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/inn_boy.png"/><br/>Inn Boy</td>
-    <td>Only appears between 6-12F and 19-20F.<br/>Guide him to Inn of the Wind to unlock the item shop.</td>
+    <td>Only appears on 6-12F and 19-20F.<br/>Guide him to Inn of the Wind to unlock the item shop.</td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/inn_gramps.png"/><br/>Inn Gramps</td>
-    <td>Only appears between 6-12F and 19-20F.<br/>Guide him to Inn of the Wind to unlock the storehouse.</td>
+    <td>Only appears on 6-12F and 19-20F.<br/>Guide him to Inn of the Wind to unlock the storehouse.</td>
   </tr>
   <tr>
     <td class="highlightYellow"><img src="../images/npc/inn_man.png"/><br/>Inn Man</td>
-    <td>Only appears between 6-12F and 19-20F.<br/>Guide him to Inn of the Wind along with the other 3 inn NPCs to unlock Trial Road.</td>
+    <td>Only appears on 6-12F and 19-20F.<br/>Guide him to Inn of the Wind along with the other 3 inn NPCs to unlock <a href="/shiren-4/dungeons/trial-road">Trial Road</a>.</td>
   </tr>
   <tr>
     <td class="highlightYellow">Madam<br/>Ateska</td>

@@ -39,7 +39,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
       <li><a href="#gonchiki-inn">Inn</a></li>
       <li><a href="#gonchiki-shop">Shop</a></li>
       <li><a href="#gonchiki-blacksmith">Blacksmith</a></li>
-      <li><a href="#sentry">Sentry</a></li>
+      <li><a href="#watchman's-lodge">Watchman's Lodge</a></li>
       <li><a href="#gonchiki-monkey-express">Monkey Express</a></li>
     </ul>
   </li>
@@ -182,7 +182,8 @@ There are 6 notable overworld areas in the game, and each village has its own NP
 
 - Mini-game: <a href="/shiren-4/dungeons/statue-cave">Statue Cave</a>.
 - Training facilities to help you learn how to play the game.
-    - <a href="/shiren-4/dungeons/shrine-of-challenges">Shrine of Challenges</a>, <a href="/shiren-4/dungeons/shrine-of-night-adventures">Shirne of Night Adventures</a>
+    - <a href="/shiren-4/dungeons/shrine-of-challenges">Shrine of Challenges</a>
+    - <a href="/shiren-4/dungeons/shrine-of-night-adventures">Shirne of Night Adventures</a>
 
 <div id="boronga-shop" class="facility relativeImage">
   Shop <img src="../images/other/icon_shop.png"/>
@@ -478,7 +479,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
   Tavern <img src="../images/other/icon_tavern.png"/>
 </div>
 
-- Allies can be recruited from the tavern after they join you.
+- Allies can be recruited inside the tavern after they join you.
 - Talk to the woman behind the counter to receive Undo Grass.
 - Talk to the youth near the right wall to set the Bargain Hunter shopping flag.
 - Talk to Banana Prince outside the tavern to set the Banana Kingdom flag.
@@ -755,7 +756,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
     - Erase a rune of your choice.
 
 <div id="sentry" class="facility relativeImage">
-  Sentry <img src="../images/other/icon_sentry.png"/>
+  Watchman's Lodge <img src="../images/other/icon_sentry.png"/>
 </div>
 
 - Pick up tagged items here if you collapse or otherwise lose them.
@@ -1316,7 +1317,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
 
 - Leave items on the ground to store them.
 - Dungeon gameplay mode inside the warehouse.
-- Unlocked by giving 1000 Gitan to the Business Monkey NPC.
+- Unlocked by giving 1000 Gitan to the <a href="/shiren-4/system/npcs">Business Monkey</a> NPC.
     - Give 3000 and 5000 Gitan in subsequent encounters to upgrade the warehouse.
 - 6 tiles total after being fully upgraded.
 
@@ -1398,7 +1399,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
   Inn <img src="../images/other/icon_inn.png"/>
 </div>
 
-- Unlocked by guiding <a href="/shiren-4/system/npcs#inn-girl">Inn Girl</a> to this location.
+- Unlocked by guiding <span class="blueText">Inn Girl</span> to this location.
 - Pay 1000 Gitan to fully restore HP, fullness and strength.
     - Occasionally increases max HP, max strength, or max fullness.
 
@@ -1406,7 +1407,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
   Shop <img src="../images/other/icon_shop.png"/>
 </div>
 
-- Unlocked by guiding <a href="/shiren-4/system/npcs#inn-boy">Inn Boy</a> to this location.
+- Unlocked by guiding <span class="blueText">Inn Boy</span> to this location.
 - The shopkeeper can tag equipment for 3000 Gitan.
 - 8 items are randomly selected from the following:
 
@@ -1571,7 +1572,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
   Storehouse <img src="../images/other/icon_storage.png"/>
 </div>
 
-- Unlocked by guiding <a href="/shiren-4/system/npcs#inn-gramps">Inn Gramps</a> to this location.
+- Unlocked by guiding <span class="blueText">Inn Gramps</span> to this location.
 - The storehouse is shared between Boronga Village and Inn of the Wind.
 - Deposit and withdraw up to 80 items.
     - Use Storage Pots to increase storage space.

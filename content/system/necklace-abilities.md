@@ -216,7 +216,7 @@ There are a total of 29 abilities that Shiren can learn.<br/>Use a Calling Pot a
   <tr>
     <td>Light Arrow</td>
     <td>B (45)</td>
-    <td>Edna Only</td>
+    <td><a href="/shiren-4/system/allies#edna">Edna</a> Only</td>
     <td>Shoot a piercing bullet in a straight line. Unlimited uses.</td>
   </tr>
 </table>
@@ -239,21 +239,21 @@ There are a total of 29 abilities that Shiren can learn.<br/>Use a Calling Pot a
 - Cross Apathy Shot (Lv26) → Cross Boom Bullet
 - Three Screams (Lv99)
 
-#### Apprentice
+#### Apprentice (Emerald Terrace 1-7F)
 
 - Cluster Confusion
 - Piercing Arrow → Sleepy Arrow
 - Bi-Direction Bind → Bi-Direction Blast
 - Circle Wave → Pyrrhic Circle
 
-#### Tradesman
+#### Tradesman (Emerald Terrace 6-12F)
 
 - 8-Way Boom Bullet
 - Billiards Blast
 - Draining Circle
 - Piercing Blast → Slowing Blast
 
-#### Master
+#### Master (Emerald Terrace 19-23F)
 
 - 8-Way Slumber Shot
 - 8-Way Piercing Blast
@@ -1071,9 +1071,8 @@ and then fill the remaining slots with attack type abilities.
 
 #### Entrancing Lane (Balanced)
 
-- Cluster Confusion x 2
-- Room Cyclone x 2
-- Kaboom Bullet x 2
+- Cluster Confusion x 3
+- Room Cyclone x 3
 - (Kaboom Bullet or Bi-Direction Warp or Sticky Shot) x 2
 
 #### Ceiling Cave (Balanced)
