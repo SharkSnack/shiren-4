@@ -643,7 +643,7 @@ Monster Detector, Wall Clip Bracelet, and Heal Bracelet are the "Sacred Treasure
   <li><span class="goldText">Strider Bracelet</span>
     <ul>
       <li>Collect island items, unequip over water to warp, step in place over water to safely recover HP.</li>
-      <li>Be warned that scrolls and bananas outside of pots will get wet or spoil.</li>
+      <li>Be warned that scrolls outside of pots will get wet.</li>
     </ul>
   </li>
   <li>Happy Bracelet

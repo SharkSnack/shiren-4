@@ -19,7 +19,7 @@ However, it's possible to refresh abilities by reading a Replenish Scroll,<br/>
 being revived by Revival Grass / Undo Grass, or the "Cross" formation taking effect.
 
 Attack power of abilities increases as Shiren levels up.<br/>
-Most abilities deal 2 damage to shopkeepers, but status effects still work on them.
+Most abilities deal 2 damage to shopkeepers, but status effects still work on them.<br/>※ Unlike Shiren 5, Three Screams <span class="blueText">can</span> one-shot Shopkeepers.
 
 <ul class="quickLinksUL">
   <li><a href="#ability-list">Ability List</a></li>
@@ -199,7 +199,7 @@ There are a total of 29 abilities that Shiren can learn.<br/>Use a Calling Pot a
     <td>Three Screams</td>
     <td>-</td>
     <td>Lv99</td>
-    <td>Instantly defeats targets in front of you in 3 forward directions,<br/>but you don't gain experience points.</td>
+    <td>Instantly defeats targets in front of you in 3 forward directions,<br/>but you don't gain experience points. (It works on Shopkeepers)</td>
   </tr>
   <tr>
     <td>Cluster Confusion</td>
@@ -1050,14 +1050,14 @@ and then fill the remaining slots with attack type abilities.
   </tbody>
 </table>
 
-#### Balanced 1
+#### Balanced
 
 - Cluster Confusion
 - Room Cyclone x 2
 - Kaboom Bullet x 4
 - Sticky Shot
 
-#### Balanced 2
+#### Balanced (No Cluster)
 
 - Darkroom
 - Room Cyclone x 2
@@ -1066,29 +1066,30 @@ and then fill the remaining slots with attack type abilities.
 
 #### Entrancing Lane (Farming)
 
-- Cluster Confusion x 4
 - Room Cyclone x 4
+- Cluster Confusion x 4
 
 #### Entrancing Lane (Balanced)
 
-- Cluster Confusion x 3
 - Room Cyclone x 3
+- Cluster Confusion x 3
 - (Kaboom Bullet or Bi-Direction Warp or Sticky Shot) x 2
 
 #### Ceiling Cave (Balanced)
 
-- Darkroom
-- Room Cyclone x 2
-- Kaboom Bullet x 3
-- (Bi-Direction Warp or Sticky Shot)
-- (8-Way Slumber Shot or Cross Apathy Shot)
-
-#### Ceiling Cave (Stealing)
-
-- Darkroom
-- Room Cyclone x 2
+- Kaboom Bullet x 2
 - Sticky Shot
-- Bi-Direction Warp x 4
+- Bi-Direction Warp
+- Three Screams
+- Room Cyclone x 2
+- Darkroom
+
+#### Ceiling Cave (More Offense)
+
+- Kaboom Bullet x 3
+- Three Screams x 2
+- Room Cyclone x 2
+- Darkroom
 
 #### Still Learning
 

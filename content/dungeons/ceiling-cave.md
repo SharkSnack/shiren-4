@@ -17,6 +17,7 @@ Hallways are visible on all floors during the day, but the monster table is quit
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
   <li><a href="#strategy">Strategy</a></li>
+  <li><a href="#floor-guide">Floor Guide</a></li>
   <li><a href="#monsters">Monsters</a></li>
   <li><a href="#items">Items</a></li>
   <li><a href="#traps">Traps</a></li>
@@ -92,9 +93,348 @@ Hallways are visible on all floors during the day, but the monster table is quit
 
 # Strategy
 
-[Quick Links]
+<ul class="quickLinksUL">
+  <li><a href="#before-entering">Before Entering</a></li>
+  <li><a href="#general">General</a></li>
+  <li><a href="#time-cycling">Time Cycling</a></li>
+  <li><a href="#abilities">Abilities</a></li>
+  <li><a href="#equipment">Equipment</a></li>
+  <li><a href="#other-items">Other Items</a></li>
+</ul>
 
-[Content]
+### Before Entering
+
+It's strongly recommended to register Extinction to the Blank Scroll list.
+
+### General
+
+Similar to [Bayside Monster Cave](/dungeons/bayside-monster-cave), most items are found unidentified.<br/>Shops are a bit more common, but Pick-A-Choice Shops are never generated.<br/><span class="dangerDay">※ When a shop is generated, it's often in the upper left side of the map.</span>
+
+Hallways are visible on all floor during the day, but it's difficult to collect arrows.<br/>Synthesis is also hard, since Mixers only spawn at night and you have to rely on time of day changing.<br/>N'dubba types appear on many floors, so items you find can't always be trusted, and so on.
+
+Hidden hallways can be generated, and Stairs? Traps can be found starting on 91F.<br/>While Balance Staff is in the item table, Trip Stones are never generated in this dungeon.
+
+#### Presto Pot
+
+The item table for Presto Pots is very limited, and there's a high chance you'll obtain torches.
+
+- Scrolls - <span class="redText">Navigation</span>, <span class="redText">Night-Day</span>, <span class="orangeText">Replenish</span>, Confusion, Slumber, Fear, Air Slash.
+- Other - <span class="redText">Super Torch</span>, <span class="orangeText">Fine Torch</span>, Torch, Green Banana, Yellow Banana, Ripe Banana, Weeds.
+
+So basically, Presto Pots provide lots of key items used to progress at night.<br/>It's best to reuse the pot by reading a Suction Scroll on it instead of breaking it.
+
+#### Vanishing Items
+
+There are many downsides to consider regarding the inability to place items on the ground.
+
+<p><span class="redText">A Rank</span></p>
+
+- Hard to utilize pots other than Storage Pot.
+    - You have to wait until you find a shop to retrieve the pot's contents.
+- Hard to synthesize using Mixers.
+    - Mixers only appear at night, and you often have to rely on time of day changing.
+- Accidentally placing an important item like Storage Pot or Blank Scroll on the ground.
+- Monsters like Bored Kappa, Kengo, Gazer, Gyadon, Item Knave are a greater threat.
+
+<p><span class="orangeText">B Rank</span></p>
+
+- Items dropped by monsters are lost.
+    - It's pointless to hunt Plump Snacky, Bad Zalokleft, etc. outside of shops.
+- Hard to utilize Gitan as a projectile without a Storage Pot.
+    - If you swap Gitan with an inventory item, the inventory item is lost.
+- Can't collect arrows or Spoiled Bananas using traps.
+- Can't insert single arrows, rocks, or talismans into Presto Pots outside of shops.
+
+<p><span class="goldText">C Rank</span></p>
+
+- If your inventory is full, you can't place an item down to reorganize Storage Pots.
+- Banana Peels are useless outside of shops.
+- If you break a Black Hole Pot outside of a shop, Pit Traps won't appear.
+- Hard to make use of Identifier status gained from eating a Chocolate Banana.
+
+#### General Outline
+
+Monster Detector, Wall Clip Bracelet, and Heal Bracelet are extremely good.<br/>Dotanuki, Beast, Meteor, and Red sets are all solid 2 bracelet resonance choices.<br/>Runes are more important than stats late game, so it's fine to go with whichever set you find first.
+
+Do your best to synthesize at least 1 time on floors where Dark Mixer types appear.<br/>Synthesis Pots are somewhat common, but you have to wait until a shop to utilize them.
+
+Think carefully about which runes you want to synthesize first.<br/><span class="greenText">Tri-direction</span> is top priority if you haven't found Wall Clip Bracelet.<br/><span class="greenText">1/2 Hunger</span> makes it easier to cycle time of day and utilize Heal Bracelet.<br/>Otherwise, it's best to check the monster table and consider the items you have on hand.
+
+Try to avoid using unidentified items on N'mach (30-45F) and N'dup (61-80F) floors.<br/>It might be worth keeping notes about which dangerous items haven't been identified yet,<br/>including Rage Grass, Pinning Staff, Attraction Scroll, Muzzled Scroll, and Grounded Scroll.
+
+- Early Game
+    - Keep an eye out for Monster Detector, Wall Clip Bracelet, 2 bracelet resonance equipment.
+    - Some players retry the dungeon if they don't find a shop, but good items can be found on the ground.
+    - Synthesis Pot isn't super rare, and 5000 Gitan bracelets are often sold in shops.
+- Mid Game
+    - N'dubba types are a big nuisance - If you found a Blank Scroll, throw an Extinction Scroll at one.<br/>This has the side effect of turning all disguised N'dubba types into real items.
+    - Dangerous traps like Banana Trap can be generated starting around Sky Dragon floors,<br/>so it's recommended to check for traps at least during the night.
+- Late Game
+    - Keep rocks on hand for Gitan Mamel (84-89F) floors.
+    - Dangerous floors mostly alternate between day and night, so choose the safer time of day.<br/>This applies to Horrabbit, Dozikon, Archdragon, Porgon, Mesmerikon, etc.
+    - Rush stairs at night from 91-99F, using Night-Day Scrolls in hallways when it changes to daytime.
+
+### Time Cycling
+
+#### Cycling to Daytime
+
+Walking around at night without a Monster Detector or Lamp Shield + Torch resonance can be risky,<br/>so sometimes it can be better to secure a safer spot before sunset and wait out the night.
+
+<pre class="diagram">
+S = Shiren, M = Monster<br/>
+<br/>
+■ ■ ■ ■ ■ ■  Stepping in place next to a hallway corner lets you see incoming enemies.<br/>
+■ □ S □ □ ■  Paralyze the monster on floors where enemies who can attack through corners<br/>
+■ M ■ ■ ■ ■  or enemies with swift action speed appear for added safety.<br/>
+■ □ ■ ■ ■ ■<br/>
+<br/>
+■ ■ ■ □ ■<br/>
+■ □ S □ ■  Natural hallways that look like this can also be used.<br/>
+■ □ ■ ■ ■<br/>
+<br/>
+■ ■ ■ <br/>
+■ S ■  Use a Wall Clip Bracelet + Rusty Pickaxe or Tunnel Staff to dig out a safe tile.<br/>
+■ ■ ■
+</pre>
+
+#### Cycling to Night
+
+If you don't want to fight daytime enemies, find a spot in a hallway where enemies are unlikely to approach.<br/>Enemies almost always walk straight when a hallway branches unless they bump into another enemy.
+
+<pre class="diagram">
+S = Shiren, M = Monster, P = Paralyzed Monster<br/>
+<br/>
+■ ■ ■ P ■ ■<br/>
+■ ■ S □ ■ ■  Enemies are unlikely to enter from below, so it's safe to step in place.<br/>
+■ ■ □ ■ ■ ■  Paralyze an enemy on the P tile for added safety.<br/>
+□ □ □ ← M □<br/>
+■ ■ ■ ■ ■ ■
+</pre>
+
+### Abilities
+
+See [Abilities](/system/necklace-abilities) for details.<br/>
+※ Unlike Shiren 5, Three Screams <span class="blueText">can</span> one-shot Shopkeepers.
+
+#### Balanced
+
+- Kaboom Bullet x 2
+- Sticky Shot
+- Bi-Direction Warp
+- Three Screams
+- Room Cyclone x 2
+- Darkroom
+
+#### More Offense
+
+- Kaboom Bullet x 3
+- Three Screams x 2
+- Room Cyclone x 2
+- Darkroom
+
+### Equipment
+
+Finding a weapon and shield set that grants 2 bracelet resonance is top priority.<br/>That said, Katana, Copper, and Palm sets lack base stats, so only use them if you're desperate.
+
+#### Weapon
+
+<ul>
+  <li><span class="redText">Red Blade</span>
+    <ul>
+      <li>Few starting rune slots and slow growth rate, but high base attack.</li>
+      <li>Gains <span class="greenText">Flame Shot</span> at Lv8, which slows down the pace of gameplay and can be annoying.</li>
+    </ul>
+  </li>
+  <li><span class="redText">Meteor Edge</span>
+    <ul>
+      <li>Great balance of attack power, rune slots, and growth rate.</li>
+      <li>Gains <span class="greenText">Rustproof</span> at Lv8.</li>
+    </ul>
+  </li>
+  <li><span class="orangeText">Dotanuki</span>
+    <ul>
+      <li>Good starting rune slots, attack power, and growth rate.</li>
+      <li>Gains <span class="greenText">Atk+3</span> at Lv8.</li>
+    </ul>
+  </li>
+  <li><span class="goldText">Beast Fang</span>
+    <ul>
+      <li>Lower attack power and starting rune slots, but fast growth rate.</li>
+      <li>Gains <span class="greenText">Rustproof</span> at Lv5.</li>
+    </ul>
+  </li>
+</ul>
+
+#### Shield
+
+<ul>
+  <li><span class="redText">Red Shield</span>
+    <ul>
+      <li>Great defense, good rune slot count, but slow growth rate.</li>
+      <li>Gains <span class="greenText">1/2 Fire</span> and <span class="greenText">Anti-Peck</span> at Lv8, which are both fantastic.</li>
+    </ul>
+  </li>
+  <li><span class="redText">Meteor Guard</span>
+    <ul>
+      <li>Great balance of defense, rune slots, and growth rate.</li>
+      <li>Gains <span class="greenText">Rustproof</span> at Lv5 and <span class="greenText">Anti-Theft</span> at Lv8.</li>
+    </ul>
+  </li>
+  <li><span class="orangeText">Clan Shield</span>
+    <ul>
+      <li>Lower defense, but good rune slot count and fast growth rate.</li>
+      <li>Gains <span class="greenText">Rustproof</span> at Lv5.</li>
+    </ul>
+  </li>
+  <li><span class="goldText">Beast Shield</span>
+    <ul>
+      <li>Good defense, rune slot count, and growth rate.</li>
+      <li>Gains <span class="greenText">Def+3</span> at Lv8.</li>
+    </ul>
+  </li>
+  <li><span class="redText">Lamp Shield</span>
+    <ul>
+      <li>Use its resonance effect with a torch at night to have an easier time locating stairs.</li>
+      <li>You can't use the <span class="blueText">Scout</span> command at night even with its resonance effect.</li>
+    </ul>
+  </li>
+</ul>
+
+#### Bracelets
+
+<ul>
+  <li><span class="redText">Monster Detector</span>
+    <ul>
+      <li>Makes night safer, locate shops, find stairs using Transient Staff, etc.</li>
+    </ul>
+  </li>
+  <li><span class="redText">Wall Clip Bracelet</span>
+    <ul>
+      <li>Have a one-sided fight vs. a monster by moving and attacking through corners.</li>
+      <li>Enter a wall and dig out a safe spot to cycle time of day if you have a Rusty Pickaxe.</li>
+      <li>Hallways are visible during the day on all floors, so this bracelet is even more potent.</li>
+    </ul>
+  </li>
+  <li><span class="redText">Heal Bracelet</span>
+    <ul>
+      <li>Quickly recover HP after fighting a powerful monster or stepping on a landmine.</li>
+    </ul>
+  </li>
+  <li><span class="orangeText">Item Detector</span>
+    <ul>
+      <li>Locate shops at a glance, check rooms for items more efficiently.</li>
+    </ul>
+  </li>
+</ul>
+
+### Other Items
+
+#### Miscellaneous
+
+- Navigation Scroll, Night-Day Scroll, Super Torch
+    - Save these for late game floors where you need to rush stairs at night.
+- Fine Torch
+    - Use these early and mid game to conserve Super Torches for later.
+- Blank Scroll
+    - If you're lucky enough to obtain one, throw Extinction Scroll at a N'dubba type monster.
+    - Be careful not to accidentally select <span class="blueText">Place</span> instead of <span class="blueText">Write</span>.
+- Purify Scroll
+    - Save it for Storage Pots, since you can't break sealed pots to retrieve items outside of shops.
+- Presto Pot
+    - Insert items in hopes of obtaining Navigation Scrolls, Night-Day Scrolls, and Super Torches.
+    - Reuse it by reading a Suction Scroll in a shop if possible.
+- Synthesis Pot
+    - Mixer synthesis is tricky, so think carefully about which runes you want to synthesize.
+    - Don't use it to simply add upgrade value together instead of adding runes.
+- Heal Pot
+    - Significant help on late game floors, but it's fine to use it earlier if the situation calls for it.
+- Chocolate Banana
+    - Chocolate Pot is somewhat common, so you can try aiming for Identifier status.
+    - However, Identify Pot is also on the common side, so another option is to use it as storage.
+
+# Floor Guide
+
+※ This section only lists notable monsters - Check the monster table for a full list.
+
+### 1F
+
+Check rooms for items, then hurry to the next floor.
+
+### 2-5F
+
+<p><span class="monsterDay">Day:</span> Bored Kappa (2-4F)<br/><span class="monsterNight">Night:</span> Plump Snacky (1-3F), Bad Zalokleft (3-5F)</p>
+
+Items thrown by Bored Kappa vanish, so use a staff or wait for night if you want to claim items.<br/>If you find a shop, consider trying to hunt Plump Snacky and Bad Zaloklefts for items.
+
+If a Bad Zalokleft steals an item, you can reclaim it by making it retreat to a corner in a room<br/>and then stepping in place until it changes to daytime.
+
+<pre class="diagram">
+S = Shiren, Z = Zalokleft<br/>
+<br/>
+■ □ □ □ □ □<br/>
+■ □ □ S □ □<br/>
+■ □ □ □ □ □<br/>
+■ Z □ □ □ □<br/>
+■ ■ ■ ■ ■ ■
+</pre>
+
+### 6-11F
+
+<p><span class="monsterDay">Day:</span> Curse Girl (6-8F), Scorpion (8-12F), Slime (10-12F), Fearabbit (10-12F), Tiger Tosser (11-15F)<br/><span class="monsterNight">Night:</span> Evil Gazer (7-9F), Dark Field Knave (8-10F), Dark Pop Tank (8-12F), Dark Absorbiphant (11-13F)</p>
+
+Lots of monsters with troublesome special attacks.<br/>It's recommended to go through 8-10F during the day to avoid Dark Field Knave turning items into Weeds.<br/>Dark Pop Tank's cannonballs deal 30 damage, so be very careful in rooms at night.
+
+### 12-16F
+
+<p><span class="monsterDay">Day:</span> Tiger Tosser (11-15F), Strong Cart (12-14F), Pumphantasm (13-17F), Porky (15-17F), Pot Knave (17-18F)<br/><span class="monsterNight">Night:</span> Dark Pop Tank (8-12F), Dark Absorbiphant (11-13F), <span class="blueText">Dark Mixer</span> (12-16F), Dark Ironhead (14-18F)</p>
+
+Don't equip Wall Clip Bracelet on Strong Cart floors, or you risk getting buried in a wall.
+
+Dark Mixer provides a chance to synthesize items, but doing so requires a special strategy.<br/>Eaten items vanish in this dungeon when a Dark Mixer is defeated by you or another monster, but the item<br/>is safe if the Dark Mixer disappears as a result of time of day changing to daytime instead of being defeated.
+
+Dark Mixers have regular AI at night, so they'll approach and follow you like their daytime counterparts.<br/>Lure it into a hallway corner and paralyze it to keep it safe from other monsters while waiting for daytime.
+
+Other options include:
+
+- Throw items right before it changes to daytime.
+    - It changes to daytime 45 turns after the warning.
+- Read a Night-Day Scroll.
+    - These scrolls are extremely valuable late game, so it's not recommended.
+- Defeat the Dark Mixer while inside a shop.
+    - It's best to use a Navigation Scroll or Monster Detector.
+- Dig out a safe tile using Wall Clip Bracelet + Rusty Pickaxe, then swing a Swap Staff at Dark Mixer.
+
+### 17-21F
+
+<p><span class="monsterDay">Day:</span> monster_name<br/><span class="monsterNight">Night:</span> monster_name</p>
+
+### 22-26F
+
+<p><span class="monsterDay">Day:</span> monster_name<br/><span class="monsterNight">Night:</span> monster_name</p>
+
+### 27-29F
+
+<p><span class="monsterDay">Day:</span> monster_name<br/><span class="monsterNight">Night:</span> monster_name</p>
+
+### 30-45F
+
+<p><span class="monsterDay">Day:</span> monster_name<br/><span class="monsterNight">Night:</span> monster_name</p>
+
+### 46-60F
+
+<p><span class="monsterDay">Day:</span> monster_name<br/><span class="monsterNight">Night:</span> monster_name</p>
+
+### 61-80F
+
+<p><span class="monsterDay">Day:</span> monster_name<br/><span class="monsterNight">Night:</span> monster_name</p>
+
+### 81-87F
+
+<p><span class="monsterDay">Day:</span> monster_name<br/><span class="monsterNight">Night:</span> monster_name</p>
+
+### 88-99F
+
+<p><span class="monsterDay">Day:</span> monster_name<br/><span class="monsterNight">Night:</span> monster_name</p>
 
 # Monsters
 
@@ -2844,7 +3184,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td class="leftText">Presto Pot</td>
     <td></td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>

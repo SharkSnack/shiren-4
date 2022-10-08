@@ -15,6 +15,7 @@ Despite being a 99F dungeon, it's among the easiest non-carry in dungeons in the
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
   <li><a href="#strategy">Strategy</a></li>
+  <li><a href="#floor-guide">Floor Guide</a></li>
   <li><a href="#monsters">Monsters</a></li>
   <li><a href="#items">Items</a></li>
   <li><a href="#traps">Traps</a></li>
@@ -144,6 +145,8 @@ What you do with the Blank Scrolls depends on your tolerance for monotonous game
 
 ### Abilities
 
+See [Abilities](/system/necklace-abilities) for details.
+
 Cluster Confusion and Room Cyclone are mandatory if you use the Blank Scroll strategy.<br/>That said, it can be nice to mix in some other abilities like Sticky Shot for late game floors.
 
 #### Balanced
@@ -159,13 +162,189 @@ Cluster Confusion and Room Cyclone are mandatory if you use the Blank Scroll str
 
 ### Equipment
 
+Monster Detector, Wall Clip Bracelet, and Heal Bracelet can all be found on the ground,<br/>so aim for a weapon and shield set that grants 2 bracelet resonance.
 
+#### Weapon
+
+<ul>
+  <li><span class="orangeText">Dotanuki</span>, <span class="orangeText">Beast Fang</span>
+    <ul>
+      <li>Can be found on the ground - Decent attack power, rune slots, and growth rate.</li>
+      <li>Stronger weapons are mostly from Elite Shops, so these are the most practical sets to aim for.</li>
+    </ul>
+  </li>
+  <li>Palm Stick
+    <ul>
+      <li>Very fast growth rate, so it's easy to rapidly boost its attack using Heaven Scrolls.</li>
+      <li>Unlike Shiren 5, it doesn't start with a very high upgrade limit.</li>
+    </ul>
+  </li>
+</ul>
+
+#### Shield
+
+<ul>
+  <li><span class="orangeText">Clan Shield</span>, <span class="orangeText">Beast Shield</span>
+    <ul>
+      <li>Can be found on the ground - Decent defense, rune slots, and growth rate.</li>
+      <li>Stronger shields are mostly from Elite Shops, so these are the most practical sets to aim for.</li>
+    </ul>
+  </li>
+  <li>Palm Shield
+    <ul>
+      <li>Very fast growth rate, so it's easy to rapidly boost its defense using Earth Scrolls.</li>
+      <li>Unlike Shiren 5, it doesn't start with a very high upgrade limit.</li>
+    </ul>
+  </li>
+</ul>
+
+#### Bracelets
+
+<ul>
+  <li><span class="redText">Monster Detector</span>
+    <ul>
+      <li>Makes night safer, locate shops, find stairs using Transient Staff, etc.</li>
+    </ul>
+  </li>
+  <li><span class="redText">Wall Clip Bracelet</span>
+    <ul>
+      <li>Have a one-sided fight vs. a monster by moving and attacking through corners.</li>
+      <li>Enter a wall and dig out a safe spot to cycle time of day if you have a Rusty Pickaxe.</li>
+    </ul>
+  </li>
+  <li><span class="redText">Heal Bracelet</span>
+    <ul>
+      <li>Quickly recover HP after fighting a powerful monster or stepping on a landmine.</li>
+    </ul>
+  </li>
+  <li><span class="orangeText">Item Detector</span>
+    <ul>
+      <li>Check rooms for items more efficiently, which usually leads to fewer accidents.</li>
+    </ul>
+  </li>
+  <li><span class="orangeText">Identify Bracelet</span>
+    <ul>
+      <li>Obtained from Elite or Pick-A-Choice shops.</li>
+      <li>Helps with early game identification, and checking use counts and item seals late game.</li>
+      <li>Cannot be used to identify N'mach or N'dups that have N'mach's ability.</li>
+    </ul>
+  </li>
+  <li><span class="orangeText">Pierce Bracelet</span>
+    <ul>
+      <li>Plays well with Monster Detector, and lets you use projectiles against Flash Birds.</li>
+      <li>Keep it unequipped on Mixer floors to avoid accidents.</li>
+    </ul>
+  </li>
+  <li><span class="goldText">Alert Bracelet</span>
+    <ul>
+      <li>Basically just for Sleep Traps, since you can throw an Extinction Scroll at Dozikon.</li>
+    </ul>
+  </li>
+  <li><span class="goldText">Cleansing Bracelet</span>
+    <ul>
+      <li>Basically just for Scorpions, since you can throw an Extinction Scroll at Mesmerikon.</li>
+    </ul>
+  </li>
+  <li><span class="goldText">Strider Bracelet</span>
+    <ul>
+      <li>Unequip over water to warp, or step in place over water to safely recover HP.</li>
+      <li>Scrolls outside of pots will get wet.</li>
+    </ul>
+  </li>
+</ul>
 
 ### Other Items
 
-
+<ul>
+  <li><span class="redText">Blank Scroll</span>
+    <ul>
+      <li>Use a blessed Suction Scroll to bless 5 items at once.</li>
+      <li>Read a Mon House Scroll to stock up on Navigation Scrolls and other items.</li>
+      <li>Upgrade inventory items using Heaven, Earth, and Pot God scrolls.</li>
+      <li>Throw Extinction Scroll at a troublesome monster, etc.</li>
+    </ul>
+  </li>
+  <li><span class="redText">Presto Pot</span>
+    <ul>
+      <li>Inserted items have a pretty high chance of turning into Blank Scrolls.</li>
+      <li>Increase capacity to 5 with Pot God Scrolls, then use Suction Scrolls to reuse it.</li>
+    </ul>
+  </li>
+</ul>
 
 # Floor Guide
+
+<p><span class="dangerDay">※ This section assumes the Blank Scroll strategy is being used.</span></p>
+
+### 1-10F
+
+#### 1F
+
+Floor that determines how the rest of the run will go based on Blank Scroll and Storage Pot drops.<br/>Once it becomes night, use Cluster Confusion → Room Cyclone to hunt Plump Snacky for a Blank Scroll.<br/>If a Blank Scroll didn't drop, and you didn't find one on the ground, select <span class="blueText">Give Up</span> and retry the dungeon.<br/>Once you obtain a Blank Scroll, throw an Extinction Scroll at Seedie to ensure only Plump Snacky spawns.<br/>Read a Replenish Scroll if you run out of ability uses, and linger until the 3rd wind blows.
+
+Increase capacity of Storage Pots using Pot God Scroll, and use blessed Suction Scrolls to reuse scrolls.<br/>Maneaters usually appear after 400 turns, which can be hunted to level up a weapon and shield.<br/>Gitan Mamel is also a nice target if you obtain a blessed Happy Staff, Berserk Talismans, etc.<br/>Once you have a good number of Blank Scrolls, feel free to upgrade your weapon and shield.
+
+Keep an eye out for Lamp Shield, as it lets you read scrolls at night without a torch equipped.<br/>Identify as many items as you can - Use a Chocolate Pot to gain Identifier status if possible.
+
+#### 2-5F
+
+Continue collecting items.<br/>Insert items into Presto Pots in hopes of obtaining bracelets and Revival Grass during the day,<br/>and use Cluster Confusion → Room Cyclone to hunt Plump Snacky (1-3F) and Bad Zalokleft (3-5F) at night.<br/>If you find a Chocolate Pot, use it on Foul Novice (2-4F) floors since they drop Spoiled Bananas.
+
+#### 6-10F
+
+Use Mon House Scrolls to obtain Navigation Scrolls and other items.<br/>Choose a large room to reduce the risk of collapsing from Dark Pop Tank (8-12F) at night.<br/>Field Knave (6-7F) during the day and Dark Field Knave (8-10F) at night makes it hard to collect all items.<br/>Swift Grass can be used before reading the Mon House Scroll to ensure safety.
+
+There's no need to carry torches or food until 10F - Use Navigation Scrolls and eat bananas off the floor.
+
+### 11-19F
+
+Mixer (12-14F) appears, so synthesize equipment and staves.<br/>Afterward, keep an eye out for Blank Scrolls while progressing using Navigation Scrolls.<br/>Remember to reuse scrolls using blessed Suction Scrolls instead of outright consuming them.<br/>It's best to have a Lamp Shield or Torch on hand in case you step on a Pit Trap at night.
+
+### 20-29F
+
+Bad Lime Zalokleft (20-22F) and Dark Pandanigiri (22-27F) can be hunted to restock items.<br/>Dragon (21-24F) also has a high item drop rate, and Lime Zalokleft (22-24F) always drops an item.<br/>It'd be good to level up your weapon and shield to increase rune slots before Mixermon (25-27F) floors.
+
+### 30-39F
+
+N'mach (31-45F) appears - Select <span class="blueText">Write</span> to check if a Blank Scroll is real or not.<br/>Dark Pot Knave (30-31F), Super Gazer (31-32F), and Grampa Tank (31-35F) can be troublesome.<br/>Munchy (37-39F) and Scarabbit (36-38F) overlap, so there's risk of a Horrabbit being generated.<br/>All said, it's probably best to rush stairs in this floor range since there's little reason to linger.
+
+### 40-49F
+
+N'mach (31-45F) is still around until 45F, so keep that in mind for items you find on the ground.<br/>It's recommended to rush stairs on Dark Item Knave (40-42F) floors to avoid item loss.<br/>Pandanigiri (46-50F) can drop Onigiri, but beware of Ooze (42-49F)'s rune-erasing special attack.<br/>Maneater types rank up to Mounteaters starting on 46F, which can't be one-shot using Kaboom Bullet.<br/>Mixergon (47-49F) provides another chance to synthesize items.
+
+Evil Oingodile (41-43F) and Evil Sing Polygon (43-45F) have regular AI at night,<br/>so it's best to stick to hallways or shops if you need to cycle to daytime.
+
+### 50-59F
+
+Tiger Chucker (50-53F) and Curse Mom (51-53F) overlap, so there's a higher risk of getting items cursed.<br/>Plump Munchy (49-53F) appears, but Vile Pumphantom (49-51F) and Evil Hyper Gazer (50-52F)<br/>are also around, so it's probably best to advance to the next floor if you get low on ability uses.
+
+Rush stairs on MC Wizard (54-57F), Item Knave (56-58F), and Vexing Kappa (57-59F) floors.<br/>However, if you have a Swap Shield (<span class="greenText">Magic Damage</span>), feel free to linger on 55F to hunt Munchy (55-57F).
+
+### 60-69F
+
+N'dup (61-80F) can be generated with N'mach's ability, so beware of items you find on the ground.<br/>Similar to N'mach floors, always select <span class="blueText">Write</span> to check if a Blank Scroll is real or not.<br/>Consider throwing an Extinction Scroll at Horrabbit (60-62F) if you don't have a Steady Shield,<br/>and then Dozikon to banish both Dozikon (63-65F) and Dark Dozikon (64-66F) if you lack an Alert Bracelet.
+
+Iron Zalokleft (65-67F) can be hunted for items, but watch out for Ornery Tank (65-67F).<br/>Dark Mixergon (63-65F) and Mixerdon (68-70F) are your last chances to synthesize without a Synthesis Pot.
+
+Evil Archdragon (69-75F) can breathe fire that deals 60 damage from anywhere on the floor.<br/>It doesn't use its special attack often, but it's still highly recommended to throw an Extinction Scroll at it.
+
+### 70-79F
+
+N'dup (61-80F) is still around until 80F, so keep that in mind for items you find on the ground.<br/>Evil Archdragon (69-75F) continues to be a major threat if you didn't throw an Extinction Scroll at it.<br/>Dark Kappa Troll (72-75F) can cause accidents with its ability to throw items from anywhere on the floor.<br/>Rush stairs on MC Sorcerer (75-77F) and Dark MC Sorcerer (77-79F) floors if you lack a Swap Shield.<br/>Sludge (71-80F) can erase runes, and Evil Mosh Polygon (74-76F) has regular AI at night.<br/>Maneater types rank up to Isleaters starting on 76F, which have ridiculous attack power.
+
+Despite the above dangers, Bad Fade Zalokleft (70-72F) and Mealy (76-78F) can be hunted for items.
+
+### 80-89F
+
+N'dup (61-80F) is still around on 80F, so keep that in mind for items you find on the ground.<br/>Kappa Troll (82-84F) throws items and Archdragon (82-87F) breathes fire from anywhere on the floor.<br/>Porgon (86-89F) also chips away at your HP with its Porky Rock throwing range of 10 tiles.
+
+Throw an Extinction Scroll at Dark Mesmerikon (88-90F) to help ensure safety on upcoming floors.
+
+### 90-99F
+
+Stairs? Trap can be generated, so use [this technique](/guides/tips-and-tricks#check-for-stairs?-trap) to check for real stairs.<br/>Mesmerikon (90-95F) is a major threat if you didn't throw an Extinction Scroll at Dark Mesmerikon earlier.<br/>Other dangers include Cranky Tank (95-99F) and Dark Cranky Tank (93-99F), Ultra Gazer (96-99F),<br/>Knave King (93-99F), and Shine Bird (91-99F) who makes it hard to defeat all of the mentioned enemies.
+
+Once you reach 96F, throw an Extinction Scroll at either Cranky Tank or Ultra Gazer.<br/>Players usually choose Ultra Gazer if they don't have a Gazer Guard (<span class="greenText">Anti-Hypno</span>).<br/>Dark Cranky Tank is easier to deal with if you have Kaboom Bullet.
 
 # Monsters
 
@@ -910,7 +1089,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">MC Mage</td>
+      <td class="monsterNight">Dark MC Mage</td>
       <td class="monsterNight">Vile Demon Scorp</td>
       <td class="monsterNight">Dark Chainhead</td>
       <td class="monsterNight">Dark Glare Bird</td>
@@ -929,7 +1108,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">MC Mage</td>
+      <td class="monsterNight">Dark MC Mage</td>
       <td class="monsterNight">Vile Demon Scorp</td>
       <td class="monsterNight">Dark Chainhead</td>
       <td class="monsterNight">Mean Go Ham</td>
@@ -948,7 +1127,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td class="monsterNight">MC Mage</td>
+      <td class="monsterNight">Dark MC Mage</td>
       <td class="monsterNight">Vile Demon Scorp</td>
       <td class="monsterNight">Dark Eligagon</td>
       <td class="monsterNight">Mean Go Ham</td>
@@ -1595,7 +1774,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="extremeNight monsterNight">Evil Archdragon</td>
       <td class="monsterNight">Evil Huge Chintala</td>
       <td class="monsterNight">Bad Fade Zalokleft</td>
-      <td class="monsterNight">Dark Kappa Troll</td>
+      <td class="dangerNight">Dark Kappa Troll</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1614,7 +1793,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="extremeNight monsterNight">Evil Archdragon</td>
       <td class="monsterNight">Evil Huge Chintala</td>
       <td class="monsterNight">Foul Curse Gramma</td>
-      <td class="monsterNight">Dark Kappa Troll</td>
+      <td class="dangerNight">Dark Kappa Troll</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1633,7 +1812,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
       <td class="extremeNight monsterNight">Evil Archdragon</td>
       <td class="monsterNight">Evil Mosh Polygon</td>
       <td class="monsterNight">Foul Curse Gramma</td>
-      <td class="monsterNight">Dark Kappa Troll</td>
+      <td class="dangerNight">Dark Kappa Troll</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -2336,7 +2515,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
   </tr>
   <tr>
     <td class="leftText">Rusty Pickaxe</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2456,7 +2635,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
   </tr>
   <tr>
     <td class="leftText">Old Mallet</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2528,9 +2707,9 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Blank Scroll</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
@@ -2691,7 +2870,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
   </tr>
   <tr>
     <td class="leftText">Myopic Masher</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2786,7 +2965,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
   </tr>
   <tr>
     <td class="leftText">Palm Shield</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2861,7 +3040,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
   </tr>
   <tr>
     <td class="leftText">Beast Shield</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2893,7 +3072,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Storage Pot</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2907,7 +3086,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Antidote Grass</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2929,7 +3108,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td class="leftText">Strength Grass</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Identify Pot</td>
@@ -2967,7 +3146,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Swift Grass</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3027,7 +3206,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Rage Grass</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3133,7 +3312,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Hide Pot</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3233,7 +3412,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Heal Pot</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3311,7 +3490,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
   </tr>
   <tr>
     <td class="leftText">Wood Arrow</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3438,7 +3617,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Dizzy Talisman</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3498,7 +3677,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Bind Talisman</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3512,9 +3691,9 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Slow Staff</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Swift Talisman</td>
@@ -3581,7 +3760,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
   </tr>
   <tr>
     <td class="leftText">Torch</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3607,7 +3786,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Ordinary Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3636,7 +3815,7 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
   </tr>
   <tr>
     <td class="leftText">Gitan</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3648,9 +3827,9 @@ Enemy Colors: <span class="monsterDay">Day</span> <span class="monsterNight">Nig
     <td></td>
     <td></td>
     <td class="leftText">Green Banana</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>

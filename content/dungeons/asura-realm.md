@@ -17,6 +17,7 @@ One could say where Bayside Monster Cave focuses on run away play using powerful
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
   <li><a href="#strategy">Strategy</a></li>
+  <li><a href="#floor-guide">Floor Guide</a></li>
   <li><a href="#monsters">Monsters</a></li>
   <li><a href="#items">Items</a></li>
   <li><a href="#traps">Traps</a></li>
