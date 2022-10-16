@@ -386,15 +386,15 @@ Lots of monsters with troublesome special attacks.<br/>It's recommended to go th
 
 ### 12-16F
 
-<p><span class="monsterDay">Day:</span> Tiger Tosser (11-15F), Strong Cart (12-14F), Pumphantasm (13-17F), Porky (15-17F), Pot Knave (17-18F)<br/><span class="monsterNight">Night:</span> Dark Pop Tank (8-12F), Dark Absorbiphant (11-13F), <span class="blueText">Dark Mixer</span> (12-16F), Dark Ironhead (14-18F)</p>
+<p><span class="monsterDay">Day:</span> Tiger Tosser (11-15F), Strong Cart (12-14F), Pumphantasm (13-17F), Porky (15-17F), Pot Knave (16-18F)<br/><span class="monsterNight">Night:</span> Dark Pop Tank (8-12F), Dark Absorbiphant (11-13F), <span class="blueText">Dark Mixer</span> (12-16F), Dark Ironhead (14-18F)</p>
 
-Don't equip Wall Clip Bracelet on Strong Cart floors, or you risk getting buried in a wall.
+Don't equip Wall Clip Bracelet on Strong Cart floors, or you risk getting buried in a wall.<br/>Dark Ironhead's ability to attack 2 tiles ahead can be dangerous without a Super Torch equipped.
 
 Dark Mixer provides a chance to synthesize items, but doing so requires a special strategy.<br/>Eaten items vanish in this dungeon when a Dark Mixer is defeated by you or another monster, but the item<br/>is safe if the Dark Mixer disappears as a result of time of day changing to daytime instead of being defeated.
 
 Dark Mixers have regular AI at night, so they'll approach and follow you like their daytime counterparts.<br/>Lure it into a hallway corner and paralyze it to keep it safe from other monsters while waiting for daytime.
 
-Other options include:
+Other ideas:
 
 - Throw items right before it changes to daytime.
     - It changes to daytime 45 turns after the warning.
@@ -406,35 +406,93 @@ Other options include:
 
 ### 17-21F
 
-<p><span class="monsterDay">Day:</span> monster_name<br/><span class="monsterNight">Night:</span> monster_name</p>
+<p><span class="monsterDay">Day:</span> Pot Knave (16-18F), <span class="redText">N'twyn</span> (18-22F), Gyadon (19-21F), Dagger Bee (17-21F), Sr. Yanpii (21-23F)<br/><span class="monsterNight">Night:</span> Dark Ironhead (14-18F), Dark Tosser (17-19F), Bad Lime Zalokleft (19-21F), Snide Froggucci (20-22F)</p>
 
-### 22-26F
+Any staves pecked by Gyadons outside of a shop will vanish.<br/>Pot Knave turns items on the ground into Weeds, and can also throw Weeds into open pots.
 
-<p><span class="monsterDay">Day:</span> monster_name<br/><span class="monsterNight">Night:</span> monster_name</p>
+<p><span class="dangerDay">N'twyn appears both during the day and at night between 18-22F.</span><br/>Its ability isn't as dangerous as N'mach, but don't underestimate its attack power.<br/>If you have a Blank Scroll, this would be a good time to throw it at a N'dubba type monster.</p>
 
-### 27-29F
+Snide Froggucci and Bad Lime Zalokleft overlap on 20-21F, so consider lingering if there's a shop.
 
-<p><span class="monsterDay">Day:</span> monster_name<br/><span class="monsterNight">Night:</span> monster_name</p>
+### 22-29F
 
-### 30-45F
+<p><span class="monsterDay">Day:</span> Sr. Yanpii (21-23F), Dragon (22-25F), Hipadile (22-26F), Eligan (24-28F), Curse Sister (26-28F)<br/><span class="monsterNight">Night:</span> Evil Dragon (19-24F), Dark Hurler (24-29F), Evil Poofy (25-27F), Foul Curse Sister (26-28F)</p>
 
-<p><span class="monsterDay">Day:</span> monster_name<br/><span class="monsterNight">Night:</span> monster_name</p>
+<p><span class="dangerDay">N'twyn is still around both during the day and at night between on 22F.</span><br/>Lots of power type monsters - Switch to run away play and rush stairs unless you have a Wall Clip Bracelet.<br/>Eligan also overlaps with Dazikon (27-29F) and Demon Scorp (27-31F) on 27-28F.</p>
 
-### 46-60F
+Waiting for night isn't too practical on Pumphantom (26-30F) floors.
 
-<p><span class="monsterDay">Day:</span> monster_name<br/><span class="monsterNight">Night:</span> monster_name</p>
+### 30-39F
 
-### 61-80F
+<p><span class="monsterDay">Day:</span> Grampa Tank (29-33F), <span class="redText">N'mach</span> (30-45F), Super Gazer (30-32F), Chainhead (33-38F), Gyairas (38-40F)<br/><span class="monsterNight">Night:</span> Dark Pot Knave (29-31F), Dark Digestiphant (32-34F), Dark Chainhead (33-38F), Dark MC Mage (37-39F)</p>
 
-<p><span class="monsterDay">Day:</span> monster_name<br/><span class="monsterNight">Night:</span> monster_name</p>
+<p><span class="dangerDay">N'mach appears both during the day and at night between 30-45F.</span><br/>You can only identify a disguised N'mach by using the item, so use items found during the day at night,<br/>and use items found at night during the day - It's a bit tedious, but keeping notes is a good option.<br/>If you find a Blank Scroll, throw it at N'mach to turn all disguised N'mach into real items.</p>
 
-### 81-87F
+Easier floor range compared to the previous one, especially if you have the <span class="greenText">Anti-Cyclops</span> weapon rune.<br/>Digestiphant (32-34F) overlaps with Scarabbit (34-36F) on 34F, which can be a problem.<br/>Throw rocks at Cave Mamels (32-37F) to one-shot them.
 
-<p><span class="monsterDay">Day:</span> monster_name<br/><span class="monsterNight">Night:</span> monster_name</p>
+It's fine to proceed at night if you're struggling against daytime monsters, but beware of Dark Chainhead.
 
-### 88-99F
+### 40-44F
 
-<p><span class="monsterDay">Day:</span> monster_name<br/><span class="monsterNight">Night:</span> monster_name</p>
+<p><span class="monsterDay">Day:</span> Nuttie (41-43F), Katana Bee (43-47F), Killer Gyaza (43-48F), Lt. Yanpii (44-46F), Spongiderm (44-46F)<br/><span class="monsterNight">Night:</span> Dark Item Knave (40-42F), <span class="blueText">Dark Mixermon</span> (40-44F), Evil Oingodile (41-43F), Evil Sing Polygon (43-45F)</p>
+
+<p><span class="dangerDay">N'mach is still around both during the day and at night between 40-45F.</span><br/>Monsters with high attack power appear during the day from 43F, so night may be easier around that point.</p>
+
+Don't move around at night on Dark Item Knave (40-42F) floors without Monster Detector or Navigation Scroll,<br/>since it has the ability to knock away an inventory item by throwing Weeds, ensuring item loss.
+
+Dark Mixermon provides another chance to synthesize items, so keep an eye out for shops.<br/>Evil Oingodile and Evil Sing Polygon have regular AI at night, so it's easy to run out of ability uses.
+
+### 45-59F
+
+<p><span class="monsterDay">Day:</span> Squid Emperor (45-47F), Sky Dragon (49-54F), Item Knave (53-55F), Tiger Chucker (54-59F)<br/><span class="monsterNight">Night:</span> Evil Porkon (45-50F), Vile Pumphantom (49-51F), Dark MC Wizard (56-58F), Dark Ornery Tank (58-60F)</p>
+
+<p><span class="dangerDay">N'mach is still around both during the day and at night on 45F.</span></p>
+
+Other notable monsters:<br/>
+Power - Killer Gyaza (43-48F), Pandanigiri (48-52F), Eligagan (50-55F), Oingodile (55-60F), Gigahead (56-61F)<br/>
+Tricky - Curse Mom (48-50F), Ooze (50-52F), Item Knave (53-55F), Fulminachin (53-55F)
+
+As you can see, daytime monsters are a mix of power types and monsters capable of destroying items.<br/>Sky Dragon overlaps with Banana Boss (47-49F) on 49F, so be careful not to be turned into a Grilled Banana.<br/>It may be worth checking for traps to avoid the Banana Trap → Sky Dragon's flame combo as well.
+
+Night isn't a cakewalk either thanks to trickier monsters like Evil Porkon and Dark MC Wizard.<br/>Dark Ornery Tank overlaps with Dark Twinkle Bird (59-61F) on 59-60F, so only use abilities that one-shot them.
+
+### 60-77F
+
+<p><span class="monsterDay">Day:</span> N'dup (61-80F), Ornery Tank (60-65F), Horrabbit (61-63F), Dozikon (62-64F), MC Sorcerer (73-77F)<br/><span class="monsterNight">Night:</span> Dark N'dup (61-80F), <span class="blueText">Dark Mixergon</span> (63-67F), Dark Dozikon (64-66, 70-72F), Evil Archdragon (69-75F)</p>
+
+<p><span class="dangerDay">N'dup appears both during the day and at night between 61-80F.</span><br/>It has very high attack power and an ability randomly selected from N'dubba, N'twyn, or N'mach,<br/>so don't try to pick up items found on the ground when you have low HP.</p>
+
+<p><span class="redText">Avoid daytime between 61-63F</span> - Horrabbit overlaps with Ornery Tank and Dozikon.<br/>Cycle time of day and descend the stairs on 60F right after it changes to night, then rush stairs until 64F.<br/>Use Navigation Scrolls or Monster Detector + Transient Staff to quickly locate the stairs.</p>
+
+Dozikon isn't a big deal during the day thanks to hallways being visible - Its throwing range is a 3 tile radius.<br/>Do your best to get through 69-75F during the day to avoid Evil Archdragon's 60 damage flame at night.
+
+Dark Mixergon is your last chance to synthesize items without a Synthesis Pot.
+
+### 78-87F
+
+<p><span class="monsterDay">Day:</span> Archdragon (78-83F), Banana Master (81-83F), Shine Bird (83-85F), Porgon (84-89F), Cranky Tank (87-92F)<br/><span class="monsterNight">Night:</span> Dark MC Sorcerer (77-79F), Dark Knave King (80-82F), Dark Squid Kaiser (84-86F)</p>
+
+<p><span class="dangerDay">N'dup is still around both during the day and at night between 78-80F.</span></p>
+
+Do your best to get through 69-75F at night to avoid Archdragon's 50 damage flame during the day.<br/>That said, there are even more dangerous daytime floor ranges coming up, so don't use up your items.<br/>In particular, you'll want to save 2\~3 Night-Day Scrolls for the final rush.
+
+### 88-90F
+
+<p><span class="monsterDay">Day:</span> Porgon (84-89F), Cranky Tank (87-92F), Mosh Polygon (88-90F), Gyandoron (90-93F)<br/><span class="monsterNight">Night:</span> Dark Osmammoth (86-88F), Dark Mesmerikon (88-90F)</p>
+
+Dark Mesmerikon throws Rage Grass within 5 tiles, which is outside the range of a Super Torch.<br/>You'll collapse if you go berserk, so consider progressing during the day if you don't have a Monster Detector.
+
+#### 90F
+
+This is the last floor where you can safely cycle time of day in this dungeon.<br/>The daytime monster table for 91-99F is ridiculous - <span class="redText">Cycle to a fresh night before descending the stairs on 90F.</span><br/>Use Paralysis Staff to block off a room, or use Wall Clip Bracelet + Rusty Pickaxe to dig out a safe tile, etc.
+
+### 91-99F
+
+<p><span class="monsterDay">Day:</span> Cranky Tank (87-92F), Terrabbit (91-93F), Abyss Dragon (93-99F), Mesmerikon (94-99F), Squid Kaiser (95-99F)<br/><span class="monsterNight">Night:</span> Dark Doomhead (91-99F), Dark Cranky Tank (93-99F), Vile Pumptergeist (93-99F), Evil Boingodile (95-99F)</p>
+
+Attempting to progress during the day is asking to collapse - <span class="redText">Use Night-Day Scrolls to keep it nighttime.</span><br/>Dark Cranky Tank's cannonballs deal 60 damage per hit, so use abilities or a Paralysis Staff to one-shot it.<br/>Otherwise, Vile Pumptergeist can be a nuisance in hallways, but it's much safer than daytime.
+
+Use Navigation Scrolls or Monster Detector + Transient Staff to quickly locate the stairs,<br/>and don't stop descending even if you see a shop - There's nothing to be gained by visiting it at this point.
 
 # Monsters
 
