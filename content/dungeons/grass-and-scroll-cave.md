@@ -89,9 +89,209 @@ A PSP version exclusive dungeon where only grass, scrolls, and torches can be fo
 
 # Strategy
 
-[Quick Links]
+<ul class="quickLinksUL">
+  <li><a href="#general">General</a></li>
+  <li><a href="#cycling-to-night">Cycling to Night</a></li>
+  <li><a href="#abilities">Abilities</a></li>
+  <li><a href="#useful-items">Useful Items</a></li>
+  <li><a href="#ideal-inventory-(50f)">Ideal Inventory (50F)</a></li>
+</ul>
 
-[Content]
+### General
+
+Equipment can't be found, so you'll quickly reach a point where you can't keep up with daytime monsters.<br/>This means you need to figure out a safe way to cycle time of day and progress through the dungeon at night.<br/>The only item categories you can find on the ground or in shops are torches, grass, and scrolls.<br/>Torches are always either Fine Torch or Super Torch, and monsters with auras don't appear.<br/>Like other dungeons, stairs are never located in rooms that have doors.
+
+Day / night lasts 968 / 587 turns, and it switches 116 / 70 turns after the warning is displayed.<br/>
+
+<p><span class="blueText">Fixer Scroll</span>, <span class="blueText">Night-Day Scroll</span>, and <span class="blueText">Navigation Scroll</span> are the 3 key scrolls in this dungeon.<br/>Fixer and Night-Day scrolls are uncommon on the ground, so you'll likely need to buy them from shops.<br/>Since Gitan can't be found on the ground, you'll need to keep some higher value items on hand to sell,<br/>such as Imabikiso, Amnesia Grass, and Disaster Seed. (Fixer and Night-Day scrolls cost 1000G each).<br/>Fixer Scroll can be read when you're at 0 Gitan to obtain about 4000 Gitan.</p>
+
+#### Exploring at Night
+
+Basic guidelines:
+
+- Descend stairs unless there's a shop.
+    - There's no reason to linger unless you happen to see a shop after reading a Navigation Scroll.
+- Keep a torch equipped at night.
+    - Equip a fresh torch or read a Navigation Scroll if your torch dims to a 1 tile radius.
+    - If you're out of torches and Navigation Scrolls, carefully step in place in a hallway until daytime.
+- Equipped torches hint at how long night lasts.
+    - Fine Torch dims → Equip new Fine Torch → Fine Torch dims → It'll be daytime in a bit.
+    - Super Torch dims twice → It'll be daytime in a bit.
+- Throw an equipped torch at a Mixer type monster to refresh the torch.
+    - The torch the Mixer type drops will have the same radius and duration as a brand new torch.
+    - Floors: Dark Mixer - 21\~25F, Dark Mixergon - 67\~71F, Dark Mixerdon - 93\~97F
+
+### Cycling to Night
+
+The safest and easiest method to change time of day to night is to read a <span class="blueText">Night-Day Scroll</span>.<br/>However, you'll want to save these for floors where monsters that inhibit time cycling appear during daytime.<br/>You'll also need 4\~6 of these scrolls along with <span class="blueText">Super Torches</span> to rush stairs between 50\~99F.
+
+The next best method is to use a <span class="blueText">Fixer Scroll</span> to paralyze enemies to create a safe area.<br/>The paralysis effect occurs when 2 or more monsters are adjacent to you, which can be accomplished<br/>by walking in hallways until you get sandwiched by 2 monsters - Navigation Scroll makes this easier.<br/>※ This method can't be used on floors where Pumphantasm types appear.
+
+Other options include Sanctuary Scroll, using frozen Explochin type monsters to block off a hallway,<br/>or Desert Scroll + Navigation Scroll to locate areas where monsters are unlikely to enter.<br/>Defeat single enemies as needed using Fear Scroll or Slumber Scroll if using the last method.
+
+#### Pumphantasm Floors
+
+These are the floors where you can't safely cycle to night without a Night-Day Scroll.<br/>※ Absorbiphant types don't appear during the day.
+
+- Pumphantasm - 15\~18F
+- Pumphantom - 30\~34F
+- Pumpanshee - 71\~75F
+- Pumptergeist - 90\~94F
+
+### Abilities
+
+See [Abilities](/system/necklace-abilities) for details.<br/>※ Never include Cluster Confusion in this dungeon.
+
+#### Basic
+
+- Room Cyclone x 2
+- Kaboom Bullet x 6
+
+#### More Utility
+
+- Room Cyclone x 2
+- Kaboom Bullet x 4\~5
+- (Three Screams x 1\~2 or Bi-Direction Warp x 1\~2 or Darkroom x 1)
+
+### Useful Items
+
+Storage Pots can't be found, so you only have 24 inventory slots.
+
+#### Torch
+
+- Super Torch
+    - Carry up to 8 of these at any given time.
+    - Can be used to light up hallways during the day if needed.
+- Fine Torch
+    - Keep these on hand if you're down to 3 torches in your inventory.
+
+#### Grass
+
+- Otogiriso, Heal
+    - Helps you recover HP if you happen to survive a night monster's direct attack.
+    - Keep 2 Heal Grass on hand at all times.
+- Swift, Warp
+    - Both of these help you escape from bad situations.
+    - Keep 1 of each on hand at all times.
+- Sight
+    - Nice for Stairs? Traps that appear starting on 91F.
+    - It's also fine to eat these as you find them on the ground, though.
+- Poison
+    - Throw it at a monster in a special door room to safely cycle to night.
+- Rage
+    - Throw it at a Pit Mamel (2-4F), then hunt the Cave Mamel to level up a bit early on.
+- Imabikiso, Amnesia, Disaster
+    - Sell these to be able to afford 1000G scrolls.
+    - Imabikiso can also be thrown to seal a monster.
+- Sleep, Dizzy, Blind
+    - Not really worth carrying, since thrown items have low accuracy.
+
+#### Scroll
+
+- Night-Day
+    - Do your best to save these until 50F instead of using them early on.
+    - Unless you're very lucky, 5 of these is usually enough to keep it nighttime between 50\~99F.
+- Fixer
+    - Restores HP, replenishes fullness, counters Summon Trap, can be used to cycle to night, etc.
+- Navigation
+    - Great for DJ Mage and Tiger Tosser type floors, large Monster Houses, cycling to night, etc.
+- Replenish
+    - Sometimes needed if you take a long time to locate the stairs on a floor.
+- Banana
+    - Read it on an unneeded item and eat the banana on the spot instead of carrying these scrolls.
+- Trap Erase
+    - Nice for Stairs? Traps that appear starting on 91F.
+    - It's also fine to read these as you find them on the ground, though.
+- Confusion
+    - Nice option to escape if you run out of ability uses at night.
+- Slumber
+    - Nice option to dash to the stairs if you run out of ability uses at night.
+    - Can be used to counter Summon Trap if you have 2 uses of Room Cyclone left.
+- Fear
+    - Counters Summon Trap.
+- Air Slash
+    - Usable early game, but otherwise it's only useful to check if monsters are in a room at night.
+- Desert
+    - Not useful at night, but might let you safely cycle to night depending on the map.
+
+### Ideal Inventory (50F)
+
+Aim to get as close to this set of items by 50F as possible.
+
+- Super Torch x 6 (Including equipped)
+- Heal Grass x 2
+- Swift Grass
+- Warp Grass
+- Night-Day Scroll x 5
+- Navigation Scroll x 2
+- Replenish Scroll x 2
+- Slumber Scroll
+- Fixer Scroll
+- Banana Scroll
+- Confusion Scroll
+- Fear Scroll
+
+# Floor Guide
+
+The main idea is to progress through the dungeon at night, so there isn't a whole lot to say about each floor.<br/>The most important thing is to understand the basics of night gameplay, which was covered earlier.
+
+### 1-4F
+
+#### 1F
+
+Check rooms for items, then hurry to the stairs.
+
+#### 2-4F
+
+Continue to check rooms for items, then hurry to the stairs.<br/>If you find Rage Grass or Fear Scroll, create a Cave Mamel and hunt it using Dragon Grass or Air Slash Scroll.
+
+### 5-14F
+
+If you didn't hunt a Cave Mamel, you'll struggle during the day from around Kumonigiri (8-11F) floors.<br/>Do your best not to get items cursed by Curse Girl (8-11F).
+
+### 15-18F
+
+<p><span class="redText">Pumphantasm (15-18F) appears during the day, so it's not safe to cycle to night.</span></p>
+
+### 19-29F
+
+Throw an equipped torch at a Dark Mixer (21-25F) to reset the torch to a brand new state.<br/>Consider hunting Bad Lime Zalokleft (22-26F) in hopes of obtaining blessed scrolls.
+
+### 30-34F
+
+<p><span class="redText">Pumphantom (30-34F) appears during the day, so it's not safe to cycle to night.</span></p>
+
+### 35-50F
+
+Dark MC Mage (39-43F) can be a threat at night.<br/>Scarabbit (42-46F) and Dark Scarabbit (46-50F) can cause accidents if they attract you.
+
+### 51-70F
+
+Switch to progressing at night from this point until you clear the dungeon.
+
+Squid Emperor (51-55F) can blind you from anywhere in the room.<br/>Dark MC Wizard (61-65F) is a major threat at night, but it's usually still better than daytime.
+
+Throw an equipped torch at a Dark Mixergon (67-71F) to reset the torch to a brand new state.
+
+### 71-75F
+
+<p><span class="redText">Pumpanshee (71-75F) appears during the day, so it's not safe to cycle to night.</span></p>
+
+### 76-89F
+
+Dark Ace (77-81F) can cause accidents at night by throwing other monsters at you.<br/>Dark MC Sorcerer (83-87F) is a pretty big threat, but should be easier than Dark MC Wizard earlier.
+
+### 90-94F
+
+<p><span class="redText">Pumptergeist (90-94F) appears during the day, so it's not safe to cycle to night.</span></p>
+
+Stairs? Trap can be generated starting on 91F.
+
+### 95-99F
+
+Squid Kaiser (97-99F) and Dark Squid Kaiser (97-99F) can blind you from anywhere in the room.
+
+Throw an equipped torch at a Dark Mixerdon (93-97F) to reset the torch to a brand new state.
 
 # Monsters
 
