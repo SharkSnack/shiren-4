@@ -4,16 +4,14 @@ metaTitle: "Map Patterns - Shiren the Wanderer 4: The Eye of God Wiki"
 metaDescription: "List of map patterns used in Shiren the Wanderer 4: The Eye of God and the Devil's Navel."
 ---
 
-[NOTICE] This page is currently a copy of Shiren 5, so the information isn't correct.
-
 ## Overview
 
-There are 2 main types of maps in Shiren 5.
+There are 2 main types of maps in Shiren 4.
 
 1. Random = Procedurally generated, occasionally using a template pattern.
-    - Example: Primordial Chasm.
+    - Example: Bayside Monster Cave.
 2. Shuffle = Randomly selected from a number of predetermined layouts.
-    - Example: Destiny Trail.
+    - Example: Crocodile Swamp in Emerald Terrace.
 
 <br/>
 
@@ -25,10 +23,10 @@ There are 2 main types of maps in Shiren 5.
           <li><a href="#chunsoft">CHUNSOFT</a></li>
           <li><a href="#letter-i">Letter I</a></li>
           <li><a href="#horizontal-line">Horizontal Line</a></li>
-          <li><a href="#cross">Cross</a></li>
-          <li><a href="#2-room">2 Room</a></li>
           <li><a href="#3-room">3 Room</a></li>
+          <li><a href="#3-room">3 Room Loop</a></li>
           <li><a href="#4-room">4 Room</a></li>
+          <li><a href="#3-room">4 Room Circle</a></li>
           <li><a href="#8-room-octopus">8 Room Octopus</a></li>
           <li><a href="#12-room">12 Room</a></li>
           <li><a href="#12-room-octopus">12 Room Octopus</a></li>
@@ -51,9 +49,10 @@ There are 2 main types of maps in Shiren 5.
   </li>
   <li><a href="#shuffle-maps">Shuffle Maps</a>
     <ul>
-      <li><a href="#destiny-trail">Destiny Trail</a></li>
-      <li><a href="#tower-of-fortune">Tower of Fortune</a></li>
-      <li><a href="#tower-of-miracles">Tower of Miracles</a></li>
+      <li><a href="#grasslands-(1-2f)">Grasslands (1-2F)</a></li>
+      <li><a href="#crocodile-swamp-(3-5f)">Crocodile Swamp (3-5F)</a></li>
+      <li><a href="#sea-of-trees-(11-12f)">Sea of Trees (11-12F)</a></li>
+      <li><a href="#eagle-valley-(19-20f)">Eagle Valley (19-20F)</a></li>
     </ul>
   </li>
 </ul>
@@ -65,7 +64,7 @@ There are 2 main types of maps in Shiren 5.
 #### CHUNSOFT
 
 Patterns based on the characters in "CHUNSOFT".<br/>
-Features 6\~10 rooms connected by single hallways.
+Features 5\~10 rooms connected by single hallways.
 
 <table class="mapTable">
   <tr>
@@ -124,13 +123,6 @@ The "F" pattern can occasionally look like this:
   <img src="../images/maps/horizontal_line.png"/>
 </div>
 
-#### Cross
-
-
-
-#### 2 Room
-
-
 
 #### 3 Room
 
@@ -140,12 +132,26 @@ The "F" pattern can occasionally look like this:
   <img src="../images/maps/3_room.png"/>
 </div>
 
+#### 3 Room Loop
+
+<div class="relativeImage mapImage">
+  <img src="../images/maps/3_room_loop.png"/>
+</div>
+
 #### 4 Room
 
 
 
 <div class="relativeImage mapImage">
   <img src="../images/maps/4_room.png"/>
+</div>
+
+#### 4 Room Circle
+
+
+
+<div class="relativeImage mapImage">
+  <img src="../images/maps/circle.png"/>
 </div>
 
 #### 8 Room
@@ -167,14 +173,16 @@ The "F" pattern can occasionally look like this:
 #### 12 Room Octopus
 
 <div class="relativeImage mapImage">
-  <img src="../images/maps/12_room_octopus.png"/>
+  <img src="../images/maps/12_octopus.png"/>
 </div>
 
 ### Special
 
 #### Spring Rooms
 
-
+<div class="relativeImage mapImage">
+  <img src="../images/maps/spring_rooms.png"/>
+</div>
 
 #### Large Maze
 
@@ -191,7 +199,7 @@ The "F" pattern can occasionally look like this:
 
 
 <div class="relativeImage mapImage">
-  <img src="../images/maps/mh_large.png"/>
+  <img src="../images/maps/large_room.png"/>
 </div>
 
 #### Medium Room
@@ -199,33 +207,25 @@ The "F" pattern can occasionally look like this:
 
 
 <div class="relativeImage mapImage">
-  <img src="../images/maps/mh_medium.png"/>
+  <img src="../images/maps/medium_room.png"/>
 </div>
 
 #### 2 Rooms
 
-
+[Image]
 
 ## Shuffle Maps
 
-### Destiny Trail
+### Southern Isle Beach
 
-#### 1-5F
+### Emerald Terrace
 
+#### Grasslands (1-2F)
 
+#### Crocodile Swamp (3-5F)
 
-### Tower of Fortune
+#### Sea of Trees (11-12F)
 
-#### 1-3F (Unexplored Area)
-
-
-
-#### 7-11F
-
-
-
-### Tower of Miracles
-
-#### 4-6F
+#### Eagle Valley (19-20F)
 
 

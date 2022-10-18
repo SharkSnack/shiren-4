@@ -476,5 +476,4 @@ See [Expert Badges](/system/expert-badges) for details.
 
 ## Speedrunning
 
-Interested in competing for world records? Check out the [Shiren 4 page](https://www.speedrun.com/shiren4) on speedrun.com.<br/>
-See [Speedrunning](/guides/speedrunning) for rules and routes.
+Interested in competing for world records? Check out the [Shiren 4 page](https://www.speedrun.com/shiren4) on speedrun.com.

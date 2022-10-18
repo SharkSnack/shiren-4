@@ -1471,7 +1471,7 @@ export const baseStyles = css`
     width: auto;
   }
   #mapI img {
-    width: 150px !important;
+    width: 100px !important;
     height: auto;
   }
   #pickachoiceImage img {
