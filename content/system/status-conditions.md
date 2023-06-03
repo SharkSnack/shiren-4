@@ -269,7 +269,7 @@ Key: <span class="highlightBlue">Positive</span>, <span class="highlightPink">Ne
   <tr>
     <th id="inaccurate" rowspan="3" class="highlightPink">Inaccurate</th>
     <td>Shiren</td>
-    <td>Direct attacks will always miss. (10 turns)<br/>If target is <span class="greenText">Asleep</span> or <span class="greenText">Paralyzed</span>, the attack will still connect.</td>
+    <td>Direct attacks will always miss. (10 turns)</td>
     <td rowspan="3">Miss Talisman, Foly,<br/>Dazing Circle</td>
   </tr>
   <tr>
@@ -404,7 +404,7 @@ Key: <span class="highlightBlue">Positive</span>, <span class="highlightPink">Ne
   <tr>
     <th id="growth" class="highlightBlue">Growth</th>
     <td>Shiren</td>
-    <td>Gain x4.0 equipment skill points from enemies. (100 turns)<br/>Wears off when you change floors.</td>
+    <td>Gain x4.0 equipment skill points from enemies. (100 turns)<br/>Duration lasts for the entire floor if Growth Seed is blessed.<br/>Wears off when you change floors.</td>
     <td>Growth Seed</td>
   </tr>
   <tr>

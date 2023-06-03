@@ -48,9 +48,9 @@ Once unlocked, they can randomly appear in the Boronga Village Tavern, villages 
 
 |Character|Condition|
 |-|-|
-|Millie|1. Progress the story until you've reached Rocky Stretch.<br/>2. Visit Gonchiki Village again and head toward the exit.<br/>3. Go to the Gonchiki Village Inn and talk to Millie.|
-|Edna|1. Talk to the chief of Rakutata Village.<br/>2. Talk to a woman in the Tavern in Boronga Village.<br/>3. Go to the Beach. (West exit of Boronga Village)|
-|Galwin|1. Fail or give up on an adventure about 5 times for an event.<br/>2. Go to the Tavern and talk to Galwin.|
+|Millie|1. Go on an adventure at least 3 times.<br/>2. Visit Gonchiki Village and head toward the exit for an event.<br/>3. Go to the Gonchiki Village Inn and talk to Millie.|
+|Edna|1. Go on an adventure at least 7 times.<br/>2. Progress the story up to Ruins of Laferriere.<br/>3. Talk to a woman in the Tavern in Boronga Village.<br/>4. Go to the Beach. (West exit of Boronga Village)|
+|Galwin|1. Fail an adventure 5 times for an event.<br/>2. Go to the Tavern in Boronga Village and talk to Galwin.<br/>※ Step 1 is skipped if you clear the main story.|
 |Ichiro<br/>Jiro<br/>Saburo|1. Progress the story until you've reached Monkey Village.<br/>2. Encounter Jiro in a dungeon, and agree to search for his brothers.<br/>3. Encounter Ichiro in a dungeon, and give him an Herb.<br/>4. Randomly encounter Saburo when advancing floors, and defeat all monsters.|
 |Banana Prince|1. Clear the main story.<br/>2. Go to Monkey Village and slip on a banana peel to unlock Banana Kingdom.<br/>3. Clear Banana Kingdom.|
 |Borg Mamel|1. Clear the main story.<br/>2. Go to Gonchiki Village and unlock Entrancing Lane.<br/>3. Clear Entrancing Lane.|
@@ -75,8 +75,6 @@ If an ally is defeated, the monster that defeated the ally levels up.<br/>
 Unlike Shiren 5, allies DO NOT dodge flying equipment, including equipment disarmed by a Kengo.<br/>
 
 ### Ally Stats
-
-
 
 Maximum level of 10, and level ups persist between adventures.<br/>
 Due to this, they typically require more experience points to level up.<br/>
@@ -103,29 +101,158 @@ Max HP won't increase when they're at full HP.
 
 #### Description
 
-A blond girl who crash landed on Cahitan Isle while she was headed to Texas on a hang glider.
-
-She's extremely powerful during the day, but requires care at night.
+A blond girl who crash landed on Cahitan Isle while she was headed to Texas on a hang glider.<br/>She's extremely powerful during the day, but requires care at night.
 
 #### Unlock Condition
 
-1. Progress the story until you've reached Rocky Stretch.
-2. Visit Gonchiki Village again and head toward the exit.
+1. Go on an adventure at least 3 times.
+2. Visit Gonchiki Village and head toward the exit for an event.
 3. Go to the Gonchiki Village Inn and talk to Millie.
+
+#### Locations
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Location</th>
+      <th>Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Boronga Village</td>
+      <td>Tavern</td>
+    </tr>
+    <tr>
+      <td>Gonchiki Village</td>
+      <td>Inn</td>
+    </tr>
+    <tr>
+      <td>Rakutata Village</td>
+      <td>Near shop</td>
+    </tr>
+    <tr>
+      <td>Monkey Village</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Inn of the Wind</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Emerald Terrace</td>
+      <td>1-12F</td>
+    </tr>
+  </tbody>
+</table>
 
 #### Characteristics
 
-- Max HP increases as she levels up.
-    - Lv1: 30 HP
-    - Lv10: 57 HP
 - Shoots monsters multiple times in a single turn during daytime.
-    - Damage, number of shots, and range increases as she levels up.
-    - Lv1 = 10 damage x 2 shots for 20 damage, 3 tile radius.
-    - Lv10 = 30 damage x 4 shot for 120 damage, 6 tile radius.
+    - Damage and number of shots increases as she levels up.
+    - Lv1 = 10 damage x 2 shots for 20 damage.
+    - Lv10 = 30 damage x 4 shots for 120 damage.
     - Bullets have 100% accuracy, and targets don't have to be lined up.
     - Gyazas convert bullets into 2 damage.
     - Bored Kappas can't catch bullets.
 - Kicks monsters at night, dealing 1 damage.
+
+#### Stats
+
+<table class="allyTable">
+  <thead>
+    <tr>
+      <th>Lv</th>
+      <th>HP</th>
+      <th>Atk</th>
+      <th>Def</th>
+      <th>Shots</th>
+      <th>Damage per shot</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightYellow">1</td>
+      <td>30</td>
+      <td><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+      <td>2</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">2</td>
+      <td>33</td>
+      <td><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+      <td>2</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">3</td>
+      <td>36</td>
+      <td><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+      <td>2</td>
+      <td>14</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">4</td>
+      <td>39</td>
+      <td><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+      <td>2</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">5</td>
+      <td>42</td>
+      <td><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+      <td>2</td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">6</td>
+      <td>45</td>
+      <td><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+      <td>2</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">7</td>
+      <td>48</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+      <td>4</td>
+      <td>22</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">8</td>
+      <td>51</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+      <td>4</td>
+      <td>24</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">9</td>
+      <td>54</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+      <td>4</td>
+      <td>26</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">10</td>
+      <td>57</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+      <td>4</td>
+      <td>30</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Edna
 
@@ -135,21 +262,54 @@ She's extremely powerful during the day, but requires care at night.
 
 #### Description
 
-An apprentice priestess with a mysterious image.<br/>She appears while riding a giant shell when you first meet her.
-
-She's very reliable at night, but requires care during daytime.
+An apprentice priestess with a mysterious image.<br/>She appears while riding a giant shell when you first meet her.<br/>She's very reliable at night, but requires care during daytime.
 
 #### Unlock Condition
 
-1. Talk to the chief of Rakutata Village.
-2. Talk to a woman in the Tavern in Boronga Village.
-3. Go to the Beach. (West exit of Boronga Village)
+1. Go on an adventure at least 7 times.
+2. Progress the story up to Ruins of Laferriere.
+3. Talk to a woman in the Tavern in Boronga Village.
+4. Go to the Beach. (West exit of Boronga Village)
+
+#### Locations
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Location</th>
+      <th>Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Boronga Village</td>
+      <td>Tavern</td>
+    </tr>
+    <tr>
+      <td>Gonchiki Village</td>
+      <td>Inn</td>
+    </tr>
+    <tr>
+      <td>Rakutata Village</td>
+      <td>Purifier</td>
+    </tr>
+    <tr>
+      <td>Monkey Village</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Inn of the Wind</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Emerald Terrace</td>
+      <td>1-12F</td>
+    </tr>
+  </tbody>
+</table>
 
 #### Characteristics
 
-- Max HP increases as she levels up.
-    - Lv1: ??? HP
-    - Lv10: 62 HP
 - Casts support magic on Shiren when you talk to her during daytime.
     - Effect is randomly selected from attack up, defense up, or swift.
     - Attack up and defense up last for the duration of the floor.
@@ -159,6 +319,81 @@ She's very reliable at night, but requires care during daytime.
     - The ability has piercing properties, and has infinite range in a straight line.
     - She won't use the ability if an ally is in-between her and the target.
 - Uses direct attacks during the day, but doesn't deal much damage.
+
+#### Stats
+
+<table class="allyTable">
+  <thead>
+    <tr>
+      <th>Lv</th>
+      <th>HP</th>
+      <th>Atk</th>
+      <th>Def</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightYellow">1</td>
+      <td>35</td>
+      <td><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">2</td>
+      <td>38</td>
+      <td><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">3</td>
+      <td>41</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">4</td>
+      <td>44</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">5</td>
+      <td>47</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">6</td>
+      <td>50</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">7</td>
+      <td>53</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">8</td>
+      <td>56</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">9</td>
+      <td>59</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">10</td>
+      <td>62</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+  </tbody>
+</table>
 
 #### Sidequest
 
@@ -172,22 +407,59 @@ There's a small event when you take her to Ruins of Laferriere 15F.
 
 #### Description
 
-A self-proclaimed legendary pirate with a terrible sense of direction.
-
-His aggressive AI and tendency to disappear during an adventure makes him<br/>rather underwhelming compared to other allies, despite his high stats.
+A self-proclaimed legendary pirate with a terrible sense of direction.<br/>His aggressive AI and tendency to disappear during an adventure makes him<br/>rather underwhelming compared to other allies, despite his high stats.
 
 #### Unlock Condition
 
-1. Fail or give up on an adventure about 5 times for an event.
-2. Go to the Tavern and talk to Galwin.
+1. Fail an adventure 5 times for an event.
+2. Go to the Tavern in Boronga Village and talk to Galwin.
+
+※ Step 1 is skipped if you clear the main story.
+
+#### Locations
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Location</th>
+      <th>Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Boronga Village</td>
+      <td>Tavern</td>
+    </tr>
+    <tr>
+      <td>Gonchiki Village</td>
+      <td>Watchman's Lodge</td>
+    </tr>
+    <tr>
+      <td>Rakutata Village</td>
+      <td>Inside a house</td>
+    </tr>
+    <tr>
+      <td>Monkey Village</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Inn of the Wind</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Emerald Terrace</td>
+      <td>1-12F</td>
+    </tr>
+  </tbody>
+</table>
 
 #### Characteristics
 
-- Max HP increases as he levels up.
-    - Lv1: ??? HP
-    - Lv10: ??? HP
-- Throws Rum at monsters in a straight line.
-    - Inflicts a random status condition. (Asleep, Afraid, Confused, or Enraged)
+- Throws Rum at monsters in a straight line, inflicting a random status condition.
+    - Asleep - 6 turns.
+    - Afraid - 15 turns.
+    - Confused - 20 turns.
+    - Enraged - 30 turns.
 - Uses direct attacks during the day.
     - High attack power from the start.
 - Has an offensive AI and chases enemies within his view.
@@ -195,6 +467,81 @@ His aggressive AI and tendency to disappear during an adventure makes him<br/>ra
     - He won't approach monsters at night.
 - He can randomly disappear when advancing to the next floor.
     - The message "Galwin isn't anywhere in sight. It seems you became separated." is displayed.
+
+#### Stats
+
+<table class="allyTable">
+  <thead>
+    <tr>
+      <th>Lv</th>
+      <th>HP</th>
+      <th>Atk</th>
+      <th>Def</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightYellow">1</td>
+      <td>50</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">2</td>
+      <td>54</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">3</td>
+      <td>58</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">4</td>
+      <td>62</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">5</td>
+      <td>66</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">6</td>
+      <td>70</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">7</td>
+      <td>74</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">8</td>
+      <td>78</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">9</td>
+      <td>82</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">10</td>
+      <td>86</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/><img src="../images/icons/shield.gif"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Saruma Brothers
 
@@ -217,19 +564,49 @@ Only 1 monkey can join your adventure at a time.
 3. Encounter Ichiro in a dungeon, and give him an Herb.
 4. Randomly encounter Saburo when advancing floors, and defeat all monsters.
 
+#### Locations
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Location</th>
+      <th>Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Boronga Village</td>
+      <td>Tavern</td>
+    </tr>
+    <tr>
+      <td>Gonchiki Village</td>
+      <td>Near a house</td>
+    </tr>
+    <tr>
+      <td>Rakutata Village</td>
+      <td>Near warehouse</td>
+    </tr>
+    <tr>
+      <td>Monkey Village</td>
+      <td>Inside a house</td>
+    </tr>
+    <tr>
+      <td>Inn of the Wind</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Emerald Terrace</td>
+      <td>6-12F, 19-23F</td>
+    </tr>
+  </tbody>
+</table>
+
 #### Characteristics
 
-- Level ups are not shared.
-- Stats differ between monkeys.
-    - Ichiro (Higher attack):
-        - Lv1: ??? HP
-        - Lv10: 85 HP
-    - Jiro (Higher defense):
-        - Lv1: ??? HP
-        - Lv10: 85 HP
-    - Saburo (Higher max HP):
-        - Lv1: ??? HP
-        - Lv10: 114 HP
+- Level ups are not shared, and stats differ between monkeys.
+    - <span class="highlightPink">Ichiro</span> - Higher attack.
+    - <span class="highlightBlue">Jiro</span> - Higher defense.
+    - <span class="highlightYellow">Saburo</span> - Higher max HP.
 - Copies Shiren's action in the opposite direction when adjacent to Shiren.
     - Direct attack. (Won't use direct attacks toward allies)
     - Throw an identical item. (Piercing properties)
@@ -238,6 +615,156 @@ Only 1 monkey can join your adventure at a time.
         - Can hit Shiren, but always misses other ally characters.
     - Use a scroll or staff. (Excluding selection-based scrolls)
     - Use a necklace ability. (Always fails, so it's pointless)
+
+#### Stats
+
+<table class="allyTable">
+  <thead>
+    <tr>
+      <th rowspan="2">Lv</th>
+      <th colspan="3">Ichiro</th>
+      <td rowspan="2" class="tableDivider"></td>
+      <th colspan="3">Jiro</th>
+      <td rowspan="2" class="tableDivider"></td>
+      <th colspan="3">Saburo</th>
+    </tr>
+    <tr>
+      <th>HP</th>
+      <th>Atk</th>
+      <th>Def</th>
+      <th>HP</th>
+      <th>Atk</th>
+      <th>Def</th>
+      <th>HP</th>
+      <th>Atk</th>
+      <th>Def</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightYellow">1</td>
+      <td>40</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+      <td rowspan="10" class="tableDivider"></td>
+      <td>40</td>
+      <td><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+      <td rowspan="10" class="tableDivider"></td>
+      <td>60</td>
+      <td><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">2</td>
+      <td>45</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+      <td>45</td>
+      <td><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+      <td>66</td>
+      <td><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">3</td>
+      <td>50</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+      <td>50</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+      <td>72</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">4</td>
+      <td>55</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+      <td>55</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/><img src="../images/icons/shield.gif"/></td>
+      <td>78</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">5</td>
+      <td>60</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+      <td>60</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/><img src="../images/icons/shield.gif"/></td>
+      <td>84</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">6</td>
+      <td>65</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+      <td>65</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/><img src="../images/icons/shield.gif"/></td>
+      <td>90</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">7</td>
+      <td>70</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+      <td>70</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/><img src="../images/icons/shield.gif"/></td>
+      <td>96</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">8</td>
+      <td>75</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+      <td>75</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/><img src="../images/icons/shield.gif"/></td>
+      <td>102</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">9</td>
+      <td>80</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+      <td>80</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/><img src="../images/icons/shield.gif"/></td>
+      <td>108</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">10</td>
+      <td>85</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+      <td>85</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/><img src="../images/icons/shield.gif"/></td>
+      <td>114</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Banana Prince
 
@@ -258,6 +785,43 @@ He's essentially a blue mage character that can learn monster special attacks,<b
 2. Go to Monkey Village and slip on a banana peel to unlock Banana Kingdom.
 3. Clear Banana Kingdom.
 
+#### Locations
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Location</th>
+      <th>Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Boronga Village</td>
+      <td>Tavern</td>
+    </tr>
+    <tr>
+      <td>Gonchiki Village</td>
+      <td>Near a house</td>
+    </tr>
+    <tr>
+      <td>Rakutata Village</td>
+      <td>Near warehouse</td>
+    </tr>
+    <tr>
+      <td>Monkey Village</td>
+      <td>Near the exit</td>
+    </tr>
+    <tr>
+      <td>Inn of the Wind</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Emerald Terrace</td>
+      <td>6-12F, 19-23F</td>
+    </tr>
+  </tbody>
+</table>
+
 #### Characteristics
 
 - Bruises instead of taking number damage when he gets hit.
@@ -271,13 +835,88 @@ He's essentially a blue mage character that can learn monster special attacks,<b
 - Learns abilities called Bana Powers as he gets hit by special attacks or items.
     - Total of 8 Bana Powers can be assigned - 4 daytime powers, and 4 nighttime powers.
     - Performs all Bana Powers if applicable in a single turn, starting from the top.
-    - See <a href="/shiren-4/system/bana-powers">Bana Powers</a> for details.
+    - See [Bana Powers](/system/bana-powers) for details.
 - Instantly collapses if he gets hit by fire or explosion damage.
     - The <span class="greenText">Icy Cold</span> Bana Power (Ice Banana) protects against this weakness.
-    - Firepuff or Dragon special attacks, magma eruptions, etc.
+    - Firepuff or Dragon special attacks, lava, etc.
     - Landmine, Explochin, or Pop Tank blasts, etc.
 - Instantly collapses if he gets splashed by water or oil.
     - Unlike fire or explosion damage, there's no way to protect against this weakness.
+
+#### Stats
+
+<table class="allyTable">
+  <thead>
+    <tr>
+      <th>Lv</th>
+      <th>HP</th>
+      <th>Atk</th>
+      <th>Def</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightYellow">1</td>
+      <td>-</td>
+      <td><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">2</td>
+      <td>-</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">3</td>
+      <td>-</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">4</td>
+      <td>-</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">5</td>
+      <td>-</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">6</td>
+      <td>-</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">7</td>
+      <td>-</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">8</td>
+      <td>-</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">9</td>
+      <td>-</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">10</td>
+      <td>-</td>
+      <td><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/></td>
+      <td><img src="../images/icons/shield.gif"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Borg Mamel
 
@@ -300,11 +939,48 @@ Once it reaches Lv100, it returns to the future and leaves behind a True Knife a
 2. Go to Gonchiki Village and unlock Entrancing Lane.
 3. Clear Entrancing Lane.
 
+#### Locations
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Location</th>
+      <th>Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Boronga Village</td>
+      <td>Near Shop</td>
+    </tr>
+    <tr>
+      <td>Gonchiki Village</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Rakutata Village</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Monkey Village</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Inn of the Wind</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Emerald Terrace</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+
 #### Characteristics
 
-- Max HP increases as it levels up.
-    - Lv1: ??? HP
-    - Lv99: ??? HP
+- Max HP and attack power increases as it levels up.
+    - Lv1: 20 HP (<img src="../images/icons/weapon.gif"/>) (<img src="../images/icons/shield.gif"/>)
+    - Lv99: 70 HP (<img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/><img src="../images/icons/weapon.gif"/>) (<img src="../images/icons/shield.gif"/>)
 - Only uses direct attacks.
 - Has an offensive AI and chases enemies within its view.
     - It does this even if it can't hit the monster, such as Pumphantasms inside walls.

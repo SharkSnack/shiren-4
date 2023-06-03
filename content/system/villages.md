@@ -259,7 +259,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
 
 <br/>
 
-- Items for sale change after clearing the main story:
+- Items for sale change after clearing the main story (new items in blue):
 
 <br/>
 
@@ -283,7 +283,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
       <td>300</td>
       <td>Green Banana</td>
       <td>50</td>
-      <td>Empathy Staff</td>
+      <td><span class="blueText">Empathy Staff</span></td>
       <td>1500+75*N</td>
     </tr>
     <tr>
@@ -291,15 +291,15 @@ There are 6 notable overworld areas in the game, and each village has its own NP
       <td>700</td>
       <td>Yellow Banana</td>
       <td>100</td>
-      <td>Transient Staff</td>
+      <td><span class="blueText">Transient Staff</span></td>
       <td>1500+75*N</td>
     </tr>
     <tr>
-      <td>Katana</td>
+      <td><span class="blueText">Katana</span></td>
       <td>1100</td>
-      <td>Ripe Banana</td>
+      <td><span class="blueText">Ripe Banana</span></td>
       <td>200</td>
-      <td>Knockback Staff</td>
+      <td><span class="blueText">Knockback Staff</span></td>
       <td>1000+50*N</td>
     </tr>
     <tr>
@@ -307,74 +307,74 @@ There are 6 notable overworld areas in the game, and each village has its own NP
       <td>360</td>
       <td>Otogiriso</td>
       <td>100</td>
-      <td>Seal Staff</td>
+      <td><span class="blueText">Seal Staff</span></td>
       <td>2000+100*N</td>
     </tr>
     <tr>
       <td>Copper Guard</td>
       <td>740</td>
-      <td>Heal Grass</td>
+      <td><span class="blueText">Heal Grass</span></td>
       <td>200</td>
-      <td>Mage Staff</td>
+      <td><span class="blueText">Mage Staff</span></td>
       <td>1000+50*N</td>
     </tr>
     <tr>
-      <td>Iron Targe</td>
+      <td><span class="blueText">Iron Targe</span></td>
       <td>1300</td>
       <td>Antidote Grass</td>
       <td>100</td>
-      <td>Lightning Staff</td>
+      <td><span class="blueText">Lightning Staff</span></td>
       <td>1000+50*N</td>
     </tr>
     <tr>
-      <td>Calm Bracelet</td>
+      <td><span class="blueText">Calm Bracelet</span></td>
       <td>3000</td>
       <td>Revival Grass</td>
       <td>1000</td>
-      <td>Seal Talisman</td>
+      <td><span class="blueText">Seal Talisman</span></td>
       <td>500*N</td>
     </tr>
     <tr>
-      <td>Alert Bracelet</td>
+      <td><span class="blueText">Alert Bracelet</span></td>
       <td>3000</td>
       <td>Undo Grass</td>
       <td>1500</td>
-      <td>Dizzy Talisman</td>
+      <td><span class="blueText">Dizzy Talisman</span></td>
       <td>500*N</td>
     </tr>
     <tr>
-      <td>Cleansing Bracelet</td>
+      <td><span class="blueText">Cleansing Bracelet</span></td>
       <td>3000</td>
       <td>Navigation Scroll</td>
       <td>100</td>
-      <td>Fear Talisman</td>
+      <td><span class="blueText">Fear Talisman</span></td>
       <td>500*N</td>
     </tr>
     <tr>
-      <td>Staunch Bracelet</td>
+      <td><span class="blueText">Staunch Bracelet</span></td>
       <td>3000</td>
       <td>Confusion Scroll</td>
       <td>1000</td>
-      <td>Bind Talisman</td>
+      <td><span class="blueText">Bind Talisman</span></td>
       <td>500*N</td>
     </tr>
     <tr>
-      <td>Strength Bracelet</td>
+      <td><span class="blueText">Strength Bracelet</span></td>
       <td>2000</td>
       <td>Slumber Scroll</td>
       <td>1000</td>
-      <td>Berserk Talisman</td>
+      <td><span class="blueText">Berserk Talisman</span></td>
       <td>500*N</td>
     </tr>
     <tr>
-      <td>Wood Arrow</td>
+      <td><span class="blueText">Wood Arrow</span></td>
       <td>10*N</td>
       <td>Air Slash Scroll</td>
       <td>1000</td>
       <td rowspan="2" colspan="4" class="highlightGray"></td>
     </tr>
     <tr>
-      <td>Rock</td>
+      <td><span class="blueText">Rock</span></td>
       <td>20*N</td>
       <td>Escape Scroll</td>
       <td>100</td>
@@ -618,19 +618,85 @@ There are 6 notable overworld areas in the game, and each village has its own NP
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Palm Stick</td>
+      <td>300</td>
+      <td>Herb</td>
+      <td>50</td>
+      <td>Navigation Scroll</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>Copper Edge</td>
+      <td>700</td>
+      <td>Otogiriso</td>
+      <td>100</td>
+      <td>Purify Scroll</td>
+      <td>500</td>
+    </tr>
+    <tr>
+      <td>Katana</td>
+      <td>1100</td>
+      <td>Antidote Grass</td>
+      <td>100</td>
+      <td>Confusion Scroll</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>Palm Shield</td>
+      <td>360</td>
+      <td>Strength Grass</td>
+      <td>500</td>
+      <td>Slumber Scroll</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>Copper Guard</td>
+      <td>740</td>
+      <td>Swift Grass</td>
+      <td>300</td>
+      <td>Air Slash Scroll</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>Iron Targe</td>
+      <td>1300</td>
+      <td>Revival Grass</td>
+      <td>1000</td>
+      <td>Escape Scroll</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>Lamp Shield</td>
+      <td>1500</td>
+      <td>Undo Grass</td>
+      <td>1500</td>
+      <td>Storage Pot</td>
+      <td>600+30*N</td>
+    </tr>
+    <tr>
+      <td>Torch</td>
+      <td>100</td>
+      <td>Green Banana</td>
+      <td>50</td>
+      <td rowspan="3" colspan="2" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>Fine Torch</td>
+      <td>200</td>
+      <td>Yellow Banana</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>Super Torch</td>
+      <td>400</td>
+      <td colspan="2" class="highlightGray"></td>
     </tr>
   </tbody>
 </table>
 
 <br/>
 
-- Items for sale change after clearing the main story:
+- Items for sale change after clearing the main story (new items in blue):
 
 <br/>
 
@@ -654,7 +720,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
     <tr>
       <td>Palm Stick</td>
       <td>300</td>
-      <td>Calm Bracelet</td>
+      <td><span class="blueText">Calm Bracelet</span></td>
       <td>3000</td>
       <td>Otogiriso</td>
       <td>100</td>
@@ -664,9 +730,9 @@ There are 6 notable overworld areas in the game, and each village has its own NP
     <tr>
       <td>Copper Edge</td>
       <td>700</td>
-      <td>Alert Bracelet</td>
+      <td><span class="blueText">Alert Bracelet</span></td>
       <td>3000</td>
-      <td>Heal Grass</td>
+      <td><span class="blueText">Heal Grass</span></td>
       <td>200</td>
       <td>Purify Scroll</td>
       <td>500</td>
@@ -674,7 +740,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
     <tr>
       <td>Katana</td>
       <td>1100</td>
-      <td>Cleansing Bracelet</td>
+      <td><span class="blueText">Cleansing Bracelet</span></td>
       <td>3000</td>
       <td>Antidote Grass</td>
       <td>100</td>
@@ -684,7 +750,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
     <tr>
       <td>Palm Shield</td>
       <td>360</td>
-      <td>Staunch Bracelet</td>
+      <td><span class="blueText">Staunch Bracelet</span></td>
       <td>3000</td>
       <td>Strength Grass</td>
       <td>500</td>
@@ -694,7 +760,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
     <tr>
       <td>Copper Guard</td>
       <td>740</td>
-      <td>Strength Bracelet</td>
+      <td><span class="blueText">Strength Bracelet</span></td>
       <td>2000</td>
       <td>Swift Grass</td>
       <td>300</td>
@@ -704,7 +770,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
     <tr>
       <td>Iron Targe</td>
       <td>1300</td>
-      <td>Wood Arrow</td>
+      <td><span class="blueText">Wood Arrow</span></td>
       <td>10*N</td>
       <td>Revival Grass</td>
       <td>1000</td>
@@ -714,7 +780,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
     <tr>
       <td>Lamp Shield</td>
       <td>1500</td>
-      <td>Rock</td>
+      <td><span class="blueText">Rock</span></td>
       <td>20*N</td>
       <td>Undo Grass</td>
       <td>1500</td>
@@ -738,7 +804,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
     <tr>
       <td>Super Torch</td>
       <td>400</td>
-      <td>Ripe Banana</td>
+      <td><span class="blueText">Ripe Banana</span></td>
       <td>200</td>
     </tr>
   </tbody>
@@ -872,19 +938,74 @@ There are 6 notable overworld areas in the game, and each village has its own NP
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Copper Edge</td>
+      <td>700</td>
+      <td>Herb</td>
+      <td>50</td>
+      <td>Navigation Scroll</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>Katana</td>
+      <td>1100</td>
+      <td>Otogiriso</td>
+      <td>100</td>
+      <td>Identify Scroll</td>
+      <td>300</td>
+    </tr>
+    <tr>
+      <td>Copper Guard</td>
+      <td>740</td>
+      <td>Antidote Grass</td>
+      <td>100</td>
+      <td>Confusion Scroll</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>Iron Targe</td>
+      <td>1300</td>
+      <td>Revival Grass</td>
+      <td>1000</td>
+      <td>Slumber Scroll</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>Fine Torch</td>
+      <td>200</td>
+      <td>Undo Grass</td>
+      <td>1500</td>
+      <td>Air Slash Scroll</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>Super Torch</td>
+      <td>400</td>
+      <td>Green Banana</td>
+      <td>50</td>
+      <td>Escape Scroll</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>Wood Arrow</td>
+      <td>10*N</td>
+      <td>Yellow Banana</td>
+      <td>100</td>
+      <td>Storage Pot</td>
+      <td>600+30*N</td>
+    </tr>
+    <tr>
+      <td>Rock</td>
+      <td>20*N</td>
+      <td colspan="2" class="highlightGray"></td>
+      <td>Synthesis Pot</td>
+      <td>6000+300*N</td>
     </tr>
   </tbody>
 </table>
 
 <br/>
 
-- Items for sale change after clearing the main story:
+- Items for sale change after clearing the main story (new items in blue):
 
 <br/>
 
@@ -912,7 +1033,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
       <td>100</td>
     </tr>
     <tr>
-      <td>Beast Fang</td>
+      <td><span class="blueText">Beast Fang</span></td>
       <td>1600</td>
       <td>Rock</td>
       <td>20*N</td>
@@ -928,7 +1049,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
       <td>1000</td>
     </tr>
     <tr>
-      <td>Clan Shield</td>
+      <td><span class="blueText">Clan Shield</span></td>
       <td>1800</td>
       <td>Yellow Banana</td>
       <td>100</td>
@@ -938,7 +1059,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
     <tr>
       <td>Fine Torch</td>
       <td>200</td>
-      <td>Ripe Banana</td>
+      <td><span class="blueText">Ripe Banana</span></td>
       <td>200</td>
       <td>Air Slash Scroll</td>
       <td>1000</td>
@@ -952,15 +1073,15 @@ There are 6 notable overworld areas in the game, and each village has its own NP
       <td>100</td>
     </tr>
     <tr>
-      <td>Calm Bracelet</td>
+      <td><span class="blueText">Calm Bracelet</span></td>
       <td>3000</td>
-      <td>Heal Grass</td>
+      <td><span class="blueText">Heal Grass</span></td>
       <td>200</td>
       <td>Storage Pot</td>
       <td>600+30*N</td>
     </tr>
     <tr>
-      <td>Alert Bracelet</td>
+      <td><span class="blueText">Alert Bracelet</span></td>
       <td>3000</td>
       <td>Antidote Grass</td>
       <td>100</td>
@@ -968,20 +1089,20 @@ There are 6 notable overworld areas in the game, and each village has its own NP
       <td>6000+300*N</td>
     </tr>
     <tr>
-      <td>Cleansing Bracelet</td>
+      <td><span class="blueText">Cleansing Bracelet</span></td>
       <td>3000</td>
       <td>Revival Grass</td>
       <td>1000</td>
       <td rowspan="3" colspan="2" class="highlightGray"></td>
     </tr>
     <tr>
-      <td>Staunch Bracelet</td>
+      <td><span class="blueText">Staunch Bracelet</span></td>
       <td>3000</td>
       <td>Undo Grass</td>
       <td>1500</td>
     </tr>
     <tr>
-      <td>Strength Bracelet</td>
+      <td><span class="blueText">Strength Bracelet</span></td>
       <td>2000</td>
       <td colspan="2" class="highlightGray"></td>
     </tr>
@@ -1160,19 +1281,105 @@ There are 6 notable overworld areas in the game, and each village has its own NP
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Katana</td>
+      <td>1100</td>
+      <td>Green Banana</td>
+      <td>50</td>
+      <td>Empathy Staff</td>
+      <td>1500+75*N</td>
+    </tr>
+    <tr>
+      <td>Beast Fang</td>
+      <td>1600</td>
+      <td>Yellow Banana</td>
+      <td>100</td>
+      <td>Transient Staff</td>
+      <td>1500+75*N</td>
+    </tr>
+    <tr>
+      <td>Iron Targe</td>
+      <td>1300</td>
+      <td>Ripe Banana</td>
+      <td>200</td>
+      <td>Knockback Staff</td>
+      <td>1000+50*N</td>
+    </tr>
+    <tr>
+      <td>Clan Shield</td>
+      <td>1800</td>
+      <td>Purify Scroll</td>
+      <td>500</td>
+      <td>Seal Staff</td>
+      <td>2000+100*N</td>
+    </tr>
+    <tr>
+      <td>Fine Torch</td>
+      <td>200</td>
+      <td>Identify Scroll</td>
+      <td>300</td>
+      <td>Mage Staff</td>
+      <td>1000+50*N</td>
+    </tr>
+    <tr>
+      <td>Super Torch</td>
+      <td>400</td>
+      <td>Confusion Scroll</td>
+      <td>1000</td>
+      <td>Lightning Staff</td>
+      <td>1000+50*N</td>
+    </tr>
+    <tr>
+      <td>Calm Bracelet</td>
+      <td>3000</td>
+      <td>Slumber Scroll</td>
+      <td>1000</td>
+      <td>Seal Talisman</td>
+      <td>500*N</td>
+    </tr>
+    <tr>
+      <td>Alert Bracelet</td>
+      <td>3000</td>
+      <td>Air Slash Scroll</td>
+      <td>1000</td>
+      <td>Dizzy Talisman</td>
+      <td>500*N</td>
+    </tr>
+    <tr>
+      <td>Cleansing Bracelet</td>
+      <td>3000</td>
+      <td>Escape Scroll</td>
+      <td>100</td>
+      <td>Fear Talisman</td>
+      <td>500*N</td>
+    </tr>
+    <tr>
+      <td>Staunch Bracelet</td>
+      <td>3000</td>
+      <td>Storage Pot</td>
+      <td>600+30*N</td>
+      <td>Bind Talisman</td>
+      <td>500*N</td>
+    </tr>
+    <tr>
+      <td>Strength Bracelet</td>
+      <td>2000</td>
+      <td>Synthesis Pot</td>
+      <td>6000+300*N</td>
+      <td>Berserk Talisman</td>
+      <td>500*N</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="highlightGray"></td>
+      <td>Heal Pot</td>
+      <td>3800+190*N</td>
+      <td colspan="2" class="highlightGray"></td>
     </tr>
   </tbody>
 </table>
 
 <br/>
 
-- Items for sale change after clearing the main story:
+- Items for sale change after clearing the main story (new items in blue):
 
 <br/>
 
@@ -1194,15 +1401,15 @@ There are 6 notable overworld areas in the game, and each village has its own NP
     <tr>
       <td>Beast Fang</td>
       <td>1600</td>
-      <td>Heal Grass</td>
+      <td><span class="blueText">Heal Grass</span></td>
       <td>200</td>
       <td>Empathy Staff</td>
       <td>1500+75*N</td>
     </tr>
     <tr>
-      <td>Dotanuki</td>
+      <td><span class="blueText">Dotanuki</span></td>
       <td>2200</td>
-      <td>Antidote Grass</td>
+      <td><span class="blueText">Antidote Grass</span></td>
       <td>100</td>
       <td>Transient Staff</td>
       <td>1500+75*N</td>
@@ -1210,15 +1417,15 @@ There are 6 notable overworld areas in the game, and each village has its own NP
     <tr>
       <td>Clan Shield</td>
       <td>1800</td>
-      <td>Revival Grass</td>
+      <td><span class="blueText">Revival Grass</span></td>
       <td>1000</td>
       <td>Knockback Staff</td>
       <td>1000+50*N</td>
     </tr>
     <tr>
-      <td>Beast Shield</td>
+      <td><span class="blueText">Beast Shield</span></td>
       <td>2400</td>
-      <td>Undo Grass</td>
+      <td><span class="blueText">Undo Grass</span></td>
       <td>1500</td>
       <td>Seal Staff</td>
       <td>2000+100*N</td>
@@ -1416,9 +1623,11 @@ There are 6 notable overworld areas in the game, and each village has its own NP
 <table class="itemDetailsTable">
   <thead>
     <tr>
-      <th colspan="6">Inn of the Wind</th>
+      <th colspan="8">Inn of the Wind</th>
     </tr>
     <tr>
+      <th class="highlightGray">Item</th>
+      <th class="highlightGray">Price</th>
       <th class="highlightGray">Item</th>
       <th class="highlightGray">Price</th>
       <th class="highlightGray">Item</th>
@@ -1429,19 +1638,110 @@ There are 6 notable overworld areas in the game, and each village has its own NP
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Beast Fang</td>
+      <td>1600</td>
+      <td>Wood Arrow</td>
+      <td>10*N</td>
+      <td>Purify Scroll</td>
+      <td>500</td>
+      <td>Empathy Staff</td>
+      <td>1500+75*N</td>
+    </tr>
+    <tr>
+      <td>Dotanuki</td>
+      <td>2200</td>
+      <td>Iron Arrow</td>
+      <td>30*N</td>
+      <td>Identify Scroll</td>
+      <td>300</td>
+      <td>Transient Staff</td>
+      <td>1500+75*N</td>
+    </tr>
+    <tr>
+      <td>Clan Shield</td>
+      <td>1800</td>
+      <td>Rock</td>
+      <td>20*N</td>
+      <td>Heaven Scroll</td>
+      <td>500</td>
+      <td>Knockback Staff</td>
+      <td>1000+50*N</td>
+    </tr>
+    <tr>
+      <td>Beast Shield</td>
+      <td>2400</td>
+      <td>Porky Rock</td>
+      <td>40*N</td>
+      <td>Earth Scroll</td>
+      <td>500</td>
+      <td>Seal Staff</td>
+      <td>2000+100*N</td>
+    </tr>
+    <tr>
+      <td>Fine Torch</td>
+      <td>200</td>
+      <td>Green Banana</td>
+      <td>50</td>
+      <td>Plating Scroll</td>
+      <td>500</td>
+      <td>Mage Staff</td>
+      <td>1000+50*N</td>
+    </tr>
+    <tr>
+      <td>Super Torch</td>
+      <td>400</td>
+      <td>Yellow Banana</td>
+      <td>100</td>
+      <td>Confusion Scroll</td>
+      <td>1000</td>
+      <td>Lightning Staff</td>
+      <td>1000+50*N</td>
+    </tr>
+    <tr>
+      <td>Calm Bracelet</td>
+      <td>3000</td>
+      <td>Ripe Banana</td>
+      <td>200</td>
+      <td>Slumber Scroll</td>
+      <td>1000</td>
+      <td>Storage Pot</td>
+      <td>600+30*N</td>
+    </tr>
+    <tr>
+      <td>Alert Bracelet</td>
+      <td>3000</td>
+      <td rowspan="4" colspan="2" class="highlightGray"></td>
+      <td>Air Slash Scroll</td>
+      <td>1000</td>
+      <td>Synthesis Pot</td>
+      <td>6000+300*N</td>
+    </tr>
+    <tr>
+      <td>Cleansing Bracelet</td>
+      <td>3000</td>
+      <td>Escape Scroll</td>
+      <td>100</td>
+      <td>Presto Pot</td>
+      <td>1000+50*N</td>
+    </tr>
+    <tr>
+      <td>Staunch Bracelet</td>
+      <td>3000</td>
+      <td rowspan="2" colspan="2" class="highlightGray"></td>
+      <td>Heal Pot</td>
+      <td>3800+190*N</td>
+    </tr>
+    <tr>
+      <td>Strength Bracelet</td>
+      <td>2000</td>
+      <td colspan="2" class="highlightGray"></td>
     </tr>
   </tbody>
 </table>
 
 <br/>
 
-- Items for sale change after clearing the main story:
+- Items for sale change after clearing the main story (new items in blue):
 
 <br/>
 
@@ -1473,7 +1773,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
       <td>1500+75*N</td>
     </tr>
     <tr>
-      <td>Meteor Edge</td>
+      <td><span class="blueText">Meteor Edge</span></td>
       <td>3000</td>
       <td>Iron Arrow</td>
       <td>30*N</td>
@@ -1485,7 +1785,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
     <tr>
       <td>Beast Shield</td>
       <td>2400</td>
-      <td>Silver Arrow</td>
+      <td><span class="blueText">Silver Arrow</span></td>
       <td>50*N</td>
       <td>Heaven Scroll</td>
       <td>500</td>
@@ -1493,7 +1793,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
       <td>1000+50*N</td>
     </tr>
     <tr>
-      <td>Meteor Guard</td>
+      <td><span class="blueText">Meteor Guard</span></td>
       <td>3200</td>
       <td>Rock</td>
       <td>20*N</td>
@@ -1515,7 +1815,7 @@ There are 6 notable overworld areas in the game, and each village has its own NP
     <tr>
       <td>Super Torch</td>
       <td>400</td>
-      <td>Bomb Rock</td>
+      <td><span class="blueText">Bomb Rock</span></td>
       <td>80*N</td>
       <td>Confusion Scroll</td>
       <td>1000</td>

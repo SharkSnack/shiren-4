@@ -549,18 +549,29 @@ Monster Detector + Transient Staff can be used to quickly locate the stairs.
 
 See [Monsters](/system/monsters) for individual monster details.
 
-Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlightUseful">Useful</span> <span class="highlightItem">Destroys Items</span> <span class="highlightOffense">High Offense</span> <span class="highlightDanger">Dangerous</span> <span class="highlightExtreme">Very Dangerous</span>
+- F = <span class="highlightFog">Dark Hallways</span>
+- S = <span class="highlightShop">Shop is possible</span>
+- E = <span class="highlightElite">Elite Shop is possible</span>
+- H = <span class="highlightMH">Monster House is possible</span>
+
+Enemy Colors: <span class="highlightFarming">Farming</span> <span class="highlightUseful">Useful</span> <span class="highlightItem">Destroys Items</span> <span class="highlightOffense">High Offense</span> <span class="highlightDanger">Dangerous</span> <span class="highlightExtreme">Very Dangerous</span>
 
 <table class="monsterTable">
   <thead>
     <tr>
       <th>F</th>
-      <th colspan="6">Day</th>
+      <th>S</th>
+      <th>E</th>
+      <th>H</th>
+      <th colspan="6">Monsters</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th>1</th>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
       <td>Mamel</td>
       <td>Seedie</td>
       <td>Chintala</td>
@@ -570,6 +581,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>2</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td>Mamel</td>
       <td>Seedie</td>
       <td>Chintala</td>
@@ -579,6 +593,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>3</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td>Banana Novice</td>
       <td>Seedie</td>
       <td>Chintala</td>
@@ -588,6 +605,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>4</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td>Banana Novice</td>
       <td class="highlightOffense">Blade Bee</td>
       <td class="highlightGray"></td>
@@ -597,6 +617,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>5</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td>Banana Novice</td>
       <td class="highlightOffense">Blade Bee</td>
       <td class="highlightOffense">Kumonigiri</td>
@@ -606,6 +629,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>6</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td class="highlightOffense">Ironhead</td>
       <td class="highlightOffense">Blade Bee</td>
       <td class="highlightOffense">Kumonigiri</td>
@@ -615,6 +641,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>7</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td class="highlightOffense">Ironhead</td>
       <td class="highlightItem">Gazer</td>
       <td class="highlightOffense">Kumonigiri</td>
@@ -624,6 +653,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th class="highlightFog">8</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td class="highlightOffense">Ironhead</td>
       <td class="highlightItem">Gazer</td>
       <td class="highlightOffense">Kumonigiri</td>
@@ -633,6 +665,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th class="highlightFog">9</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td class="highlightOffense">Ironhead</td>
       <td class="highlightItem">Gazer</td>
       <td>Explochin</td>
@@ -642,6 +677,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th class="highlightFog">10</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td class="highlightUseful">Mixer</td>
       <td class="highlightDanger">Pumphantasm</td>
       <td>Explochin</td>
@@ -651,6 +689,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th class="highlightFog">11</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td class="highlightUseful">Mixer</td>
       <td class="highlightDanger">Pumphantasm</td>
       <td>Explochin</td>
@@ -660,6 +701,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th class="highlightFog">12</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td class="highlightUseful">Mixer</td>
       <td class="highlightDanger">Pumphantasm</td>
       <td>Spin Polygon</td>
@@ -669,6 +713,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th class="highlightFog">13</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td class="highlightItem">Gyadon</td>
       <td class="highlightDanger">Pumphantasm</td>
       <td>Spin Polygon</td>
@@ -678,6 +725,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th class="highlightFog">14</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td class="highlightItem">Gyadon</td>
       <td class="highlightDanger">Pumphantasm</td>
       <td>Spin Polygon</td>
@@ -687,6 +737,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th class="highlightFog">15</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td class="highlightItem">Gyadon</td>
       <td>Dagger Bee</td>
       <td class="highlightGray"></td>
@@ -696,6 +749,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>16</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td>Beanie</td>
       <td>Dagger Bee</td>
       <td class="highlightGray"></td>
@@ -705,6 +761,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>17</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td>Beanie</td>
       <td>Dagger Bee</td>
       <td class="highlightGray"></td>
@@ -714,6 +773,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>18</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td>Beanie</td>
       <td>Dagger Bee</td>
       <td class="highlightDanger">Big Chintala</td>
@@ -723,6 +785,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>19</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td>Beanie</td>
       <td class="highlightGray"></td>
       <td class="highlightDanger">Big Chintala</td>
@@ -732,6 +797,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>20</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td class="highlightUseful">Mixermon</td>
       <td class="highlightGray"></td>
       <td class="highlightDanger">Big Chintala</td>
@@ -741,6 +809,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>21</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td class="highlightUseful">Mixermon</td>
       <td class="highlightGray"></td>
       <td class="highlightDanger">Big Chintala</td>
@@ -750,6 +821,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>22</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td class="highlightUseful">Mixermon</td>
       <td class="highlightItem">Curse Sister</td>
       <td class="highlightDanger">Big Chintala</td>
@@ -759,6 +833,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>23</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td>Glare Bird</td>
       <td class="highlightItem">Curse Sister</td>
       <td class="highlightDanger">Big Chintala</td>
@@ -768,6 +845,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th class="highlightFog">24</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td>Glare Bird</td>
       <td class="highlightItem">Curse Sister</td>
       <td class="highlightExtreme">Eligan</td>
@@ -777,6 +857,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th class="highlightFog">25</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td>Glare Bird</td>
       <td class="highlightGray"></td>
       <td class="highlightExtreme">Eligan</td>
@@ -786,6 +869,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th class="highlightFog">26</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td class="highlightDanger">Demon Scorp</td>
       <td class="highlightGray"></td>
       <td class="highlightExtreme">Eligan</td>
@@ -795,6 +881,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th class="highlightFog">27</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td class="highlightDanger">Demon Scorp</td>
       <td class="highlightGray"></td>
       <td class="highlightExtreme">Eligan</td>
@@ -804,6 +893,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th class="highlightFog">28</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td class="highlightDanger">Demon Scorp</td>
       <td class="highlightGray"></td>
       <td class="highlightExtreme">Eligan</td>
@@ -813,6 +905,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th class="highlightFog">29</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td class="highlightDanger">Demon Scorp</td>
       <td class="highlightGray"></td>
       <td class="highlightExtreme">Eligan</td>
@@ -822,6 +917,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th class="highlightFog">30</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td class="highlightDanger">Demon Scorp</td>
       <td class="highlightGray"></td>
       <td>Dance Polygon</td>
@@ -831,6 +929,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th class="highlightFog">31</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td class="highlightDanger">Dazikon</td>
       <td class="highlightGray"></td>
       <td>Dance Polygon</td>
@@ -840,6 +941,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>32</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td class="highlightDanger">Dazikon</td>
       <td class="highlightGray"></td>
       <td>Dance Polygon</td>
@@ -849,6 +953,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>33</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td class="highlightDanger">Dazikon</td>
       <td class="highlightOffense">Voltdon</td>
       <td>Concusschin</td>
@@ -858,6 +965,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>34</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td class="highlightDanger">Pumphantom</td>
       <td class="highlightOffense">Voltdon</td>
       <td>Concusschin</td>
@@ -867,6 +977,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>35</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td class="highlightDanger">Pumphantom</td>
       <td class="highlightOffense">Voltdon</td>
       <td>Concusschin</td>
@@ -876,6 +989,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>36</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td class="highlightDanger">Pumphantom</td>
       <td class="highlightGray"></td>
       <td>Concusschin</td>
@@ -885,6 +1001,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>37</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td class="highlightDanger">Pumphantom</td>
       <td class="highlightGray"></td>
       <td>Concusschin</td>
@@ -894,6 +1013,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>38</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td class="highlightDanger">Pumphantom</td>
       <td>Tiger Hurler</td>
       <td class="highlightGray"></td>
@@ -903,6 +1025,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>39</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td class="highlightDanger">Pumphantom</td>
       <td>Tiger Hurler</td>
       <td class="highlightGray"></td>
@@ -912,6 +1037,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th class="highlightFog">40</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td class="highlightUseful">Poofy</td>
       <td>Tiger Hurler</td>
       <td class="highlightExtreme">Nuttie</td>
@@ -921,6 +1049,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th class="highlightFog">41</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td class="highlightUseful">Poofy</td>
       <td class="highlightItem">Ooze</td>
       <td class="highlightExtreme">Nuttie</td>
@@ -930,6 +1061,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th class="highlightFog">42</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td class="highlightUseful">Poofy</td>
       <td class="highlightItem">Ooze</td>
       <td class="highlightExtreme">Nuttie</td>
@@ -939,6 +1073,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th class="highlightFog">43</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td class="highlightUseful">Poofy</td>
       <td class="highlightItem">Ooze</td>
       <td class="highlightExtreme">Nuttie</td>
@@ -948,6 +1085,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th class="highlightFog">44</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td class="highlightUseful">Poofy</td>
       <td class="highlightItem">Ooze</td>
       <td class="highlightExtreme">Nuttie</td>
@@ -957,6 +1097,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>45</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td>Flamepuff</td>
       <td class="highlightDanger">Sr. Yanpii</td>
       <td>Hipadile</td>
@@ -966,6 +1109,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>46</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td>Flamepuff</td>
       <td class="highlightDanger">Sr. Yanpii</td>
       <td>Hipadile</td>
@@ -975,6 +1121,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>47</th>
+      <td class="highlightShop"></td>
+      <td class="highlightElite"></td>
+      <td class="highlightMH"></td>
       <td>Flamepuff</td>
       <td class="highlightDanger">Sr. Yanpii</td>
       <td>Hipadile</td>
@@ -984,6 +1133,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>48</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td>Flamepuff</td>
       <td class="highlightDanger">Sr. Yanpii</td>
       <td>Hipadile</td>
@@ -993,6 +1145,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>49</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td>Flamepuff</td>
       <td class="highlightDanger">Sr. Yanpii</td>
       <td>Hipadile</td>
@@ -1002,6 +1157,9 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     </tr>
     <tr>
       <th>50</th>
+      <td class="highlightShop"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightMH"></td>
       <td>Flamepuff</td>
       <td class="highlightDanger">Sr. Yanpii</td>
       <td>Hipadile</td>
@@ -1054,8 +1212,8 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td class="leftText">Palm Stick</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Pierce Bracelet</td>
     <td></td>
@@ -1064,44 +1222,44 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td class="leftText">Navigation Scroll</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Copper Edge</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Heal Bracelet</td>
     <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Purify Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Katana</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Calm Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Identify Scroll</td>
     <td></td>
@@ -1112,82 +1270,82 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   </tr>
   <tr>
     <td class="leftText">Beast Fang</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Holy Bracelet</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Heaven Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Dotanuki</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Alert Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Earth Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Meteor Edge</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Cleansing Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Plating Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Red Blade</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Staunch Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Confusion Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -1196,18 +1354,18 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Strength Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Slumber Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -1224,39 +1382,39 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td class="leftText">Air Slash Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Rusty Pick</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Strider Bracelet</td>
     <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Eradicate Scroll</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Breeze Blade</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Wall Clip Bracelet</td>
     <td></td>
     <td></td>
@@ -1264,19 +1422,19 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td class="leftText">Fear Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Hatchet</td>
     <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Alleyway Bracelet</td>
     <td></td>
     <td></td>
@@ -1296,7 +1454,7 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Identify Bracelet</td>
     <td></td>
     <td></td>
@@ -1304,28 +1462,28 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td class="leftText">Fixer Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Bright Blade</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Bind Bracelet</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Pot God Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1333,7 +1491,7 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   <tr>
     <td class="leftText">Old Mallet</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1365,16 +1523,16 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td class="leftText">Sanctuary Scroll</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Dull Gold Edge</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Trapper Bracelet</td>
@@ -1392,10 +1550,10 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   </tr>
   <tr>
     <td class="leftText">Burning Blade</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Trap Bracelet</td>
     <td></td>
@@ -1412,10 +1570,10 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   </tr>
   <tr>
     <td class="leftText">Baffle Axe</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Warp Bracelet</td>
     <td></td>
@@ -1432,10 +1590,10 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   </tr>
   <tr>
     <td class="leftText">Shockuto</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Explosion Bracelet</td>
     <td></td>
@@ -1452,10 +1610,10 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   </tr>
   <tr>
     <td class="leftText">Sealing Keisaku</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Regret Bracelet</td>
     <td></td>
@@ -1472,10 +1630,10 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   </tr>
   <tr>
     <td class="leftText">Nap Rattle</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Monster Summoner</td>
     <td></td>
@@ -1492,17 +1650,17 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   </tr>
   <tr>
     <td class="leftText">Blurry Stick</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Monster Detector</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Mon House Scroll</td>
     <td></td>
     <td></td>
@@ -1513,16 +1671,16 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   <tr>
     <td class="leftText">Crescent Katana</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Item Detector</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Trap Scroll</td>
     <td></td>
     <td></td>
@@ -1533,7 +1691,7 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   <tr>
     <td class="leftText">Water Cutter</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1548,7 +1706,7 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   <tr>
     <td class="leftText">Sky Splitter</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1559,16 +1717,16 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <th>Z</th>
     <th>E</th>
     <td class="leftText">Desert Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Myopic Masher</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1583,20 +1741,20 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Drain Slicer</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Herb</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Attraction Scroll</td>
     <td></td>
@@ -1608,28 +1766,28 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   <tr>
     <td class="leftText">Lizard Lasher</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Otogiriso</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Suction Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <th colspan="6" class="highlightGreen">Shield</th>
     <td class="leftText">Heal Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1649,7 +1807,7 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <th>E</th>
     <td class="leftText">Life Grass</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1664,8 +1822,8 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td class="leftText">Palm Shield</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Expand Seed</td>
     <td></td>
@@ -1684,8 +1842,8 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td class="leftText">Copper Guard</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Shrink Seed</td>
     <td></td>
@@ -1694,8 +1852,8 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td class="leftText">Invitation</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1704,8 +1862,8 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td class="leftText">Iron Targe</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Happy Grass</td>
     <td></td>
@@ -1722,10 +1880,10 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   </tr>
   <tr>
     <td class="leftText">Clan Shield</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Angel Seed</td>
     <td></td>
@@ -1737,10 +1895,10 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   </tr>
   <tr>
     <td class="leftText">Beast Shield</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Unlucky Seed</td>
     <td></td>
@@ -1757,10 +1915,10 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   </tr>
   <tr>
     <td class="leftText">Meteor Guard</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Disaster Seed</td>
     <td></td>
@@ -1769,30 +1927,30 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td class="leftText">Storage Pot</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Red Shield</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Antidote Grass</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Synthesis Pot</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -1801,12 +1959,12 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Strength Grass</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Identify Pot</td>
     <td></td>
@@ -1817,36 +1975,36 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   </tr>
   <tr>
     <td class="leftText">Diet Shield</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Poison Grass</td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Upgrade Pot</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Heavy Shield</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Swift Grass</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Degrade Pot</td>
     <td></td>
@@ -1857,16 +2015,16 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   </tr>
   <tr>
     <td class="leftText">Lizard Shield</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Dizzy Grass</td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Purify Pot</td>
     <td></td>
@@ -1877,10 +2035,10 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   </tr>
   <tr>
     <td class="leftText">Counter Shield</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Sleep Grass</td>
     <td></td>
@@ -1897,10 +2055,10 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   </tr>
   <tr>
     <td class="leftText">Spry Shield</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Rage Grass</td>
     <td></td>
@@ -1909,8 +2067,8 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td class="leftText">Blessing Pot</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1921,7 +2079,7 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Amnesia Grass</td>
     <td></td>
     <td></td>
@@ -1937,16 +2095,16 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   </tr>
   <tr>
     <td class="leftText">Blast Shield</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Warp Grass</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Black Hole Pot</td>
     <td></td>
@@ -1957,51 +2115,51 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   </tr>
   <tr>
     <td class="leftText">Dull Gold Shield</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Sight Grass</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Sale Pot</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Steady Shield</td>
     <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Dragon Grass</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Presto Pot</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Gazer Guard</td>
     <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Power Up Grass</td>
     <td></td>
     <td></td>
@@ -2009,22 +2167,22 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td class="leftText">Hide Pot</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Swap Shield</td>
     <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Invincible Grass</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2044,7 +2202,7 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td class="leftText">Revival Grass</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2058,10 +2216,10 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   <tr>
     <td class="leftText">Bowl Shield</td>
     <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Imabikiso</td>
     <td></td>
     <td></td>
@@ -2083,11 +2241,11 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td class="leftText">Growth Seed</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Ordinary Pot</td>
     <td></td>
     <td></td>
@@ -2109,18 +2267,18 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td class="leftText">Heal Pot</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Gyadon Blocker</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Undo Grass</td>
     <td></td>
@@ -2129,10 +2287,10 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td class="leftText">Zalokleft Pot</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -2190,19 +2348,19 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Transient Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Chocolate Pot</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -2210,13 +2368,13 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Paralysis Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Calling Pot</td>
     <td></td>
@@ -2233,10 +2391,10 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td class="leftText">Swap Staff</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <th colspan="6" class="highlightGreen">Talisman</th>
   </tr>
@@ -2248,10 +2406,10 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td class="leftText">Knockback Staff</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <th>Name</th>
     <th>F</th>
@@ -2268,16 +2426,16 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td class="leftText">Seal Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Sleep Talisman</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -2288,16 +2446,16 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td class="leftText">Decoy Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Seal Talisman</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -2308,16 +2466,16 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td class="leftText">Balance Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Dizzy Talisman</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -2334,10 +2492,10 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td class="leftText">Miss Talisman</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -2348,24 +2506,24 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td class="leftText">Pinning Staff</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Fear Talisman</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Rock</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Swift Staff</td>
     <td></td>
@@ -2374,24 +2532,24 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td class="leftText">Bind Talisman</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Porky Rock</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Slow Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Swift Talisman</td>
     <td></td>
@@ -2463,10 +2621,10 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td class="leftText">Mage Staff</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td class="leftText">Fury Talisman</td>
     <td></td>
@@ -2498,10 +2656,10 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td class="leftText">Lightning Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <th>Name</th>
     <th>F</th>
@@ -2512,7 +2670,7 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   </tr>
   <tr>
     <td class="leftText">Gitan</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2524,26 +2682,26 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td class="leftText">Green Banana</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td rowspan="4" colspan="6" class="highlightGray"></td>
     <td rowspan="4" colspan="6" class="highlightGray"></td>
     <td class="leftText">Yellow Banana</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Ripe Banana</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2551,10 +2709,10 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
   <tr>
     <td class="leftText">Grilled Banana</td>
     <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Chocolate Banana</td>
@@ -2562,12 +2720,65 @@ Floor Colors: <span class="highlightFog">Dark Hallways</span><br/>Enemy Colors: 
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
 </table>
 
-※ Item Table is incomplete. If you find a drop that isn't listed, please add it to the table.
+※ Source: Shiren 4 Official Complete Guide.
 
 # Traps
 
-[Trap Table]
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Trap</th>
+      <th>Floors</th>
+      <th>Trap</th>
+      <th>Floors</th>
+      <th>Trap</th>
+      <th>Floors</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Spin</td>
+      <td>1-50</td>
+      <td>Trip</td>
+      <td>1-50</td>
+      <td>Landmine</td>
+      <td>1-50</td>
+    </tr>
+    <tr>
+      <td>Bind</td>
+      <td>1-50</td>
+      <td>Summon</td>
+      <td>1-50</td>
+      <td>Blind</td>
+      <td>1-50</td>
+    </tr>
+    <tr>
+      <td>Wood Arrow</td>
+      <td>1-50</td>
+      <td>Strip</td>
+      <td>1-50</td>
+      <td>Pit</td>
+      <td>5-50</td>
+    </tr>
+    <tr>
+      <td>Hunger</td>
+      <td>1-50</td>
+      <td>Poison Arrow</td>
+      <td>1-50</td>
+      <td>Curse</td>
+      <td>5-50</td>
+    </tr>
+    <tr>
+      <td>Hide Gauge</td>
+      <td>1-50</td>
+      <td>Slow</td>
+      <td>1-50</td>
+      <td>Spoil</td>
+      <td>5-50</td>
+    </tr>
+  </tbody>
+</table>

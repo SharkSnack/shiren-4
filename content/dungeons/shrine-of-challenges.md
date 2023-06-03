@@ -133,107 +133,117 @@ There are a total of 36 topics.
 <table class="dungeonTable">
   <thead>
     <tr>
-      <th>Weapon</th>
-      <th>Shield</th>
-      <th>Bracelet / Food</th>
-      <th>Grass</th>
-      <th>Scroll</th>
-      <th>Staff / Pot</th>
+      <th colspan="4">Possible Reward Items</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Palm Stick</td>
-      <td>Palm Shield</td>
-      <td>Cleansing Bracelet</td>
-      <td>Herb</td>
-      <td>Navigation Scroll</td>
-      <td>Paralysis Staff</td>
+      <td>Gyadon Blocker</td>
+      <td>Warp Grass</td>
+      <td>Medicine Scroll</td>
+    </tr>
+    <tr>
+      <td>Dull Gold Edge</td>
+      <td>Clan Shield</td>
+      <td>Sight Grass</td>
+      <td>Escape Scroll</td>
     </tr>
     <tr>
       <td>Copper Edge</td>
-      <td>Copper Guard</td>
-      <td>Calm Bracelet</td>
-      <td>Otogiriso</td>
-      <td>Air Slash Scroll</td>
+      <td>Beast Shield</td>
+      <td>Dragon Grass</td>
+      <td>Storage Pot</td>
+    </tr>
+    <tr>
+      <td>Hatchet</td>
+      <td>Heavy Shield</td>
+      <td>Power Up Grass</td>
+      <td>Empathy Staff</td>
+    </tr>
+    <tr>
+      <td>Myopic Masher</td>
+      <td>Pierce Bracelet</td>
+      <td>Revival Grass</td>
       <td>Transient Staff</td>
     </tr>
     <tr>
       <td>Katana</td>
-      <td>Iron Targe</td>
-      <td>Alert Bracelet</td>
-      <td>Dragon Grass</td>
-      <td>Confusion Scroll</td>
-      <td>Pinning Staff</td>
-    </tr>
-    <tr>
-      <td>Beast Fang</td>
-      <td>Clan Shield</td>
-      <td>Strength Bracelet</td>
-      <td>Swift Grass</td>
-      <td>Heaven Scroll</td>
-      <td>Swap Staff</td>
-    </tr>
-    <tr>
-      <td>Dotanuki</td>
-      <td>Beast Shield</td>
-      <td>Pierce Bracelet</td>
-      <td>Antidote Grass</td>
-      <td>Earth Scroll</td>
-      <td>Lightning Staff</td>
-    </tr>
-    <tr>
-      <td>Lizard Lasher</td>
-      <td>Diet Shield</td>
-      <td>Happy Bracelet</td>
+      <td>Heal Bracelet</td>
       <td>Growth Seed</td>
-      <td>Plating Scroll</td>
-      <td>Knockback Staff</td>
+      <td>Paralysis Staff</td>
     </tr>
     <tr>
       <td>Drain Slicer</td>
-      <td>Lock Shield</td>
-      <td>Green Banana</td>
-      <td>Power Up Grass</td>
-      <td>Fear Scroll</td>
-      <td>Mage Staff</td>
+      <td>Calm Bracelet</td>
+      <td>Undo Grass</td>
+      <td>Swap Staff</td>
     </tr>
     <tr>
-      <td>Myopic Masher</td>
-      <td>Safe Shield</td>
-      <td>Yellow Banana</td>
-      <td>Expand Seed</td>
-      <td>Identify Scroll</td>
-      <td>Slow Staff</td>
+      <td>Beast Fang</td>
+      <td>Alert Bracelet</td>
+      <td>Navigation Scroll</td>
+      <td>Knockback Staff</td>
     </tr>
     <tr>
-      <td>Dull Gold Edge</td>
-      <td>Dull Gold Shield</td>
-      <td rowspan="4" class="highlightGray"></td>
-      <td>Warp Grass</td>
+      <td>Dotanuki</td>
+      <td>Cleansing Bracelet</td>
       <td>Purify Scroll</td>
-      <td>Empathy Staff</td>
-    </tr>
-    <tr>
-      <td rowspan="3" class="highlightGray"></td>
-      <td>Counter Shield</td>
-      <td>Revival Grass</td>
-      <td>Slumber Scroll</td>
       <td>Seal Staff</td>
     </tr>
     <tr>
-      <td>Heavy Shield</td>
-      <td>Undo Grass</td>
-      <td>Medicine Scroll</td>
-      <td>Storage Pot</td>
+      <td>Lizard Lasher</td>
+      <td>Staunch Bracelet</td>
+      <td>Identify Scroll</td>
+      <td>Pinning Staff</td>
     </tr>
     <tr>
-      <td class="highlightGray"></td>
-      <td>Sight Grass</td>
+      <td>Palm Shield</td>
+      <td>Strength Bracelet</td>
+      <td>Heaven Scroll</td>
+      <td>Slow Staff</td>
+    </tr>
+    <tr>
+      <td>Diet Shield</td>
+      <td>Happy Bracelet</td>
+      <td>Earth Scroll</td>
+      <td>Mage Staff</td>
+    </tr>
+    <tr>
+      <td>Dull Gold Shield</td>
+      <td>Herb</td>
+      <td>Plating Scroll</td>
+      <td>Lightning Staff</td>
+    </tr>
+    <tr>
+      <td>Counter Shield</td>
+      <td>Otogiriso</td>
+      <td>Confusion Scroll</td>
+      <td>Green Banana</td>
+    </tr>
+    <tr>
+      <td>Copper Guard</td>
+      <td>Expand Seed</td>
+      <td>Slumber Scroll</td>
+      <td>Yellow Banana</td>
+    </tr>
+    <tr>
+      <td>Iron Targe</td>
+      <td>Antidote Grass</td>
+      <td>Air Slash Scroll</td>
+      <td rowspan="3" class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td>Safe Shield</td>
+      <td>Strength Grass</td>
+      <td>Fear Scroll</td>
+    </tr>
+    <tr>
+      <td>Lock Shield</td>
+      <td>Swift Grass</td>
       <td>Fixer Scroll</td>
-      <td class="highlightGray"></td>
     </tr>
   </tbody>
 </table>
 
-※ Reward Table is incomplete. If you receive an item that isn't listed, please add it to the table.
+※ Source: Shiren 4 Official Complete Guide.

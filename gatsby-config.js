@@ -28,6 +28,7 @@ const plugins = [
           options: {
             maxWidth: 1035,
             quality: 100,
+            loading: 'eager',
           }
         },
         {

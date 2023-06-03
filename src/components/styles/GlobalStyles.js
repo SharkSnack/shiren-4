@@ -29,7 +29,7 @@ export const baseStyles = css`
       'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 
     font-size: 16px;
-    scroll-behavior: smooth;
+    /* scroll-behavior: smooth; */
   }
 
   a {
@@ -687,6 +687,15 @@ export const baseStyles = css`
   .dungeonTable td {
     padding: 4px 8px;
   }
+  .allyTable th {
+    text-align: center;
+    font-weight: normal;
+    padding: 3px 6px;
+  }
+  .allyTable td {
+    text-align: center;
+    padding: 3px 6px;
+  }
   .dungeonItemTable th {
     font-weight: normal;
     background-color: #ececec;
@@ -1177,6 +1186,15 @@ export const baseStyles = css`
   }
   .highlightShop {
     background-color: #fffac5 !important;
+  }
+  .highlightElite {
+    background-color: #d5ffbc !important;
+  }
+  .highlightChoice {
+    background-color: #ffdbc5 !important;
+  }
+  .highlightMH {
+    background-color: #f4dfff !important;
   }
   .highlightFog {
     background-color: #dfdfdf !important;
