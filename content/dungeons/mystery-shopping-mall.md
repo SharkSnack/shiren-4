@@ -127,7 +127,7 @@ After the first 3 floors, shops are only guaranteed on 10F, 20F, 30F, and 40F.<b
 - 2000G bracelets are either <span class="blueText">Strength</span> or <span class="blueText">Pierce</span>.
 - 1600\~2000G pots are either <span class="blueText">Blessing</span> or <span class="blueText">Curse</span>.
 - 2000G grasses are always <span class="blueText">Invincible</span>.
-- Elite shops never had negative effect items.
+- Elite shops never have negative effect items.
     - Negative effect items include Monster Pot, Curse Pot, Lost Scroll, etc.
 - Elite shop exclusive items include:
     - Revival Grass

@@ -921,7 +921,6 @@ export const baseStyles = css`
   .locationTable td {
     text-align: center;
   }
-
   .currentLocation {
     background-color: #e2fdf3;
   }
