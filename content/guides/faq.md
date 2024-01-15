@@ -9,7 +9,7 @@ This page provides answers to frequently asked questions.
 <ul class="quickLinksUL">
   <li><a href="#english-patch">English Patch</a>
     <ul>
-      <li><a href="#patching-the-game">Patching the game</a></li>
+      <li><a href="#patch-details">Patch Details</a></li>
       <li><a href="#providing-feedback">Providing feedback</a></li>
       <li><a href="#does-this-game-run-on-x-device?">Does this game run on X device?</a></li>
     </ul>
@@ -61,21 +61,46 @@ This page provides answers to frequently asked questions.
 
 ## English Patch
 
-### Patching the game
+### Patch Details
 
-The English Patch created by SharkSnack, Arc Impulse, and DhrGR has not been released yet.<br/>
-We're aiming for a 2022 release, but there are some unknowns which make it hard to give an exact ETA.
+Download: [Release Page (Click on Shiren_4_Plus_English_Patch.zip)](https://github.com/SharkSnack/shiren-4/releases)<br/>Patching: Either use the included drag-and-drop script, or use an [online patcher](https://www.romhacking.net/patch/).
+
+<table>
+  <tr>
+    <th>Language</th>
+    <td>English</td>
+  </tr>
+  <tr>
+    <th>Platform</th>
+    <td>PSP</td>
+  </tr>
+  <tr>
+    <th>Release Date</th>
+    <td>January 14th, 2024</td>
+  </tr>
+  <tr>
+    <th>Notes</th>
+    <td>1. Ad hoc and internet related sections of the game are untested.<br/>　- Basically Twitter Link, Item Trade, and Wanderer Rescue (ad hoc).</td>
+  </tr>
+  <tr>
+    <th>Credits</th>
+    <td>SharkSnack - Translation - Full Game Translation<br/>Arc Impulse - Hacking - Full Game Hacking<br/>Kotcrab - Hacking - Hardware Fixes, Staff Credits, Patcher<br/>DhrGR - Hacking - Initial Text Extraction / Insertion<br/>Akawshi - Translation - Staff Credits<br/>Ozidual - Translation - Editing<br/>Keii - Other - Instructions Manual Cleanup</td>
+  </tr>
+</table>
 
 ### Providing feedback
 
-Join the [Shiren the Wanderer](https://discord.gg/5y7UDFc) Discord server and post in #shiren-4-english (under Patches/Hacks).
+Join the [Shiren the Wanderer](https://discord.gg/5y7UDFc) Discord server and post in #shiren-4-english (under Patches/Projects).
 
 Save state usage can cause issues including corrupt and unusable save data,<br/>so don't bother reporting errors if you use save states.
 
 ### Does this game run on X device?
 
-The patch currently does not run on original hardware.<br/>
-However, it should run on anything that can run PPSSPP.
+The patch was tested on a PSP-1001, and others haven't reported issues so far on PS Vita.<br/>If you do encounter an issue (game freezes, etc.), please feel free to report it in the Discord server.
+
+#### Fix for Glitchy Sprites (PPSSPP)
+
+Some players have reported that newer versions of PPSSPP have glitchy sprites.<br/>The fix is apparently: Change to software rendering, then change screen scaling filter to Nearest.<br/>(If that doesn't solve it, you could try to find PPSSPP version 1.13.1)
 
 ## Version Differences
 
